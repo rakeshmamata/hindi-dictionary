@@ -1,7 +1,10 @@
 -- import: rakeshmamata.github.io/hindi-dictionary/lib
 
 
-
+-- ftd.column:
+width: fill
+padding: 20
+spacing: 20
 
 
 -- lib.word: what

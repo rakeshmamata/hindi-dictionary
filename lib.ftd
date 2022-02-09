@@ -5,11 +5,15 @@ string meaning:
 optional string indian:
 optional body about:
 width: fill
-border-radius: 1
-padding: 10
+border-radius: 10
+border-width: 4
+padding-horizontal: 20
+padding-vertical: 10
 
 --- ftd.text: $word
 size: 42
+width: fill
+padding-bottom: 10
 
 --- ftd.row:
 spacing: 10
@@ -48,5 +52,6 @@ style: bold
 
 --- ftd.text:
 if: $about is not null
+padding-top: 10
 
 $about
