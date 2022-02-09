@@ -1,0 +1,4 @@
+-- import: fpm
+
+-- fpm.package: rakeshmamata.github.io/hindi-dictionary
+zip: github.com/rakeshmamata/hindi-dictionary/archive/refs/heads/main.zip
