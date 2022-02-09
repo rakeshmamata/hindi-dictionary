@@ -1,0 +1,52 @@
+-- ftd.column word:
+caption word:
+string american:
+string meaning:
+optional string indian:
+optional body about:
+width: fill
+border-radius: 1
+padding: 10
+
+--- ftd.text: $word
+size: 42
+
+--- ftd.row:
+spacing: 10
+border-radius: 1
+
+--- ftd.text: American Pronunciation
+style: bold
+--- ftd.text: $american
+
+--- container: ftd.main
+
+--- ftd.row:
+if: $indian is not null
+spacing: 10
+border-radius: 1
+
+--- ftd.text: Indian Pronunciation
+style: bold
+
+--- ftd.text: $indian
+if: $indian is not null
+
+
+--- container: ftd.main
+
+--- ftd.row:
+spacing: 10
+border-radius: 1
+
+--- ftd.text: Meaning
+style: bold
+
+--- ftd.text: $meaning
+
+--- container: ftd.main
+
+--- ftd.text:
+if: $about is not null
+
+$about
