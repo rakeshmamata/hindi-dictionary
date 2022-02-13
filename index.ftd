@@ -1,23 +1,6101 @@
--- import: rakeshmamata.github.io/hindi-dictionary/lib
-
-
 -- lib.preface:
+
+
+-- lib.word: you
+american: यू
+arpabet: Y UW1
+meaning: तुम
+
+अपने से बड़ों के लिए आप और छोटे के लिए तुम के लिए
+
+
+-- lib.word: I
+american: आय
+arpabet: AY1
+indian: आइ
+meaning: मैं
+
+अपने  लिए
+
+
+-- lib.word: to
+american: टू
+arpabet: T UW1
+meaning: प्रति,से,तक,के लिए आदि
+
+टू का प्रयोग संज्ञा,किया विशेषण,पूर्व सग के रूप में किया जाता है
+
+
+-- lib.word: the
+american: दै
+arpabet: DH AH0
+indian: द
+meaning: यह,यही,वह,वही
+
+
+-- lib.word: and
+american: ऐन्ड
+arpabet: AH0 N D
+meaning: और
+
+ऐंड का प्रयोग और,एवं इत्यादि के लिए किया जाता है
+
+
+-- lib.word: that
+american: दैट
+arpabet: DH AE1 T
+meaning: वह
+
+यह कि,ताकि.वह,जो,उस,उसको इत्यादि के रूप में प्रयोग किया जाता है
+
+
+-- lib.word: it
+american: इट
+arpabet: IH1 T
+meaning: यह ,यही
+
+इट का प्रयोग सव नाम के रूप में कई विकल्प होने पर किसी एक को इंगित करने के लिए होता है
+
+
+-- lib.word: of
+american: आव
+arpabet: AH1 V
+indian: आफ्
+meaning: का
+
+आफ का प्रयोग किसी वस्तु या इंसान का किसी से संबंध इंगित करने
+
+
+-- lib.word: me
+american: मी
+arpabet: M IY1
+meaning: मैं
+
+मैं का प्रयोग अपने लिए किया जाता है
 
 
 -- lib.word: what
 american: वाट
-indian: व्हाट
+arpabet: W AH1 T
+indian: व्ह्आट व्हाट
 meaning: क्या
 
-वहाट का प्रयोग प्रश्न वाचक क्या के रूप में किया जाता है
+वहाट? का प्रयोग प्रश्न वाचक क्या के रूप में किया जाता है
 
 
--- lib.word: mess
-american:  मेस
-meaning: भोजनालय, गडबड़, झंझट
+-- lib.word: is
+american: इस
+arpabet: IH1 Z
+meaning: है
+
+है का प्रयोग वाक्य के अंत में या प्रश्न करने के लिये किया जाता है
+
+
+-- lib.word: in
+american: इन
+arpabet: IH0 N
+meaning: अन्दर
+
+
+-- lib.word: this
+american: दिस
+arpabet: DH IH1 S
+meaning: यह
+
+
+-- lib.word: know
+american: नो
+arpabet: N OW1
+meaning: जानकारी
+
+
+-- lib.word: I'm
+american: आय्म
+arpabet: AY1 M
+indian: आइ ऐम
+meaning: मैं हूँ
+
+
+-- lib.word: for
+american: फॉर
+arpabet: F AO1 R
+meaning: संबंध में
+
+
+-- lib.word: no
+american: नो
+arpabet: N OW1
+meaning: नहीं
+
+इनकार
+
+
+-- lib.word: have
+american: हैव
+arpabet: HH AE1 V
+meaning: पास(नज़दीक) होना, रखना, सहन करना,
+
+
+-- lib.word: my
+american: माय
+arpabet: M AY1
+indian: माई
+meaning: मेरा
+
+
+-- lib.word: don't
+american: डोन्ट
+arpabet: D OW1 N T
+meaning: नहीं
+
+
+-- lib.word: just
+american: जास्ट
+arpabet: JH AH1 S T
+indian: जस्ट
+meaning: अभी -अभी
+
+
+-- lib.word: do
+american: डू
+arpabet: D UW1
+meaning: करना
+
+
+-- lib.word: be
+american: बी
+arpabet: B IY1
+meaning: होना
+
+
+-- lib.word: on
+american: ऑन
+arpabet: AA1 N
+meaning: पर
+
+
+-- lib.word: your
+american: यॉर
+arpabet: Y AO1 R
+indian: येार
+meaning: तुम्हारा
+
+
+-- lib.word: was
+american: वॉस
+arpabet: W AA1 Z
+indian: वाज़
+meaning: था
+
+
+-- lib.word: we
+american: वी
+arpabet: W IY1
+indian: वी
+meaning: हम
+
+
+-- lib.word: it's
+american: इट्स
+arpabet: IH1 T S
+meaning: इसका
+
+इट्स का प्रयोग निर्जीव वस्तुओं के लिए किया जाता है
+
+
+-- lib.word: with
+american: विद
+arpabet: W IH1 DH
+indian: विद
+meaning: साथ
+
+
+-- lib.word: so
+american: सो
+arpabet: S OW1
+meaning: इसलिये
+
+
+-- lib.word: but
+american: बाट
+arpabet: B AH1 T
+indian: बट
+meaning: लेकिन
+
+
+-- lib.word: all
+american: ऑल
+arpabet: AO1 L
+meaning: सब
+
+
+-- lib.word: well
+american: वेल
+arpabet: W EH1 L
+meaning: अच्छी तरह से
+
+
+-- lib.word: are
+american: ऑर
+arpabet: AA1 R
+meaning: हैं
+
+
+-- lib.word: he
+american: ही
+arpabet: HH IY1
+meaning: वह (पुलिंग के लिए
+
+
+-- lib.word: oh
+american: ओ
+arpabet: OW1
+indian: ओह
+meaning: दुख,कष्ट आदि
+
+
+-- lib.word: about
+american: ऐबाव्ट
+arpabet: AH0 B AW1 T
+indian: एबाउट
+meaning: किसी के बारे में या किसी के सम्बन्ध में
+
+
+-- lib.word: right
+american: राय्ट
+arpabet: R AY1 T
+indian: राइट
+meaning: अधिकार,दाहिने,सही
+
+
+-- lib.word: you're
+american: यूर
+arpabet: Y UH1 R
+indian: यु आर
+meaning: आप,तुम
+
+
+-- lib.word: get
+american: गेट
+arpabet: G EH1 T
+meaning: जाना ,पाना , होना आदि
+
+
+-- lib.word: here
+american: हीर
+arpabet: HH IY1 R
+indian: हियर
+meaning: यहाँ ,इधर ,इस सस्थान पर
+
+
+-- lib.word: out
+american: आव्ट
+arpabet: AW1 T
+indian: आव्ट या आउट
+meaning: बाहर
+
+
+-- lib.word: going
+american: गोइंग
+arpabet: G OW1 IH0 NG
+meaning: होने वालाा , जाना , गमन ,प्रस्थान
+
+
+-- lib.word: like
+american: लाय्क
+arpabet: L AY1 K
+indian: लाइक
+meaning: पसन्द करना , जैसा ,के समान, सदृश
+
+
+-- lib.word: yeah
+american: यै
+arpabet: Y AE1
+meaning: हाँ
+
+
+-- lib.word: if
+american: इफ
+arpabet: IH1 F
+meaning: यदि , अगर
+
+
+-- lib.word: her
+american: हर
+arpabet: HH ER0
+meaning: उसका (स्त्री लिंग)
+
+
+-- lib.word: she
+american: शी
+arpabet: SH IY1
+meaning: वह ( स्त्री लिंग  के लिए)
+
+
+-- lib.word: can
+american: कैन
+arpabet: K AE1 N
+meaning: समर्थ होना , सकना
+
+
+-- lib.word: up
+american: आप
+arpabet: AH1 P
+indian: अप
+meaning: उपसर्ग के रूप में प्रयोग होने पर अलग-अलग अर्थ होता है
+
+
+-- lib.word: want
+american: वॉन्ट
+arpabet: W AA1 N T
+meaning: चाहते हैं
+
+
+-- lib.word: think
+american: थिंग्क
+arpabet: TH IH1 NG K
+meaning: सोचना ,समझना ,विचार करना
+
+
+-- lib.word: that's
+american: दैट्स
+arpabet: DH AE1 T S
+meaning: वह है
+
+
+-- lib.word: now
+american: नाव
+arpabet: N AW1
+meaning: अभी , अब ,इस समय
+
+
+-- lib.word: go
+american: गो
+arpabet: G OW1
+meaning: जाना  , चलना ,होना
+
+
+-- lib.word: him
+american: हिम
+arpabet: HH IH1 M
+meaning: उसे ,उस को ,इसे
+
+
+-- lib.word: at
+american: ऐट
+arpabet: AE1 T
+meaning: पर ,में ,से
+
+
+-- lib.word: how
+american: हाव
+arpabet: HH AW1
+meaning: कैसे ,किस प्रकार, कितना
+
+
+-- lib.word: got
+american: गॉट
+arpabet: G AA1 T
+meaning: प्राप्त ,पाना
+
+
+-- lib.word: there
+american: देर
+arpabet: DH EH1 R
+meaning: वहाँ ,उधर
+
+
+-- lib.word: one
+american: वान
+arpabet: W AH1 N
+meaning: एक
+
+
+-- lib.word: did
+american: डिड
+arpabet: D IH1 D
+meaning: किया
+
+कुछ करने पर प्रयोग किया जाता है
+
+
+-- lib.word: why
+american: वाय
+arpabet: W AY1
+indian: वाय्इ
+meaning: क्यों
+
+
+-- lib.word: see
+american: सी
+arpabet: S IY1
+meaning: देखना
+
+
+-- lib.word: come
+american: काम
+arpabet: K AH1 M
+indian: कम
+meaning: आना ,
+
+
+-- lib.word: good
+american: गूड
+arpabet: G UH1 D
+meaning: अच्छा ,ठीक ,भला
+
+
+-- lib.word: they
+american: देऽ
+arpabet: DH EY1
+meaning: वे ,ये
+
+
+-- lib.word: really
+american: रिली
+arpabet: R IH1 L IY0
+indian: रियली
+meaning: वास्तव में
+
+
+-- lib.word: as
+american: ऐस
+arpabet: AE1 Z
+meaning: जैसा
+
+
+-- lib.word: would
+american: वूड
+arpabet: W UH1 D
+meaning: चाहेंगे
+
+
+-- lib.word: look
+american: लूक
+arpabet: L UH1 K
+meaning: देखना , रूप, आकृति, तकना
+
+
+-- lib.word: when
+american: वेन
+arpabet: W EH1 N
+indian: व्हेन
+meaning: कब, जब
+
+
+-- lib.word: time
+american: टाय्म
+arpabet: T AY1 M
+indian: टाईम
+meaning: समय
+
+
+-- lib.word: will
+american: विल
+arpabet: W IH1 L
+meaning: मेर्जी , एवं गा-गे-गी के लिए भी प्रयोग किया जाता है
+
+
+-- lib.word: back
+american: बैक
+arpabet: B AE1 K
+meaning: पीछे की ओर, वापस
+
+
+-- lib.word: can't
+american: कैन्ट
+arpabet: K AE1 N T
+meaning: नहीं कर सकते
+
+
+-- lib.word: mean
+american: मीन
+arpabet: M IY1 N
+meaning: तात्पर्य , औसत, माध्य
+
+
+-- lib.word: tell
+american: टेल
+arpabet: T EH1 L
+meaning: बताना ,बोलना ,बयान करना
+
+
+-- lib.word: I'll
+american: आय्ल
+arpabet: AY1 L
+meaning: बीमार
+
+
+-- lib.word: from
+american: फ्राम
+arpabet: F R AH1 M
+meaning: से ,व्दारा ,कारण से
+
+
+-- lib.word: hey
+american: हेऽ
+arpabet: HH EY1
+meaning: अरे ,आहा ,है
+
+
+-- lib.word: were
+american: वर
+arpabet: W ER1
+indian: वेयर
+meaning: थे
+
+
+-- lib.word: he's
+american: हीस
+arpabet: HH IY1 Z
+indian: हीज़
+meaning: वह है
+
+
+-- lib.word: could
+american: कूड
+arpabet: K UH1 D
+indian: कूड
+meaning: सकता है
+
+
+-- lib.word: didn't
+american: डिडैन्ट
+arpabet: D IH1 D AH0 N T
+meaning: नहीं किया
+
+
+-- lib.word: yes
+american: येस
+arpabet: Y EH1 S
+meaning: हाँ
+
+
+-- lib.word: his
+american: हिस
+arpabet: HH IH1 Z
+meaning: उसके ,उसकी, उसका
+
+
+-- lib.word: been
+american: बिन
+arpabet: B IH1 N
+indian: बीन
+meaning: बग़ैर, बिना
+
+
+-- lib.word: or
+american: ऑर
+arpabet: AO1 R
+meaning: या
+
+
+-- lib.word: something
+american: साम्थिंग
+arpabet: S AH1 M TH IH0 NG
+meaning: कुछ, कोई बात ,कोई चीज़
+
+
+-- lib.word: who
+american: हू
+arpabet: HH UW1
+meaning: कौन
+
+
+-- lib.word: because
+american: बिकॉस
+arpabet: B IH0 K AO1 Z
+meaning: चूँकि ,क्योंकि , इसलिए
+
+
+-- lib.word: some
+american: साम
+arpabet: S AH1 M
+meaning: कुछ,  कुछ लोग
+
+
+-- lib.word: had
+american: हैड
+arpabet: HH AE1 D
+meaning: थे
+
+
+-- lib.word: then
+american: देन
+arpabet: DH EH1 N
+meaning: तो ,तब ,उस समय
+
+
+-- lib.word: say
+american: सेऽ
+arpabet: S EY1
+meaning: कहना
+
+
+-- lib.word: ok
+american: ओकेऽ
+arpabet: OW1 K EY1
+meaning: ठीक है
+
+
+-- lib.word: take
+american: टेऽक
+arpabet: T EY1 K
+meaning: लेना ,ले लेना
+
+
+-- lib.word: an
+american: ऐन
+arpabet: AE1 N
+meaning: एक को इंगित करता है
+
+ऐन का प्रयोग vowel से प्रारंभ होने वाले एक वचन शब्द के पूर्व होता है
+
+
+-- lib.word: way
+american: वेऽ
+arpabet: W EY1
+meaning: रास्ता
+
+
+-- lib.word: us
+american: आस
+arpabet: AH1 S
+indian: आस।अस
+meaning: हम
+
+
+-- lib.word: little
+american: लिटैल
+arpabet: L IH1 T AH0 L
+meaning: छोटा
+
+
+-- lib.word: make
+american: मेऽक
+arpabet: M EY1 K
+meaning: बनाना
+
+
+-- lib.word: need
+american: नीड
+arpabet: N IY1 D
+meaning: ज़रूरत, आवश्यकता
+
+
+-- lib.word: gonna
+american: गॉनै
+arpabet: G AA1 N AH0
+meaning: होने वाला , करने वाला
+
+
+-- lib.word: never
+american: नेव्र
+arpabet: N EH1 V ER0
+indian: नेवर
+meaning: कभी नहीं ,कदापि नहीं
+
+
+-- lib.word: we're
+american: वीर
+arpabet: W IY1 R
+indian: वेयर
+meaning: थे
+
+
+-- lib.word: too
+american: टू
+arpabet: T UW1
+meaning: बहुत,अतअत्यधिक
+
+
+-- lib.word: love
+american: लाव
+arpabet: L AH1 V
+meaning: प्यार,प्रीति ,प्रेम
+
+
+-- lib.word: she's
+american: शीस
+arpabet: SH IY1 Z
+meaning: वह है  है
+
+स्त्री लिंग के लिए प्रयोग किया जाता है
+
+
+-- lib.word: I've
+american: आय्व
+arpabet: AY1 V
+indian: आइ्हैव
+meaning: मेरे पास है
+
+
+-- lib.word: sure
+american: शूर
+arpabet: SH UH1 R
+indian: स्योर
+meaning: ज़रूरत, आवश्यकता
+
+
+-- lib.word: them
+american: देम
+arpabet: DH EH1 M
+meaning: उनको
+
+
+-- lib.word: more
+american: मॉर
+arpabet: M AO1 R
+meaning: अधिक , ज्यादा
+
+
+-- lib.word: over
+american: ओव्र
+arpabet: OW1 V ER0
+meaning: समाप्त ,ऊपर
+
+
+-- lib.word: our
+american: आव्र
+arpabet: AW1 ER0
+meaning: हम
+
+
+-- lib.word: sorry
+american: सॉरी
+arpabet: S AA1 R IY0
+meaning: माफ करना ,शोकाकुल,उदास
+
+
+-- lib.word: where
+american: वेर
+arpabet: W EH1 R
+indian: ह्वेयर
+meaning: कहॅा , किस जगह ,जहां
+
+
+-- lib.word: what's
+american: वाट्स
+arpabet: W AH1 T S
+meaning: क्या है
+
+
+-- lib.word: let
+american: लेट
+arpabet: L EH1 T
+meaning: करने दो
+
+सामान्य रूप से किसी अन्य के साथ प्रयोग किया जाता है जैसे let us,me etc
+
+
+-- lib.word: thing
+american: थिंग
+arpabet: TH IH1 NG
+meaning: चीज़ ,बात ,काम
+
+
+-- lib.word: am
+american: ऐम
+arpabet: AE1 M
+meaning: हूँ
+
+
+-- lib.word: maybe
+american: मेऽबी
+arpabet: M EY1 B IY0
+meaning: शायद ,हो सकता है , संभव हैै ,मुमकिन है
+
+
+-- lib.word: down
+american: डाव्न
+arpabet: D AW1 N
+meaning: नीचे , तले ,नीचे की ओर
+
+
+-- lib.word: man
+american: मैन
+arpabet: M AE1 N
+meaning: आदमी
+
+
+-- lib.word: has
+american: हैस
+arpabet: HH AE1 Z
+meaning: है
+
+एक वचन संज्ञा के पास होना
+
+
+-- lib.word: uh
+american: आ
+arpabet: AH1
+meaning: यह, वह,
+
+it, he, this
+
+
+-- lib.word: very
+american: वेरी
+arpabet: V EH1 R IY0
+meaning: बहुत, अति
+
+
+-- lib.word: by
+american: बाय
+arpabet: B AY1
+meaning: द्वारा ,से ,तक
+
+
+-- lib.word: there's
+american: देर्स
+arpabet: DH EH1 R Z
+meaning: वहाँ है
+
+s
+
+
+-- lib.word: should
+american: शूड
+arpabet: SH UH1 D
+indian: शूड ।शुड
+meaning: चाहिए
+
+
+-- lib.word: anything
+american: एनीथिंग
+arpabet: EH1 N IY0 TH IH2 NG
+meaning: कुछ भी , प्रत्येक वस्तु
+
+
+-- lib.word: said
+american: सेड
+arpabet: S EH1 D
+meaning: पहले कहा हुआ ,कहा
+
+
+-- lib.word: much
+american: माच
+arpabet: M AH1 CH
+meaning: बहुत , अत्त्यंत
+
+
+-- lib.word: any
+american: एनी
+arpabet: EH1 N IY0
+meaning: कोई एक
+
+
+-- lib.word: life
+american: लाय्फ
+arpabet: L AY1 F
+meaning: ज़िंदगी ,जीवन काल ,प्राण
+
+
+-- lib.word: even
+american: ईविन
+arpabet: IY1 V IH0 N
+meaning: यहाँ तक कि ,और भी, समान रूप से
+
+
+-- lib.word: off
+american: ऑफ
+arpabet: AO1 F
+meaning: बंद , दूर
+
+
+-- lib.word: please
+american: प्लीस
+arpabet: P L IY1 Z
+meaning: कृपया , निवेदन करना
+
+
+-- lib.word: doing
+american: डूइंग
+arpabet: D UW1 IH0 NG
+meaning: करते हुए
+
+
+-- lib.word: thank
+american: थैंग्क
+arpabet: TH AE1 NG K
+meaning: धन्यवाद ,शुक्रिया, कृतज्ञता
+
+
+-- lib.word: give
+american: गिव
+arpabet: G IH1 V
+meaning: देना
+
+
+-- lib.word: only
+american: ओन्ली
+arpabet: OW1 N L IY0
+meaning: केवल ,अकेला ,एकमात्र
+
+
+-- lib.word: thought
+american: थॉट
+arpabet: TH AO1 T
+meaning: सोचना , विचार, योजना
+
+
+-- lib.word: help
+american: हेल्प
+arpabet: HH EH1 L P
+meaning: सहायता करना , मदद करना
+
+
+-- lib.word: two
+american: टू
+arpabet: T UW1
+meaning: दो(२)
+
+
+-- lib.word: talk
+american: टॉक
+arpabet: T AO1 K
+meaning: बात करना ,व्याख्यान
+
+
+-- lib.word: people
+american: पीपैल
+arpabet: P IY1 P AH0 L
+meaning: लोग ,जनताा ,प्रजा
+
+
+-- lib.word: god
+american: गॉड
+arpabet: G AA1 D
+meaning: भगवान ,ईश्वर
+
+
+-- lib.word: still
+american: स्टिल
+arpabet: S T IH1 L
+meaning: फिर भी ,शान्त ,स्थिर
+
+
+-- lib.word: wait
+american: वेऽट
+arpabet: W EY1 T
+meaning: रुको ,इंतज़ार ,प्रतीक्षा
+
+
+-- lib.word: into
+american: इन्टू
+arpabet: IH0 N T UW1
+meaning:  के अंदर ,में ,भीतर
+
+
+-- lib.word: find
+american: फाय्न्ड
+arpabet: F AY1 N D
+meaning: पाना ,खोज,प्राप्त वस्तु
+
+
+-- lib.word: nothing
+american: नाथिंग
+arpabet: N AH1 TH IH0 NG
+meaning: कुछ नहीं ,अभाव
+
+
+-- lib.word: again
+american: ऐगेन
+arpabet: AH0 G EH1 N
+meaning: फिर से , पुनः
+
+
+-- lib.word: things
+american: थिंग्स
+arpabet: TH IH1 NG Z
+meaning: चीज़ें ,सामान , हालात
+
+
+-- lib.word: let's
+american: लेट्स
+arpabet: L EH1 T S
+meaning: छोडना
+
+
+-- lib.word: doesn't
+american: डासैन्ट
+arpabet: D AH1 Z AH0 N T
+indian: डासैन्ट। डज़ नाट
+meaning: नहीं है
+
+
+-- lib.word: call
+american: कॉल
+arpabet: K AO1 L
+meaning: पुकरना ,मुलाकात ,टेलीफोन से बात करना
+
+
+-- lib.word: told
+american: टोल्ड
+arpabet: T OW1 L D
+meaning: कहा
+
+
+-- lib.word: great
+american: ग्रेऽट
+arpabet: G R EY1 T
+meaning: महान ,बृहद
+
+
+-- lib.word: before
+american: बिफॉर
+arpabet: B IH0 F AO1 R
+meaning: से पहले , के सामने ,के समक्ष
+
+
+-- lib.word: better
+american: बेट्र
+arpabet: B EH1 T ER0
+meaning: बेहतर ,पहले से अच्छा
+
+तुलनात्मक रूप में प्रयोग किया जाता है
+
+
+-- lib.word: ever
+american: एव्र
+arpabet: EH1 V ER0
+indian: एव्र ।एवर
+meaning: कभी ,सदा ,सर्वदा
+
+
+-- lib.word: night
+american: नाय्ट
+arpabet: N AY1 T
+meaning: रात ,रात्रि
+
+
+-- lib.word: than
+american: दैन
+arpabet: DH AE1 N
+meaning: से , की अपेक्षा, के बजाय
+
+
+-- lib.word: away
+american: ऐवेऽ
+arpabet: AH0 W EY1
+meaning: दूर
+
+
+-- lib.word: first
+american: फ्र्स्ट
+arpabet: F ER1 S T
+meaning: सबसे पहले ,प्रथम
+
+
+-- lib.word: believe
+american: बिलीव
+arpabet: B IH0 L IY1 V
+meaning: विश्वास करना ,मानना ,भरोसा रखना
+
+
+-- lib.word: other
+american: आदर
+arpabet: AH1 DH ER0
+meaning: अन्य ,और ,दूसरा
+
+
+-- lib.word: feel
+american: फील
+arpabet: F IY1 L
+meaning: महासूस करना ,अनुभव करना
+
+
+-- lib.word: everything
+american: एव्रीथिंग
+arpabet: EH1 V R IY0 TH IH2 NG
+meaning: सब चीज ,सब कुछ ,समस्त
+
+
+-- lib.word: work
+american: वर्क
+arpabet: W ER1 K
+meaning: काम करना , कार्य
+
+
+-- lib.word: you've
+american: यूव
+arpabet: Y UW1 V
+indian: यूव ।यू हैव
+meaning: आपने
+
+
+-- lib.word: fine
+american: फाय्न
+arpabet: F AY1 N
+meaning: बढिया ,उत्कृष्ट ,महीन ,अर्थदन्ड
+
+
+-- lib.word: home
+american: होम
+arpabet: HH OW1 M
+meaning: घर , मकान ,निवास
+
+
+-- lib.word: after
+american: ऐफ्ट्र
+arpabet: AE1 F T ER0
+indian: आफ्टर,
+meaning: बाद में , पीछे
+
+
+-- lib.word: last
+american: लैस्ट
+arpabet: L AE1 S T
+indian: लास्ट
+meaning: अंतिम ,पिछलाा ,गत
+
+
+-- lib.word: these
+american: दीस
+arpabet: DH IY1 Z
+meaning: ये ,इन्हें
+
+
+-- lib.word: day
+american: डेऽ
+arpabet: D EY1
+meaning: दिन ,दिवस ,तिथि
+
+
+-- lib.word: keep
+american: कीप
+arpabet: K IY1 P
+meaning: रखना ,बनाए रखना
+
+
+-- lib.word: does
+american: डास
+arpabet: D AH1 Z
+meaning: करना
+
+
+-- lib.word: put
+american: पूट
+arpabet: P UH1 T
+meaning: रखना  ,लगाना
+
+
+-- lib.word: around
+american: राव्न्ड
+arpabet: ER0 AW1 N D
+indian: एराउन्ड
+meaning: चारों ओर ,आस-पास ,इर्द-गिर्द
+
+
+-- lib.word: stop
+american: स्टॉप
+arpabet: S T AA1 P
+meaning: रुकना ,विराम ,रोकना
+
+
+-- lib.word: they're
+american: देर
+arpabet: DH EH1 R
+indian: दे आर
+meaning: वे हैं
+
+दे आर को संक्षेप में लिखना
+
+
+-- lib.word: I'd
+american: आय्ड
+arpabet: AY1 D
+meaning: मैं हूँ ,मेरे पास है
+
+
+-- lib.word: guy
+american: गाय
+arpabet: G AY1
+meaning: लोग
+
+
+-- lib.word: long
+american: लॉंग
+arpabet: L AO1 NG
+meaning: लंबा ,फैला हुआ, दीर्घ
+
+
+-- lib.word: isn't
+american: इसैन्ट
+arpabet: IH1 Z AH0 N T
+meaning: नहीं है
+
+
+-- lib.word: always
+american: ऑल्वेऽस
+arpabet: AO1 L W EY2 Z
+meaning: हमेशा ,सदैव, सर्वदा
+
+
+-- lib.word: listen
+american: लिसैन
+arpabet: L IH1 S AH0 N
+meaning: सुनना , ध्यान देना ,
+
+
+-- lib.word: wanted
+american: वॉन्टैड
+arpabet: W AA1 N T AH0 D
+meaning: चाहता था ,जरूरत है ,आवश्यकता है ,
+
+
+-- lib.word: Mr.
+american: मिस्ट्र
+arpabet: M IH1 S T ER0
+meaning: श्री ,श्रीमान,महाशय
+
+
+-- lib.word: guys
+american: गाय्स
+arpabet: G AY1 Z
+meaning: लोग
+
+
+-- lib.word: huh
+american: हा
+arpabet: HH AH1
+meaning: हुंकार
+
+
+-- lib.word: those
+american: दोस
+arpabet: DH OW1 Z
+indian: दोस ।दोज
+meaning: वे  ,उनका
+
+
+-- lib.word: big
+american: बिग
+arpabet: B IH1 G
+meaning: बड़ा ,महान ,महतमहत्त्वपूर्ण
+
+
+-- lib.word: lot
+american: लॉट
+arpabet: L AA1 T
+meaning: बहुत , ढेर
+
+
+-- lib.word: happened
+american: हैपैन्ड
+arpabet: HH AE1 P AH0 N D
+meaning: होना ,हो गई
+
+
+-- lib.word: thanks
+american: थैंग्क्स
+arpabet: TH AE1 NG K S
+meaning: धन्यवाद ,शुक्रिया, कृतज्ञता
+
+
+-- lib.word: won't
+american: वोन्ट
+arpabet: W OW1 N T
+meaning: नहीं होना
+
+
+-- lib.word: trying
+american: ट्रायिंग
+arpabet: T R AY1 IH0 NG
+meaning: कोशिश करना ,प्रयास करना
+
+
+-- lib.word: kind
+american: काय्न्ड
+arpabet: K AY1 N D
+meaning: दयालु ,मेहरबान
+
+
+-- lib.word: wrong
+american: रॉंग
+arpabet: R AO1 NG
+meaning: गलत ,दोष
+
+
+-- lib.word: through
+american: थरू
+arpabet: TH R UW1
+indian: थरू ,थ्रू
+meaning: के माध्यम से ,व्दारा ,से
+
+
+-- lib.word: talking
+american: टॉकिंग
+arpabet: T AO1 K IH0 NG
+meaning: बात कर रहे , बातूनी
+
+
+-- lib.word: made
+american: मेऽड
+arpabet: M EY1 D
+meaning: बनाया , निर्मित , कृत
+
+
+-- lib.word: new
+american: नू
+arpabet: N UW1
+indian: नू ।न्यू
+meaning: नया ,नई ,नव
+
+
+-- lib.word: being
+american: बीइंग
+arpabet: B IY1 IH0 NG
+meaning: प्राणी ,जीव ,हो रहा ,अस्तित्व
+
+
+-- lib.word: guess
+american: गेस
+arpabet: G EH1 S
+meaning: अनुमान लगाना ,अन्दाज़ लगाना , अटकल लगाना
+
+
+-- lib.word: hi
+american: हाय
+arpabet: HH AY1
+meaning: नमस्ते ,देखो
+
+
+-- lib.word: care
+american: केर
+arpabet: K EH1 R
+indian: केयर
+meaning: देख-भाल ,सावधानी ,देख-रेख
+
+
+-- lib.word: bad
+american: बैड
+arpabet: B AE1 D
+meaning: खराब ,बुरा ,अशुभ ,हानिकारक
+
+
+-- lib.word: mom
+american: मॉम
+arpabet: M AA1 M
+meaning: माँ ,मम्मी
+
+
+-- lib.word: remember
+american: रिमेम्ब्र
+arpabet: R IH0 M EH1 M B ER0
+meaning: याद रखना ,याद , स्मरण
+
+
+-- lib.word: getting
+american: गेटिंग
+arpabet: G EH1 T IH0 NG
+meaning: मिल रहा ,प्राप्त करना
+
+
+-- lib.word: we'll
+american: वील
+arpabet: W IY1 L
+indian: वी विल
+meaning: हम करेंगे ,
+
+
+-- lib.word: together
+american: टैगेदर
+arpabet: T AH0 G EH1 DH ER0
+meaning: एक साथ ,साथ में
+
+
+-- lib.word: dad
+american: डैड
+arpabet: D AE1 D
+meaning: पापा,पिता,बाबू
+
+
+-- lib.word: leave
+american: लीव
+arpabet: L IY1 V
+meaning: छोडना ,छुट्टी ,अवकाश
+
+
+-- lib.word: mother
+american: मादर
+arpabet: M AH1 DH ER0
+meaning: माँ ,मम्मी ,जननी
+
+
+-- lib.word: place
+american: प्लेऽस
+arpabet: P L EY1 S
+meaning: ज़गह ,स्थान,स्थल
+
+
+-- lib.word: understand
+american: ऽन्ड्र्स्टैन्ड
+arpabet: AH2 N D ER0 S T AE1 N D
+meaning: समझना , जानना ,मानना
+
+
+-- lib.word: wouldn't
+american: वूडैन्ट
+arpabet: W UH1 D AH0 N T
+meaning: नहीं
+
+अन्य ,शबशब्दों के साथ मिलकर स्पष्ट
+
+
+-- lib.word: actually
+american: ऐक्चुऐली
+arpabet: AE1 K CH UW2 AH0 L IY0
+meaning: वास्तव में ,ठीक-ठीक , वस्तुतः
+
+
+-- lib.word: hear
+american: हीर
+arpabet: HH IY1 R
+indian: हियर
+meaning: सुनो ,सुनना , सुनाई पडना
+
+
+-- lib.word: baby
+american: बेऽबी
+arpabet: B EY1 B IY0
+meaning: शिशु ,बच्चा ,
+
+
+-- lib.word: nice
+american: नाय्स
+arpabet: N AY1 S
+meaning: अच्झा ,प्यारा  ,सुहावना
+
+
+-- lib.word: father
+american: फॉदर
+arpabet: F AA1 DH ER0
+meaning: पापा,पिता,बाबू
+
+
+-- lib.word: else
+american: एल्स
+arpabet: EH1 L S
+meaning: अन्यथा , अन्य ,साथ ही
+
+
+-- lib.word: stay
+american: स्टेऽ
+arpabet: S T EY1
+meaning: बना रहना ,ठहरना
+
+
+-- lib.word: done
+american: डान
+arpabet: D AH1 N
+meaning: पूर्ण , समाप्त ,किया हुआ
+
+
+-- lib.word: wasn't
+american: वॉसैन्ट
+arpabet: W AA1 Z AH0 N T
+meaning: नहीं था ,नहीं होता
+
+
+-- lib.word: their
+american: देर
+arpabet: DH EH1 R
+indian: दएयर
+meaning: उनका ,उनकी ,उनके
+
+
+-- lib.word: course
+american: कॉर्स
+arpabet: K AO1 R S
+meaning: अवधि , कार्यप्रणाली ,जलमार्ग ,श्रृंखला
+
+
+-- lib.word: might
+american: माय्ट
+arpabet: M AY1 T
+indian: माइट
+meaning: पराक्रम, शक्ति ,कर सकना
+
+
+-- lib.word: mind
+american: माय्न्ड
+arpabet: M AY1 N D
+meaning: दिमाग़ , मन , बुध्धी ,विचार
+
+
+-- lib.word: every
+american: एव्री
+arpabet: EH1 V ER0 IY0
+meaning: प्रात्येक ,हर एक ,प्रति
+
+
+-- lib.word: enough
+american: इनाफ
+arpabet: IH0 N AH1 F
+meaning: पर्याप्त ,काफी ,यथेष्ट
+
+
+-- lib.word: try
+american: ट्राय
+arpabet: T R AY1
+meaning: प्रयास करना , कोशिश करना , चेष्टा करना
+
+
+-- lib.word: hell
+american: हेल
+arpabet: HH EH1 L
+meaning: नरक , यमलोक
+
+
+-- lib.word: came
+american: केऽम
+arpabet: K EY1 M
+meaning: आना ,पहॅुचना , आया
+
+
+-- lib.word: someone
+american: साम्वऽन
+arpabet: S AH1 M W AH2 N
+meaning: कोई न कोई, कोई व्यक्ति
+
+
+-- lib.word: you'll
+american: यूल
+arpabet: Y UW1 L
+indian: यू विल
+meaning: आप करेंगे ,तुम करोगे
+
+
+-- lib.word: own
+american: ओन
+arpabet: OW1 N
+meaning: अपना , स्वामित्व
+
+
+-- lib.word: family
+american: फैमैली
+arpabet: F AE1 M AH0 L IY0
+meaning: परिवार , परिजन
+
+
+-- lib.word: whole
+american: होल
+arpabet: HH OW1 L
+meaning: संपूर्ण , पूरा का पूरा ,पूर्ण
+
+
+-- lib.word: another
+american: ऐनादर
+arpabet: AH0 N AH1 DH ER0
+meaning: दूसरा ,एक और ,अन्य
+
+
+-- lib.word: house
+american: हाव्स
+arpabet: HH AW1 S
+meaning: घर , मकान ,निवास
+
+
+-- lib.word: Jack
+american: जैक
+arpabet: JH AE1 K
+meaning: जैक(सामान उठाने के लिए) ।संज्ञा वाचक
+
+
+-- lib.word: yourself
+american: य्र्सेल्फ
+arpabet: Y ER0 S EH1 L F
+indian: योर सेल्फ
+meaning: स्वयं ,खुद
+
+
+-- lib.word: idea
+american: आय्डीऐ
+arpabet: AY0 D IY1 AH0
+indian: आडिया
+meaning: विचार , योजना ,अवधारणा
+
+
+-- lib.word: ask
+american: ऐस्क
+arpabet: AE1 S K
+indian: आस्क
+meaning: पूछना , मांगना ,याचना करना
+
+
+-- lib.word: best
+american: बेस्ट
+arpabet: B EH1 S T
+meaning: सर्वोत्तम , श्रेष्ठ ,सबसे अच्छा , सर्वश्रेष्ठ
+
+
+-- lib.word: must
+american: मास्ट
+arpabet: M AH1 S T
+meaning: जरूर ,जरूरत , द्राक्षारस ,फफंदी
+
+
+-- lib.word: coming
+american: कामिंग
+arpabet: K AH1 M IH0 NG
+meaning: आना ,आगमन ,आगामी
+
+
+-- lib.word: old
+american: ओल्ड
+arpabet: OW1 L D
+meaning: पुराना ,बूढा , प्राचीन
+
+
+-- lib.word: looking
+american: लूकिंग
+arpabet: L UH1 K IH0 NG
+meaning: देखना
+
+
+-- lib.word: woman
+american: वूमैन
+arpabet: W UH1 M AH0 N
+meaning: औरत , स्त्री , महिला
+
+
+-- lib.word: hello
+american: हैलो
+arpabet: HH AH0 L OW1
+meaning: नमस्ते ,देखो
+
+
+-- lib.word: which
+american: विच
+arpabet: W IH1 CH
+meaning: कौन ,जो , कौन सा
+
+
+-- lib.word: years
+american: यिर्स
+arpabet: Y IH1 R Z
+meaning: वर्षों , कई साल
+
+
+-- lib.word: room
+american: रूम
+arpabet: R UW1 M
+meaning: कमरा ,कक्ष
+
+
+-- lib.word: money
+american: मानी
+arpabet: M AH1 N IY0
+indian: Same / मनी
+meaning: पैसा ,धन ,मु्द्रा
+
+
+-- lib.word: left
+american: लेफ्ट
+arpabet: L EH1 F T
+meaning: बाएं , वाम-पक्ष
+
+
+-- lib.word: knew
+american: नू
+arpabet: N UW1
+indian: s/न्यू
+meaning: जानता था
+
+
+-- lib.word: tonight
+american: टैनाय्ट
+arpabet: T AH0 N AY1 T
+indian: टूनाइट
+meaning: आज रात
+
+
+-- lib.word: real
+american: रील
+arpabet: R IY1 L
+meaning: असली ,वास्तव ,वास्तविक
+
+
+-- lib.word: son
+american: सान
+arpabet: S AH1 N
+meaning: पुत्र ,बेटा
+
+
+-- lib.word: hope
+american: होप
+arpabet: HH OW1 P
+meaning: आशा , भरोसा
+
+
+-- lib.word: name
+american: नेऽम
+arpabet: N EY1 M
+meaning: नाम , उपनाम , शीर्षक
+
+
+-- lib.word: same
+american: सेऽम
+arpabet: S EY1 M
+meaning: समान ,वही
+
+
+-- lib.word: went
+american: वेन्ट
+arpabet: W EH1 N T
+meaning: चला  गया
+
+
+-- lib.word: um
+american: आम
+arpabet: AH1 M
+meaning: तुम
+
+
+-- lib.word: hmm
+american: हम
+arpabet: HH M
+meaning: हम्म
+
+
+-- lib.word: happy
+american: हैपी
+arpabet: HH AE1 P IY0
+meaning: प्रसन्न , खुश ,मंगलमय
+
+
+-- lib.word: pretty
+american: प्रिटी
+arpabet: P R IH1 T IY0
+meaning: सुन्दर , आकर्षक , सुखदायक
+
+
+-- lib.word: saw
+american: सॉ
+arpabet: S AO1
+meaning: देखा , कहावत , आरा , वाक्य
+
+
+-- lib.word: girl
+american: ग्र्ल
+arpabet: G ER1 L
+indian: गर्ल
+meaning: लडकी , कन्या , बच्ची
+
+
+-- lib.word: sir
+american: स्र
+arpabet: S ER1
+indian: सर
+meaning: श्रीमान , महोदय
+
+
+-- lib.word: show
+american: शो
+arpabet: SH OW1
+meaning: दिखाना , प्रदर्शन करना , इशारा करना
+
+
+-- lib.word: friend
+american: फ्रेन्ड
+arpabet: F R EH1 N D
+meaning: दोस्त ,मित्र
+
+
+-- lib.word: already
+american: आल्रेडी
+arpabet: AO0 L R EH1 D IY0
+meaning: पहले ,अब तक , तब तक
+
+
+-- lib.word: saying
+american: सेऽइंग
+arpabet: S EY1 IH0 NG
+meaning: कहावत ,उक्ति  ,राय
+
+
+-- lib.word: may
+american: मेऽ
+arpabet: M EY1
+meaning: सकना , आज्ञा पाना ,संभव
+
+
+-- lib.word: next
+american: नेक्स्ट
+arpabet: N EH1 K S T
+meaning: अगला , दूसरा , आगामी
+
+
+-- lib.word: three
+american: थरी
+arpabet: TH R IY1
+indian: थरी । थ्री
+meaning: तीन
+
+
+-- lib.word: job
+american: जॉब
+arpabet: JH AA1 B
+meaning: काम
+
+
+-- lib.word: problem
+american: प्रॉब्लैम
+arpabet: P R AA1 B L AH0 M
+meaning: मुसीबत ,समस्या , मसला
+
+
+-- lib.word: minute
+american: मिनैट
+arpabet: M IH1 N AH0 T
+meaning: मिनट , क्षण
+
+
+-- lib.word: found
+american: फाव्न्ड
+arpabet: F AW1 N D
+meaning: पाना , नींव डालना , स्थापित करना ढालना
+
+
+-- lib.word: world
+american: वर्ल्ड
+arpabet: W ER1 L D
+meaning: दुनिया , संसार , लोक
+
+
+-- lib.word: thinking
+american: थिंग्किंग
+arpabet: TH IH1 NG K IH0 NG
+meaning: विचाारधारा , सोच , विचार
+
+
+-- lib.word: haven't
+american: हैवैन्ट
+arpabet: HH AE1 V AH0 N T
+meaning: नहीं है
+
+
+-- lib.word: heard
+american: हर्ड
+arpabet: HH ER1 D
+meaning: सुना हुआ ,श्रुत
+
+
+-- lib.word: honey
+american: हानी
+arpabet: HH AH1 N IY0
+meaning: शहद , मधू
+
+
+-- lib.word: matter
+american: मैट्र
+arpabet: M AE1 T ER0
+meaning: मामला , पदार्थ ,बात
+
+
+-- lib.word: myself
+american: माय्सेल्फ
+arpabet: M AY2 S EH1 L F
+meaning: स्वयं , खुद ,अपने आप
+
+
+-- lib.word: couldn't
+american: कूडैन्ट
+arpabet: K UH1 D AH0 N T
+meaning: नहीं कर सकना
+
+
+-- lib.word: exactly
+american: इग्सैक्ट्ली
+arpabet: IH0 G Z AE1 K T L IY0
+meaning: बिल्कुल , सही , अचूक
+
+
+-- lib.word: having
+american: हैविंग
+arpabet: HH AE1 V IH0 NG
+meaning: होना , रखना
+
+
+-- lib.word: ah
+american: ऑ
+arpabet: AA1
+meaning: यह , वह ,?
+
+
+-- lib.word: probably
+american: प्रॉबैब्ली
+arpabet: P R AA1 B AH0 B L IY0
+meaning: शायद , संभवतया , मुमकिन
+
+
+-- lib.word: happen
+american: हैपैन
+arpabet: HH AE1 P AH0 N
+meaning: होना , घटित होना , आ पडना
+
+
+-- lib.word: we've
+american: वीव
+arpabet: W IY1 V
+indian: वी हैव
+meaning: हमारे पास है
+
+
+-- lib.word: hurt
+american: हर्ट
+arpabet: HH ER1 T
+meaning: आहत , चोट , आघात पहुँचाना
+
+
+-- lib.word: boy
+american: बॉय
+arpabet: B OY1
+meaning: लडका , बालक
+
+
+-- lib.word: both
+american: बोथ
+arpabet: B OW1 TH
+meaning: दोनो , दूसरा भी
+
+
+-- lib.word: while
+american: वाय्ल
+arpabet: W AY1 L
+meaning: जबकि , जब तक
+
+
+-- lib.word: dead
+american: डेड
+arpabet: D EH1 D
+meaning: मृत , मुर्दा ,जड़
+
+
+-- lib.word: gotta
+american: गॉटै
+arpabet: G AA1 T AH0
+meaning: पड़ेगाा?
+
+
+-- lib.word: alone
+american: ऐलोन
+arpabet: AH0 L OW1 N
+meaning: अकेला ,केवल , एक मात्र
+
+
+-- lib.word: since
+american: सिन्स
+arpabet: S IH1 N S
+meaning: जबसे , के बाद से , क्योंकि
+
+
+-- lib.word: excuse
+american: इक्स्क्यूस
+arpabet: IH0 K S K Y UW1 S
+meaning: क्षमा करना , माफ करना ,क्षमादान करना
+
+
+-- lib.word: start
+american: स्टॉर्ट
+arpabet: S T AA1 R T
+meaning: शुरू करना ,प्रारम्भ , आरंभ
+
+
+-- lib.word: kill
+american: किल
+arpabet: K IH1 L
+meaning: वध , हत्या ,शिकार ,मार देना
+
+
+-- lib.word: hard
+american: हॉर्ड
+arpabet: HH AA1 R D
+meaning: कठिन , कठोर , कड़ा
+
+
+-- lib.word: you'd
+american: यूड
+arpabet: Y UW1 D
+meaning: आप चाहते हैं
+
+
+-- lib.word: today
+american: टैडेऽ
+arpabet: T AH0 D EY1
+indian: टुडे
+meaning: आज  , आजकल
+
+
+-- lib.word: car
+american: कॉर
+arpabet: K AA1 R
+meaning: कार ,गाडी , मोटर
+
+
+-- lib.word: until
+american: ऐन्टिल
+arpabet: AH0 N T IH1 L
+meaning: तक , जब तक
+
+
+-- lib.word: without
+american: विथाव्ट
+arpabet: W IH0 TH AW1 T
+meaning: के बिना , बगैर
+
+
+-- lib.word: whatever
+american: वऽटेव्र
+arpabet: W AH2 T EH1 V ER0
+indian: व्हाटएवर
+meaning: जो भी हो , जो कुछ ,जितना ,जो जो
+
+
+-- lib.word: wants
+american: वॉन्ट्स
+arpabet: W AA1 N T S
+meaning: चाहता है , आवश्यकताएँ
+
+
+-- lib.word: hold
+american: होल्ड
+arpabet: HH OW1 L D
+meaning: पकड , अधिकार
+
+
+-- lib.word: wanna
+american: वॉनै
+arpabet: W AA1 N AH0
+meaning: चाहना
+
+
+-- lib.word: yet
+american: येट
+arpabet: Y EH1 T
+meaning: अभी तक , अब तक
+
+
+-- lib.word: seen
+american: सीन
+arpabet: S IY1 N
+meaning: देखा ,देखना
+
+
+-- lib.word: deal
+american: डील
+arpabet: D IY1 L
+meaning: सौदा , समझौता , व्यवहार
+
+
+-- lib.word: took
+american: टूक
+arpabet: T UH1 K
+meaning: ले लिया
+
+
+-- lib.word: once
+american: वान्स
+arpabet: W AH1 N S
+meaning: एक बार , ेक दिन , एकदा
+
+
+-- lib.word: gone
+american: गॉन
+arpabet: G AO1 N
+meaning: गया , खो गया हुआ , कमजोर
+
+
+-- lib.word: called
+american: कॉल्ड
+arpabet: K AO1 L D
+meaning: सुबह , सवेरा , तडके
+
+
+-- lib.word: morning
+american: मॉर्निंग
+arpabet: M AO1 R N IH0 NG
+meaning: सुबह , सवेरा , तडके
+
+
+-- lib.word: supposed
+american: सैपोस्ड
+arpabet: S AH0 P OW1 Z D
+indian: सपोज़्ड
+meaning: माना , काल्पनिक ,
+
+
+-- lib.word: friends
+american: फ्रेन्ड्स
+arpabet: F R EH1 N D Z
+meaning: दोस्त ,मित्र
+
+
+-- lib.word: head
+american: हेड
+arpabet: HH EH1 D
+meaning: सिर , मुखिया , सर
+
+
+-- lib.word: stuff
+american: स्टाफ
+arpabet: S T AH1 F
+indian: इस्टफ
+meaning:  सामग्री , पदार्थ , कूड़ा ,सामान
+
+
+-- lib.word: most
+american: मोस्ट
+arpabet: M OW1 S T
+meaning: ज्यादातर , अधिकांश , अत्यंन्त
+
+
+-- lib.word: used
+american: यूस्ड
+arpabet: Y UW1 Z D
+meaning: उपयोग किया हुआ ,प्रयुक्त , अभ्यस्त
+
+
+-- lib.word: worry
+american: वरी
+arpabet: W ER1 IY0
+meaning: चिंता करना ,परेशानी , कष्ट
+
+
+-- lib.word: second
+american: सेकैन्ड
+arpabet: S EH1 K AH0 N D
+meaning: दूसरा ,दोबारा ,व्दितीय
+
+
+-- lib.word: part
+american: पॉर्ट
+arpabet: P AA1 R T
+meaning: अंश , भाग , हिस्सा
+
+
+-- lib.word: live
+american: लाय्व
+arpabet: L AY1 V
+indian: लाइव
+meaning: जीना , रहना , बिताना , जीवंत
+
+
+-- lib.word: truth
+american: ट्रूथ
+arpabet: T R UW1 TH
+meaning: सत्य , सच्चाई , सच
+
+
+
+-- lib.word: school
+american: स्कूल
+arpabet: S K UW1 L
+meaning: विद्यालय , स्कूल , शिक्षा स्थल
+
+
+-- lib.word: face
+american: फेऽस
+arpabet: F EY1 S
+
+
+-- lib.word: forget
+american: फ्र्गेट
+arpabet: F ER0 G EH1 T
+meaning: भूल जाना , भूल जाना ,भुलाना
+
+
+-- lib.word: true
+american: ट्रू
+arpabet: T R UW1
+meaning: सच , यथार्थ
+
+
+-- lib.word: business
+american: बिस्नैस
+arpabet: B IH1 Z N AH0 S
+indian: बिज़नेस
+meaning: व्यापार , व्यवसाय , कार्य
+
+
+-- lib.word: each
+american: ईच
+arpabet: IY1 CH
+meaning: प्रत्येक , प्रति , परस्पर
+
+
+-- lib.word: cause
+american: कॉस
+arpabet: K AA1 Z
+meaning: कारण , वजह , कार्य
+
+
+-- lib.word: soon
+american: सून
+arpabet: S UW1 N
+meaning: जल्दी , शीघ्र
+
+
+-- lib.word: knows
+american: नोस
+arpabet: N OW1 Z
+meaning: जानता है
+
+
+-- lib.word: few
+american: फ्यू
+arpabet: F Y UW1
+meaning: कुछ , थोड़े ,अल्प
+
+
+-- lib.word: telling
+american: टेलिंग
+arpabet: T EH1 L IH0 NG
+meaning: कहना , अर्थ पूर्ण
+
+
+-- lib.word: wife
+american: वाय्फ
+arpabet: W AY1 F
+meaning: पत्नी ,बीबी , स्त्री
+
+
+-- lib.word: who's
+american: हूस
+arpabet: HH UW1 Z
+meaning: किसका , कौन है
+
+
+-- lib.word: use
+american: यूस
+arpabet: Y UW1 S
+meaning: प्रयोग करना , उपयोग में लाना
+
+
+-- lib.word: chance
+american: चैन्स
+arpabet: CH AE1 N S
+meaning: मौका , संयोग , अवसर
+
+
+-- lib.word: run
+american: रान
+arpabet: R AH1 N
+indian: रन
+meaning: दौड़ना
+
+
+-- lib.word: move
+american: मूव
+arpabet: M UW1 V
+meaning: स्थान परिवर्तन , कार्यवाही , चाल
+
+
+-- lib.word: anyone
+american: एनीवऽन
+arpabet: EH1 N IY0 W AH2 N
+meaning: किसी को , कोई व्यक्ति
+
+
+-- lib.word: person
+american: प्र्सैन
+arpabet: P ER1 S AH0 N
+indian: परसन
+meaning: आदमी ,व्यक्ति
+
+
+-- lib.word: bye
+american: बाय
+arpabet: B AY1
+meaning: अलविदा , जाते समय का अभिवादन
+
+
+-- lib.word: somebody
+american: साम्बॉडी
+arpabet: S AH1 M B AA2 D IY0
+meaning: कोई , कोई व्यक्ति , कोई न कोई
+
+
+-- lib.word: heart
+american: हॉर्ट
+arpabet: HH AA1 R T
+meaning: दिल , केन्द्र
+
+
+-- lib.word: such
+american: साच
+arpabet: S AH1 CH
+meaning: ऐसा , इतना , वैसा
+
+
+-- lib.word: miss
+american: मिस
+arpabet: M IH1 S
+meaning: कुमारी
+
+
+-- lib.word: married
+american: मेरीड
+arpabet: M EH1 R IY0 D
+meaning: विवाहित , शादीशुदा ,वैवाहिक
+
+
+-- lib.word: point
+american: पॉयन्ट
+arpabet: P OY1 N T
+meaning: बिन्दु , अंक , स्थल
+
+
+-- lib.word: later
+american: लेऽट्र
+arpabet: L EY1 T ER0
+meaning: बाद में , उत्तर काल
+
+
+-- lib.word: making
+american: मेऽकिंग
+arpabet: M EY1 K IH0 NG
+meaning: निर्माण , उत्पादन , बनावट
+
+
+-- lib.word: meet
+american: मीट
+arpabet: M IY1 T
+meaning: मिलना , भेंट करना , मिल जाना
+
+
+-- lib.word: anyway
+american: एनीवेऽ
+arpabet: EH1 N IY0 W EY2
+meaning: किसी न किसी प्रकार से , वैसे भी
+
+
+-- lib.word: many
+american: मेनी
+arpabet: M EH1 N IY0
+meaning: अनेक , बहुत सा
+
+
+-- lib.word: phone
+american: फोन
+arpabet: F OW1 N
+meaning: फोन
+
+
+-- lib.word: reason
+american: रीसैन
+arpabet: R IY1 Z AH0 N
+meaning: कारण ,तर्क , वजह
+
+
+-- lib.word: damn
+american: डैम
+arpabet: D AE1 M
+meaning: लानत ,धिक्कार , शाप
+
+
+-- lib.word: lost
+american: लॉस्ट
+arpabet: L AO1 S T
+meaning: खोना ,लुप्त
+
+
+-- lib.word: looks
+american: लूक्स
+arpabet: L UH1 K S
+meaning: दिखता है , देखना
+
+
+-- lib.word: bring
+american: ब्रिंग
+arpabet: B R IH1 NG
+meaning: लाओ , लाना
+
+
+-- lib.word: case
+american: केऽस
+arpabet: K EY1 S
+meaning: मामला , स्थिति , हालत
+
+
+-- lib.word: turn
+american: ट्र्न
+arpabet: T ER1 N
+meaning: मोड़ , घुमाव , फेर
+
+
+-- lib.word: wish
+american: विश
+arpabet: W IH1 SH
+meaning: इच्छा , अभिलाषा
+
+
+-- lib.word: tomorrow
+american: टैमॉरो
+arpabet: T AH0 M AA1 R OW2
+meaning: आने वाला कल
+
+
+-- lib.word: kids
+american: किड्स
+arpabet: K IH1 D Z
+meaning: छोटे बच्चे , मेमने
+
+
+-- lib.word: trust
+american: ट्रास्ट
+arpabet: T R AH1 S T
+meaning: विश्वास , न्यास
+
+
+-- lib.word: check
+american: चेक
+arpabet: CH EH1 K
+meaning: चेक(पैसा लेन देन से )सम्मबन्धित , जॉच , निरोध
+
+
+-- lib.word: change
+american: चेऽन्ज
+arpabet: CH EY1 N JH
+meaning: परिवर्तन ,बदलना
+
+
+-- lib.word: end
+american: एन्ड
+arpabet: EH1 N D
+indian:
+meaning: समाप्त , अंत , समाप्ति
+
+
+-- lib.word: late
+american: लेऽट
+arpabet: L EY1 T
+meaning: देर से , विलम्ब से , स्वर्गीय
+
+
+-- lib.word: anymore
+american: एनीमॉर
+arpabet: EH2 N IY0 M AO1 R
+meaning: अब
+
+
+-- lib.word: five
+american: फाय्व
+arpabet: F AY1 V
+meaning: पॉच , पॉचवॉ
+
+
+-- lib.word: least
+american: लीस्ट
+arpabet: L IY1 S T
+meaning: कम से कम
+
+
+-- lib.word: town
+american: टाव्न
+arpabet: T AW1 N
+meaning: शहर , नगर , सिटी
+
+
+-- lib.word: aren't
+american: ऑरैन्ट
+arpabet: AA1 R AH0 N T
+meaning: नहीं कर रहे हैं
+
+
+-- lib.word: ha
+american: हॉ
+arpabet: HH AA1
+meaning: वह रखता है ?
+
+
+-- lib.word: working
+american: वर्किंग
+arpabet: W ER1 K IH0 NG
+meaning: काम कर रहे हैं , कार्यकारी , श्रमजीवी
+
+
+-- lib.word: year
+american: यिर
+arpabet: Y IH1 R
+indian:
+meaning: वर्ष , साल , बरस
+
+
+-- lib.word: makes
+american: मेऽक्स
+arpabet: M EY1 K S
+meaning: बनाता है
+
+
+-- lib.word: taking
+american: टेऽकिंग
+arpabet: T EY1 K IH0 NG
+meaning: लेना , ले रहा , कब्जा करना ,पकड़ ,परिग्रह
+
+
+-- lib.word: means
+american: मीन्स
+arpabet: M IY1 N Z
+meaning: साधन , से अभिप्रेत
+
+
+-- lib.word: brother
+american: ब्रादर
+arpabet: B R AH1 DH ER0
+meaning: भूाई , भ्राता
+
+
+-- lib.word: play
+american: प्लेऽ
+arpabet: P L EY1
+meaning: खेल , नाटक , क्रीड़ा
+
+
+-- lib.word: hate
+american: हेऽट
+arpabet: HH EY1 T
+meaning: नफरत करना , घृणा करना ,बैर
+
+
+-- lib.word: ago
+american: ऐगो
+arpabet: AH0 G OW1
+meaning: पूर्व , बीता हुआ , अतीत काल
+
+
+-- lib.word: says
+american: सेस
+arpabet: S EH1 Z
+meaning: कहते हैं
+
+
+-- lib.word: beautiful
+american: ब्यूटैफैल
+arpabet: B Y UW1 T AH0 F AH0 L
+indian: ब्युटिफुल
+meaning: सुन्दर , सुरूप , शोभायमान
+
+
+-- lib.word: gave
+american: गेऽव
+arpabet: G EY1 V
+meaning: दिया
+
+
+-- lib.word: fact
+american: फैक्ट
+arpabet: F AE1 K T
+meaning: तथ्य , सत्य , सच्चाई
+
+
+-- lib.word: crazy
+american: क्रेऽसी
+arpabet: K R EY1 Z IY0
+meaning: पागल , लगन , अत्यन्त चाहत
+
+
+-- lib.word: party
+american: पॉर्टी
+arpabet: P AA1 R T IY0
+meaning: दल , पार्टी
+
+
+-- lib.word: sit
+american: सिट
+arpabet: S IH1 T
+meaning: बैठना , अधिवेशन
+
+
+-- lib.word: open
+american: ओपैन
+arpabet: OW1 P AH0 N
+meaning: खुला , खोलना , उद्घाटन करना
+
+
+-- lib.word: afraid
+american: ऐफ्रेऽड
+arpabet: AH0 F R EY1 D
+meaning: डरा हुआ , भयभीत
+
+
+-- lib.word: between
+american: बिट्वीन
+arpabet: B IH0 T W IY1 N
+meaning: बीच में ,
+
+
+-- lib.word: important
+american: इम्पॉर्टैन्ट
+arpabet: IH0 M P AO1 R T AH0 N T
+meaning: आवश्यक , महत्वपूर्ण , जरूरी
+
+
+-- lib.word: rest
+american: रेस्ट
+arpabet: R EH1 S T
+meaning: विश्राम ,आराम , आपमें से कुछ
+
+
+-- lib.word: fun
+american: फान
+arpabet: F AH1 N
+meaning: मजाक , मनोरंजन , आमोद प्रमोद
+
+
+-- lib.word: kid
+american: किड
+arpabet: K IH1 D
+meaning: Repeat
+
+
+-- lib.word: word
+american: वर्ड
+arpabet: W ER1 D
+meaning: वचन , बात , शब्द
+
+
+-- lib.word: watch
+american: वॉच
+arpabet: W AA1 CH
+meaning: घड़ीी , निगरानी करना ,पहरा
+
+
+-- lib.word: glad
+american: ग्लैड
+arpabet: G L AE1 D
+meaning: खुश होना , प्रसन्न होना , आनंदितहोना ,मगन होना
+
+
+-- lib.word: everyone
+american: एव्रीवऽन
+arpabet: EH1 V R IY0 W AH2 N
+meaning: सब लोग , हरेक ,प्रत्येक
+
+
+-- lib.word: days
+american: डेऽस
+arpabet: D EY1 Z
+meaning: दिन
+
+
+-- lib.word: sister
+american: सिस्ट्र
+arpabet: S IH1 S T ER0
+meaning: बहन , नर्स
+
+
+-- lib.word: minutes
+american: मिनैट्स
+arpabet: M IH1 N AH0 T S
+meaning: समय इंगित करना , विवरण , कार्यवृत्ति
+
+
+-- lib.word: everybody
+american: एव्रीबॉडी
+arpabet: EH1 V R IY0 B AA2 D IY0
+meaning: सब कोई ,प्रत्येक , हरेक
+
+
+-- lib.word: bit
+american: बिट
+arpabet: B IH1 T
+meaning: अंश
+
+
+-- lib.word: couple
+american: कापैल
+arpabet: K AH1 P AH0 L
+indian: Same  /कपिल
+meaning: जोड़ा , युगल , मिथुन राशि
+
+
+-- lib.word: whoa
+american: वो
+arpabet: W OW1
+meaning: रुको (घोड़े के लिए) , चेतावनी,आश्चर्य
+
+
+-- lib.word: either
+american: ईदर
+arpabet: IY1 DH ER0
+meaning: दोनों में से एक ,भी
+
+
+-- lib.word: Mrs.
+american: मिसिस
+arpabet: M IH1 S IH0 Z
+meaning: श्रीमती, महिला को सम्मान सूचक
+
+
+-- lib.word: feeling
+american: फीलिंग
+arpabet: F IY1 L IH0 NG
+meaning: भावना ,अनुभव करना, अनुभूति
+
+
+-- lib.word: daughter
+american: डॉट्र
+arpabet: D AO1 T ER0
+meaning: पुत्री , बेटी
+
+
+-- lib.word: wow
+american: वाव
+arpabet: W AW1
+meaning: बहुत खूब
+
+
+-- lib.word: gets
+american: गेट्स
+arpabet: G EH1 T S
+meaning: पाना ,
+
+
+-- lib.word: asked
+american: ऐस्क्ट
+arpabet: AE1 S K T
+indian: Same / आस्क्ड
+meaning: पूछा
+
+
+-- lib.word: under
+american: आन्ड्र
+arpabet: AH1 N D ER0
+indian: आन्ड्र । अन्डर
+meaning: अंतर्गत , नीचे , अधीन , कम
+
+
+-- lib.word: break
+american: ब्रेऽक
+arpabet: B R EY1 K
+meaning: तोड़ना-फोड़ना
+
+
+-- lib.word: promise
+american: प्रॉमैस
+arpabet: P R AA1 M AH0 S
+indian: Same \प्रामिस
+meaning: वादा ,वचन ,प्रतिज्ञा
+
+
+-- lib.word: door
+american: डॉर
+arpabet: D AO1 R
+meaning: दरवाजा , द्वार
+
+
+-- lib.word: set
+american: सेट
+arpabet: S EH1 T
+meaning: समूह , संग्रह ,अस्त
+
+
+-- lib.word: close
+american: क्लोस
+arpabet: K L OW1 S
+meaning: बन्द करना ,पास ,समीप ,घनिष्ट
+
+
+-- lib.word: hand
+american: हैन्ड
+arpabet: HH AE1 N D
+meaning: हाथ ,भुजा ,हस्तक्षर
+
+
+-- lib.word: easy
+american: ईसी
+arpabet: IY1 Z IY0
+meaning: आसान ,सरल ,सुगम
+
+
+-- lib.word: question
+american: क्वेस्चैन
+arpabet: K W EH1 S CH AH0 N
+meaning: प्रश्न
+
+
+-- lib.word: doctor
+american: डॉक्ट्र
+arpabet: D AA1 K T ER0
+meaning: चिकित्सक
+
+
+-- lib.word: tried
+american: ट्राय्ड
+arpabet: T R AY1 D
+meaning: कोशिश किया ,प्रयास करना ,अनुभूति
+
+
+-- lib.word: far
+american: फॉर
+arpabet: F AA1 R
+meaning: दूर , दूरस्थ ,बहुत दूर
+
+
+-- lib.word: walk
+american: वॉक
+arpabet: W AO1 K
+meaning: चलना , जाना , कदम
+
+
+-- lib.word: needs
+american: नीड्स
+arpabet: N IY1 D Z
+meaning: जरूरत , आवश्कता
+
+
+-- lib.word: trouble
+american: ट्राबैल
+arpabet: T R AH1 B AH0 L
+meaning: विश्वास  ,मुसीबत ,क्लेश ,आफत
+
+
+-- lib.word: mine
+american: माय्न
+arpabet: M AY1 N
+meaning: मेरा ,अपना
+
+
+-- lib.word: though
+american: दो
+arpabet: DH OW1
+meaning: यद्यपि
+
+
+-- lib.word: times
+american: टाय्म्स
+arpabet: T AY1 M Z
+meaning: बार- बार
+
+
+-- lib.word: different
+american: डिफ्रैन्ट
+arpabet: D IH1 F ER0 AH0 N T
+meaning: विभिन्न , अलग ,पृथक , नया
+
+
+-- lib.word: killed
+american: किल्ड
+arpabet: K IH1 L D
+meaning: मारा गया , हत , हत्या
+
+
+-- lib.word: hospital
+american: हॉस्पिटैल
+arpabet: HH AA1 S P IH2 T AH0 L
+meaning: चिकित्सालय ,अस्पताल
+
+
+-- lib.word: anybody
+american: एनीबैडी
+arpabet: EH1 N IY0 B AH0 D IY0
+meaning: कोई , कोई व्यक्ति , कोई न कोई
+
+
+-- lib.word: Sam
+american: सैम
+arpabet: S AE1 M
+meaning: खर्च उठाना ,खर्च मंजूर करना
+
+
+-- lib.word: alright
+american: आल्राय्ट
+arpabet: AO2 L R AY1 T
+meaning: बिल्कुल सही , बहुत ठीक , दुरुस्त
+
+
+-- lib.word: wedding
+american: वेडिंग
+arpabet: W EH1 D IH0 NG
+meaning: शादी , विवाह , ब्याह
+
+
+-- lib.word: shut
+american: शाट
+arpabet: SH AH1 T
+meaning: बंद , मॅुह बंद
+
+
+-- lib.word: able
+american: एऽबैल
+arpabet: EY1 B AH0 L
+meaning: काबिल , समर्थ , सक्षम
+
+
+-- lib.word: die
+american: डाय
+arpabet: D AY1
+meaning: मरना , मृत्यु
+
+
+-- lib.word: perfect
+american: प्र्फेक्ट
+arpabet: P ER0 F EH1 K T
+meaning: उत्तम , सुन्दर , निष्कलंक
+
+
+-- lib.word: police
+american: पैलीस
+arpabet: P AH0 L IY1 S
+indian: पोलिस ।पुलिस
+meaning: पुलिस , नगर-पाल , आरक्षी
+
+
+-- lib.word: stand
+american: स्टैन्ड
+arpabet: S T AE1 N D
+meaning: खड़ा होना , पार्किगं , ठहराव , दुकान
+
+
+-- lib.word: comes
+american: काम्स
+arpabet: K AH1 M Z
+meaning: आता है
+
+
+-- lib.word: hit
+american: हिट
+arpabet: HH IH1 T
+meaning: चोट पहॅुचाना , मारना , आघात पहॅुचाना
+
+
+-- lib.word: story
+american: स्टॉरी
+arpabet: S T AO1 R IY0
+meaning: कहानी , कथा , कथानक
+
+
+-- lib.word: ya
+american: यॉ
+arpabet: Y AA1
+meaning: हॅा
+
+
+-- lib.word: waiting
+american: वेऽटिंग
+arpabet: W EY1 T IH0 NG
+meaning: इतंजार करना , प्रतीक्षा
+
+
+-- lib.word: dinner
+american: डिन्र
+arpabet: D IH1 N ER0
+indian: डिनर
+meaning: रात का खाना , रात्रि भोज
+
+
+-- lib.word: against
+american: ऐगेन्स्ट
+arpabet: AH0 G EH1 N S T
+meaning: के विरुध्द , के खिलाफ , के प्रतिकूल
+
+
+-- lib.word: funny
+american: फानी
+arpabet: F AH1 N IY0
+meaning: मजे़दार , हास्यस्पद,खिलवाड़ी,विनोदी
+
+
+-- lib.word: husband
+american: हास्बैन्ड
+arpabet: HH AH1 Z B AH0 N D
+meaning: पती ,शौहर ,धव
+
+
+-- lib.word: almost
+american: ऑल्मोस्ट
+arpabet: AO1 L M OW2 S T
+meaning: लगभग ,करीब-करीब ,प्रायः,अधिकतर
+
+
+-- lib.word: stupid
+american: स्टूपैड
+arpabet: S T UW1 P AH0 D
+meaning: बेवकूफ ,मू्र्ख,मूढ़,जड़,बेअकल ,भोंदू
+
+
+-- lib.word: pay
+american: पेऽ
+arpabet: P EY1
+meaning: वेतन,अदा करनाभुगतान करना ,बदलालेना ,ऋण चुकाना
+
+
+-- lib.word: answer
+american: ऐन्स्र
+arpabet: AE1 N S ER0
+indian: आन्सर
+meaning: उत्त्तर,जवाब,उत्तरदायी
+
+
+-- lib.word: four
+american: फॉर
+arpabet: F AO1 R
+indian: फोर
+meaning: चार
+
+
+-- lib.word: office
+american: ऑफैस
+arpabet: AO1 F AH0 S
+indian: आफिस
+meaning: कार्यालय,दफ्तर
+
+
+-- lib.word: cool
+american: कूल
+arpabet: K UW1 L
+meaning: ढंडा,शीतल ,उत्तेजनाहीन ,उदासीन
+
+
+-- lib.word: eyes
+american: आय्स
+arpabet: AY1 Z
+meaning: आखें , नेत्र ,लोचन
+
+
+-- lib.word: news
+american: नूस
+arpabet: N UW1 Z
+indian:
+meaning: समाचार ,संदेश ,ख़बर
+
+
+-- lib.word: child
+american: चाय्ल्ड
+arpabet: CH AY1 L D
+meaning: बच्चा ,बालक ,शिशू
+
+
+-- lib.word: shouldn't
+american: शूडैन्ट
+arpabet: SH UH1 D AH0 N T
+meaning: नहीं करना चाहिये
+
+
+-- lib.word: half
+american: हैफ
+arpabet: HH AE1 F
+meaning: आधा भाग
+
+
+-- lib.word: side
+american: साय्ड
+arpabet: S AY1 D
+meaning: पक्ष , पहलू , दिशा
+
+
+-- lib.word: yours
+american: यूर्स
+arpabet: Y UH1 R Z
+meaning: आपके ,तुम्हारा ,आपके ,तुम्हारे
+
+
+-- lib.word: moment
+american: मोमैन्ट
+arpabet: M OW1 M AH0 N T
+meaning: क्षण ,पल ,समय ,दम ,
+
+
+-- lib.word: sleep
+american: स्लीप
+arpabet: S L IY1 P
+meaning: नींद ,निद्रा ,शयन ,मृत्यु ,शांती
+
+
+-- lib.word: read
+american: रेड
+arpabet: R EH1 D
+meaning: पढ़ना ,अध्ययन करना ,शिक्षा प्राप्त करना
+
+
+-- lib.word: where's
+american: वेर्स
+arpabet: W EH1 R Z
+meaning: कहॅा है
+
+
+-- lib.word: started
+american: स्टॉर्टैड
+arpabet: S T AA1 R T AH0 D
+meaning: प्रारम्भ करना ,शरू कर देना
+
+
+-- lib.word: young
+american: यांग
+arpabet: Y AH1 NG
+meaning: युवा ,जवान ,तरुण
+
+
+-- lib.word: men
+american: मेन
+arpabet: M EH1 N
+meaning: आदमियों ,व्यक्तियों,पुरुषों
+
+
+-- lib.word: sounds
+american: साव्न्ड्स
+arpabet: S AW1 N D Z
+meaning: आवाज़
+
+
+-- lib.word: sonny
+american: सानी
+arpabet: S AH1 N IY0
+meaning: बेटे को पुकारन वाला शब्द ,बेटा ,लला ,लाल
+
+
+-- lib.word: lucky
+american: लाकी
+arpabet: L AH1 K IY0
+meaning: भागभाग्यशाली ,भग्यवान ,शुभ ,मंगलप्रद
+
+
+-- lib.word: pick
+american: पिक
+arpabet: P IH1 K
+meaning: चुनना ,चयन ,बीनना ,हुक्म के पत्ते ,चुराना,चुभाना
+
+
+-- lib.word: sometimes
+american: सैम्टाय्म्स
+arpabet: S AH0 M T AY1 M Z
+meaning: कभी-कभी ,किसी समय ,किसी-किसी समय
+
+
+-- lib.word: em
+american: ऐम
+arpabet: AH0 M
+meaning: में
+
+
+-- lib.word: bed
+american: बेड
+arpabet: B EH1 D
+meaning: बिस्तर ,खाट ,चारपाई ,शैय्या ,नदीतल ,सेज़
+
+
+-- lib.word: also
+american: ऑल्सो
+arpabet: AO1 L S OW0
+meaning: भी ,तथा ,और ,साथ ही
+
+
+-- lib.word: date
+american: डेऽट
+arpabet: D EY1 T
+meaning: तारीख़ ,तिथि ,दिनांक,खजूर ,मुलाकात ,मिति
+
+
+-- lib.word: line
+american: लाय्न
+arpabet: L AY1 N
+meaning: रेखा ,पंक्ति ,तार ,क्रम ,लीक ,रेल मार्ग,श्रेणी,
+
+
+-- lib.word: plan
+american: प्लैन
+arpabet: P L AE1 N
+meaning: योजना,ढांचा ,मंसूबा,कल्पना,नक्शा,आलेख
+
+
+-- lib.word: hours
+american: आव्र्स
+arpabet: AW1 ER0 Z
+meaning: घंटे ,काम का नियत समय
+
+
+-- lib.word: lose
+american: लूस
+arpabet: L UW1 Z
+meaning: खोना  ,गवाना ,छोड़ना
+
+
+-- lib.word: fire
+american: फाय्र
+arpabet: F AY1 ER0
+meaning: आग ,ज्वाला
+
+
+-- lib.word: free
+american: फ्री
+arpabet: F R IY1
+meaning: नि:ह शुल्क ,मुक्त ,मुफ्त ,आजा़द ,स्वतंत्र
+
+
+-- lib.word: hands
+american: हैन्ड्स
+arpabet: HH AE1 N D Z
+meaning: हाथ ,भुजा ,हस्ताक्षर
+
+
+-- lib.word: serious
+american: सिरीऐस
+arpabet: S IH1 R IY0 AH0 S
+meaning: गंम्भीर ,संगीन ,संजीदा
+
+
+-- lib.word: Leo
+american: लीओ
+arpabet: L IY1 OW0
+meaning: सिंह राशि
+
+
+-- lib.word: shit
+american: शिट
+arpabet: SH IH1 T
+meaning: मल ,विष्टा ,अपशब्द
+
+
+-- lib.word: behind
+american: बिहाय्न्ड
+arpabet: B IH0 HH AY1 N D
+meaning: पीछे ,और पीछे
+
+
+-- lib.word: inside
+american: इन्साय्ड
+arpabet: IH0 N S AY1 D
+meaning: अंदर ,भीतर
+
+
+-- lib.word: high
+american: हाय
+arpabet: HH AY1
+meaning: उच्च
+
+
+-- lib.word: ahead
+american: ऐहेड
+arpabet: AH0 HH EH1 D
+meaning: आगे ,सामने ,पहले से
+
+
+-- lib.word: week
+american: वीक
+arpabet: W IY1 K
+meaning: सप्ताह , हफ्ता
+
+
+-- lib.word: wonderful
+american: वान्ड्र्फैल
+arpabet: W AH1 N D ER0 F AH0 L
+indian: s/ वन्डरफुल
+meaning: कमाल का ,निराला ,अद्भुत
+
+
+-- lib.word: fight
+american: फाय्ट
+arpabet: F AY1 T
+meaning: लड़ाई, झगड़ा ,युद्ध
+
+
+-- lib.word: past
+american: पैस्ट
+arpabet: P AE1 S T
+indian: Same /पास्ट
+meaning: भूतकाल ,अतीत ,भूत
+
+
+-- lib.word: cut
+american: काट
+arpabet: K AH1 T
+meaning: कट गया ,कटौती करना
+
+
+-- lib.word: quite
+american: क्वाय्ट
+arpabet: K W AY1 T
+meaning: अत्यन्त ,बिल्कुल ,सम्पूर्ण रूप में ,सब कुछ
+
+
+-- lib.word: number
+american: नाम्ब्र
+arpabet: N AH1 M B ER0
+indian: Same / नंबर
+meaning: संख्या ,ताद़ाद ,गिनती
+
+
+-- lib.word: he'll
+american: हील
+arpabet: HH IY1 L
+meaning: नरक ,यमलोक ,दोज़ख
+
+
+-- lib.word: sick
+american: सिक
+arpabet: S IH1 K
+meaning: बीमार ,रुग्ण
+
+
+-- lib.word: S.
+american: एस
+arpabet: EH1 S
+meaning: एस ?
+
+
+-- lib.word: it'll
+american: इटैल
+arpabet: IH1 T AH0 L
+meaning: यह होगा
+
+
+-- lib.word: game
+american: गेऽम
+arpabet: G EY1 M
+meaning: खेल , नाटक , क्रीड़ा
+
+
+-- lib.word: eat
+american: ईट
+arpabet: IY1 T
+meaning: खाना खाना ,भोजन करना ,खाना खा लो
+
+
+-- lib.word: nobody
+american: नोबॉडी
+arpabet: N OW1 B AA2 D IY2
+meaning: कोई  नहीं ,कोई भी नहीं
+
+
+-- lib.word: goes
+american: गोस
+arpabet: G OW1 Z
+indian: Same /गोज़
+meaning: जाता है
+
+
+-- lib.word: death
+american: डेथ
+arpabet: D EH1 TH
+meaning: मौत ,मृत्यु ,मरण
+
+
+-- lib.word: along
+american: ऐलॉंग
+arpabet: AH0 L AO1 NG
+meaning: साथ में ,साथ-साथ ,बराबर बराबर ,बिल्कुल
+
+
+-- lib.word: save
+american: सेऽव
+arpabet: S EY1 V
+meaning: बचत करना ,बचाना ,इकट्ठा करना,सहेजें
+
+
+-- lib.word: seems
+american: सीम्स
+arpabet: S IY1 M Z
+meaning: प्रतीत होना
+
+
+-- lib.word: finally
+american: फाय्नैली
+arpabet: F AY1 N AH0 L IY0
+meaning: अन्ततोगत्वा ,अंतिम रूप में ,आखिरकार
+
+
+-- lib.word: lives
+american: लिव्स
+arpabet: L IH1 V Z
+indian: Same /लाइव्स
+meaning: रहता है
+
+
+-- lib.word: worried
+american: वरीड
+arpabet: W ER1 IY0 D
+meaning: चिंतित
+
+
+-- lib.word: upset
+american: ऐप्सेट
+arpabet: AH0 P S EH1 T
+meaning: परेशान ,घबराना ,उलटना
+
+
+-- lib.word: Theresa
+american: ट्रीसै
+arpabet: T ER0 IY1 S AH0
+meaning: वहॅा है
+
+
+-- lib.word: Carly
+american: कॉर्ली
+arpabet: K AA1 R L IY0
+meaning: ?
+
+German origin means 'free women' 'warrior' 'army
+
+
+-- lib.word: Ethan
+american: ईथैन
+arpabet: IY1 TH AH0 N
+meaning: इथेन
+
+
+-- lib.word: met
+american: मेट
+arpabet: M EH1 T
+meaning: मिलना , भेंट करना , मिल जाना
+
+
+-- lib.word: book
+american: बूक
+arpabet: B UH1 K
+meaning: किताब ,पुस्तक ,बही
+
+
+-- lib.word: brought
+american: ब्रॉट
+arpabet: B R AO1 T
+meaning: लाना ,लाया
+
+
+-- lib.word: seem
+american: सीम
+arpabet: S IY1 M
+meaning: प्रतीत होना ,लगना
+
+
+-- lib.word: sort
+american: सॉर्ट
+arpabet: S AO1 R T
+meaning: तरह ,प्रकार भेद
+
+
+-- lib.word: safe
+american: सेऽफ
+arpabet: S EY1 F
+meaning: सुरक्षित ,सकुशल
+
+
+-- lib.word: living
+american: लिविंग
+arpabet: L IH1 V IH0 NG
+meaning: जीविका ,जीवित ,समकालीन
+
+
+-- lib.word: children
+american: चिल्ड्रैन
+arpabet: CH IH1 L D R AH0 N
+meaning: बच्चा ,बाल बच्चे ,औलाद
+
+
+-- lib.word: weren't
+american: वरैन्ट
+arpabet: W ER1 AH0 N T
+meaning: नहीं थे
+
+
+-- lib.word: leaving
+american: लीविंग
+arpabet: L IY1 V IH0 NG
+meaning: छोड़ना ,सर्जन ,वर्जन
+
+
+-- lib.word: front
+american: फ्रान्ट
+arpabet: F R AH1 N T
+meaning: सामने ,मोर्चा ,अग्र
+
+
+-- lib.word: shot
+american: शॉट
+arpabet: SH AA1 T
+meaning: गोली चलने की आवाज ,गोली मारना
+
+
+-- lib.word: loved
+american: लाव्ड
+arpabet: L AH1 V D
+meaning: प्यार किया
+
+
+-- lib.word: asking
+american: ऐस्किंग
+arpabet: AE1 S K IH0 NG
+meaning: पूछना ,प्रश्न करना
+
+
+-- lib.word: running
+american: रानिंग
+arpabet: R AH1 N IH0 NG
+indian: Same /रनिंग
+meaning: दौड़ना
+
+
+-- lib.word: clear
+american: क्लिर
+arpabet: K L IH1 R
+meaning: स्पष्ट ,साफ ,निर्मल
+
+
+-- lib.word: figure
+american: फिग्य्र
+arpabet: F IH1 G Y ER0
+meaning: आकृती ,आंकड़ा ,मूर्ती
+
+
+-- lib.word: hot
+american: हॉट
+arpabet: HH AA1 T
+meaning: गरम ,तप्त ,उष्ण
+
+
+-- lib.word: felt
+american: फेल्ट
+arpabet: F EH1 L T
+meaning: आभास ,लगा ,कम्बल
+
+
+-- lib.word: parents
+american: पेरैन्ट्स
+arpabet: P EH1 R AH0 N T S
+meaning: माता-पिता
+
+
+-- lib.word: drink
+american: ड्रिंग्क
+arpabet: D R IH1 NG K
+meaning: पीना ,शराब ,पेय
+
+
+-- lib.word: absolutely
+american: ऐब्सैलूट्ली
+arpabet: AE2 B S AH0 L UW1 T L IY0
+meaning: बिल्कु्ल ,पूर्ण रूप से ,निश्चित रूप से ,नितांत
+
+
+-- lib.word: how's
+american: हाव्स
+arpabet: HH AW1 Z
+meaning: कैसा है ,प्रकार ,ढंग ,तरह
+
+
+-- lib.word: daddy
+american: डैडी
+arpabet: D AE1 D IY0
+meaning: पिता ,बाप ,बापू
+
+
+-- lib.word: sweet
+american: स्वीट
+arpabet: S W IY1 T
+meaning: मिटाई, मीठा,प्यारा,आकर्षक,सुहावना,मधुर
+
+
+-- lib.word: alive
+american: ऐलाय्व
+arpabet: AH0 L AY1 V
+meaning: जीवित,सजीव,जिंदा,क्रियाशील
+
+
+-- lib.word: Paul
+american: पॉल
+arpabet: P AO1 L
+meaning: पाल
+
+
+-- lib.word: sense
+american: सेन्स
+arpabet: S EH1 N S
+meaning: समझ ,भावना ,ज्ञान ,बोध
+
+
+-- lib.word: meant
+american: मेन्ट
+arpabet: M EH1 N T
+indian: Same / मीन्ट
+meaning: मतलब
+
+
+-- lib.word: happens
+american: हैपैन्स
+arpabet: HH AE1 P AH0 N Z
+meaning: होता है
+
+
+-- lib.word: David
+american: डेऽविड
+arpabet: D EY1 V IH0 D
+meaning: डेविड (नाम)
+
+David has Biblical root means beloved
+
+
+-- lib.word: special
+american: स्पेशैल
+arpabet: S P EH1 SH AH0 L
+meaning: विशेष ,विशिष्ट
+
+
+-- lib.word: bet
+american: बेट
+arpabet: B EH1 T
+meaning: शर्त
+
+
+-- lib.word: blood
+american: ब्लाड
+arpabet: B L AH1 D
+meaning: खून, रक्त, लहू
+
+
+-- lib.word: ain't
+american: एऽन्ट
+arpabet: EY1 N T
+meaning: नहीं है
+
+
+-- lib.word: kidding
+american: किडिंग
+arpabet: K IH1 D IH0 NG
+meaning: मजाक , मनोरंजन , आमोद प्रमोद
+
+
+-- lib.word: lie
+american: लाय
+arpabet: L AY1
+meaning: झूठ ,असत्य ,चालबाजी़
+
+
+-- lib.word: full
+american: फूल
+arpabet: F UH1 L
+meaning: पू्र्ण ,भरा हुआ ,पूरा
+
+
+-- lib.word: meeting
+american: मीटिंग
+arpabet: M IY1 T IH0 NG
+meaning: बैठक ,सभा ,भेंट
+
+
+-- lib.word: dear
+american: डिर
+arpabet: D IH1 R
+indian: Same / डियर
+meaning: प्रिय ,प्यारा ,महंगा
+
+
+-- lib.word: coffee
+american: कॉफी
+arpabet: K AA1 F IY0
+meaning: काफ़ी (पेय पदार्थ)
+
+
+-- lib.word: seeing
+american: सीइंग
+arpabet: S IY1 IH0 NG
+meaning: देखना ,
+
+
+-- lib.word: sound
+american: साव्न्ड
+arpabet: S AW1 N D
+meaning: आवाज़ ,की वज़ह से ,के कारणसे ,यह देखते हुए
+
+
+-- lib.word: fault
+american: फॉल्ट
+arpabet: F AO1 L T
+meaning: दोष ,गुनाह ,अशुद्धि ,त्रृटि ,चूक ,अपूर्णता
+
+
+-- lib.word: water
+american: वॉट्र
+arpabet: W AO1 T ER0
+meaning: पानी ,जल ,नीर
+
+
+-- lib.word: fuck
+american: फाक
+arpabet: F AH1 K
+meaning: लानत ,मैथुन करना
+
+
+-- lib.word: women
+american: विमैन
+arpabet: W IH1 M AH0 N
+meaning: महिला ,औरत
+
+
+-- lib.word: John
+american: जॉन
+arpabet: JH AA1 N
+meaning: ज़ान
+
+
+-- lib.word: welcome
+american: वेल्कैम
+arpabet: W EH1 L K AH0 M
+meaning: अभिवादन करना,स्वागत करना ,प्रणाम करना
+
+
+-- lib.word: buy
+american: बाय
+arpabet: B AY1
+meaning: खरीदना ,क्रय करना
+
+
+-- lib.word: months
+american: मान्थस
+arpabet: M AH1 N TH S
+meaning: महीने
+
+
+-- lib.word: hour
+american: आव्र
+arpabet: AW1 ER0
+indian: Same /आवर
+meaning: घंटे ,काम का नियत समय
+
+
+-- lib.word: speak
+american: स्पीक
+arpabet: S P IY1 K
+meaning: बोलना
+
+
+-- lib.word: lady
+american: लेऽडी
+arpabet: L EY1 D IY0
+meaning: भद्र महिला ,स्त्री ,घर की मालकिन ,
+
+
+-- lib.word: Jen
+american: जेन
+arpabet: JH EH1 N
+meaning: अभी-अभी
+
+
+-- lib.word: thinks
+american: थिंग्क्स
+arpabet: TH IH1 NG K S
+meaning: सोचना ,विचार करना ,संकल्प करना ,चिन्ता करना
+
+
+-- lib.word: Christmas
+american: क्रिस्मैस
+arpabet: K R IH1 S M AH0 S
+meaning: ईसा का जन्म दिन ,बड़ादिन ,ईसा जन्मोत्सव
+
+
+-- lib.word: body
+american: बॉडी
+arpabet: B AA1 D IY0
+meaning: शरीर ,तन ,मुर्दा ,प्रधान भाग ,संस्था
+
+
+-- lib.word: order
+american: ऑर्ड्र
+arpabet: AO1 R D ER0
+indian: Same / आर्डर ,
+meaning: आदेश ,आज्ञा ,ब्यवस्था ,आज्ञप्ति
+
+
+-- lib.word: outside
+american: आव्ट्साय्ड
+arpabet: AW1 T S AY1 D
+meaning: बाहर ,बाह्य ,पराया
+
+
+-- lib.word: hang
+american: हैंग
+arpabet: HH AE1 NG
+meaning: लटकना ,फ़ासी देना ,टांगना
+
+
+-- lib.word: possible
+american: पॉसैबैल
+arpabet: P AA1 S AH0 B AH0 L
+meaning: संभव ,संभाव्य ,सुलभ
+
+
+-- lib.word: worse
+american: वर्स
+arpabet: W ER1 S
+meaning: और भी बुरा होना
+
+
+-- lib.word: company
+american: काम्पैनी
+arpabet: K AH1 M P AH0 N IY0
+meaning: साथ ,कंपनी ,संगठन ,सेना का समूह ,साहचर्य
+
+
+-- lib.word: mistake
+american: मिस्टेऽक
+arpabet: M IH0 S T EY1 K
+meaning: गलती , भूल ,दोष ,अशुद्धि
+
+
+-- lib.word: ooh
+american: ऊ
+arpabet: UW1
+meaning: उह
+
+
+-- lib.word: handle
+american: हैन्डैल
+arpabet: HH AE1 N D AH0 L
+meaning: मॅूठ ,प्रबन्ध करना ,हत्था ,हाथ में लेना ,पकड़ना
+
+
+-- lib.word: spend
+american: स्पेन्ड
+arpabet: S P EH1 N D
+meaning: बिताना,खर्च करना ,उपयोग करना ,व्यय करना
+
+
+-- lib.word: totally
+american: टोटैली
+arpabet: T OW1 T AH0 L IY0
+meaning: पूरी तरह से ,कुल मिलाकर ,पूर्ण रूप से
+
+
+-- lib.word: giving
+american: गिविंग
+arpabet: G IH1 V IH0 NG
+meaning: देना ,दान ,पुरस्कार
+
+
+-- lib.word: control
+american: कैन्ट्रोल
+arpabet: K AH0 N T R OW1 L
+meaning: नियंत्रण ,संयम ,अंकुश ,संचालन,निरोध
+
+
+-- lib.word: here's
+american: हिर्स
+arpabet: HH IH1 R Z
+meaning: यहॅा है
+
+
+-- lib.word: marriage
+american: मेरिज
+arpabet: M EH1 R IH0 JH
+meaning: शादी,विवाह ,ब्याह
+
+
+-- lib.word: realize
+american: रीऐलाय्स
+arpabet: R IY1 AH0 L AY2 Z
+meaning: एहसास,समझना,वसूल करना,अनुभव करना,
+
+
+-- lib.word: D.
+american: डी
+arpabet: D IY1
+meaning: डी(अंग्रजी वर्ण)
+
+
+-- lib.word: power
+american: पाव्र
+arpabet: P AW1 ER0
+meaning: शक्ती ,सत्ता ,अधिकार,बल,पराक्रम,शासन,ऱाज़
+
+
+-- lib.word: president
+american: प्रेसैडेन्ट
+arpabet: P R EH1 Z AH0 D EH2 N T
+meaning: राष्ट्रपति ,अध्यक्ष,सभापति
+
+
+-- lib.word: unless
+american: ऐन्लेस
+arpabet: AH0 N L EH1 S
+meaning: जब-तक,यदि नहीं,न कि,सिवाय
+
+
+-- lib.word: sex
+american: सेक्स
+arpabet: S EH1 K S
+meaning: लिंग,यौन क्रिया,काम
+
+
+-- lib.word: girls
+american: ग्र्ल्स
+arpabet: G ER1 L Z
+indian: Same / गर्लस
+meaning: लड़कियां,
+
+
+-- lib.word: send
+american: सेन्ड
+arpabet: S EH1 N D
+meaning: भेज़ना,प्रषित करना फेंकना
+
+
+-- lib.word: needed
+american: नीडैड
+arpabet: N IY1 D AH0 D
+meaning: आवश्यकता है
+
+
+-- lib.word: taken
+american: टेऽकैन
+arpabet: T EY1 K AH0 N
+meaning: लिंया,ले जाना ,ग्रहण किया हुआ
+
+
+-- lib.word: died
+american: डाय्ड
+arpabet: D AY1 D
+meaning: मृत ,मर जाना
+
+
+-- lib.word: scared
+american: स्केर्ड
+arpabet: S K EH1 R D
+meaning: डरा हुआ,भयभीत,भयाकुल
+
+
+-- lib.word: picture
+american: पिक्चर
+arpabet: P IH1 K CH ER0
+meaning: चित्र,सिनेमा ,फोटो
+
+
+-- lib.word: talked
+american: टॉक्ट
+arpabet: T AO1 K T
+indian: Same / टाक्ड
+meaning: बोलनाा,बातचीत करना,गुफ्तगू करना
+
+
+-- lib.word: Jake
+american: जेऽक
+arpabet: JH EY1 K
+meaning: जेक?
+
+
+-- lib.word: Al
+american: ऐल
+arpabet: AE1 L
+meaning: ऐल ?
+
+
+-- lib.word: ass
+american: ऐस
+arpabet: AE1 S
+meaning: घंधा ,नितंब ,कमर के पीछे का भाग
+
+
+-- lib.word: hundred
+american: हान्ड्रैड
+arpabet: HH AH1 N D R AH0 D
+indian: Same / हन्डे्ड
+meaning: शतक ,सौ
+
+
+-- lib.word: changed
+american: चेऽन्ज्ड
+arpabet: CH EY1 N JH D
+meaning: बदला हुआ ,तबदील
+
+
+-- lib.word: completely
+american: कैम्प्लीट्ली
+arpabet: K AH0 M P L IY1 T L IY0
+meaning: पूरी तरह से ,कुल मिलाकर ,पूर्ण रूप से
+
+
+-- lib.word: explain
+american: इक्स्प्लेऽन
+arpabet: IH0 K S P L EY1 N
+meaning: समझाना ,स्पष्ट करना ,व्याख्या करना
+
+
+-- lib.word: playing
+american: प्लेऽइंग
+arpabet: P L EY1 IH0 NG
+meaning: खेल रहे हैं ,वादन
+
+
+-- lib.word: certainly
+american: स्र्टैन्ली
+arpabet: S ER1 T AH0 N L IY0
+indian: सर्टेनली
+meaning: निश्चित रूप से ,ज़रूर ,ही
+
+
+-- lib.word: sign
+american: साय्न
+arpabet: S AY1 N
+meaning: संकेत ,निशान ,चिह्न
+
+
+-- lib.word: boys
+american: बॉयस
+arpabet: B OY1 Z
+meaning: लड़के
+
+
+-- lib.word: relationship
+american: रीलेऽशैन्शिप
+arpabet: R IY0 L EY1 SH AH0 N SH IH2 P
+meaning: संबन्ध ,रिश्ता ,नातेदारी
+
+
+-- lib.word: Michael
+american: माय्कैल
+arpabet: M AY1 K AH0 L
+meaning: माइकल ?
+
+
+-- lib.word: loves
+american: लाव्स
+arpabet: L AH1 V Z
+meaning: प्यार
+
+
+-- lib.word: fucking
+american: फाकिंग
+arpabet: F AH1 K IH0 NG
+meaning: कम्बख्त ,कमीने
+
+
+-- lib.word: hair
+american: हेर
+arpabet: HH EH1 R
+meaning: बाल ,केश
+
+
+-- lib.word: lying
+american: लायिंग
+arpabet: L AY1 IH0 NG
+meaning: झूठ बोलना ,जन्मदेना,लेटा हुआ ,धोके से
+
+
+-- lib.word: choice
+american: चॉयस
+arpabet: CH OY1 S
+indian: Same / च्वायस
+meaning: पसंद ,विकल्प ,चुनना,. वरण ,चयन
+
+
+-- lib.word: anywhere
+american: एनीवेर
+arpabet: EH1 N IY0 W EH2 R
+meaning: कहीं भी ,कोई जगह ,सर्वत्र
+
+
+-- lib.word: secret
+american: सीक्रैट
+arpabet: S IY1 K R AH0 T
+meaning: गुप्त ,गोपनीय ,रहस्य का
+
+
+-- lib.word: future
+american: फ्यूचर
+arpabet: F Y UW1 CH ER0
+meaning: भविष्य
+
+
+-- lib.word: weird
+american: विर्ड
+arpabet: W IH1 R D
+indian: Same / वियर्ड
+meaning: अज़ीब ,विलक्षण ,विचित्र
+
+
+-- lib.word: luck
+american: लाक
+arpabet: L AH1 K
+indian: लक
+meaning: भाग्य ,संयोग ,तक़दीर
+
+
+-- lib.word: she'll
+american: शील
+arpabet: SH IY1 L
+meaning: सीप ,खोल आवरण ,शैल
+
+
+-- lib.word: Max
+american: मैक्स
+arpabet: M AE1 K S
+meaning: अधिकतम
+
+
+-- lib.word: Luis
+american: लुईस
+arpabet: L UW0 IY1 S
+meaning: लुइस ?
+
+
+-- lib.word: turned
+american: ट्र्न्ड
+arpabet: T ER1 N D
+meaning: बदलाहुआ ,तबदील
+
+
+-- lib.word: known
+american: नोन
+arpabet: N OW1 N
+meaning: ज्ञात ,मालूम,विदित
+
+
+-- lib.word: touch
+american: टाच
+arpabet: T AH1 CH
+meaning: स्पर्श ,छूना ,संपर्क
+
+
+-- lib.word: kiss
+american: किस
+arpabet: K IH1 S
+meaning: चुम्मा ,चूमना ,चुबंन
+
+
+-- lib.word: crane
+american: क्रेऽन
+arpabet: K R EY1 N
+meaning: क्रेन
+
+
+-- lib.word: questions
+american: क्वेस्चैन्स
+arpabet: K W EH1 S CH AH0 N Z
+meaning: प्रश्न
+
+
+-- lib.word: obviously
+american: ऑब्वीऐस्ली
+arpabet: AA1 B V IY0 AH0 S L IY0
+meaning: स्पष्टतः
+
+
+-- lib.word: wonder
+american: वान्ड्र
+arpabet: W AH1 N D ER0
+indian: Same / वन्डर
+meaning: आश्चर्य ,अचंभा ,अद्भुत वस्तु
+
+
+-- lib.word: pain
+american: पेऽन
+arpabet: P EY1 N
+meaning: दर्द ,पीड़ा ,
+
+
+-- lib.word: calling
+american: कॉलिंग
+arpabet: K AO1 L IH0 NG
+meaning: बुलाना ,पेशा,धंधा ,व्यवसाय , आजीविका
+
+
+-- lib.word: somewhere
+american: साम्वेर
+arpabet: S AH1 M W EH2 R
+indian: Same / समव्हेयर
+meaning: कहीं ,किसी न किसी स्थान में ,
+
+
+-- lib.word: throw
+american: थरो
+arpabet: TH R OW1
+indian: Same । थ्रौ
+meaning: फेंकना ,गिराना ,पटकना ,प्रक्षेपण,झोंकना
+
+
+-- lib.word: straight
+american: स्ट्रेऽट
+arpabet: S T R EY1 T
+meaning: सीधा,खुले दिल से,ईमानदार,सीधा,स्पष्टवादी
+
+
+-- lib.word: grace
+american: ग्रेऽस
+arpabet: G R EY1 S
+meaning: कृपा,अनुग्रह,आकर्षक आकृति,दया,अनुग्रह
+
+
+-- lib.word: cold
+american: कोल्ड
+arpabet: K OW1 L D
+meaning: सर्दी ,ठंढा ,जुकाम,शीतल,उदासीन,निरुत्साह
+
+
+-- lib.word: White
+american: वाय्ट
+arpabet: W AY1 T
+indian: Same / व्हाइट
+meaning: सफेद ,गोरा,धवल.शुभ्र,शुद्ध
+
+
+-- lib.word: fast
+american: फैस्ट
+arpabet: F AE1 S T
+meaning: तेज़ ,अनशन ,व्रत
+
+
+-- lib.word: Natalie
+american: नैटैली
+arpabet: N AE1 T AH0 L IY0
+meaning: नेटली ?
+
+
+-- lib.word: words
+american: वर्ड्स
+arpabet: W ER1 D Z
+meaning: शब्दों
+
+
+-- lib.word: R.
+american: ऑर
+arpabet: AA1 R
+meaning: आर (अंग्रजी शब्द)
+
+
+-- lib.word: food
+american: फूड
+arpabet: F UW1 D
+meaning: खाद्य पदार्थ ,खाना
+
+
+-- lib.word: none
+american: नान
+arpabet: N AH1 N
+meaning: कोई  नहीं ,कोई भी नहीं
+
+
+-- lib.word: drive
+american: ड्राय्व
+arpabet: D R AY1 V
+meaning: गाड़ीी चलाना ,अभियान,आंदोलन,आना-जाना
+
+
+-- lib.word: feelings
+american: फीलिंग्स
+arpabet: F IY1 L IH0 NG Z
+meaning: भावना,अनुभूति,मनोभाव ,सहानुभूति,धारणा
+
+
+-- lib.word: they'll
+american: देऽल
+arpabet: DH EY1 L
+meaning: वे होंगे
+
+
+-- lib.word: worked
+american: वर्क्ट
+arpabet: W ER1 K T
+indian: वर्क्ड
+meaning: काम किया
+
+
+-- lib.word: marry
+american: मेरी
+arpabet: M EH1 R IY0
+meaning: शादी करना,विवाह करना,ब्याह करना,जोड़ देना
+
+
+-- lib.word: light
+american: लाय्ट
+arpabet: L AY1 T
+meaning: प्रकाश,रोशनी,चमक,हलका,सुपाच्य,पथ्य
+
+
+-- lib.word: test
+american: टेस्ट
+arpabet: T EH1 S T
+meaning: परेीक्षण,जॅाच परख,परीक्षा,आज़माइश
+
+
+-- lib.word: drop
+american: ड्रॉप
+arpabet: D R AA1 P
+meaning: बूंद
+
+
+-- lib.word: cannot
+american: कैनॉट
+arpabet: K AE1 N AA0 T
+meaning: नहीं सकता
+
+
+-- lib.word: Frank
+american: फ्रैंग्क
+arpabet: F R AE1 NG K
+meaning: स्पषटवादी,साफ़,निष्पकपट,खरा,खुले मन का
+
+
+-- lib.word: sent
+american: सेन्ट
+arpabet: S EH1 N T
+meaning: भेज़ दिया
+
+
+-- lib.word: city
+american: सिटी
+arpabet: S IH1 T IY0
+indian:
+meaning: शहर,नगर ,पुर
+
+
+-- lib.word: dream
+american: ड्रीम
+arpabet: D R IY1 M
+meaning: स्वप्न,मन की तरंग,कल्पना करना
+
+
+-- lib.word: protect
+american: प्रैटेक्ट
+arpabet: P R AH0 T EH1 K T
+meaning: रक्षा करना ,बचाना,शरण देना,संरक्षण करना
+
+
+-- lib.word: twenty
+american: ट्वेन्टी
+arpabet: T W EH1 N T IY0
+meaning: २०
+
+
+-- lib.word: class
+american: क्लैस
+arpabet: K L AE1 S
+indian: क्लैस
+meaning: कक्षा,वर्ग,श्रेणी,वर्ण,भाँति,दर्जा
+
+
+-- lib.word: Lucy
+american: लूसी
+arpabet: L UW1 S IY0
+meaning: ल्यूसी ?
+
+
+-- lib.word: surprise
+american: स्र्प्राय्स
+arpabet: S ER0 P R AY1 Z
+meaning: आश्चर्य,अचंभा,अद्भुत वस्तु,गोपनीय तरीके से
+
+
+-- lib.word: its
+american: इट्स
+arpabet: IH1 T S
+meaning: यह है ,वह है
+
+
+-- lib.word: sweetheart
+american: स्वीट्हॉर्ट
+arpabet: S W IY1 T HH AA2 R T
+meaning: प्रिय ,प्यारा ,प्रियतम,प्रेमी,प्रिया,यार
+
+
+-- lib.word: forever
+american: फ्रेव्र
+arpabet: F ER0 EH1 V ER0
+indian:
+meaning: हमेशा के लिये,उम्र भर,सदैव,चिरकाल
+
+
+-- lib.word: poor
+american: पूर
+arpabet: P UW1 R
+indian:
+meaning: गरीब,दीन,दरिद्र,तुच्छ,निर्बल
+
+
+-- lib.word: looked
+american: लूक्ट
+arpabet: L UH1 K T
+meaning: देखा
+
+
+-- lib.word: mad
+american: मैड
+arpabet: M AE1 D
+meaning: पागल,विक्षिप्त,भयानक,दीवाना,उन्मुक्त,क्रूर,बेअकअल
+
+
+-- lib.word: except
+american: इक्सेप्ट
+arpabet: IH0 K S EH1 P T
+meaning: के अलावा ,के अतिरिक्त,को छोड़कर,के सिवाय
+
+
+-- lib.word: gun
+american: गान
+arpabet: G AH1 N
+meaning: गन,बंदूक,
+
+
+-- lib.word: y'know
+american: unknown
+arpabet: unknown
+meaning: अज्ञात,अपरिचित,अजनवी,अपरिचित,अज्ञान
+
+
+-- lib.word: dance
+american: डैन्स
+arpabet: D AE1 N S
+meaning: नाचना,नृत्य,नाच
+
+
+-- lib.word: takes
+american: टेऽक्स
+arpabet: T EY1 K S
+meaning: लेता है
+
+
+-- lib.word: appreciate
+american: ऐप्रीशीएऽट
+arpabet: AH0 P R IY1 SH IY0 EY2 T
+meaning: सराहना करना,गुण जानना,मान करना
+
+
+-- lib.word: especially
+american: ऐस्पेशली
+arpabet: AH0 S P EH1 SH L IY0
+meaning: खास तौर पर,विशेषतः,मुख्य रूप से
+
+
+-- lib.word: situation
+american: सिचुएऽशैन
+arpabet: S IH2 CH UW0 EY1 SH AH0 N
+meaning: परिस्थिति,स्थान,दशा,
+
+
+-- lib.word: besides
+american: बिसाय्ड्स
+arpabet: B IH0 S AY1 D Z
+meaning: इस के अतिरिक्त,साथ ही,और भी
+
+
+-- lib.word: weeks
+american: वीक्स
+arpabet: W IY1 K S
+meaning: हफ्तों
+
+
+-- lib.word: pull
+american: पूल
+arpabet: P UH1 L
+meaning: खींचना,उठाना,उखाड़ना,शक्ती लगाना,परिश्रम
+
+
+-- lib.word: himself
+american: हिम्सेल्फ
+arpabet: HH IH0 M S EH1 L F
+meaning: स्वयं,आप ही,खुद ही,स्वयमेव
+
+
+-- lib.word: hasn't
+american: हैसैन्ट
+arpabet: HH AE1 Z AH0 N T
+meaning: नहीं है
+
+
+-- lib.word: act
+american: ऐक्ट
+arpabet: AE1 K T
+meaning: कार्य,अधिनियम,कृत्य,नियम
+
+
+-- lib.word: worth
+american: वर्थ
+arpabet: W ER1 TH
+meaning: लायक,कीमत,श्रेय
+
+
+-- lib.word: Sheridan
+american: शेरिडैन
+arpabet: SH EH1 R IH0 D AH0 N
+meaning: शेरिडन ?
+
+
+-- lib.word: amazing
+american: ऐमेऽसिंग
+arpabet: AH0 M EY1 Z IH0 NG
+meaning: आश्चर्यजनक,विस्मयकारी,गज़ब का,अद्भुत
+
+
+-- lib.word: top
+american: टॉप
+arpabet: T AA1 P
+meaning: ऊपर,चोटी,शिखर,ऊपर का हिस्सा,शीर्ष,सर्वोच्च
+
+
+-- lib.word: given
+american: गिवैन
+arpabet: G IH1 V AH0 N
+meaning: दिया गया,दिया हुआ,प्रवृत,आदी
+
+
+-- lib.word: expect
+american: इक्स्पेक्ट
+arpabet: IH0 K S P EH1 K T
+meaning: अपेक्षा करना,आशा करना,प्रतीक्षा करना
+
+
+-- lib.word: Ben
+american: बेन
+arpabet: B EH1 N
+meaning: पुस्तक ?
+
+
+-- lib.word: rather
+american: रैदर
+arpabet: R AE1 DH ER0
+meaning: बल्कि,अधिक उचित रूप से,पहले,किन्तु
+
+
+-- lib.word: Julian
+american: जूलीऐन
+arpabet: JH UW1 L IY0 AH0 N
+meaning: जूलियन
+
+
+-- lib.word: involved
+american: इन्वॉल्व्ड
+arpabet: IH0 N V AA1 L V D
+meaning: शामिल,लिप्त,अन्तर्निहित,फंसा हुआ
+
+
+-- lib.word: swear
+american: स्वेर
+arpabet: S W EH1 R
+meaning: शपथ लेना ग्रहण करना,सौगंध खाना,
+
+
+-- lib.word: piece
+american: पीस
+arpabet: P IY1 S
+meaning: टुकड़ा,खंड,भाग,रचनांश
+
+
+-- lib.word: busy
+american: बिसी
+arpabet: B IH1 Z IY0
+meaning: व्यस्त,कार्यरत,मशगूल
+
+
+-- lib.word: law
+american: लॉ
+arpabet: L AO1
+meaning: कानून,विधि,नियम,आचार,
+
+
+-- lib.word: decided
+american: डिसाय्डिड
+arpabet: D IH2 S AY1 D IH0 D
+indian: same / डिसाइडेड
+meaning: निर्णय लिया,पक्का,स्पष्ट,दृढ़
+
+
+-- lib.word: black
+american: ब्लैक
+arpabet: B L AE1 K
+meaning: काला,स्याह,सांवला,दुष्टतापू्र्ण,कृष्णा
+
+
+-- lib.word: Joey
+american: जोई
+arpabet: JH OW1 IY0
+meaning: छोटा सिक्का,कंगारू का बच्चा,पशु-शावक
+
+
+-- lib.word: happening
+american: हैपैनिंग
+arpabet: HH AE1 P AH0 N IH0 NG
+meaning: घटित होना,अवसर,संयोग,वारदात,संभव
+
+
+-- lib.word: movie
+american: मूवी
+arpabet: M UW1 V IY0
+meaning: चलचित्र,सिनेमा
+
+
+-- lib.word: we'd
+american: वीड
+arpabet: W IY1 D
+meaning: शादी करना,विवाह करना,ब्याह करना,जोड़ देना
+
+
+-- lib.word: catch
+american: कैच
+arpabet: K AE1 CH
+meaning: पकड़ना,शिकार,बंदी बनाना,धोखा देना
+
+
+-- lib.word: Antonio
+american: ऐन्टोनीओ
+arpabet: AE0 N T OW1 N IY0 OW0
+meaning: एंटोनियो ?
+
+
+-- lib.word: country
+american: कान्ट्री
+arpabet: K AH1 N T R IY0
+meaning: देश,वतन,भूभाग
+
+
+-- lib.word: less
+american: लेस
+arpabet: L EH1 S
+meaning: कम्ब,कमतर,न्यून,कम सीमा तक
+
+
+-- lib.word: perhaps
+american: प्र्हैप्स
+arpabet: P ER0 HH AE1 P S
+meaning: शायद,हो सकता है,संभवतः,संयोग से
+
+
+-- lib.word: step
+american: स्टेप
+arpabet: S T EH1 P
+meaning: कदम,सीढ़ी,पग,डग,चाल
+
+
+-- lib.word: fall
+american: फॉल
+arpabet: F AO1 L
+meaning: गिरना,पतन,विनाश,ढलान,झरना,पड़ना,पराजय
+
+
+-- lib.word: watching
+american: वॉचिंग
+arpabet: W AA1 CH IH0 NG
+meaning: निगरानी करना,पहरा देना,देख रहे,चौकीदारी करना
+
+
+-- lib.word: kept
+american: केप्ट
+arpabet: K EH1 P T
+meaning: रखना,रखैल,उप पत्नी
+
+
+-- lib.word: darling
+american: डॉर्लिंग
+arpabet: D AA1 R L IH0 NG
+meaning: प्रिय,प्यारा,लाडला,लालित
+
+
+-- lib.word: dog
+american: डॉग
+arpabet: D AO1 G
+meaning: कुत्ता,श्वान,नीच,पाज़ी,बदमाश
+
+
+-- lib.word: Ms.
+american: मिस
+arpabet: M IH1 Z
+meaning: अविवाहित महिला,
+
+
+-- lib.word: win
+american: विन
+arpabet: W IH1 N
+meaning: जीतना,विजय पाना कृपा प्राप्त करना,मोह लेना
+
+
+-- lib.word: air
+american: एर
+arpabet: EH1 R
+meaning: वायु,हवा,वात,आकाशीय,पवन
+
+
+-- lib.word: honor
+american: ऑन्र
+arpabet: AA1 N ER0
+indian: आनर
+meaning: सम्मान,आदर,प्रतिष्ठा,मान,पूजा
+
+
+-- lib.word: personal
+american: प्र्सिनैल
+arpabet: P ER1 S IH0 N AH0 L
+indian: परसनल
+meaning: व्यक्तिगत,निजी,वैयक्तिक,जा़ती
+
+
+-- lib.word: moving
+american: मूविंग
+arpabet: M UW1 V IH0 NG
+meaning: चलती,गतिमान,गतिशील,चलता-फिरता
+
+
+-- lib.word: till
+american: टिल
+arpabet: T IH1 L
+meaning: प्रति
+
+
+-- lib.word: admit
+american: ऐड्मिट
+arpabet: AH0 D M IH1 T
+meaning: स्वीकार करना,मान लेना,प्रवेश करना,ग्रहण करना
+
+
+-- lib.word: problems
+american: प्रॉब्लैम्स
+arpabet: P R AA1 B L AH0 M Z
+meaning: मुसीबत,समस्या,मसला,विवाद का विषय
+
+
+-- lib.word: murder
+american: म्र्ड्र
+arpabet: M ER1 D ER0
+indian: Same / मर्डर
+meaning: हत्या,वध,हिंसा,विगाड़ देना,नष्ट करना
+
+
+-- lib.word: strong
+american: स्ट्रॉंग
+arpabet: S T R AO1 NG
+meaning: मजाबूत,शक्तिशाली,दृढ़
+
+
+-- lib.word: he'd
+american: हीड
+arpabet: HH IY1 D
+meaning: वह था
+
+
+-- lib.word: evil
+american: ईवैल
+arpabet: IY1 V AH0 L
+indian: Same/ इविल
+meaning: बुराई,हानी,अमंगल
+
+
+-- lib.word: definitely
+american: डेफैनैट्ली
+arpabet: D EH1 F AH0 N AH0 T L IY0
+meaning: निश्चित रूप से ,ज़रूर ,ही
+
+
+-- lib.word: feels
+american: फील्स
+arpabet: F IY1 L Z
+meaning: महसूस करना
+
+
+-- lib.word: information
+american: इन्फ्र्मेऽशैन
+arpabet: IH2 N F ER0 M EY1 SH AH0 N
+meaning: जानकारी,सूचना,खबर,इत्तिला
+
+
+-- lib.word: honest
+american: ऑनैस्ट
+arpabet: AA1 N AH0 S T
+meaning: इमानदार,सच्चा,सत्यवादी
+
+
+-- lib.word: eye
+american: आय
+arpabet: AY1
+indian: आई
+meaning: आंख,नेत्र,नयन
+
+
+-- lib.word: broke
+american: ब्रोक
+arpabet: B R OW1 K
+meaning: तेाड़ दिया
+
+
+-- lib.word: missed
+american: मिस्ट
+arpabet: M IH1 S T
+indian: मिस्ड
+meaning: चूक होना,निशाना चूकना,छोड़ना
+
+
+-- lib.word: longer
+american: लॉंग्ग्र
+arpabet: L AO1 NG G ER0
+meaning: लंबे समय तक,बहुत समय पूर्व
+
+
+-- lib.word: dollars
+american: डॉल्र्स
+arpabet: D AA1 L ER0 Z
+meaning: डॅालर
+
+
+-- lib.word: tired
+american: टाय्र्ड
+arpabet: T AY1 ER0 D
+meaning: थका हुआ,क्लंत
+
+
+-- lib.word: Jason
+american: जेऽसैन
+arpabet: JH EY1 S AH0 N
+meaning: जैसन
+
+
+-- lib.word: George
+american: जॉर्ज
+arpabet: JH AO1 R JH
+meaning: जार्ज़
+
+
+-- lib.word: evening
+american: ईव्निंग
+arpabet: IY1 V N IH0 NG
+meaning: शाम, संध्या,विकाल
+
+
+-- lib.word: human
+american: हयूमैन
+arpabet: HH Y UW1 M AH0 N
+meaning: मानव,मनुष्य जाति
+
+
+-- lib.word: starting
+american: स्टॉर्टिंग
+arpabet: S T AA1 R T IH0 NG
+meaning: शुरूवात,प्रारम्भ होना,प्रस्थान
+
+
+-- lib.word: Ross
+american: रॉस
+arpabet: R AA1 S
+meaning: रॅास
+
+
+-- lib.word: red
+american: रेड
+arpabet: R EH1 D
+meaning: लाल
+
+
+-- lib.word: entire
+american: इन्टाय्र
+arpabet: IH0 N T AY1 ER0
+meaning: संपूर्ण,समूचा,कुल,पूरा,अखंड,साबित,तमाम
+
+
+-- lib.word: trip
+american: ट्रिप
+arpabet: T R IH1 P
+meaning: यात्रा,आना जाना,सैर
+
+
+-- lib.word: Brooke
+american: ब्रूक
+arpabet: B R UH1 K
+meaning: ब्रुक ?
+
+
+-- lib.word: E.
+american: ई
+arpabet: IY1
+meaning: E ई
+
+
+-- lib.word: club
+american: क्लाब
+arpabet: K L AH1 B
+meaning: सभा,संघ,क्लब
+
+
+-- lib.word: Niles
+american: नाय्ल्स
+arpabet: N AY1 L Z
+meaning: नाइल्स
+
+
+-- lib.word: suppose
+american: सैपोस
+arpabet: S AH0 P OW1 Z
+meaning: कल्पना करना,मान लेना,समझना
+
+
+-- lib.word: calm
+american: कॉम
+arpabet: K AA1 M
+meaning: शांत,उत्तेजनाहीन,नीरस
+
+
+-- lib.word: imagine
+american: इमैजैन
+arpabet: IH0 M AE1 JH AH0 N
+meaning: कल्पना करना,मान लेना,समझना,विचारना,मनगढंत
+
+
+-- lib.word: Todd
+american: टॉड
+arpabet: T AA1 D
+meaning: टोड
+
+
+-- lib.word: fair
+american: फेर
+arpabet: F EH1 R
+meaning: निषपक्ष,गोरा स्वच्छ
+
+
+-- lib.word: caught
+american: कॉट
+arpabet: K AA1 T
+meaning: पकड़ा गया,
+
+
+-- lib.word: B.
+american: बी
+arpabet: B IY1
+meaning: बी
+
+
+-- lib.word: blame
+american: ब्लेऽम
+arpabet: B L EY1 M
+meaning: दोष,आरोप,निंदा
+
+
+-- lib.word: street
+american: स्ट्रीट
+arpabet: S T R IY1 T
+meaning: सड़क,गली,मार्ग,मोहल्ला
+
+
+-- lib.word: sitting
+american: सिटिंग
+arpabet: S IH1 T IH0 NG
+meaning: बैठक,अधिवेशन,सीट
+
+
+-- lib.word: favor
+american: फेऽव्र
+arpabet: F EY1 V ER0
+meaning: कृपा दृष्टि,पक्ष,तरफदारी,अनुग्रह करना
+
+
+-- lib.word: apartment
+american: ऐपॉर्ट्मैन्ट
+arpabet: AH0 P AA1 R T M AH0 N T
+meaning: फ्लैट,मकान का एक कमरा
+
+
+-- lib.word: court
+american: कॉर्ट
+arpabet: K AO1 R T
+indian: कौर्ट
+meaning: कचहरी,कोर्ट,राजसभा,प्रांगण
+
+
+-- lib.word: terrible
+american: टेरैबैल
+arpabet: T EH1 R AH0 B AH0 L
+meaning: भयानक,डरावना,दिल दहलानेवाला,खौ़फ़नाक
+
+
+-- lib.word: clean
+american: क्लीन
+arpabet: K L IY1 N
+meaning: साफ़,स्वच्छ,शुद्ध,अनमेल,अमिश्रित,खालिस
+
+
+-- lib.word: Tony
+american: टोनी
+arpabet: T OW1 N IY0
+meaning: टोनी
+
+
+-- lib.word: learn
+american: ल्र्न
+arpabet: L ER1 N
+indian: लर्न
+meaning: सीखना,जानना,अनुभव शिक्षा विद्या प्राप्त करना
+
+
+-- lib.word: Alison
+american: ऐलिसैन
+arpabet: AE1 L IH0 S AH0 N
+meaning: एलिसन
+
+
+-- lib.word: Rick
+american: रिक
+arpabet: R IH1 K
+meaning: पोरौटी
+
+
+-- lib.word: works
+american: वर्क्स
+arpabet: W ER1 K S
+meaning: काम किरता है,कर्मशाला,संकर्म,कार्य
+
+
+-- lib.word: rose
+american: रोस
+arpabet: R OW1 Z
+meaning: गुलाब
+
+
+-- lib.word: Frasier
+american: फ्रेऽस्र
+arpabet: F R EY1 ZH ER0
+meaning: फ्रजि़यर
+
+
+-- lib.word: relax
+american: रिलैक्स
+arpabet: R IH0 L AE1 K S
+meaning: आराम करना,शिथिलहोना,सुस्ताना,विश्राम,छूट
+
+
+-- lib.word: York
+american: यॉर्क
+arpabet: Y AO1 R K
+meaning: यॅार्क
+
+
+-- lib.word: million
+american: मिल्यैन
+arpabet: M IH1 L Y AH0 N
+meaning: दस लाख
+
+
+-- lib.word: charity
+american: चेरिटी
+arpabet: CH EH1 R IH0 T IY0
+meaning: दान पुण्य,परोपकार,खै़रात,धर्मदान,भिक्षा भीख रहमत
+
+
+-- lib.word: accident
+american: ऐक्सैडैन्ट
+arpabet: AE1 K S AH0 D AH0 N T
+meaning: दुर्घटना,संयोग
+
+
+-- lib.word: wake
+american: वेऽक
+arpabet: W EY1 K
+meaning: जागना,जागृत होना
+
+
+-- lib.word: prove
+american: प्रूव
+arpabet: P R UW1 V
+meaning: साबित करना
+
+
+-- lib.word: Danny
+american: डैनी
+arpabet: D AE1 N IY0
+meaning: डैनी
+
+
+-- lib.word: smart
+american: स्मॉर्ट
+arpabet: S M AA1 R T
+meaning: होसियार,सुंदर
+
+
+-- lib.word: message
+american: मेसैज
+arpabet: M EH1 S AH0 JH
+meaning: संदेश
+
+
+-- lib.word: missing
+american: मिसिंग
+arpabet: M IH1 S IH0 NG
+meaning: लापता,गुम,गायब,
+
+
+-- lib.word: forgot
+american: फ्र्गॉट
+arpabet: F ER0 G AA1 T
+indian: Same / फ़ारगाट
+meaning: भूला
+
+
+-- lib.word: small
+american: स्मॉल
+arpabet: S M AO1 L
+meaning: छोटा,लघु,
+
+
+-- lib.word: interested
+american: इन्ट्रैस्टैड
+arpabet: IH1 N T R AH0 S T AH0 D
+meaning: इच्छुक,हित बद्ध,पक्षपातपूर्ण
+
+
+-- lib.word: table
+american: टेऽबैल
+arpabet: T EY1 B AH0 L
+meaning: तालिका,मेज़,पटल
+
+
+-- lib.word: nbsp
+american: unknown
+arpabet: unknown
+meaning: अंजान,अज्ञात,अपरिचित
+
+
+-- lib.word: become
+american: बिकाम
+arpabet: B IH0 K AH1 M
+meaning: बन गये
+
+
+-- lib.word: Craig
+american: क्रेऽग
+arpabet: K R EY1 G
+meaning: क्रेग
+
+
+-- lib.word: mouth
+american: माव्थ
+arpabet: M AW1 TH
+meaning: मुंह,मुहाना,मुख
+
+
+-- lib.word: pregnant
+american: प्रेग्नैन्ट
+arpabet: P R EH1 G N AH0 N T
+meaning: गर्भवती,गाभिन,गर्भिणी
+
+
+-- lib.word: middle
+american: मिडैल
+arpabet: M IH1 D AH0 L
+meaning: मध्य,बीच,मंझला
+
+
+-- lib.word: Billy
+american: बिली
+arpabet: B IH1 L IY0
+meaning: बिल्ली ?
+
+
+-- lib.word: ring
+american: रिंग
+arpabet: R IH1 NG
+meaning: अंगूठी,गोला
+
+
+-- lib.word: careful
+american: केर्फैल
+arpabet: K EH1 R F AH0 L
+indian: कौेयरफुल
+meaning: सावधान,सचेत,चिंतित
+
+
+-- lib.word: shall
+american: शैल
+arpabet: SH AE1 L
+meaning: करेगा,भविष्य काल सूचक सहायक क्रिया
+
+
+-- lib.word: dude
+american: डूड
+arpabet: D UW1 D
+meaning: लड़का,छैला,लौंडा,छोकरा
+
+
+-- lib.word: team
+american: टीम
+arpabet: T IY1 M
+meaning: समूह,टोली,टीम
+
+
+-- lib.word: ride
+american: राय्ड
+arpabet: R AY1 D
+meaning: सवारी,घोड़ा से यात्रा,गाड़ी से यात्रा,पथ
+
+
+-- lib.word: figured
+american: फिग्य्र्ड
+arpabet: F IH1 G Y ER0 D
+meaning: लगा,नक्शे से सुसज्जित,बेल-बूटेदार
+
+
+-- lib.word: wear
+american: वेर
+arpabet: W EH1 R
+indian: Same / वियर
+meaning: पहनना,घिसा हुआ,वस्त्र
+
+
+-- lib.word: shoot
+american: शूट
+arpabet: SH UW1 T
+meaning: शिकार,टहनी,आखेट
+
+
+-- lib.word: stick
+american: स्टिक
+arpabet: S T IH1 K
+meaning: छड़ी,लाठी,लकड़ी
+
+
+-- lib.word: ray
+american: रेऽ
+arpabet: R EY1
+meaning: किरण
+
+
+-- lib.word: follow
+american: फॉलो
+arpabet: F AA1 L OW0
+meaning: अनुसरण करना,चलना
+
+
+-- lib.word: Bo
+american: बो
+arpabet: B OW1
+meaning: बो ?
+
+
+-- lib.word: angry
+american: ऐंग्ग्री
+arpabet: AE1 NG G R IY0
+meaning: गुस्सा,नाराज़,अप्रसन्न,खफा़
+
+
+-- lib.word: instead
+american: इन्स्टेड
+arpabet: IH0 N S T EH1 D
+meaning: बजाय,बदले में,जगह में
+
+
+-- lib.word: buddy
+american: बाडी
+arpabet: B AH1 D IY0
+indian:
+meaning: साथी,दोस्त,भाई
+
+
+-- lib.word: write
+american: राय्ट
+arpabet: R AY1 T
+meaning: लिखना,लिखो
+
+
+-- lib.word: stopped
+american: स्टॉप्ट
+arpabet: S T AA1 P T
+meaning: रोका हुआ,बन्द करना,रोकना
+
+
+-- lib.word: early
+american: र्ली
+arpabet: ER1 L IY0
+meaning: शीघ्र,जल्दी
+
+
+-- lib.word: angel
+american: एऽन्जैल
+arpabet: EY1 N JH AH0 L
+meaning: देवदूत
+
+
+-- lib.word: nick
+american: निक
+arpabet: N IH1 K
+meaning: छेद,काटने का निशान या चिह्न
+
+
+-- lib.word: ran
+american: रैन
+arpabet: R AE1 N
+meaning: दौड़ना
+
+
+-- lib.word: war
+american: वॉर
+arpabet: W AO1 R
+meaning: युद्ध,लड़ाई,जंग
+
+
+-- lib.word: standing
+american: स्टैन्डिंग
+arpabet: S T AE1 N D IH0 NG
+meaning: खड़ा है,स्थायित्व,प्रतिष्ठा,स्थिति
+
+
+-- lib.word: forgive
+american: फ्र्गिव
+arpabet: F ER0 G IH1 V
+indian: फारगिव
+meaning: क्षमा करना,छोड़ना,मुक्त कर देना
+
+
+-- lib.word: jail
+american: जेऽल
+arpabet: JH EY1 L
+meaning: कारागार,बन्दीगृह,जेल,कारागृह
+
+
+-- lib.word: wearing
+american: वेरिंग
+arpabet: W EH1 R IH0 NG
+meaning: बर्दास्त करना,पहनने का,थकाने वाला,उकताने वाला
+
+
+-- lib.word: Miguel
+american: मिगेल
+arpabet: M IH0 G EH1 L
+meaning: मिगुएल
+
+मिगुएल नीग्रो मूल के होते हैं जो ईश्वर के समान माने जाते हैं
+
+
+-- lib.word: ladies
+american: लेऽडीस
+arpabet: L EY1 D IY0 Z
+meaning: महिलाएं
+
+
+-- lib.word: kinda
+american: किन्डै
+arpabet: K IH1 N D AH0
+meaning: किंड़ा
+
+kinda is a word confusing kind of
+
+
+-- lib.word: lunch
+american: लान्च
+arpabet: L AH1 N CH
+meaning: दोपहर का भोजन
+
+
+-- lib.word: Cristian
+american: unknown
+arpabet: unknown
+meaning: क्रिस्चियन
+
+a person born in Cristian community
+
+
+-- lib.word: Greenlee
+american: ग्रीन्ली
+arpabet: G R IY1 N L IY2
+meaning: ग्रीनली
+
+a gender neutral name "from the green field
+
+
+-- lib.word: gotten
+american: गॉटैन
+arpabet: G AA1 T AH0 N
+meaning: कमाई
+
+
+-- lib.word: hoping
+american: होपिंग
+arpabet: HH OW1 P IH0 NG
+meaning: उम्मीद करना
+
+
+-- lib.word: Phoebe
+american: फीबी
+arpabet: F IY1 B IY0
+meaning: चॅाद,चमकदार,साफ़,
+
+latinised Greek word meaning bright,clear or radiant
 
 
 -- lib.word: thousand
 american: थाव्सैन्ड
+arpabet: TH AW1 Z AH0 N D
 meaning: हजार, १०००
 
+
+-- lib.word: ridge
+american: रिज
+arpabet: R IH1 JH
+meaning: चोटी
+
+
+-- lib.word: music
+american: म्यूसिक
+arpabet: M Y UW1 Z IH0 K
+meaning: संगीत,सुर,गान विद्या
+
+
+-- lib.word: Luke
+american: लूक
+arpabet: L UW1 K
+meaning: ल्यूक,
+
+luke is the english form of lati lucas which refers the region southern ,Italy
+
+
+-- lib.word: paper
+american: पेऽप्र
+arpabet: P EY1 P ER0
+indian: Same / पेपर
+meaning: काग़ज़,दस्त्वेज़,लेख्य
+
+
+-- lib.word: tough
+american: टाफ
+arpabet: T AH1 F
+meaning: कठोर,कड़ा,रूखा
+
+
+-- lib.word: tape
+american: टेऽप
+arpabet: T EY1 P
+meaning: टेप,फीता,पट्टिका
+
+
+-- lib.word: Emily
+american: एमिली
+arpabet: EH1 M IH0 L IY0
+meaning: एमिली,
+
+Emily is English form of Latin name Aemilia which means to or Exel or Rival
+
+
+-- lib.word: state
+american: स्टेऽट
+arpabet: S T EY1 T
+meaning: स्थिति,अवस्था,राज्य
+
+
+-- lib.word: count
+american: काव्न्ट
+arpabet: K AW1 N T
+meaning: गिनती करना,गणना,संख्या
+
+
+-- lib.word: college
+american: कॉलिज
+arpabet: K AA1 L IH0 JH
+meaning: कालेज,महाविद्यालय,शिक्षण संस्थान
+
+
+-- lib.word: boyfriend
+american: बॉयफ्रेन्ड
+arpabet: B OY1 F R EH2 N D
+meaning: प्रेमी
+
+
+-- lib.word: proud
+american: प्राव्ड
+arpabet: P R AW1 D
+meaning: गर्व,स्वाभिमानी,घमंडी गर्वीला,अभिमानपूर्ण
+
+
+-- lib.word: agree
+american: ऐग्री
+arpabet: AH0 G R IY1
+meaning: सहमत होना,स्वीकार करना,राज़ी होना,अनुकूल होना
+
+
+-- lib.word: birthday
+american: ब्र्थडेऽ
+arpabet: B ER1 TH D EY2
+meaning: जन्मदिन,पैदा होने की तिथि
+
+
+-- lib.word: bill
+american: बिल
+arpabet: B IH1 L
+meaning: बिल,विधेयक,चोंच,बीजक,विज्ञापन पत्र
+
+
+-- lib.word: they've
+american: देऽव
+arpabet: DH EY1 V
+indian: देहैव
+meaning: उन्होने,उनके द्वारा करना,उनके पास होना
+
+
+-- lib.word: Timmy
+american: टिमी
+arpabet: T IH1 M IY0
+meaning: पेट
+
+
+-- lib.word: history
+american: हिस्ट्री
+arpabet: HH IH1 S T ER0 IY0
+meaning: इतिहास,वृतांत,इतिवृत्ति
+
+
+-- lib.word: share
+american: शेर
+arpabet: SH EH1 R
+indian: शेयर
+meaning: साझा करना,हिस्सा,अंश
+
+
+-- lib.word: offer
+american: ऑफ्र
+arpabet: AO1 F ER0
+meaning: प्रस्ताव,सुझाव,चेष्टा
+
+
+-- lib.word: hurry
+american: हरी
+arpabet: HH ER1 IY0
+meaning: जल्दी,आतुरता
+
+
+-- lib.word: ow
+american: ओ
+arpabet: OW1
+meaning: एकायक दर्द को व्यक्त करना
+
+
+-- lib.word: feet
+american: फीट
+arpabet: F IY1 T
+meaning: पैर,पॅाव,पाद
+
+
+-- lib.word: wondering
+american: वान्ड्रिंग
+arpabet: W AH1 N D ER0 IH0 NG
+meaning: सोच,जिज्ञासु,हैरान
+
+
+-- lib.word: simple
+american: सिम्पैल
+arpabet: S IH1 M P AH0 L
+meaning: सरल,आसान,सादा
+
+
+-- lib.word: decision
+american: डिसिसैन
+arpabet: D IH0 S IH1 ZH AH0 N
+meaning: निर्णय,फैसला,विचार,परिणाम,निश्‌चय
+
+
+-- lib.word: building
+american: बिल्डिंग
+arpabet: B IH1 L D IH0 NG
+meaning: इमारत,निर्माण,भवन,
+
+
+-- lib.word: ones
+american: वान्स
+arpabet: W AH1 N Z
+meaning: अकेला,एक कलिये
+
+
+-- lib.word: finish
+american: फिनिश
+arpabet: F IH1 N IH0 SH
+meaning: समाप्त करना,पूर्ण करना
+
+
+-- lib.word: voice
+american: वॉयस
+arpabet: V OY1 S
+meaning: आवाज,वाणी,स्वर
+
+
+-- lib.word: herself
+american: हर्सेल्फ
+arpabet: HH ER0 S EH1 L F
+meaning: स्वयं,आप,खुद
+
+स्त्री वाचक शब्द
+
+
+-- lib.word: Chris
+american: क्रिस
+arpabet: K R IH1 S
+meaning: नाम के पहले(prefix) प्रयोग होने वाला
+
+
+-- lib.word: would've
+american: वूडैव
+arpabet: W UH1 D AH0 V
+meaning: चाहेंगे
+
+
+-- lib.word: list
+american: लिस्ट
+arpabet: L IH1 S T
+meaning: सूची पत्र
+
+
+-- lib.word: Kay
+american: केऽ
+arpabet: K EY1
+meaning: ओके
+
+used in place of OK
+
+
+-- lib.word: mess
+american: मेस
+arpabet: M EH1 S
+meaning: भोजनालय,गडबड़,झंझट
+
+
+-- lib.word: deserve
+american: डिस्र्व
+arpabet: D IH0 Z ER1 V
+indian: डिज़र्व
+meaning: योग्य, लायक, उचित
+
+
+-- lib.word: evidence
+american: एवैडैन्स
+arpabet: EH1 V AH0 D AH0 N S
+indian: Same । इविडेन्स
+meaning: सबूत, साक्ष्य, प्रमाण,
+
+
+-- lib.word: cute
+american: क्यूट
+arpabet: K Y UW1 T
+meaning: प्यारा, चतुर, प्रवीण
+
+
+-- lib.word: Jerry
+american: जेरी
+arpabet: JH EH1 R IY0
+meaning: जेर्री
+
+Jerry is a name used for males
+
+
+-- lib.word: dress
+american: ड्रेस
+arpabet: D R EH1 S
+meaning: पोशाक, पहनावा, परिधान
+
+
+-- lib.word: interesting
+american: इन्ट्रैस्टिंग
+arpabet: IH1 N T R AH0 S T IH0 NG
+meaning: दिलचस्प. आनंददायक रोचक, सुहावना, चित्ताकर्षक, मन भावन, मनोहर
+
+
+-- lib.word: Jesus
+american: जीसैस
+arpabet: JH IY1 Z AH0 S
+meaning: यीशू
+
+
+-- lib.word: James
+american: जेऽम्स
+arpabet: JH EY1 M Z
+meaning: जेम्स
+
+James means suplanter or replcer
+
+
+-- lib.word: hotel
+american: होटेल
+arpabet: HH OW0 T EH1 L
+meaning: होटल, विश्रामालय
+
+
+-- lib.word: enjoy
+american: एन्जॉय
+arpabet: EH0 N JH OY1
+meaning: आनंद लेना, उपभोग करना, रस लेना
+
+
+-- lib.word: Ryan
+american: रायैन
+arpabet: R AY1 AH0 N
+meaning: रायन
+
+Arabic origin means waterd, luxuriant, plentyful, heaven's flower
+
+
+-- lib.word: Lindsay
+american: लिन्ड्सी
+arpabet: L IH1 N D Z IY0
+meaning: लिंडसे
+
+it is neutralgender name means from the lake settlement island
+
+
+-- lib.word: quiet
+american: क्वायैट
+arpabet: K W AY1 AH0 T
+meaning: सम्पूर्ण रूप में, अत्यंत, बिल्कुल, सब
+
+
+-- lib.word: concerned
+american: कैन्स्र्न्ड
+arpabet: K AH0 N S ER1 N D
+meaning: सम्बंधित, चिंतित, सम्बद्ध
+
+
+-- lib.word: road
+american: रोड
+arpabet: R OW1 D
+meaning: सड़क, मार्ग, पथ, पद्धति, राज पथ
+
+
+-- lib.word: eve
+american: ईव
+arpabet: IY1 V
+meaning: पूर्ववर्ती संध्या, पूर्ववती दिन
+
+
+-- lib.word: staying
+american: स्टेऽइंग
+arpabet: S T EY1 IH0 NG
+meaning: सहने योग्य, प्रवासयोग्य, सहनसील
+
+
+-- lib.word: short
+american: शॉर्ट
+arpabet: SH AO1 R T
+meaning: कम, छोटा, संक्षेप में, अल्पकालीन
+
+
+-- lib.word: beat
+american: बीट
+arpabet: B IY1 T
+meaning: हराना, गश्त, इलाका, चूकना
+
+
+-- lib.word: sweetie
+american: स्वीटी
+arpabet: S W IY1 T IY0
+meaning: प्रेमी, छोटा कलाकंद, माश़ूक
+
+
+-- lib.word: mention
+american: मेन्शैन
+arpabet: M EH1 N SH AH0 N
+meaning: उल्लेख, हवाला, जिक्र, कथन
+
+
+-- lib.word: clothes
+american: क्लोदस
+arpabet: K L OW1 DH Z
+meaning: वस्त्र, कपड़ा,पोशाक, परिधान, वेश । वेष पहनाव
+
+
+-- lib.word: finished
+american: फिनिशट
+arpabet: F IH1 N IH0 SH T
+meaning: समाप्त, खत्म, पूरा, पू्रण, सिद्ध
+
+
+-- lib.word: fell
+american: फेल
+arpabet: F EH1 L
+meaning: गिरना, रोम सहित चमड़ा, गिराना, मार डालना
+
+
+-- lib.word: neither
+american: नीदर
+arpabet: N IY1 DH ER0
+indian: Same / नाइदर
+meaning: भी नहीं, न यह न वह, दोनों में से कोई नहीं नइधर न उधर
+
+
+-- lib.word: fix
+american: फिक्स
+arpabet: F IH1 K S
+meaning: ठीक करना, लगाना, जमाना, कड़ा हो जाना
+
+
+-- lib.word: victor
+american: विक्ट्र
+arpabet: V IH1 K T ER0
+meaning: विजेता
+
+a code word in letter 'v' used in radio communication
+
+
+-- lib.word: respect
+american: रिस्पेक्ट
+arpabet: R IH0 S P EH1 K T
+meaning: मान सम्मान, प्रतिष्ठा, विषय
+
+
+-- lib.word: spent
+american: स्पेन्ट
+arpabet: S P EH1 N T
+meaning: खर्च करना, व्यय करनाथका हुआ, क्षीण
+
+
+-- lib.word: prison
+american: प्रिसैन
+arpabet: P R IH1 Z AH0 N
+meaning: कारागार, जेल, बन्दीगृह
+
+
+-- lib.word: attention
+american: ऐटेन्शैन
+arpabet: AH0 T EH1 N SH AH0 N
+meaning: ध्यान करना , ध्यान देना, सोचना, चेतावनी
+
+
+-- lib.word: holding
+american: होल्डिंग
+arpabet: HH OW1 L D IH0 NG
+meaning: पकड़ना, स्वामित्व, अधिकार, संपत्ति
+
+
+-- lib.word: calls
+american: कॉल्स
+arpabet: K AO1 L Z
+meaning: पुकारना, बुलाना, काल्स(टेलिफोन से संबन्धित)
+
+
+-- lib.word: near
+american: निर
+arpabet: N IH1 R
+indian: Same / नियर
+meaning: पास, नज़दीक,
+
+
+-- lib.word: surprised
+american: स्र्प्राय्स्ड
+arpabet: S ER0 P R AY1 Z D
+meaning: विस्मित, होना, आश्चर्य, ताज्जुब
+
+
+-- lib.word: bar
+american: बॉर
+arpabet: B AA1 R
+meaning: बार(समय की संख्या से सम्बंधित, मधुशाला
+
+
+-- lib.word: Beth
+american: बेथ
+arpabet: B EH1 TH
+meaning: ऊसर ज़मीन, ऋणके लिया गय पेशगी, धन
+
+
+-- lib.word: pass
+american: पैस
+arpabet: P AE1 S
+meaning: उत्तीर्ण, पास होना, मार्ग, सफलता
+
+
+-- lib.word: keeping
+american: कीपिंग
+arpabet: K IY1 P IH0 NG
+meaning: रखना, सुरक्षा, संरक्षण
+
+
+-- lib.word: gift
+american: गिफ्ट
+arpabet: G IH1 F T
+meaning: उपहार,
+
+
+-- lib.word: hadn't
+american: हैडैन्ट
+arpabet: HH AE1 D AH0 N T
+meaning: नहीं था
+
+
+-- lib.word: putting
+american: पाटिंग
+arpabet: P AH1 T IH0 NG
+meaning: रखना, डाल
+
+
+-- lib.word: dark
+american: डॉर्क
+arpabet: D AA1 R K
+meaning: अंधेरा, काला, गुप्त
+
+
+-- lib.word: self
+american: सेल्फ
+arpabet: S EH1 L F
+meaning: खुद, स्वतः, स्व
+
+
+-- lib.word: owe
+american: ओ
+arpabet: OW1
+meaning: आभारी होना, ऋणी होना, देनदार होना, कर्ज़दार होना
+
+
+-- lib.word: using
+american: यूसिंग
+arpabet: Y UW1 Z IH0 NG
+meaning: उपयोग करते हुए, दस्तूर, व्यवहार
+
+
+-- lib.word: Nora
+american: नॉरै
+arpabet: N AO1 R AH0
+meaning: नोरा
+
+Nora is short of Anglo-Norman word Honora, Latin word honor, and Greek word Eleanora
+
+
+-- lib.word: ice
+american: आय्स
+arpabet: AY1 S
+indian: आइस
+meaning: बार्फ, हिम, आइस
+
+
+-- lib.word: helping
+american: हेल्पिंग
+arpabet: HH EH1 L P IH0 NG
+meaning: सहायता करना, मदद करना, हिस्सा
+
+
+-- lib.word: bitch
+american: बिच
+arpabet: B IH1 CH
+meaning: कुतिया
+
+
+-- lib.word: normal
+american: नॉर्मैल
+arpabet: N AO1 R M AH0 L
+meaning: साधारण, मामूली, प्रकृतिस्थ
+
+
+-- lib.word: aunt
+american: ऐन्ट
+arpabet: AE1 N T
+meaning: चाची, मौसी, मामी
+
+
+-- lib.word: lawyer
+american: लॉय्र
+arpabet: L AO1 Y ER0
+meaning: वकील, विधिवक्ता, न्यायज्ञ
+
+
+-- lib.word: apart
+american: ऐपॉर्ट
+arpabet: AH0 P AA1 R T
+indian: आइस
+meaning: अंलग, दूर, एक तरफ
+
+
+-- lib.word: certain
+american: स्र्टैन
+arpabet: S ER1 T AH0 N
+indian: सर्टेन
+meaning: निश्चित, कतिपय
+
+
+-- lib.word: plans
+american: प्लैन्स
+arpabet: P L AE1 N Z
+meaning: योजनाओं
+
+
+-- lib.word: girlfriend
+american: ग्र्ल्फ्रेन्ड
+arpabet: G ER1 L F R EH2 N D
+meaning: प्रमिका, सखी, सहेली
+
+
+-- lib.word: floor
+american: फ्लॉर
+arpabet: F L AO1 R
+indian: फ्लोर
+meaning: मंजिल, गृह तल, फर्श
+
+
+-- lib.word: whether
+american: वेदर
+arpabet: W EH1 DH ER0
+indian: Same । व्हेदर
+meaning: या, दोनों में से कौन, कि क्या
+
+
+-- lib.word: everything's
+american: एव्रीथिंग्स
+arpabet: EH1 V R IY0 TH IH2 NG Z
+meaning: सब कुछ, हर चीज़, समस्त, कुल
+
+
+-- lib.word: present
+american: प्रेसैन्ट
+arpabet: P R EH1 Z AH0 N T
+meaning: वर्तमान, मौज़ूद, मौज़ूदा
+
+
+-- lib.word: earth
+american: र्थ
+arpabet: ER1 TH
+indian: अर्थ
+meaning: धरती, पृथ्वी, भूमि
+
+
+-- lib.word: private
+american: प्राय्वैट
+arpabet: P R AY1 V AH0 T
+meaning: निजी, गैर-सरकारी, व्यक्तिगत
+
+
+-- lib.word: box
+american: बॉक्स
+arpabet: B AA1 K S
+meaning: डिब्बा, पेटी, बक्स
+
+
+-- lib.word: cover
+american: काव्र
+arpabet: K AH1 V ER0
+indian: कवर
+meaning: आवरण, ढक्कन, आच्छादन
+
+
+-- lib.word: judge
+american: जाज
+arpabet: JH AH1 JH
+indian: जज
+meaning: न्यायाधीश, जज़, पंच
+
+
+-- lib.word: upstairs
+american: ऐप्स्टेर्स
+arpabet: AH0 P S T EH1 R Z
+meaning: ऊपर को,उच्च तल को
+
+
+-- lib.word: Alexis
+american: ऐलेक्सिस
+arpabet: AH0 L EH1 K S IH0 S
+meaning: सहायक, सुरक्षाकरने वाला.
+
+A Geek word
+
+
+-- lib.word: Shawn
+american: शॉन
+arpabet: SH AO1 N
+meaning: शॅान
+
+the god is gracious
+
+
+-- lib.word: sake
+american: सेऽक
+arpabet: S EY1 K
+meaning: लिए, खातिर, लिहाज
+
+
+-- lib.word: mommy
+american: मॉमी
+arpabet: M AA1 M IY0
+meaning: मां, माता
+
+
+-- lib.word: possibly
+american: पॉसैब्ली
+arpabet: P AA1 S AH0 B L IY0
+meaning: संभवतः, कदाचित
+
+
+-- lib.word: worst
+american: वर्स्ट
+arpabet: W ER1 S T
+meaning: सबसे खराब, निकृष्तम, सबसे बुरा, अत्यंत बुरा
