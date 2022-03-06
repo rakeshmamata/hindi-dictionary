@@ -55,7 +55,6 @@ padding-horizontal: 20
 style: bold
 
 --- ftd.text: $arpabet
-move-up: 3
 
 --- container: ftd.main
 
