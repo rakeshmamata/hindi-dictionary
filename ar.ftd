@@ -1,0 +1,469 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: are
+american: ऑर
+arpabet: AA1 R
+meaning: हैं
+
+
+-- lib.word: around
+american: राव्न्ड
+arpabet: ER0 AW1 N D
+indian: एराउन्ड
+meaning: चारों ओर ,आस-पास ,इर्द-गिर्द
+
+
+-- lib.word: aren't
+american: ऑरैन्ट
+arpabet: AA1 R AH0 N T
+meaning: नहीं कर रहे हैं
+
+
+-- lib.word: arms
+american: ऑर्म्स
+arpabet: AA1 R M Z
+
+
+
+
+-- lib.word: art
+american: ऑर्ट
+arpabet: AA1 R T
+
+
+
+
+-- lib.word: army
+american: ऑर्मी
+arpabet: AA1 R M IY0
+
+
+
+
+-- lib.word: arm
+american: ऑर्म
+arpabet: AA1 R M
+
+
+
+
+-- lib.word: arrival
+american: राय्वैल
+arpabet: ER0 AY1 V AH0 L
+
+
+
+
+-- lib.word: arose
+american: रोस
+arpabet: ER0 OW1 Z
+
+
+
+
+-- lib.word: Arthur
+american: ऑर्थर
+arpabet: AA1 R TH ER0
+
+
+
+
+-- lib.word: article
+american: ऑर्टैकैल
+arpabet: AA1 R T AH0 K AH0 L
+
+
+
+
+-- lib.word: argument
+american: ऑर्ग्यैमैन्ट
+arpabet: AA1 R G Y AH0 M AH0 N T
+
+
+
+
+-- lib.word: articles
+american: ऑर्टैकैल्स
+arpabet: AA1 R T AH0 K AH0 L Z
+
+
+
+
+-- lib.word: arise
+american: राय्स
+arpabet: ER0 AY1 Z
+
+
+
+
+-- lib.word: artist
+american: ऑर्टैस्ट
+arpabet: AA1 R T AH0 S T
+
+
+
+
+-- lib.word: arrangement
+american: रेऽन्ज्मैन्ट
+arpabet: ER0 EY1 N JH M AH0 N T
+
+
+
+
+-- lib.word: arts
+american: ऑर्ट्स
+arpabet: AA1 R T S
+
+
+
+
+-- lib.word: armies
+american: ऑर्मीस
+arpabet: AA1 R M IY0 Z
+
+
+
+
+-- lib.word: arrive
+american: राय्व
+arpabet: ER0 AY1 V
+
+
+
+
+-- lib.word: arrested
+american: रेस्टैड
+arpabet: ER0 EH1 S T AH0 D
+
+
+
+
+-- lib.word: arrangements
+american: रेऽन्ज्मैन्ट्स
+arpabet: ER0 EY1 N JH M AH0 N T S
+
+
+
+
+-- lib.word: arguments
+american: ऑर्ग्यैमैन्ट्स
+arpabet: AA1 R G Y AH0 M AH0 N T S
+
+
+
+
+-- lib.word: arrange
+american: रेऽन्ज
+arpabet: ER0 EY1 N JH
+
+
+
+
+-- lib.word: area
+american: एरीऐ
+arpabet: EH1 R IY0 AH0
+
+
+
+
+-- lib.word: artillery
+american: ऑर्टिल्री
+arpabet: AA0 R T IH1 L ER0 IY0
+
+
+
+
+-- lib.word: arrest
+american: रेस्ट
+arpabet: ER0 EH1 S T
+
+
+
+
+-- lib.word: arrows
+american: ऐरोस
+arpabet: AE1 R OW0 Z
+
+
+
+
+-- lib.word: artificial
+american: ऑर्टैफिशैल
+arpabet: AA2 R T AH0 F IH1 SH AH0 L
+
+
+
+
+-- lib.word: array
+american: रेऽ
+arpabet: ER0 EY1
+
+
+
+
+-- lib.word: artistic
+american: ऑर्टिस्टिक
+arpabet: AA0 R T IH1 S T IH0 K
+
+
+
+
+-- lib.word: ardent
+american: ऑर्डैन्ट
+arpabet: AA1 R D AH0 N T
+
+
+
+
+-- lib.word: artists
+american: ऑर्टिस्ट्स
+arpabet: AA1 R T IH0 S T S
+
+
+
+
+-- lib.word: arrow
+american: ऐरो
+arpabet: AE1 R OW0
+
+
+
+
+-- lib.word: Arab
+american: ऐरैब
+arpabet: AE1 R AH0 B
+
+
+
+
+-- lib.word: arch
+american: ऑर्च
+arpabet: AA1 R CH
+
+
+
+
+-- lib.word: Arnold
+american: ऑर्नैल्ड
+arpabet: AA1 R N AH0 L D
+
+
+
+
+-- lib.word: architecture
+american: ऑर्कैटेक्चर
+arpabet: AA1 R K AH0 T EH2 K CH ER0
+
+
+
+
+-- lib.word: armour
+american: ऑर्म्र
+arpabet: AA1 R M ER0
+
+
+
+
+-- lib.word: arising
+american: राय्सिंग
+arpabet: ER0 AY1 Z IH0 NG
+
+
+
+
+-- lib.word: argue
+american: ऑर्ग्यु
+arpabet: AA1 R G Y UW0
+
+
+
+
+-- lib.word: aristocracy
+american: एरैस्टॉक्रैसी
+arpabet: EH2 R AH0 S T AA1 K R AH0 S IY0
+
+
+
+
+-- lib.word: Arabic
+american: ऐरैबिक
+arpabet: AE1 R AH0 B IH0 K
+
+
+
+
+-- lib.word: aristocratic
+american: रिस्टैक्रैटिक
+arpabet: ER0 IH2 S T AH0 K R AE1 T IH0 K
+
+
+
+
+-- lib.word: arisen
+american: रिसैन
+arpabet: ER0 IH1 Z AH0 N
+
+
+
+
+-- lib.word: Arkansas
+american: ऑर्कैन्सॉ
+arpabet: AA1 R K AH0 N S AA2
+
+
+
+
+-- lib.word: ark
+american: ऑर्क
+arpabet: AA1 R K
+
+
+
+
+-- lib.word: arbitrary
+american: ऑर्बैट्रेरी
+arpabet: AA1 R B AH0 T R EH2 R IY0
+
+
+
+
+-- lib.word: arches
+american: ऑर्चैस
+arpabet: AA1 R CH AH0 Z
+
+
+
+
+-- lib.word: Arabian
+american: ऐरेऽबीऐन
+arpabet: AH0 R EY1 B IY0 AH0 N
+
+
+
+
+-- lib.word: armor
+american: ऑर्म्र
+arpabet: AA1 R M ER0
+
+
+
+
+-- lib.word: Aristotle
+american: एरैस्टॉटैल
+arpabet: EH1 R AH0 S T AA2 T AH0 L
+
+
+
+
+-- lib.word: architect
+american: ऑर्कैटेक्ट
+arpabet: AA1 R K AH0 T EH2 K T
+
+
+
+
+-- lib.word: archie
+american: ऑर्ची
+arpabet: AA1 R CH IY0
+
+
+
+
+-- lib.word: archbishop
+american: ऑर्चबिशैप
+arpabet: AA1 R CH B IH1 SH AH0 P
+
+
+
+
+-- lib.word: arched
+american: ऑर्चट
+arpabet: AA1 R CH T
+
+
+
+
+-- lib.word: arouse
+american: राव्स
+arpabet: ER0 AW1 Z
+
+
+
+
+-- lib.word: arabia
+american: ऐरेऽबीऐ
+arpabet: AH0 R EY1 B IY0 AH0
+
+
+
+
+-- lib.word: ardor
+american: ऑर्ड्र
+arpabet: AA1 R D ER0
+
+
+
+
+-- lib.word: aright
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: arctic
+american: ऑर्क्टिक
+arpabet: AA1 R K T IH0 K
+
+
+
+
+-- lib.word: arrogance
+american: एरैगैन्स
+arpabet: EH1 R AH0 G AH0 N S
+
+
+
+
+-- lib.word: arena
+american: रीनै
+arpabet: ER0 IY1 N AH0
+
+
+
+
+-- lib.word: arduous
+american: ऑर्जुऐस
+arpabet: AA1 R JH UW0 AH0 S
+
+
+
+
+-- lib.word: arithmetic
+american: एरिथमेटिक
+arpabet: EH2 R IH0 TH M EH1 T IH0 K
+
+
+
+
+-- lib.word: artful
+american: ऑर्ट्फैल
+arpabet: AA1 R T F AH0 L
+
+
+
+
+-- lib.word: arrogant
+american: एरैगैन्ट
+arpabet: EH1 R AH0 G AH0 N T
+
+
+
+
+-- lib.word: armchair
+american: ऑर्म्चेर
+arpabet: AA1 R M CH EH2 R
+
+
+
+

@@ -1,0 +1,582 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: me
+american: मी
+arpabet: M IY1
+meaning: मैं
+
+मैं का प्रयोग अपने लिए किया जाता है
+
+
+-- lib.word: mean
+american: मीन
+arpabet: M IY1 N
+meaning: तात्पर्य , औसत, माध्य
+
+
+-- lib.word: meet
+american: मीट
+arpabet: M IY1 T
+meaning: मिलना , भेंट करना , मिल जाना
+
+
+-- lib.word: means
+american: मीन्स
+arpabet: M IY1 N Z
+meaning: साधन , से अभिप्रेत
+
+
+-- lib.word: men
+american: मेन
+arpabet: M EH1 N
+meaning: आदमियों ,व्यक्तियों,पुरुषों
+
+
+-- lib.word: met
+american: मेट
+arpabet: M EH1 T
+meaning: मिलना , भेंट करना , मिल जाना
+
+
+-- lib.word: meant
+american: मेन्ट
+arpabet: M EH1 N T
+indian: Same / मीन्ट
+meaning: मतलब
+
+
+-- lib.word: meeting
+american: मीटिंग
+arpabet: M IY1 T IH0 NG
+meaning: बैठक ,सभा ,भेंट
+
+
+-- lib.word: message
+american: मेसैज
+arpabet: M EH1 S AH0 JH
+meaning: संदेश
+
+
+-- lib.word: mess
+american: मेस
+arpabet: M EH1 S
+meaning: भोजनालय,गडबड़,झंझट
+
+
+-- lib.word: mention
+american: मेन्शैन
+arpabet: M EH1 N SH AH0 N
+meaning: उल्लेख, हवाला, जिक्र, कथन
+
+
+-- lib.word: merely
+american: मिर्ली
+arpabet: M IH1 R L IY0
+
+
+
+
+-- lib.word: mere
+american: मिर
+arpabet: M IH1 R
+
+
+
+
+-- lib.word: medium
+american: मीडीऐम
+arpabet: M IY1 D IY0 AH0 M
+
+
+
+
+-- lib.word: memory
+american: मेम्री
+arpabet: M EH1 M ER0 IY0
+
+
+
+
+-- lib.word: mentioned
+american: मेन्शैन्ड
+arpabet: M EH1 N SH AH0 N D
+
+
+
+
+-- lib.word: meaning
+american: मीनिंग
+arpabet: M IY1 N IH0 NG
+
+
+
+
+-- lib.word: members
+american: मेम्ब्र्स
+arpabet: M EH1 M B ER0 Z
+
+
+
+
+-- lib.word: method
+american: मेथैड
+arpabet: M EH1 TH AH0 D
+
+
+
+
+-- lib.word: measure
+american: मेस्र
+arpabet: M EH1 ZH ER0
+
+
+
+
+-- lib.word: mercy
+american: म्र्सी
+arpabet: M ER1 S IY0
+
+
+
+
+-- lib.word: member
+american: मेम्ब्र
+arpabet: M EH1 M B ER0
+
+
+
+
+-- lib.word: meat
+american: मीट
+arpabet: M IY1 T
+
+
+
+
+-- lib.word: mental
+american: मेन्टैल
+arpabet: M EH1 N T AH0 L
+
+
+
+
+-- lib.word: melancholy
+american: मेलैन्कॉली
+arpabet: M EH1 L AH0 N K AA2 L IY0
+
+
+
+
+-- lib.word: meal
+american: मील
+arpabet: M IY1 L
+
+
+
+
+-- lib.word: methods
+american: मेथैड्स
+arpabet: M EH1 TH AH0 D Z
+
+
+
+
+-- lib.word: measures
+american: मेस्र्स
+arpabet: M EH1 ZH ER0 Z
+
+
+
+
+-- lib.word: merry
+american: मेरी
+arpabet: M EH1 R IY0
+
+
+
+
+-- lib.word: merit
+american: मेरैट
+arpabet: M EH1 R AH0 T
+
+
+
+
+-- lib.word: Mexico
+american: मेक्सैको
+arpabet: M EH1 K S AH0 K OW2
+
+
+
+
+-- lib.word: merchant
+american: म्र्चैन्ट
+arpabet: M ER1 CH AH0 N T
+
+
+
+
+-- lib.word: messenger
+american: मेसैन्ज्र
+arpabet: M EH1 S AH0 N JH ER0
+
+
+
+
+-- lib.word: metal
+american: मेटैल
+arpabet: M EH1 T AH0 L
+
+
+
+
+-- lib.word: medicine
+american: मेडैसैन
+arpabet: M EH1 D AH0 S AH0 N
+
+
+
+
+-- lib.word: men's
+american: मेन्स
+arpabet: M EH1 N Z
+
+
+
+
+-- lib.word: meantime
+american: मीन्टाय्म
+arpabet: M IY1 N T AY2 M
+
+
+
+
+-- lib.word: merchants
+american: म्र्चैन्ट्स
+arpabet: M ER1 CH AH0 N T S
+
+
+
+
+-- lib.word: medical
+american: मेडैकैल
+arpabet: M EH1 D AH0 K AH0 L
+
+
+
+
+-- lib.word: memories
+american: मेम्रीस
+arpabet: M EH1 M ER0 IY0 Z
+
+
+
+
+-- lib.word: meanwhile
+american: मीन्वाय्ल
+arpabet: M IY1 N W AY2 L
+
+
+
+
+-- lib.word: measured
+american: मेस्र्ड
+arpabet: M EH1 ZH ER0 D
+
+
+
+
+-- lib.word: merits
+american: मेरैट्स
+arpabet: M EH1 R AH0 T S
+
+
+
+
+-- lib.word: meetings
+american: मीटिंग्स
+arpabet: M IY1 T IH0 NG Z
+
+
+
+
+-- lib.word: mechanical
+american: मैकैनिकैल
+arpabet: M AH0 K AE1 N IH0 K AH0 L
+
+
+
+
+-- lib.word: melted
+american: मेल्टैड
+arpabet: M EH1 L T AH0 D
+
+
+
+
+-- lib.word: Mexican
+american: मेक्सैकैन
+arpabet: M EH1 K S AH0 K AH0 N
+
+
+
+
+-- lib.word: memorable
+american: मेम्रैबैल
+arpabet: M EH1 M ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: meadow
+american: मेडो
+arpabet: M EH1 D OW2
+
+
+
+
+-- lib.word: melody
+american: मेलैडी
+arpabet: M EH1 L AH0 D IY0
+
+
+
+
+-- lib.word: Mediterranean
+american: मेडैट्रेऽनीऐन
+arpabet: M EH2 D AH0 T ER0 EY1 N IY0 AH0 N
+
+
+
+
+-- lib.word: meets
+american: मीट्स
+arpabet: M IY1 T S
+
+
+
+
+-- lib.word: merciful
+american: म्र्सिफैल
+arpabet: M ER1 S IH0 F AH0 L
+
+
+
+
+-- lib.word: messages
+american: मेसैजैस
+arpabet: M EH1 S AH0 JH AH0 Z
+
+
+
+
+-- lib.word: messengers
+american: मेसैन्ज्र्स
+arpabet: M EH1 S AH0 N JH ER0 Z
+
+
+
+
+-- lib.word: mercury
+american: म्र्क्य्री
+arpabet: M ER1 K Y ER0 IY0
+
+
+
+
+-- lib.word: med
+american: मेड
+arpabet: M EH1 D
+
+
+
+
+-- lib.word: meditation
+american: मेडैटेऽशैन
+arpabet: M EH2 D AH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: mentions
+american: मेन्शैन्स
+arpabet: M EH1 N SH AH0 N Z
+
+
+
+
+-- lib.word: mechanically
+american: मैकैनिक्ली
+arpabet: M AH0 K AE1 N IH0 K L IY0
+
+
+
+
+-- lib.word: merrily
+american: मेरैली
+arpabet: M EH1 R AH0 L IY0
+
+
+
+
+-- lib.word: melt
+american: मेल्ट
+arpabet: M EH1 L T
+
+
+
+
+-- lib.word: menace
+american: मेनैस
+arpabet: M EH1 N AH0 S
+
+
+
+
+-- lib.word: memorial
+american: मैमॉरीऐल
+arpabet: M AH0 M AO1 R IY0 AH0 L
+
+
+
+
+-- lib.word: merchandise
+american: म्र्चैन्डाय्स
+arpabet: M ER1 CH AH0 N D AY2 Z
+
+
+
+
+-- lib.word: mend
+american: मेन्ड
+arpabet: M EH1 N D
+
+
+
+
+-- lib.word: meek
+american: मीक
+arpabet: M IY1 K
+
+
+
+
+-- lib.word: mentioning
+american: मेन्शैनिंग
+arpabet: M EH1 N SH AH0 N IH0 NG
+
+
+
+
+-- lib.word: mentally
+american: मेन्टैली
+arpabet: M EH1 N T AH0 L IY0
+
+
+
+
+-- lib.word: melting
+american: मेल्टिंग
+arpabet: M EH1 L T IH0 NG
+
+
+
+
+-- lib.word: measuring
+american: मेस्रिंग
+arpabet: M EH1 ZH ER0 IH0 NG
+
+
+
+
+-- lib.word: mechanism
+american: मेकैनिसैम
+arpabet: M EH1 K AH0 N IH2 Z AH0 M
+
+
+
+
+-- lib.word: methinks
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: metallic
+american: मैटैलिक
+arpabet: M AH0 T AE1 L IH0 K
+
+
+
+
+-- lib.word: medal
+american: मेडैल
+arpabet: M EH1 D AH0 L
+
+
+
+
+-- lib.word: meg
+american: मेग
+arpabet: M EH1 G
+
+
+
+
+-- lib.word: mediaeval
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: meagre
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: mellow
+american: मेलो
+arpabet: M EH1 L OW0
+
+
+
+
+-- lib.word: meddle
+american: मेडैल
+arpabet: M EH1 D AH0 L
+
+
+
+
+-- lib.word: menacing
+american: मेनैसिंग
+arpabet: M EH1 N AH0 S IH0 NG
+
+
+
+
+-- lib.word: merciless
+american: म्र्सैलैस
+arpabet: M ER1 S AH0 L AH0 S
+
+
+
+
+-- lib.word: meridian
+american: म्रिडीऐन
+arpabet: M ER0 IH1 D IY0 AH0 N
+
+
+
+
+-- lib.word: meats
+american: मीट्स
+arpabet: M IY1 T S
+
+
+
+

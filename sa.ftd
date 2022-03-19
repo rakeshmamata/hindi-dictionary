@@ -1,0 +1,587 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: say
+american: सेऽ
+arpabet: S EY1
+meaning: कहना
+
+
+-- lib.word: said
+american: सेड
+arpabet: S EH1 D
+meaning: पहले कहा हुआ ,कहा
+
+
+-- lib.word: same
+american: सेऽम
+arpabet: S EY1 M
+meaning: समान ,वही
+
+
+-- lib.word: saw
+american: सॉ
+arpabet: S AO1
+meaning: देखा , कहावत , आरा , वाक्य
+
+
+-- lib.word: saying
+american: सेऽइंग
+arpabet: S EY1 IH0 NG
+meaning: कहावत ,उक्ति  ,राय
+
+
+-- lib.word: says
+american: सेस
+arpabet: S EH1 Z
+meaning: कहते हैं
+
+
+-- lib.word: Sam
+american: सैम
+arpabet: S AE1 M
+meaning: खर्च उठाना ,खर्च मंजूर करना
+
+
+-- lib.word: save
+american: सेऽव
+arpabet: S EY1 V
+meaning: बचत करना ,बचाना ,इकट्ठा करना,सहेजें
+
+
+-- lib.word: safe
+american: सेऽफ
+arpabet: S EY1 F
+meaning: सुरक्षित ,सकुशल
+
+
+-- lib.word: sake
+american: सेऽक
+arpabet: S EY1 K
+meaning: लिए, खातिर, लिहाज
+
+
+-- lib.word: sad
+american: सैड
+arpabet: S AE1 D
+
+
+
+
+-- lib.word: satisfied
+american: सैटैस्फाय्ड
+arpabet: S AE1 T AH0 S F AY2 D
+
+
+
+
+-- lib.word: saved
+american: सेऽव्ड
+arpabet: S EY1 V D
+
+
+
+
+-- lib.word: sacred
+american: सेऽक्रैड
+arpabet: S EY1 K R AH0 D
+
+
+
+
+-- lib.word: satisfaction
+american: सैटैस्फैक्शैन
+arpabet: S AE2 T AH0 S F AE1 K SH AH0 N
+
+
+
+
+-- lib.word: sacrifice
+american: सैक्रैफाय्स
+arpabet: S AE1 K R AH0 F AY2 S
+
+
+
+
+-- lib.word: safety
+american: सेऽफ्टी
+arpabet: S EY1 F T IY0
+
+
+
+
+-- lib.word: salt
+american: सॉल्ट
+arpabet: S AO1 L T
+
+
+
+
+-- lib.word: sand
+american: सैन्ड
+arpabet: S AE1 N D
+
+
+
+
+-- lib.word: sail
+american: सेऽल
+arpabet: S EY1 L
+
+
+
+
+-- lib.word: savage
+american: सैवैज
+arpabet: S AE1 V AH0 JH
+
+
+
+
+-- lib.word: sank
+american: सैंग्क
+arpabet: S AE1 NG K
+
+
+
+
+-- lib.word: sang
+american: सैंग
+arpabet: S AE1 NG
+
+
+
+
+-- lib.word: Sam
+american: सैम
+arpabet: S AE1 M
+
+
+
+
+-- lib.word: Saturday
+american: सैट्र्डी
+arpabet: S AE1 T ER0 D IY0
+
+
+
+
+-- lib.word: sailed
+american: सेऽल्ड
+arpabet: S EY1 L D
+
+
+
+
+-- lib.word: safely
+american: सेऽफ्ली
+arpabet: S EY1 F L IY0
+
+
+
+
+-- lib.word: sale
+american: सेऽल
+arpabet: S EY1 L
+
+
+
+
+-- lib.word: satisfy
+american: सैटैस्फाय
+arpabet: S AE1 T AH0 S F AY2
+
+
+
+
+-- lib.word: saddle
+american: सैडैल
+arpabet: S AE1 D AH0 L
+
+
+
+
+-- lib.word: satisfactory
+american: सैटैस्फैक्ट्री
+arpabet: S AE2 T AH0 S F AE1 K T R IY0
+
+
+
+
+-- lib.word: Samuel
+american: सैम्युल
+arpabet: S AE1 M Y UW0 L
+
+
+
+
+-- lib.word: sadly
+american: सैड्ली
+arpabet: S AE1 D L IY0
+
+
+
+
+-- lib.word: salvation
+american: सैल्वेऽशैन
+arpabet: S AE0 L V EY1 SH AH0 N
+
+
+
+
+-- lib.word: sailors
+american: सेऽल्र्स
+arpabet: S EY1 L ER0 Z
+
+
+
+
+-- lib.word: saints
+american: सेऽन्ट्स
+arpabet: S EY1 N T S
+
+
+
+
+-- lib.word: saving
+american: सेऽविंग
+arpabet: S EY1 V IH0 NG
+
+
+
+
+-- lib.word: savages
+american: सैवैजैस
+arpabet: S AE1 V AH0 JH AH0 Z
+
+
+
+
+-- lib.word: sailor
+american: सेऽल्र
+arpabet: S EY1 L ER0
+
+
+
+
+-- lib.word: sails
+american: सेऽल्स
+arpabet: S EY1 L Z
+
+
+
+
+-- lib.word: saint
+american: सेऽन्ट
+arpabet: S EY1 N T
+
+
+
+
+-- lib.word: sailing
+american: सेऽलिंग
+arpabet: S EY1 L IH0 NG
+
+
+
+
+-- lib.word: sacrifices
+american: सैक्रैफाय्सिस
+arpabet: S AE1 K R AH0 F AY2 S IH0 Z
+
+
+
+
+-- lib.word: sally
+american: सैली
+arpabet: S AE1 L IY0
+
+
+
+
+-- lib.word: Sarah
+american: सेरै
+arpabet: S EH1 R AH0
+
+
+
+
+-- lib.word: Saxon
+american: सैक्सैन
+arpabet: S AE1 K S AH0 N
+
+
+
+
+-- lib.word: salary
+american: सैल्री
+arpabet: S AE1 L ER0 IY0
+
+
+
+
+-- lib.word: Satan
+american: सेऽटैन
+arpabet: S EY1 T AH0 N
+
+
+
+
+-- lib.word: sadness
+american: सैड्नैस
+arpabet: S AE1 D N AH0 S
+
+
+
+
+-- lib.word: sandy
+american: सैन्डी
+arpabet: S AE1 N D IY0
+
+
+
+
+-- lib.word: sacrificed
+american: सैक्रैफाय्स्ट
+arpabet: S AE1 K R AH0 F AY2 S T
+
+
+
+
+-- lib.word: saviour
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: Santa
+american: सैन्टै
+arpabet: S AE1 N T AH0
+
+
+
+
+-- lib.word: saluted
+american: सैलूटैड
+arpabet: S AH0 L UW1 T AH0 D
+
+
+
+
+-- lib.word: sack
+american: सैक
+arpabet: S AE1 K
+
+
+
+
+-- lib.word: sage
+american: सेऽज
+arpabet: S EY1 JH
+
+
+
+
+-- lib.word: sales
+american: सेऽल्स
+arpabet: S EY1 L Z
+
+
+
+
+-- lib.word: salute
+american: सैलूट
+arpabet: S AH0 L UW1 T
+
+
+
+
+-- lib.word: Sabbath
+american: सैबैथ
+arpabet: S AE1 B AH0 TH
+
+
+
+
+-- lib.word: sanction
+american: सैंग्क्शैन
+arpabet: S AE1 NG K SH AH0 N
+
+
+
+
+-- lib.word: saloon
+american: सैलून
+arpabet: S AH0 L UW1 N
+
+
+
+
+-- lib.word: sanctuary
+american: सैंग्क्चुएरी
+arpabet: S AE1 NG K CH UW0 EH2 R IY0
+
+
+
+
+-- lib.word: sauce
+american: सॉस
+arpabet: S AO1 S
+
+
+
+
+-- lib.word: Saul
+american: सॉल
+arpabet: S AO1 L
+
+
+
+
+-- lib.word: satin
+american: सैटैन
+arpabet: S AE1 T AH0 N
+
+
+
+
+-- lib.word: satire
+american: सैटाय्र
+arpabet: S AE1 T AY2 ER0
+
+
+
+
+-- lib.word: sane
+american: सेऽन
+arpabet: S EY1 N
+
+
+
+
+-- lib.word: sagacity
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: salon
+american: सैलॉन
+arpabet: S AH0 L AA1 N
+
+
+
+
+-- lib.word: sanguine
+american: सैंग्ग्विन
+arpabet: S AE1 NG G W IH0 N
+
+
+
+
+-- lib.word: salmon
+american: सैमैन
+arpabet: S AE1 M AH0 N
+
+
+
+
+-- lib.word: sanctity
+american: सैंग्क्टिटी
+arpabet: S AE1 NG K T IH0 T IY0
+
+
+
+
+-- lib.word: sarcasm
+american: सॉर्कैसैम
+arpabet: S AA1 R K AE2 Z AH0 M
+
+
+
+
+-- lib.word: satisfactorily
+american: सैटिस्फैक्ट्रैली
+arpabet: S AE2 T IH0 S F AE1 K T R AH0 L IY0
+
+
+
+
+-- lib.word: satisfying
+american: सैटिस्फायिंग
+arpabet: S AE1 T IH0 S F AY2 IH0 NG
+
+
+
+
+-- lib.word: sample
+american: सैम्पैल
+arpabet: S AE1 M P AH0 L
+
+
+
+
+-- lib.word: salutation
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: salad
+american: सैलैड
+arpabet: S AE1 L AH0 D
+
+
+
+
+-- lib.word: savings
+american: सेऽविंग्स
+arpabet: S EY1 V IH0 NG Z
+
+
+
+
+-- lib.word: sandstone
+american: सैन्ड्स्टोन
+arpabet: S AE1 N D S T OW2 N
+
+
+
+
+-- lib.word: Saxony
+american: सैक्सैनी
+arpabet: S AE1 K S AH0 N IY0
+
+
+
+
+-- lib.word: sate
+american: सेऽट
+arpabet: S EY1 T
+
+
+
+
+-- lib.word: salutary
+american: सैल्यैटेरी
+arpabet: S AE1 L Y AH0 T EH2 R IY0
+
+
+
+
+-- lib.word: sarcastic
+american: सॉर्कैस्टिक
+arpabet: S AA0 R K AE1 S T IH0 K
+
+
+
+
+-- lib.word: sap
+american: सैप
+arpabet: S AE1 P
+
+
+
+

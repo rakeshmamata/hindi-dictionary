@@ -1,0 +1,1328 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: still
+american: स्टिल
+arpabet: S T IH1 L
+meaning: फिर भी ,शान्त ,स्थिर
+
+
+-- lib.word: stop
+american: स्टॉप
+arpabet: S T AA1 P
+meaning: रुकना ,विराम ,रोकना
+
+
+-- lib.word: stay
+american: स्टेऽ
+arpabet: S T EY1
+meaning: बना रहना ,ठहरना
+
+
+-- lib.word: start
+american: स्टॉर्ट
+arpabet: S T AA1 R T
+meaning: शुरू करना ,प्रारम्भ , आरंभ
+
+
+-- lib.word: stuff
+american: स्टाफ
+arpabet: S T AH1 F
+indian: इस्टफ
+meaning:  सामग्री , पदार्थ , कूड़ा ,सामान
+
+
+-- lib.word: stand
+american: स्टैन्ड
+arpabet: S T AE1 N D
+meaning: खड़ा होना , पार्किगं , ठहराव , दुकान
+
+
+-- lib.word: story
+american: स्टॉरी
+arpabet: S T AO1 R IY0
+meaning: कहानी , कथा , कथानक
+
+
+-- lib.word: stupid
+american: स्टूपैड
+arpabet: S T UW1 P AH0 D
+meaning: बेवकूफ ,मू्र्ख,मूढ़,जड़,बेअकल ,भोंदू
+
+
+-- lib.word: started
+american: स्टॉर्टैड
+arpabet: S T AA1 R T AH0 D
+meaning: प्रारम्भ करना ,शरू कर देना
+
+
+-- lib.word: straight
+american: स्ट्रेऽट
+arpabet: S T R EY1 T
+meaning: सीधा,खुले दिल से,ईमानदार,सीधा,स्पष्टवादी
+
+
+-- lib.word: step
+american: स्टेप
+arpabet: S T EH1 P
+meaning: कदम,सीढ़ी,पग,डग,चाल
+
+
+-- lib.word: strong
+american: स्ट्रॉंग
+arpabet: S T R AO1 NG
+meaning: मजाबूत,शक्तिशाली,दृढ़
+
+
+-- lib.word: starting
+american: स्टॉर्टिंग
+arpabet: S T AA1 R T IH0 NG
+meaning: शुरूवात,प्रारम्भ होना,प्रस्थान
+
+
+-- lib.word: street
+american: स्ट्रीट
+arpabet: S T R IY1 T
+meaning: सड़क,गली,मार्ग,मोहल्ला
+
+
+-- lib.word: stick
+american: स्टिक
+arpabet: S T IH1 K
+meaning: छड़ी,लाठी,लकड़ी
+
+
+-- lib.word: stopped
+american: स्टॉप्ट
+arpabet: S T AA1 P T
+meaning: रोका हुआ,बन्द करना,रोकना
+
+
+-- lib.word: standing
+american: स्टैन्डिंग
+arpabet: S T AE1 N D IH0 NG
+meaning: खड़ा है,स्थायित्व,प्रतिष्ठा,स्थिति
+
+
+-- lib.word: state
+american: स्टेऽट
+arpabet: S T EY1 T
+meaning: स्थिति,अवस्था,राज्य
+
+
+-- lib.word: staying
+american: स्टेऽइंग
+arpabet: S T EY1 IH0 NG
+meaning: सहने योग्य, प्रवासयोग्य, सहनसील
+
+
+-- lib.word: stood
+american: स्टूड
+arpabet: S T UH1 D
+
+
+
+
+-- lib.word: strange
+american: स्ट्रेऽन्ज
+arpabet: S T R EY1 N JH
+
+
+
+
+-- lib.word: strength
+american: स्ट्रेंग्क्थ
+arpabet: S T R EH1 NG K TH
+
+
+
+
+-- lib.word: states
+american: स्टेऽट्स
+arpabet: S T EY1 T S
+
+
+
+
+-- lib.word: struck
+american: स्ट्राक
+arpabet: S T R AH1 K
+
+
+
+
+-- lib.word: stone
+american: स्टोन
+arpabet: S T OW1 N
+
+
+
+
+-- lib.word: study
+american: स्टाडी
+arpabet: S T AH1 D IY0
+
+
+
+
+-- lib.word: steps
+american: स्टेप्स
+arpabet: S T EH1 P S
+
+
+
+
+-- lib.word: statement
+american: स्टेऽट्मैन्ट
+arpabet: S T EY1 T M AH0 N T
+
+
+
+
+-- lib.word: stream
+american: स्ट्रीम
+arpabet: S T R IY1 M
+
+
+
+
+-- lib.word: stranger
+american: स्ट्रेऽन्ज्र
+arpabet: S T R EY1 N JH ER0
+
+
+
+
+-- lib.word: streets
+american: स्ट्रीट्स
+arpabet: S T R IY1 T S
+
+
+
+
+-- lib.word: stage
+american: स्टेऽज
+arpabet: S T EY1 JH
+
+
+
+
+-- lib.word: style
+american: स्टाय्ल
+arpabet: S T AY1 L
+
+
+
+
+-- lib.word: station
+american: स्टेऽशैन
+arpabet: S T EY1 SH AH0 N
+
+
+
+
+-- lib.word: storm
+american: स्टॉर्म
+arpabet: S T AO1 R M
+
+
+
+
+-- lib.word: stands
+american: स्टैन्ड्स
+arpabet: S T AE1 N D Z
+
+
+
+
+-- lib.word: stars
+american: स्टॉर्स
+arpabet: S T AA1 R Z
+
+
+
+
+-- lib.word: stones
+american: स्टोन्स
+arpabet: S T OW1 N Z
+
+
+
+
+-- lib.word: stated
+american: स्टेऽटैड
+arpabet: S T EY1 T AH0 D
+
+
+
+
+-- lib.word: strike
+american: स्ट्राय्क
+arpabet: S T R AY1 K
+
+
+
+
+-- lib.word: stock
+american: स्टॉक
+arpabet: S T AA1 K
+
+
+
+
+-- lib.word: stairs
+american: स्टेर्स
+arpabet: S T EH1 R Z
+
+
+
+
+-- lib.word: stepped
+american: स्टेप्ट
+arpabet: S T EH1 P T
+
+
+
+
+-- lib.word: store
+american: स्टॉर
+arpabet: S T AO1 R
+
+
+
+
+-- lib.word: striking
+american: स्ट्राय्किंग
+arpabet: S T R AY1 K IH0 NG
+
+
+
+
+-- lib.word: staff
+american: स्टैफ
+arpabet: S T AE1 F
+
+
+
+
+-- lib.word: stretched
+american: स्ट्रेचट
+arpabet: S T R EH1 CH T
+
+
+
+
+-- lib.word: status
+american: स्टैटैस
+arpabet: S T AE1 T AH0 S
+
+
+
+
+-- lib.word: strongly
+american: स्ट्रॉंग्ली
+arpabet: S T R AO1 NG L IY0
+
+
+
+
+-- lib.word: stared
+american: स्टेर्ड
+arpabet: S T EH1 R D
+
+
+
+
+-- lib.word: stronger
+american: स्ट्रॉंग्र
+arpabet: S T R AO1 NG ER0
+
+
+
+
+-- lib.word: stern
+american: स्ट्र्न
+arpabet: S T ER1 N
+
+
+
+
+-- lib.word: stayed
+american: स्टेऽड
+arpabet: S T EY1 D
+
+
+
+
+-- lib.word: steady
+american: स्टेडी
+arpabet: S T EH1 D IY0
+
+
+
+
+-- lib.word: steel
+american: स्टील
+arpabet: S T IY1 L
+
+
+
+
+-- lib.word: strangers
+american: स्ट्रेऽन्ज्र्स
+arpabet: S T R EY1 N JH ER0 Z
+
+
+
+
+-- lib.word: star
+american: स्टॉर
+arpabet: S T AA1 R
+
+
+
+
+-- lib.word: stir
+american: स्ट्र
+arpabet: S T ER1
+
+
+
+
+-- lib.word: strain
+american: स्ट्रेऽन
+arpabet: S T R EY1 N
+
+
+
+
+-- lib.word: standard
+american: स्टैन्ड्र्ड
+arpabet: S T AE1 N D ER0 D
+
+
+
+
+-- lib.word: studied
+american: स्टाडीड
+arpabet: S T AH1 D IY0 D
+
+
+
+
+-- lib.word: steadily
+american: स्टेडैली
+arpabet: S T EH1 D AH0 L IY0
+
+
+
+
+-- lib.word: staring
+american: स्टेरिंग
+arpabet: S T EH1 R IH0 NG
+
+
+
+
+-- lib.word: startled
+american: स्टॉर्टैल्ड
+arpabet: S T AA1 R T AH0 L D
+
+
+
+
+-- lib.word: structure
+american: स्ट्राक्चर
+arpabet: S T R AH1 K CH ER0
+
+
+
+
+-- lib.word: stirred
+american: स्ट्र्ड
+arpabet: S T ER1 D
+
+
+
+
+-- lib.word: studies
+american: स्टाडीस
+arpabet: S T AH1 D IY0 Z
+
+
+
+
+-- lib.word: stout
+american: स्टाव्ट
+arpabet: S T AW1 T
+
+
+
+
+-- lib.word: steep
+american: स्टीप
+arpabet: S T IY1 P
+
+
+
+
+-- lib.word: stroke
+american: स्ट्रोक
+arpabet: S T R OW1 K
+
+
+
+
+-- lib.word: student
+american: स्टूडैन्ट
+arpabet: S T UW1 D AH0 N T
+
+
+
+
+-- lib.word: stiff
+american: स्टिफ
+arpabet: S T IH1 F
+
+
+
+
+-- lib.word: strangely
+american: स्ट्रेऽन्ज्ली
+arpabet: S T R EY1 N JH L IY0
+
+
+
+
+-- lib.word: streams
+american: स्ट्रीम्स
+arpabet: S T R IY1 M Z
+
+
+
+
+-- lib.word: Stephen
+american: स्टीवैन
+arpabet: S T IY1 V AH0 N
+
+
+
+
+-- lib.word: straw
+american: स्ट्रॉ
+arpabet: S T R AO1
+
+
+
+
+-- lib.word: steam
+american: स्टीम
+arpabet: S T IY1 M
+
+
+
+
+-- lib.word: stolen
+american: स्टोलैन
+arpabet: S T OW1 L AH0 N
+
+
+
+
+-- lib.word: students
+american: स्टूडैन्ट्स
+arpabet: S T UW1 D AH0 N T S
+
+
+
+
+-- lib.word: struggling
+american: स्ट्रागैलिंग
+arpabet: S T R AH1 G AH0 L IH0 NG
+
+
+
+
+-- lib.word: stomach
+american: स्टामैक
+arpabet: S T AH1 M AH0 K
+
+
+
+
+-- lib.word: statements
+american: स्टेऽट्मैन्ट्स
+arpabet: S T EY1 T M AH0 N T S
+
+
+
+
+-- lib.word: statue
+american: स्टैचु
+arpabet: S T AE1 CH UW2
+
+
+
+
+-- lib.word: string
+american: स्ट्रिंग
+arpabet: S T R IH1 NG
+
+
+
+
+-- lib.word: strict
+american: स्ट्रिक्ट
+arpabet: S T R IH1 K T
+
+
+
+
+-- lib.word: strictly
+american: स्ट्रिक्ट्ली
+arpabet: S T R IH1 K T L IY0
+
+
+
+
+-- lib.word: stately
+american: स्टेऽट्ली
+arpabet: S T EY1 T L IY0
+
+
+
+
+-- lib.word: steamer
+american: स्टीम्र
+arpabet: S T IY1 M ER0
+
+
+
+
+-- lib.word: stores
+american: स्टॉर्स
+arpabet: S T AO1 R Z
+
+
+
+
+-- lib.word: stopping
+american: स्टॉपिंग
+arpabet: S T AA1 P IH0 NG
+
+
+
+
+-- lib.word: steal
+american: स्टील
+arpabet: S T IY1 L
+
+
+
+
+-- lib.word: stretch
+american: स्ट्रेच
+arpabet: S T R EH1 CH
+
+
+
+
+-- lib.word: stable
+american: स्टेऽबैल
+arpabet: S T EY1 B AH0 L
+
+
+
+
+-- lib.word: strongest
+american: स्ट्रॉंग्गैस्ट
+arpabet: S T R AO1 NG G AH0 S T
+
+
+
+
+-- lib.word: strife
+american: स्ट्राय्फ
+arpabet: S T R AY1 F
+
+
+
+
+-- lib.word: stirring
+american: स्ट्रिंग
+arpabet: S T ER1 IH0 NG
+
+
+
+
+-- lib.word: struggled
+american: स्ट्रागैल्ड
+arpabet: S T R AH1 G AH0 L D
+
+
+
+
+-- lib.word: staircase
+american: स्टेर्केऽस
+arpabet: S T EH1 R K EY2 S
+
+
+
+
+-- lib.word: stake
+american: स्टेऽक
+arpabet: S T EY1 K
+
+
+
+
+-- lib.word: studying
+american: स्टाडीइंग
+arpabet: S T AH1 D IY0 IH0 NG
+
+
+
+
+-- lib.word: stove
+american: स्टोव
+arpabet: S T OW1 V
+
+
+
+
+-- lib.word: stare
+american: स्टेर
+arpabet: S T EH1 R
+
+
+
+
+-- lib.word: strikes
+american: स्ट्राय्क्स
+arpabet: S T R AY1 K S
+
+
+
+
+-- lib.word: sticks
+american: स्टिक्स
+arpabet: S T IH1 K S
+
+
+
+
+-- lib.word: stillness
+american: स्टिल्नैस
+arpabet: S T IH1 L N AH0 S
+
+
+
+
+-- lib.word: steward
+american: स्टूर्ड
+arpabet: S T UW1 ER0 D
+
+
+
+
+-- lib.word: stretching
+american: स्ट्रेचिंग
+arpabet: S T R EH1 CH IH0 NG
+
+
+
+
+-- lib.word: stem
+american: स्टेम
+arpabet: S T EH1 M
+
+
+
+
+-- lib.word: strove
+american: स्ट्रोव
+arpabet: S T R OW1 V
+
+
+
+
+-- lib.word: stooped
+american: स्टूप्ट
+arpabet: S T UW1 P T
+
+
+
+
+-- lib.word: strained
+american: स्ट्रेऽन्ड
+arpabet: S T R EY1 N D
+
+
+
+
+-- lib.word: strip
+american: स्ट्रिप
+arpabet: S T R IH1 P
+
+
+
+
+-- lib.word: startling
+american: स्टॉर्ट्लिंग
+arpabet: S T AA1 R T L IH0 NG
+
+
+
+
+-- lib.word: strengthened
+american: स्ट्रेंग्थैन्ड
+arpabet: S T R EH1 NG TH AH0 N D
+
+
+
+
+-- lib.word: stages
+american: स्टेऽजैस
+arpabet: S T EY1 JH AH0 Z
+
+
+
+
+-- lib.word: stamp
+american: स्टैम्प
+arpabet: S T AE1 M P
+
+
+
+
+-- lib.word: stealing
+american: स्टीलिंग
+arpabet: S T IY1 L IH0 NG
+
+
+
+
+-- lib.word: stations
+american: स्टेऽशैन्स
+arpabet: S T EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: stamped
+american: स्टैम्प्ट
+arpabet: S T AE1 M P T
+
+
+
+
+-- lib.word: striving
+american: स्ट्राय्विंग
+arpabet: S T R AY1 V IH0 NG
+
+
+
+
+-- lib.word: storms
+american: स्टॉर्म्स
+arpabet: S T AO1 R M Z
+
+
+
+
+-- lib.word: stripped
+american: स्ट्रिप्ट
+arpabet: S T R IH1 P T
+
+
+
+
+-- lib.word: sternly
+american: स्ट्र्न्ली
+arpabet: S T ER1 N L IY0
+
+
+
+
+-- lib.word: statesman
+american: स्टेऽट्स्मैन
+arpabet: S T EY1 T S M AH0 N
+
+
+
+
+-- lib.word: stormy
+american: स्टॉर्मी
+arpabet: S T AO1 R M IY0
+
+
+
+
+-- lib.word: stress
+american: स्ट्रेस
+arpabet: S T R EH1 S
+
+
+
+
+-- lib.word: strive
+american: स्ट्राय्व
+arpabet: S T R AY1 V
+
+
+
+
+-- lib.word: Stuart
+american: स्टूर्ट
+arpabet: S T UW1 ER0 T
+
+
+
+
+-- lib.word: stationed
+american: स्टेऽशैन्ड
+arpabet: S T EY1 SH AH0 N D
+
+
+
+
+-- lib.word: strengthen
+american: स्ट्रेंग्थैन
+arpabet: S T R EH1 NG TH AH0 N
+
+
+
+
+-- lib.word: sturdy
+american: स्ट्र्डी
+arpabet: S T ER1 D IY0
+
+
+
+
+-- lib.word: strode
+american: स्ट्रोड
+arpabet: S T R OW1 D
+
+
+
+
+-- lib.word: standards
+american: स्टैन्ड्र्ड्स
+arpabet: S T AE1 N D ER0 D Z
+
+
+
+
+-- lib.word: Stanley
+american: स्टैन्ली
+arpabet: S T AE1 N L IY0
+
+
+
+
+-- lib.word: stained
+american: स्टेऽन्ड
+arpabet: S T EY1 N D
+
+
+
+
+-- lib.word: stature
+american: स्टैचर
+arpabet: S T AE1 CH ER0
+
+
+
+
+-- lib.word: stumbled
+american: स्टाम्बैल्ड
+arpabet: S T AH1 M B AH0 L D
+
+
+
+
+-- lib.word: studio
+american: स्टूडीओ
+arpabet: S T UW1 D IY0 OW2
+
+
+
+
+-- lib.word: statesmen
+american: स्टेऽट्स्मिन
+arpabet: S T EY1 T S M IH0 N
+
+
+
+
+-- lib.word: stepping
+american: स्टेपिंग
+arpabet: S T EH1 P IH0 NG
+
+
+
+
+-- lib.word: stain
+american: स्टेऽन
+arpabet: S T EY1 N
+
+
+
+
+-- lib.word: steed
+american: स्टीड
+arpabet: S T IY1 D
+
+
+
+
+-- lib.word: stead
+american: स्टेड
+arpabet: S T EH1 D
+
+
+
+
+-- lib.word: starving
+american: स्टॉर्विंग
+arpabet: S T AA1 R V IH0 NG
+
+
+
+
+-- lib.word: stray
+american: स्ट्रेऽ
+arpabet: S T R EY1
+
+
+
+
+-- lib.word: stony
+american: स्टोनी
+arpabet: S T OW1 N IY0
+
+
+
+
+-- lib.word: stubborn
+american: स्टाब्र्न
+arpabet: S T AH1 B ER0 N
+
+
+
+
+-- lib.word: stating
+american: स्टेऽटिंग
+arpabet: S T EY1 T IH0 NG
+
+
+
+
+-- lib.word: strokes
+american: स्ट्रोक्स
+arpabet: S T R OW1 K S
+
+
+
+
+-- lib.word: sting
+american: स्टिंग
+arpabet: S T IH1 NG
+
+
+
+
+-- lib.word: starve
+american: स्टॉर्व
+arpabet: S T AA1 R V
+
+
+
+
+-- lib.word: stool
+american: स्टूल
+arpabet: S T UW1 L
+
+
+
+
+-- lib.word: Stewart
+american: स्टूर्ट
+arpabet: S T UW1 ER0 T
+
+
+
+
+-- lib.word: strand
+american: स्ट्रैन्ड
+arpabet: S T R AE1 N D
+
+
+
+
+-- lib.word: strata
+american: स्ट्रैटै
+arpabet: S T R AE1 T AH0
+
+
+
+
+-- lib.word: stocks
+american: स्टॉक्स
+arpabet: S T AA1 K S
+
+
+
+
+-- lib.word: statute
+american: स्टैचुट
+arpabet: S T AE1 CH UW0 T
+
+
+
+
+-- lib.word: stair
+american: स्टेर
+arpabet: S T EH1 R
+
+
+
+
+-- lib.word: staid
+american: स्टेऽड
+arpabet: S T EY1 D
+
+
+
+
+-- lib.word: stuffed
+american: स्टाफ्ट
+arpabet: S T AH1 F T
+
+
+
+
+-- lib.word: steer
+american: स्टिर
+arpabet: S T IH1 R
+
+
+
+
+-- lib.word: sticking
+american: स्टिकिंग
+arpabet: S T IH1 K IH0 NG
+
+
+
+
+-- lib.word: stoop
+american: स्टूप
+arpabet: S T UW1 P
+
+
+
+
+-- lib.word: starvation
+american: स्टॉर्वेऽशैन
+arpabet: S T AA0 R V EY1 SH AH0 N
+
+
+
+
+-- lib.word: stunned
+american: स्टान्ड
+arpabet: S T AH1 N D
+
+
+
+
+-- lib.word: stretches
+american: स्ट्रेचैस
+arpabet: S T R EH1 CH AH0 Z
+
+
+
+
+-- lib.word: stupidity
+american: स्टुपिडिटी
+arpabet: S T UW0 P IH1 D IH0 T IY0
+
+
+
+
+-- lib.word: stimulus
+american: स्टिम्यैलैस
+arpabet: S T IH1 M Y AH0 L AH0 S
+
+
+
+
+-- lib.word: strenuous
+american: स्ट्रेन्युऐस
+arpabet: S T R EH1 N Y UW0 AH0 S
+
+
+
+
+-- lib.word: strait
+american: स्ट्रेऽट
+arpabet: S T R EY1 T
+
+
+
+
+-- lib.word: stimulated
+american: स्टिम्यैलेऽटैड
+arpabet: S T IH1 M Y AH0 L EY2 T AH0 D
+
+
+
+
+-- lib.word: steadfast
+american: स्टेड्फैस्ट
+arpabet: S T EH1 D F AE2 S T
+
+
+
+
+-- lib.word: stump
+american: स्टाम्प
+arpabet: S T AH1 M P
+
+
+
+
+-- lib.word: sterling
+american: स्ट्र्लिंग
+arpabet: S T ER1 L IH0 NG
+
+
+
+
+-- lib.word: stairway
+american: स्टेर्वेऽ
+arpabet: S T EH1 R W EY2
+
+
+
+
+-- lib.word: stroll
+american: स्ट्रोल
+arpabet: S T R OW1 L
+
+
+
+
+-- lib.word: Steve
+american: स्टीव
+arpabet: S T IY1 V
+
+
+
+
+-- lib.word: stride
+american: स्ट्राय्ड
+arpabet: S T R AY1 D
+
+
+
+
+-- lib.word: stability
+american: स्टैबिलिटी
+arpabet: S T AH0 B IH1 L IH0 T IY0
+
+
+
+
+-- lib.word: stale
+american: स्टेऽल
+arpabet: S T EY1 L
+
+
+
+
+-- lib.word: streak
+american: स्ट्रीक
+arpabet: S T R IY1 K
+
+
+
+
+-- lib.word: standpoint
+american: स्टैन्ड्पॉयन्ट
+arpabet: S T AE1 N D P OY2 N T
+
+
+
+
+-- lib.word: stupendous
+american: स्टुपेन्डैस
+arpabet: S T UW0 P EH1 N D AH0 S
+
+
+
+
+-- lib.word: statistics
+american: स्टैटिस्टिक्स
+arpabet: S T AH0 T IH1 S T IH0 K S
+
+
+
+
+-- lib.word: stumbling
+american: स्टाम्बैलिंग
+arpabet: S T AH1 M B AH0 L IH0 NG
+
+
+
+
+-- lib.word: stalk
+american: स्टॉक
+arpabet: S T AO1 K
+
+
+
+
+-- lib.word: stanza
+american: स्टैन्सै
+arpabet: S T AE1 N Z AH0
+
+
+
+
+-- lib.word: stall
+american: स्टॉल
+arpabet: S T AO1 L
+
+
+
+
+-- lib.word: stealthily
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: stationary
+american: स्टेऽशैनेरी
+arpabet: S T EY1 SH AH0 N EH2 R IY0
+
+
+
+
+-- lib.word: stalwart
+american: स्टॉल्वर्ट
+arpabet: S T AO1 L W ER0 T
+
+
+
+
+-- lib.word: stamping
+american: स्टैम्पिंग
+arpabet: S T AE1 M P IH0 NG
+
+
+
+

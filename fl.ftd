@@ -1,0 +1,408 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: floor
+american: फ्लॉर
+arpabet: F L AO1 R
+indian: फ्लोर
+meaning: मंजिल, गृह तल, फर्श
+
+
+-- lib.word: flowers
+american: फ्लाव्र्स
+arpabet: F L AW1 ER0 Z
+
+
+
+
+-- lib.word: flesh
+american: फ्लेश
+arpabet: F L EH1 SH
+
+
+
+
+-- lib.word: fly
+american: फ्लाय
+arpabet: F L AY1
+
+
+
+
+-- lib.word: flight
+american: फ्लाय्ट
+arpabet: F L AY1 T
+
+
+
+
+-- lib.word: fled
+american: फ्लेड
+arpabet: F L EH1 D
+
+
+
+
+-- lib.word: flat
+american: फ्लैट
+arpabet: F L AE1 T
+
+
+
+
+-- lib.word: flower
+american: फ्लाव्र
+arpabet: F L AW1 ER0
+
+
+
+
+-- lib.word: fleet
+american: फ्लीट
+arpabet: F L IY1 T
+
+
+
+
+-- lib.word: flame
+american: फ्लेऽम
+arpabet: F L EY1 M
+
+
+
+
+-- lib.word: flying
+american: फ्लायिंग
+arpabet: F L AY1 IH0 NG
+
+
+
+
+-- lib.word: flung
+american: फ्लांग
+arpabet: F L AH1 NG
+
+
+
+
+-- lib.word: flew
+american: फ्लू
+arpabet: F L UW1
+
+
+
+
+-- lib.word: flow
+american: फ्लो
+arpabet: F L OW1
+
+
+
+
+-- lib.word: flag
+american: फ्लैग
+arpabet: F L AE1 G
+
+
+
+
+-- lib.word: Florence
+american: फ्लॉरैन्स
+arpabet: F L AO1 R AH0 N S
+
+
+
+
+-- lib.word: flash
+american: फ्लैश
+arpabet: F L AE1 SH
+
+
+
+
+-- lib.word: flood
+american: फ्लाड
+arpabet: F L AH1 D
+
+
+
+
+-- lib.word: flashed
+american: फ्लैशट
+arpabet: F L AE1 SH T
+
+
+
+
+-- lib.word: flour
+american: फ्लाव्र
+arpabet: F L AW1 ER0
+
+
+
+
+-- lib.word: flames
+american: फ्लेऽम्स
+arpabet: F L EY1 M Z
+
+
+
+
+-- lib.word: flushed
+american: फ्लाशट
+arpabet: F L AH1 SH T
+
+
+
+
+-- lib.word: floating
+american: फ्लोटिंग
+arpabet: F L OW1 T IH0 NG
+
+
+
+
+-- lib.word: flowing
+american: फ्लोइंग
+arpabet: F L OW1 IH0 NG
+
+
+
+
+-- lib.word: flies
+american: फ्लाय्स
+arpabet: F L AY1 Z
+
+
+
+
+-- lib.word: flock
+american: फ्लॉक
+arpabet: F L AA1 K
+
+
+
+
+-- lib.word: flowed
+american: फ्लोड
+arpabet: F L OW1 D
+
+
+
+
+-- lib.word: floated
+american: फ्लोटैड
+arpabet: F L OW1 T AH0 D
+
+
+
+
+-- lib.word: Florida
+american: फ्लॉरैडै
+arpabet: F L AO1 R AH0 D AH0
+
+
+
+
+-- lib.word: flush
+american: फ्लाश
+arpabet: F L AH1 SH
+
+
+
+
+-- lib.word: flashing
+american: फ्लैशिंग
+arpabet: F L AE1 SH IH0 NG
+
+
+
+
+-- lib.word: flows
+american: फ्लोस
+arpabet: F L OW1 Z
+
+
+
+
+-- lib.word: flora
+american: फ्लॉरै
+arpabet: F L AO1 R AH0
+
+
+
+
+-- lib.word: flank
+american: फ्लैंग्क
+arpabet: F L AE1 NG K
+
+
+
+
+-- lib.word: flee
+american: फ्ली
+arpabet: F L IY1
+
+
+
+
+-- lib.word: flattering
+american: फ्लैट्रिंग
+arpabet: F L AE1 T ER0 IH0 NG
+
+
+
+
+-- lib.word: float
+american: फ्लोट
+arpabet: F L OW1 T
+
+
+
+
+-- lib.word: fluid
+american: फ्लूऐड
+arpabet: F L UW1 AH0 D
+
+
+
+
+-- lib.word: flatter
+american: फ्लैट्र
+arpabet: F L AE1 T ER0
+
+
+
+
+-- lib.word: flaming
+american: फ्लेऽमिंग
+arpabet: F L EY1 M IH0 NG
+
+
+
+
+-- lib.word: flags
+american: फ्लैग्स
+arpabet: F L AE1 G Z
+
+
+
+
+-- lib.word: fling
+american: फ्लिंग
+arpabet: F L IH1 NG
+
+
+
+
+-- lib.word: flint
+american: फ्लिन्ट
+arpabet: F L IH1 N T
+
+
+
+
+-- lib.word: Flanders
+american: फ्लैन्ड्र्स
+arpabet: F L AE1 N D ER0 Z
+
+
+
+
+-- lib.word: flourish
+american: फ्ल्रिश
+arpabet: F L ER1 IH0 SH
+
+
+
+
+-- lib.word: flattery
+american: फ्लैट्री
+arpabet: F L AE1 T ER0 IY0
+
+
+
+
+-- lib.word: flavor
+american: फ्लेऽव्र
+arpabet: F L EY1 V ER0
+
+
+
+
+-- lib.word: floods
+american: फ्लाड्स
+arpabet: F L AH1 D Z
+
+
+
+
+-- lib.word: flutter
+american: फ्लाट्र
+arpabet: F L AH1 T ER0
+
+
+
+
+-- lib.word: fleeting
+american: फ्लीटिंग
+arpabet: F L IY1 T IH0 NG
+
+
+
+
+-- lib.word: flown
+american: फ्लोन
+arpabet: F L OW1 N
+
+
+
+
+-- lib.word: flavour
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: flights
+american: फ्लाय्ट्स
+arpabet: F L AY1 T S
+
+
+
+
+-- lib.word: flannel
+american: फ्लैनैल
+arpabet: F L AE1 N AH0 L
+
+
+
+
+-- lib.word: flute
+american: फ्लूट
+arpabet: F L UW1 T
+
+
+
+
+-- lib.word: flickering
+american: फ्लिक्रिंग
+arpabet: F L IH1 K ER0 IH0 NG
+
+
+
+
+-- lib.word: flowering
+american: फ्लाव्रिंग
+arpabet: F L AW1 ER0 IH0 NG
+
+
+
+
+-- lib.word: flask
+american: फ्लैस्क
+arpabet: F L AE1 S K
+
+
+
+

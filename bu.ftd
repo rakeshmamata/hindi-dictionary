@@ -1,0 +1,356 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: but
+american: बाट
+arpabet: B AH1 T
+indian: बट
+meaning: लेकिन
+
+
+-- lib.word: business
+american: बिस्नैस
+arpabet: B IH1 Z N AH0 S
+indian: बिज़नेस
+meaning: व्यापार , व्यवसाय , कार्य
+
+
+-- lib.word: buy
+american: बाय
+arpabet: B AY1
+meaning: खरीदना ,क्रय करना
+
+
+-- lib.word: busy
+american: बिसी
+arpabet: B IH1 Z IY0
+meaning: व्यस्त,कार्यरत,मशगूल
+
+
+-- lib.word: buddy
+american: बाडी
+arpabet: B AH1 D IY0
+indian:
+meaning: साथी,दोस्त,भाई
+
+
+-- lib.word: building
+american: बिल्डिंग
+arpabet: B IH1 L D IH0 NG
+meaning: इमारत,निर्माण,भवन,
+
+
+-- lib.word: built
+american: बिल्ट
+arpabet: B IH1 L T
+
+
+
+
+-- lib.word: burst
+american: ब्र्स्ट
+arpabet: B ER1 S T
+
+
+
+
+-- lib.word: burning
+american: ब्र्निंग
+arpabet: B ER1 N IH0 NG
+
+
+
+
+-- lib.word: buried
+american: बेरीड
+arpabet: B EH1 R IY0 D
+
+
+
+
+-- lib.word: build
+american: बिल्ड
+arpabet: B IH1 L D
+
+
+
+
+-- lib.word: burned
+american: ब्र्न्ड
+arpabet: B ER1 N D
+
+
+
+
+-- lib.word: burden
+american: ब्र्डैन
+arpabet: B ER1 D AH0 N
+
+
+
+
+-- lib.word: buildings
+american: बिल्डिंग्स
+arpabet: B IH1 L D IH0 NG Z
+
+
+
+
+-- lib.word: butter
+american: बाट्र
+arpabet: B AH1 T ER0
+
+
+
+
+-- lib.word: burn
+american: ब्र्न
+arpabet: B ER1 N
+
+
+
+
+-- lib.word: burnt
+american: ब्र्न्ट
+arpabet: B ER1 N T
+
+
+
+
+-- lib.word: bushes
+american: बूशैस
+arpabet: B UH1 SH AH0 Z
+
+
+
+
+-- lib.word: bush
+american: बूश
+arpabet: B UH1 SH
+
+
+
+
+-- lib.word: bull
+american: बूल
+arpabet: B UH1 L
+
+
+
+
+-- lib.word: bundle
+american: बान्डैल
+arpabet: B AH1 N D AH0 L
+
+
+
+
+-- lib.word: buffalo
+american: बाफैलो
+arpabet: B AH1 F AH0 L OW2
+
+
+
+
+-- lib.word: bullet
+american: बूलैट
+arpabet: B UH1 L AH0 T
+
+
+
+
+-- lib.word: bulk
+american: बाल्क
+arpabet: B AH1 L K
+
+
+
+
+-- lib.word: bunch
+american: बान्च
+arpabet: B AH1 N CH
+
+
+
+
+-- lib.word: bursting
+american: ब्र्स्टिंग
+arpabet: B ER1 S T IH0 NG
+
+
+
+
+-- lib.word: buying
+american: बायिंग
+arpabet: B AY1 IH0 NG
+
+
+
+
+-- lib.word: bud
+american: बाड
+arpabet: B AH1 D
+
+
+
+
+-- lib.word: Burke
+american: ब्र्क
+arpabet: B ER1 K
+
+
+
+
+-- lib.word: bury
+american: बेरी
+arpabet: B EH1 R IY0
+
+
+
+
+-- lib.word: bullets
+american: बूलैट्स
+arpabet: B UH1 L AH0 T S
+
+
+
+
+-- lib.word: burial
+american: बेरीऐल
+arpabet: B EH1 R IY0 AH0 L
+
+
+
+
+-- lib.word: butler
+american: बाट्ल्र
+arpabet: B AH1 T L ER0
+
+
+
+
+-- lib.word: buttons
+american: बाटैन्स
+arpabet: B AH1 T AH0 N Z
+
+
+
+
+-- lib.word: bustle
+american: बासैल
+arpabet: B AH1 S AH0 L
+
+
+
+
+-- lib.word: button
+american: बाटैन
+arpabet: B AH1 T AH0 N
+
+
+
+
+-- lib.word: burns
+american: ब्र्न्स
+arpabet: B ER1 N Z
+
+
+
+
+-- lib.word: burgundy
+american: ब्र्गैन्डी
+arpabet: B ER1 G AH0 N D IY0
+
+
+
+
+-- lib.word: buddha
+american: बूडै
+arpabet: B UW1 D AH0
+
+
+
+
+-- lib.word: burroughs
+american: बारोस
+arpabet: B AH1 R OW0 Z
+
+
+
+
+-- lib.word: bust
+american: बास्ट
+arpabet: B AH1 S T
+
+
+
+
+-- lib.word: bureau
+american: ब्यूरो
+arpabet: B Y UH1 R OW0
+
+
+
+
+-- lib.word: bully
+american: बूली
+arpabet: B UH1 L IY0
+
+
+
+
+-- lib.word: butt
+american: बाट
+arpabet: B AH1 T
+
+
+
+
+-- lib.word: butcher
+american: बूचर
+arpabet: B UH1 CH ER0
+
+
+
+
+-- lib.word: butterfly
+american: बाट्र्फ्लाय
+arpabet: B AH1 T ER0 F L AY2
+
+
+
+
+-- lib.word: bucket
+american: बाकैट
+arpabet: B AH1 K AH0 T
+
+
+
+
+-- lib.word: Buddhist
+american: बूडैस्ट
+arpabet: B UW1 D AH0 S T
+
+
+
+
+-- lib.word: bug
+american: बाग
+arpabet: B AH1 G
+
+
+
+
+-- lib.word: buck
+american: बाक
+arpabet: B AH1 K
+
+
+
+
+-- lib.word: buggy
+american: बागी
+arpabet: B AH1 G IY0
+
+
+
+

@@ -1,0 +1,812 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: she
+american: शी
+arpabet: SH IY1
+meaning: वह ( स्त्री लिंग  के लिए)
+
+
+-- lib.word: she's
+american: शीस
+arpabet: SH IY1 Z
+meaning: वह है  है
+
+स्त्री लिंग के लिए प्रयोग किया जाता है
+
+
+-- lib.word: should
+american: शूड
+arpabet: SH UH1 D
+indian: शूड ।शुड
+meaning: चाहिए
+
+
+-- lib.word: show
+american: शो
+arpabet: SH OW1
+meaning: दिखाना , प्रदर्शन करना , इशारा करना
+
+
+-- lib.word: shut
+american: शाट
+arpabet: SH AH1 T
+meaning: बंद , मॅुह बंद
+
+
+-- lib.word: shouldn't
+american: शूडैन्ट
+arpabet: SH UH1 D AH0 N T
+meaning: नहीं करना चाहिये
+
+
+-- lib.word: shit
+american: शिट
+arpabet: SH IH1 T
+meaning: मल ,विष्टा ,अपशब्द
+
+
+-- lib.word: shot
+american: शॉट
+arpabet: SH AA1 T
+meaning: गोली चलने की आवाज ,गोली मारना
+
+
+-- lib.word: she'll
+american: शील
+arpabet: SH IY1 L
+meaning: सीप ,खोल आवरण ,शैल
+
+
+-- lib.word: Sheridan
+american: शेरिडैन
+arpabet: SH EH1 R IH0 D AH0 N
+meaning: शेरिडन ?
+
+
+-- lib.word: shall
+american: शैल
+arpabet: SH AE1 L
+meaning: करेगा,भविष्य काल सूचक सहायक क्रिया
+
+
+-- lib.word: shoot
+american: शूट
+arpabet: SH UW1 T
+meaning: शिकार,टहनी,आखेट
+
+
+-- lib.word: share
+american: शेर
+arpabet: SH EH1 R
+indian: शेयर
+meaning: साझा करना,हिस्सा,अंश
+
+
+-- lib.word: short
+american: शॉर्ट
+arpabet: SH AO1 R T
+meaning: कम, छोटा, संक्षेप में, अल्पकालीन
+
+
+-- lib.word: Shawn
+american: शॉन
+arpabet: SH AO1 N
+meaning: शॅान
+
+the god is gracious
+
+
+-- lib.word: ship
+american: शिप
+arpabet: SH IH1 P
+
+
+
+
+-- lib.word: showed
+american: शोड
+arpabet: SH OW1 D
+
+
+
+
+-- lib.word: shore
+american: शॉर
+arpabet: SH AO1 R
+
+
+
+
+-- lib.word: shown
+american: शोन
+arpabet: SH OW1 N
+
+
+
+
+-- lib.word: shook
+american: शूक
+arpabet: SH UH1 K
+
+
+
+
+-- lib.word: ships
+american: शिप्स
+arpabet: SH IH1 P S
+
+
+
+
+-- lib.word: shoulders
+american: शोल्ड्र्स
+arpabet: SH OW1 L D ER0 Z
+
+
+
+
+-- lib.word: shoulder
+american: शोल्ड्र
+arpabet: SH OW1 L D ER0
+
+
+
+
+-- lib.word: sharp
+american: शॉर्प
+arpabet: SH AA1 R P
+
+
+
+
+-- lib.word: shadow
+american: शैडो
+arpabet: SH AE1 D OW2
+
+
+
+
+-- lib.word: shape
+american: शेऽप
+arpabet: SH EY1 P
+
+
+
+
+-- lib.word: shame
+american: शेऽम
+arpabet: SH EY1 M
+
+
+
+
+-- lib.word: shows
+american: शोस
+arpabet: SH OW1 Z
+
+
+
+
+-- lib.word: showing
+american: शोइंग
+arpabet: SH OW1 IH0 NG
+
+
+
+
+-- lib.word: shop
+american: शॉप
+arpabet: SH AA1 P
+
+
+
+
+-- lib.word: shalt
+american: शैल्ट
+arpabet: SH AE1 L T
+
+
+
+
+-- lib.word: shouted
+american: शाव्टैड
+arpabet: SH AW1 T AH0 D
+
+
+
+
+-- lib.word: shade
+american: शेऽड
+arpabet: SH EY1 D
+
+
+
+
+-- lib.word: shining
+american: शाय्निंग
+arpabet: SH AY1 N IH0 NG
+
+
+
+
+-- lib.word: sheep
+american: शीप
+arpabet: SH IY1 P
+
+
+
+
+-- lib.word: shadows
+american: शैडोस
+arpabet: SH AE1 D OW2 Z
+
+
+
+
+-- lib.word: shelter
+american: शेल्ट्र
+arpabet: SH EH1 L T ER0
+
+
+
+
+-- lib.word: shake
+american: शेऽक
+arpabet: SH EY1 K
+
+
+
+
+-- lib.word: shone
+american: शोन
+arpabet: SH OW1 N
+
+
+
+
+-- lib.word: shoes
+american: शूस
+arpabet: SH UW1 Z
+
+
+
+
+-- lib.word: shed
+american: शेड
+arpabet: SH EH1 D
+
+
+
+
+-- lib.word: shock
+american: शॉक
+arpabet: SH AA1 K
+
+
+
+
+-- lib.word: shaking
+american: शेऽकिंग
+arpabet: SH EY1 K IH0 NG
+
+
+
+
+-- lib.word: shortly
+american: शॉर्ट्ली
+arpabet: SH AO1 R T L IY0
+
+
+
+
+-- lib.word: sharply
+american: शॉर्प्ली
+arpabet: SH AA1 R P L IY0
+
+
+
+
+-- lib.word: Shak
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: shared
+american: शेर्ड
+arpabet: SH EH1 R D
+
+
+
+
+-- lib.word: sheet
+american: शीट
+arpabet: SH IY1 T
+
+
+
+
+-- lib.word: shell
+american: शेल
+arpabet: SH EH1 L
+
+
+
+
+-- lib.word: shout
+american: शाव्ट
+arpabet: SH AW1 T
+
+
+
+
+-- lib.word: shores
+american: शॉर्स
+arpabet: SH AO1 R Z
+
+
+
+
+-- lib.word: Shakespeare
+american: शेऽक्स्पीर
+arpabet: SH EY1 K S P IY2 R
+
+
+
+
+-- lib.word: shield
+american: शील्ड
+arpabet: SH IY1 L D
+
+
+
+
+-- lib.word: shine
+american: शाय्न
+arpabet: SH AY1 N
+
+
+
+
+-- lib.word: shouting
+american: शाव्टिंग
+arpabet: SH AW1 T IH0 NG
+
+
+
+
+-- lib.word: shooting
+american: शूटिंग
+arpabet: SH UW1 T IH0 NG
+
+
+
+
+-- lib.word: shells
+american: शेल्स
+arpabet: SH EH1 L Z
+
+
+
+
+-- lib.word: shaken
+american: शेऽकैन
+arpabet: SH EY1 K AH0 N
+
+
+
+
+-- lib.word: shirt
+american: शर्ट
+arpabet: SH ER1 T
+
+
+
+
+-- lib.word: shillings
+american: शिलिंग्स
+arpabet: SH IH1 L IH0 NG Z
+
+
+
+
+-- lib.word: sheer
+american: शिर
+arpabet: SH IH1 R
+
+
+
+
+-- lib.word: shops
+american: शॉप्स
+arpabet: SH AA1 P S
+
+
+
+
+-- lib.word: shy
+american: शाय
+arpabet: SH AY1
+
+
+
+
+-- lib.word: shallow
+american: शैलो
+arpabet: SH AE1 L OW0
+
+
+
+
+-- lib.word: shouts
+american: शाव्ट्स
+arpabet: SH AW1 T S
+
+
+
+
+-- lib.word: sheets
+american: शीट्स
+arpabet: SH IY1 T S
+
+
+
+
+-- lib.word: shew
+american: शू
+arpabet: SH UW1
+
+
+
+
+-- lib.word: shocked
+american: शॉक्ट
+arpabet: SH AA1 K T
+
+
+
+
+-- lib.word: shades
+american: शेऽड्स
+arpabet: SH EY1 D Z
+
+
+
+
+-- lib.word: shaft
+american: शैफ्ट
+arpabet: SH AE1 F T
+
+
+
+
+-- lib.word: shrill
+american: शरिल
+arpabet: SH R IH1 L
+
+
+
+
+-- lib.word: sharing
+american: शेरिंग
+arpabet: SH EH1 R IH0 NG
+
+
+
+
+-- lib.word: shapes
+american: शेऽप्स
+arpabet: SH EY1 P S
+
+
+
+
+-- lib.word: shrewd
+american: शरूड
+arpabet: SH R UW1 D
+
+
+
+
+-- lib.word: shower
+american: शाव्र
+arpabet: SH AW1 ER0
+
+
+
+
+-- lib.word: she'd
+american: शीड
+arpabet: SH IY1 D
+
+
+
+
+-- lib.word: shrugged
+american: शराग्ड
+arpabet: SH R AH1 G D
+
+
+
+
+-- lib.word: shepherd
+american: शेप्र्ड
+arpabet: SH EH1 P ER0 D
+
+
+
+
+-- lib.word: shaped
+american: शेऽप्ट
+arpabet: SH EY1 P T
+
+
+
+
+-- lib.word: shudder
+american: शाड्र
+arpabet: SH AH1 D ER0
+
+
+
+
+-- lib.word: shadowy
+american: शैडोई
+arpabet: SH AE1 D OW0 IY0
+
+
+
+
+-- lib.word: shan't
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: shrank
+american: शरैंग्क
+arpabet: SH R AE1 NG K
+
+
+
+
+-- lib.word: shattered
+american: शैट्र्ड
+arpabet: SH AE1 T ER0 D
+
+
+
+
+-- lib.word: sheltered
+american: शेल्ट्र्ड
+arpabet: SH EH1 L T ER0 D
+
+
+
+
+-- lib.word: shrine
+american: शराय्न
+arpabet: SH R AY1 N
+
+
+
+
+-- lib.word: shorter
+american: शॉर्ट्र
+arpabet: SH AO1 R T ER0
+
+
+
+
+-- lib.word: shawl
+american: शॉल
+arpabet: SH AO1 L
+
+
+
+
+-- lib.word: shift
+american: शिफ्ट
+arpabet: SH IH1 F T
+
+
+
+
+-- lib.word: shrink
+american: शरिंग्क
+arpabet: SH R IH1 NG K
+
+
+
+
+-- lib.word: shuddered
+american: शाड्र्ड
+arpabet: SH AH1 D ER0 D
+
+
+
+
+-- lib.word: shoe
+american: शू
+arpabet: SH UW1
+
+
+
+
+-- lib.word: shares
+american: शेर्स
+arpabet: SH EH1 R Z
+
+
+
+
+-- lib.word: shelf
+american: शेल्फ
+arpabet: SH EH1 L F
+
+
+
+
+-- lib.word: sheriff
+american: शेरैफ
+arpabet: SH EH1 R AH0 F
+
+
+
+
+-- lib.word: shabby
+american: शैबी
+arpabet: SH AE1 B IY0
+
+
+
+
+-- lib.word: shivering
+american: शिव्रिंग
+arpabet: SH IH1 V ER0 IH0 NG
+
+
+
+
+-- lib.word: shilling
+american: शिलिंग
+arpabet: SH IH1 L IH0 NG
+
+
+
+
+-- lib.word: Sherman
+american: शर्मैन
+arpabet: SH ER1 M AH0 N
+
+
+
+
+-- lib.word: shameful
+american: शेऽम्फैल
+arpabet: SH EY1 M F AH0 L
+
+
+
+
+-- lib.word: shriek
+american: शरीक
+arpabet: SH R IY1 K
+
+
+
+
+-- lib.word: shady
+american: शेऽडी
+arpabet: SH EY1 D IY0
+
+
+
+
+-- lib.word: shelves
+american: शेल्व्स
+arpabet: SH EH1 L V Z
+
+
+
+
+-- lib.word: shiver
+american: शिव्र
+arpabet: SH IH1 V ER0
+
+
+
+
+-- lib.word: shocking
+american: शॉकिंग
+arpabet: SH AA1 K IH0 NG
+
+
+
+
+-- lib.word: shipping
+american: शिपिंग
+arpabet: SH IH1 P IH0 NG
+
+
+
+
+-- lib.word: shrinking
+american: शरिंग्किंग
+arpabet: SH R IH1 NG K IH0 NG
+
+
+
+
+-- lib.word: shepherds
+american: शेप्र्ड्स
+arpabet: SH EH1 P ER0 D Z
+
+
+
+
+-- lib.word: shaggy
+american: शैगी
+arpabet: SH AE1 G IY0
+
+
+
+
+-- lib.word: shoots
+american: शूट्स
+arpabet: SH UW1 T S
+
+
+
+
+-- lib.word: shrunk
+american: शरांग्क
+arpabet: SH R AH1 NG K
+
+
+
+
+-- lib.word: shun
+american: शान
+arpabet: SH AH1 N
+
+
+
+
+-- lib.word: Shaw
+american: शॉ
+arpabet: SH AO1
+
+
+
+
+-- lib.word: shrug
+american: शराग
+arpabet: SH R AH1 G
+
+
+
+
+-- lib.word: Shirley
+american: शर्ली
+arpabet: SH ER1 L IY0
+
+
+
+
+-- lib.word: sham
+american: शैम
+arpabet: SH AE1 M
+
+
+
+
+-- lib.word: shortest
+american: शॉर्टिस्ट
+arpabet: SH AO1 R T IH0 S T
+
+
+
+

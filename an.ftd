@@ -1,0 +1,511 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: and
+american: ऐन्ड
+arpabet: AH0 N D
+meaning: और
+
+ऐंड का प्रयोग और,एवं इत्यादि के लिए किया जाता है
+
+
+-- lib.word: an
+american: ऐन
+arpabet: AE1 N
+meaning: एक को इंगित करता है
+
+ऐन का प्रयोग vowel से प्रारंभ होने वाले एक वचन शब्द के पूर्व होता है
+
+
+-- lib.word: anything
+american: एनीथिंग
+arpabet: EH1 N IY0 TH IH2 NG
+meaning: कुछ भी , प्रत्येक वस्तु
+
+
+-- lib.word: any
+american: एनी
+arpabet: EH1 N IY0
+meaning: कोई एक
+
+
+-- lib.word: another
+american: ऐनादर
+arpabet: AH0 N AH1 DH ER0
+meaning: दूसरा ,एक और ,अन्य
+
+
+-- lib.word: anyone
+american: एनीवऽन
+arpabet: EH1 N IY0 W AH2 N
+meaning: किसी को , कोई व्यक्ति
+
+
+-- lib.word: anyway
+american: एनीवेऽ
+arpabet: EH1 N IY0 W EY2
+meaning: किसी न किसी प्रकार से , वैसे भी
+
+
+-- lib.word: anymore
+american: एनीमॉर
+arpabet: EH2 N IY0 M AO1 R
+meaning: अब
+
+
+-- lib.word: anybody
+american: एनीबैडी
+arpabet: EH1 N IY0 B AH0 D IY0
+meaning: कोई , कोई व्यक्ति , कोई न कोई
+
+
+-- lib.word: answer
+american: ऐन्स्र
+arpabet: AE1 N S ER0
+indian: आन्सर
+meaning: उत्त्तर,जवाब,उत्तरदायी
+
+
+-- lib.word: anywhere
+american: एनीवेर
+arpabet: EH1 N IY0 W EH2 R
+meaning: कहीं भी ,कोई जगह ,सर्वत्र
+
+
+-- lib.word: Antonio
+american: ऐन्टोनीओ
+arpabet: AE0 N T OW1 N IY0 OW0
+meaning: एंटोनियो ?
+
+
+-- lib.word: angry
+american: ऐंग्ग्री
+arpabet: AE1 NG G R IY0
+meaning: गुस्सा,नाराज़,अप्रसन्न,खफा़
+
+
+-- lib.word: angel
+american: एऽन्जैल
+arpabet: EY1 N JH AH0 L
+meaning: देवदूत
+
+
+-- lib.word: answered
+american: ऐन्स्र्ड
+arpabet: AE1 N S ER0 D
+
+
+
+
+-- lib.word: an'
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: ancient
+american: एऽन्चैन्ट
+arpabet: EY1 N CH AH0 N T
+
+
+
+
+-- lib.word: anxious
+american: ऐंग्क्शैस
+arpabet: AE1 NG K SH AH0 S
+
+
+
+
+-- lib.word: animal
+american: ऐनैमैल
+arpabet: AE1 N AH0 M AH0 L
+
+
+
+
+-- lib.word: animals
+american: ऐनैमैल्स
+arpabet: AE1 N AH0 M AH0 L Z
+
+
+
+
+-- lib.word: anger
+american: ऐंग्ग्र
+arpabet: AE1 NG G ER0
+
+
+
+
+-- lib.word: anxiety
+american: ऐंग्सायैटी
+arpabet: AE0 NG Z AY1 AH0 T IY0
+
+
+
+
+-- lib.word: announcement
+american: ऐनाव्न्स्मैन्ट
+arpabet: AH0 N AW1 N S M AH0 N T
+
+
+
+
+-- lib.word: Anne
+american: ऐन
+arpabet: AE1 N
+
+
+
+
+-- lib.word: annual
+american: ऐन्युऐल
+arpabet: AE1 N Y UW0 AH0 L
+
+
+
+
+-- lib.word: angels
+american: एऽन्जैल्स
+arpabet: EY1 N JH AH0 L Z
+
+
+
+
+-- lib.word: Andrew
+american: ऐन्ड्रु
+arpabet: AE1 N D R UW0
+
+
+
+
+-- lib.word: anguish
+american: ऐंग्ग्विश
+arpabet: AE1 NG G W IH0 SH
+
+
+
+
+-- lib.word: answers
+american: ऐन्स्र्स
+arpabet: AE1 N S ER0 Z
+
+
+
+
+-- lib.word: anxiously
+american: ऐंग्क्शैस्ली
+arpabet: AE1 NG K SH AH0 S L IY0
+
+
+
+
+-- lib.word: ancestors
+american: ऐन्सेस्ट्र्स
+arpabet: AE1 N S EH2 S T ER0 Z
+
+
+
+
+-- lib.word: Ann
+american: ऐन
+arpabet: AE1 N
+
+
+
+
+-- lib.word: anchor
+american: ऐंग्क्र
+arpabet: AE1 NG K ER0
+
+
+
+
+-- lib.word: Anna
+american: ऐनै
+arpabet: AE1 N AH0
+
+
+
+
+-- lib.word: answering
+american: ऐन्स्रिंग
+arpabet: AE1 N S ER0 IH0 NG
+
+
+
+
+-- lib.word: angle
+american: ऐंग्गैल
+arpabet: AE1 NG G AH0 L
+
+
+
+
+-- lib.word: anyhow
+american: एनीहाव
+arpabet: EH1 N IY0 HH AW2
+
+
+
+
+-- lib.word: Anthony
+american: ऐन्थैनी
+arpabet: AE1 N TH AH0 N IY0
+
+
+
+
+-- lib.word: angrily
+american: ऐंग्ग्रैली
+arpabet: AE1 NG G R AH0 L IY0
+
+
+
+
+-- lib.word: animated
+american: ऐनैमेऽटैड
+arpabet: AE1 N AH0 M EY2 T AH0 D
+
+
+
+
+-- lib.word: antiquity
+american: ऐन्टिक्वैटी
+arpabet: AE0 N T IH1 K W AH0 T IY0
+
+
+
+
+-- lib.word: annoyed
+american: ऐनॉयड
+arpabet: AH0 N OY1 D
+
+
+
+
+-- lib.word: analysis
+american: ऐनैलैसैस
+arpabet: AH0 N AE1 L AH0 S AH0 S
+
+
+
+
+-- lib.word: Andy
+american: ऐन्डी
+arpabet: AE1 N D IY0
+
+
+
+
+-- lib.word: annoyance
+american: ऐनॉयैन्स
+arpabet: AH0 N OY1 AH0 N S
+
+
+
+
+-- lib.word: Anderson
+american: ऐन्ड्र्सैन
+arpabet: AE1 N D ER0 S AH0 N
+
+
+
+
+-- lib.word: analyzed
+american: ऐनैलाय्स्ड
+arpabet: AE1 N AH0 L AY2 Z D
+
+
+
+
+-- lib.word: annually
+american: ऐन्युऐली
+arpabet: AE1 N Y UW0 AH0 L IY0
+
+
+
+
+-- lib.word: anon
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: announce
+american: ऐनाव्न्स
+arpabet: AH0 N AW1 N S
+
+
+
+
+-- lib.word: Antonio
+american: ऐन्टोनीओ
+arpabet: AE0 N T OW1 N IY0 OW0
+
+
+
+
+-- lib.word: antique
+american: ऐन्टीक
+arpabet: AE0 N T IY1 K
+
+
+
+
+-- lib.word: anonymous
+american: ऐनॉनैमैस
+arpabet: AH0 N AA1 N AH0 M AH0 S
+
+
+
+
+-- lib.word: anticipation
+american: ऐन्टिसैपेऽशैन
+arpabet: AE0 N T IH2 S AH0 P EY1 SH AH0 N
+
+
+
+
+-- lib.word: animation
+american: ऐनैमेऽशैन
+arpabet: AE2 N AH0 M EY1 SH AH0 N
+
+
+
+
+-- lib.word: anticipate
+american: ऐन्टिसैपेऽट
+arpabet: AE0 N T IH1 S AH0 P EY2 T
+
+
+
+
+-- lib.word: anecdote
+american: ऐनैक्डोट
+arpabet: AE1 N AH0 K D OW2 T
+
+
+
+
+-- lib.word: annals
+american: ऐनैल्स
+arpabet: AE1 N AH0 L Z
+
+
+
+
+-- lib.word: antwerp
+american: ऐन्ट्वर्प
+arpabet: AE1 N T W ER0 P
+
+
+
+
+-- lib.word: antagonist
+american: ऐन्टैगैनैस्ट
+arpabet: AE0 N T AE1 G AH0 N AH0 S T
+
+
+
+
+-- lib.word: analogy
+american: ऐनैलैजी
+arpabet: AH0 N AE1 L AH0 JH IY0
+
+
+
+
+-- lib.word: ancestor
+american: ऐन्सेस्ट्र
+arpabet: AE1 N S EH2 S T ER0
+
+
+
+
+-- lib.word: angelo
+american: ऐन्जैलो
+arpabet: AE1 N JH AH0 L OW2
+
+
+
+
+-- lib.word: anglo-saxon
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: analogous
+american: ऐनैलैगैस
+arpabet: AH0 N AE1 L AH0 G AH0 S
+
+
+
+
+-- lib.word: ante
+american: ऐन्टी
+arpabet: AE1 N T IY0
+
+
+
+
+-- lib.word: anarchy
+american: ऐन्र्की
+arpabet: AE1 N ER0 K IY0
+
+
+
+
+-- lib.word: annoy
+american: ऐनॉय
+arpabet: AH0 N OY1
+
+
+
+
+-- lib.word: ancestral
+american: ऐन्सेस्ट्रैल
+arpabet: AE0 N S EH1 S T R AH0 L
+
+
+
+
+-- lib.word: ant
+american: ऐन्ट
+arpabet: AE1 N T
+
+
+
+
+-- lib.word: ankle
+american: ऐंग्कैल
+arpabet: AE1 NG K AH0 L
+
+
+
+
+-- lib.word: anniversary
+american: ऐनैव्र्स्री
+arpabet: AE2 N AH0 V ER1 S ER0 IY0
+
+
+
+
+-- lib.word: annoying
+american: ऐनॉयिंग
+arpabet: AH0 N OY1 IH0 NG
+
+
+
+
+-- lib.word: Angela
+american: ऐन्जैलै
+arpabet: AE1 N JH AH0 L AH0
+
+
+
+

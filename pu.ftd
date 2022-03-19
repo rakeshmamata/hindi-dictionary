@@ -1,0 +1,349 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: put
+american: पूट
+arpabet: P UH1 T
+meaning: रखना  ,लगाना
+
+
+-- lib.word: pull
+american: पूल
+arpabet: P UH1 L
+meaning: खींचना,उठाना,उखाड़ना,शक्ती लगाना,परिश्रम
+
+
+-- lib.word: putting
+american: पाटिंग
+arpabet: P AH1 T IH0 NG
+meaning: रखना, डाल
+
+
+-- lib.word: public
+american: पाब्लिक
+arpabet: P AH1 B L IH0 K
+
+
+
+
+-- lib.word: purpose
+american: प्र्पैस
+arpabet: P ER1 P AH0 S
+
+
+
+
+-- lib.word: pure
+american: प्यूर
+arpabet: P Y UH1 R
+
+
+
+
+-- lib.word: published
+american: पाब्लिशट
+arpabet: P AH1 B L IH0 SH T
+
+
+
+
+-- lib.word: pulled
+american: पूल्ड
+arpabet: P UH1 L D
+
+
+
+
+-- lib.word: punishment
+american: पानिशमैन्ट
+arpabet: P AH1 N IH0 SH M AH0 N T
+
+
+
+
+-- lib.word: purposes
+american: प्र्पैसैस
+arpabet: P ER1 P AH0 S AH0 Z
+
+
+
+
+-- lib.word: pushed
+american: पूशट
+arpabet: P UH1 SH T
+
+
+
+
+-- lib.word: pursued
+american: प्र्सूड
+arpabet: P ER0 S UW1 D
+
+
+
+
+-- lib.word: pursuit
+american: प्र्सूट
+arpabet: P ER0 S UW1 T
+
+
+
+
+-- lib.word: purple
+american: प्र्पैल
+arpabet: P ER1 P AH0 L
+
+
+
+
+-- lib.word: purchase
+american: प्र्चैस
+arpabet: P ER1 CH AH0 S
+
+
+
+
+-- lib.word: publication
+american: प्ऽब्लिकेऽशैन
+arpabet: P AH2 B L IH0 K EY1 SH AH0 N
+
+
+
+
+-- lib.word: puzzled
+american: पासैल्ड
+arpabet: P AH1 Z AH0 L D
+
+
+
+
+-- lib.word: pursue
+american: प्र्सू
+arpabet: P ER0 S UW1
+
+
+
+
+-- lib.word: purely
+american: प्यूर्ली
+arpabet: P Y UH1 R L IY0
+
+
+
+
+-- lib.word: purse
+american: प्र्स
+arpabet: P ER1 S
+
+
+
+
+-- lib.word: punished
+american: पानिशट
+arpabet: P AH1 N IH0 SH T
+
+
+
+
+-- lib.word: purchased
+american: प्र्चैस्ट
+arpabet: P ER1 CH AH0 S T
+
+
+
+
+-- lib.word: push
+american: पूश
+arpabet: P UH1 SH
+
+
+
+
+-- lib.word: purity
+american: प्यूरैटी
+arpabet: P Y UH1 R AH0 T IY0
+
+
+
+
+-- lib.word: pupils
+american: प्यूपैल्स
+arpabet: P Y UW1 P AH0 L Z
+
+
+
+
+-- lib.word: pulling
+american: पूलिंग
+arpabet: P UH1 L IH0 NG
+
+
+
+
+-- lib.word: pupil
+american: प्यूपैल
+arpabet: P Y UW1 P AH0 L
+
+
+
+
+-- lib.word: punish
+american: पानिश
+arpabet: P AH1 N IH0 SH
+
+
+
+
+-- lib.word: pushing
+american: पूशिंग
+arpabet: P UH1 SH IH0 NG
+
+
+
+
+-- lib.word: pub.
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: pub
+american: पाब
+arpabet: P AH1 B
+
+
+
+
+-- lib.word: publicly
+american: पाब्लिक्ली
+arpabet: P AH1 B L IH0 K L IY0
+
+
+
+
+-- lib.word: pursuing
+american: प्र्सूइंग
+arpabet: P ER0 S UW1 IH0 NG
+
+
+
+
+-- lib.word: pulse
+american: पाल्स
+arpabet: P AH1 L S
+
+
+
+
+-- lib.word: pulpit
+american: पूल्पिट
+arpabet: P UH1 L P IH0 T
+
+
+
+
+-- lib.word: publish
+american: पाब्लिश
+arpabet: P AH1 B L IH0 SH
+
+
+
+
+-- lib.word: punctuation
+american: प्ऽंग्क्चुएऽशैन
+arpabet: P AH2 NG K CH UW0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: puritan
+american: प्यूरैटैन
+arpabet: P Y UH1 R AH0 T AH0 N
+
+
+
+
+-- lib.word: purest
+american: प्यूरैस्ट
+arpabet: P Y UH1 R AH0 S T
+
+
+
+
+-- lib.word: publisher
+american: पाब्लिशर
+arpabet: P AH1 B L IH0 SH ER0
+
+
+
+
+-- lib.word: puzzle
+american: पासैल
+arpabet: P AH1 Z AH0 L
+
+
+
+
+-- lib.word: purposely
+american: प्र्पैस्ली
+arpabet: P ER1 P AH0 S L IY0
+
+
+
+
+-- lib.word: pudding
+american: पूडिंग
+arpabet: P UH1 D IH0 NG
+
+
+
+
+-- lib.word: pump
+american: पाम्प
+arpabet: P AH1 M P
+
+
+
+
+-- lib.word: publishing
+american: पाब्लिशिंग
+arpabet: P AH1 B L IH0 SH IH0 NG
+
+
+
+
+-- lib.word: punch
+american: पान्च
+arpabet: P AH1 N CH
+
+
+
+
+-- lib.word: puff
+american: पाफ
+arpabet: P AH1 F
+
+
+
+
+-- lib.word: puffed
+american: पाफ्ट
+arpabet: P AH1 F T
+
+
+
+
+-- lib.word: purer
+american: प्यूर्र
+arpabet: P Y UH1 R ER0
+
+
+
+
+-- lib.word: purified
+american: प्यूरैफाय्ड
+arpabet: P Y UH1 R AH0 F AY2 D
+
+
+
+

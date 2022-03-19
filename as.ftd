@@ -1,0 +1,405 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: as
+american: ऐस
+arpabet: AE1 Z
+meaning: जैसा
+
+
+-- lib.word: ask
+american: ऐस्क
+arpabet: AE1 S K
+indian: आस्क
+meaning: पूछना , मांगना ,याचना करना
+
+
+-- lib.word: asked
+american: ऐस्क्ट
+arpabet: AE1 S K T
+indian: Same / आस्क्ड
+meaning: पूछा
+
+
+-- lib.word: asking
+american: ऐस्किंग
+arpabet: AE1 S K IH0 NG
+meaning: पूछना ,प्रश्न करना
+
+
+-- lib.word: ass
+american: ऐस
+arpabet: AE1 S
+meaning: घंधा ,नितंब ,कमर के पीछे का भाग
+
+
+-- lib.word: associated
+american: ऐसोसीएऽटैड
+arpabet: AH0 S OW1 S IY0 EY2 T AH0 D
+
+
+
+
+-- lib.word: aside
+american: ऐसाय्ड
+arpabet: AH0 S AY1 D
+
+
+
+
+-- lib.word: assistance
+american: ऐसिस्टैन्स
+arpabet: AH0 S IH1 S T AH0 N S
+
+
+
+
+-- lib.word: asleep
+american: ऐस्लीप
+arpabet: AH0 S L IY1 P
+
+
+
+
+-- lib.word: assured
+american: ऐशूर्ड
+arpabet: AH0 SH UH1 R D
+
+
+
+
+-- lib.word: ashamed
+american: ऐशेऽम्ड
+arpabet: AH0 SH EY1 M D
+
+
+
+
+-- lib.word: ascii
+american: ऐस्की
+arpabet: AE1 S K IY0
+
+
+
+
+-- lib.word: aspect
+american: ऐस्पेक्ट
+arpabet: AE1 S P EH2 K T
+
+
+
+
+-- lib.word: assure
+american: ऐशूर
+arpabet: AH0 SH UH1 R
+
+
+
+
+-- lib.word: astonishment
+american: ऐस्टॉनिशमैन्ट
+arpabet: AH0 S T AA1 N IH0 SH M AH0 N T
+
+
+
+
+-- lib.word: assembled
+american: ऐसेम्बैल्ड
+arpabet: AH0 S EH1 M B AH0 L D
+
+
+
+
+-- lib.word: assist
+american: ऐसिस्ट
+arpabet: AH0 S IH1 S T
+
+
+
+
+-- lib.word: assume
+american: ऐसूम
+arpabet: AH0 S UW1 M
+
+
+
+
+-- lib.word: assembly
+american: ऐसेम्ब्ली
+arpabet: AH0 S EH1 M B L IY0
+
+
+
+
+-- lib.word: Asia
+american: एऽसै
+arpabet: EY1 ZH AH0
+
+
+
+
+-- lib.word: assurance
+american: ऐशूरैन्स
+arpabet: AH0 SH UH1 R AH0 N S
+
+
+
+
+-- lib.word: ashes
+american: ऐशैस
+arpabet: AE1 SH AH0 Z
+
+
+
+
+-- lib.word: assigned
+american: ऐसाय्न्ड
+arpabet: AH0 S AY1 N D
+
+
+
+
+-- lib.word: ashore
+american: ऐशॉर
+arpabet: AH0 SH AO1 R
+
+
+
+
+-- lib.word: asks
+american: ऐस्क्स
+arpabet: AE1 S K S
+
+
+
+
+-- lib.word: assisted
+american: ऐसिस्टैड
+arpabet: AH0 S IH1 S T AH0 D
+
+
+
+
+-- lib.word: association
+american: ऐसोसीएऽशैन
+arpabet: AH0 S OW2 S IY0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: asserted
+american: ऐस्र्टैड
+arpabet: AH0 S ER1 T AH0 D
+
+
+
+
+-- lib.word: ascended
+american: ऐसेन्डैड
+arpabet: AH0 S EH1 N D AH0 D
+
+
+
+
+-- lib.word: assault
+american: ऐसॉल्ट
+arpabet: AH0 S AO1 L T
+
+
+
+
+-- lib.word: ascertain
+american: ऐस्र्टेऽन
+arpabet: AE2 S ER0 T EY1 N
+
+
+
+
+-- lib.word: assert
+american: ऐस्र्ट
+arpabet: AH0 S ER1 T
+
+
+
+
+-- lib.word: assertion
+american: ऐस्र्शैन
+arpabet: AH0 S ER1 SH AH0 N
+
+
+
+
+-- lib.word: assent
+american: ऐसेन्ट
+arpabet: AH0 S EH1 N T
+
+
+
+
+-- lib.word: ascertained
+american: ऐस्र्टेऽन्ड
+arpabet: AE2 S ER0 T EY1 N D
+
+
+
+
+-- lib.word: astonishing
+american: ऐस्टॉनिशिंग
+arpabet: AH0 S T AA1 N IH0 SH IH0 NG
+
+
+
+
+-- lib.word: associations
+american: ऐसोसीएऽशैन्स
+arpabet: AH0 S OW2 S IY0 EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: assented
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: assistant
+american: ऐसिस्टैन्ट
+arpabet: AH0 S IH1 S T AH0 N T
+
+
+
+
+-- lib.word: as.
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: asp
+american: ऐस्प
+arpabet: AE1 S P
+
+
+
+
+-- lib.word: associate
+american: ऐसोसीऐट
+arpabet: AH0 S OW1 S IY0 AH0 T
+
+
+
+
+-- lib.word: ascent
+american: ऐसेन्ट
+arpabet: AH0 S EH1 N T
+
+
+
+
+-- lib.word: assuredly
+american: ऐशूरैड्ली
+arpabet: AH0 SH UH1 R AH0 D L IY0
+
+
+
+
+-- lib.word: associates
+american: ऐसोसीऐट्स
+arpabet: AH0 S OW1 S IY0 AH0 T S
+
+
+
+
+-- lib.word: ascend
+american: ऐसेन्ड
+arpabet: AH0 S EH1 N D
+
+
+
+
+-- lib.word: ascribed
+american: ऐस्क्राय्ब्ड
+arpabet: AH0 S K R AY1 B D
+
+
+
+
+-- lib.word: assumption
+american: ऐसाम्प्शैन
+arpabet: AH0 S AH1 M P SH AH0 N
+
+
+
+
+-- lib.word: ascending
+american: ऐसेन्डिंग
+arpabet: AH0 S EH1 N D IH0 NG
+
+
+
+
+-- lib.word: aspects
+american: ऐस्पेक्ट्स
+arpabet: AE1 S P EH2 K T S
+
+
+
+
+-- lib.word: asterisk
+american: ऐस्ट्रिस्क
+arpabet: AE1 S T ER0 IH0 S K
+
+
+
+
+-- lib.word: asylum
+american: ऐसाय्लैम
+arpabet: AH0 S AY1 L AH0 M
+
+
+
+
+-- lib.word: astray
+american: ऐस्ट्रेऽ
+arpabet: AH0 S T R EY1
+
+
+
+
+-- lib.word: asunder
+american: ऐसान्ड्र
+arpabet: AH0 S AH1 N D ER0
+
+
+
+
+-- lib.word: ash
+american: ऐश
+arpabet: AE1 SH
+
+
+
+
+-- lib.word: assign
+american: ऐसाय्न
+arpabet: AH0 S AY1 N
+
+
+
+
+-- lib.word: assassination
+american: ऐसैसैनेऽशैन
+arpabet: AH0 S AE2 S AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: ascetic
+american: ऐसेटिक
+arpabet: AH0 S EH1 T IH0 K
+
+
+
+

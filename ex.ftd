@@ -1,0 +1,949 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: exactly
+american: इग्सैक्ट्ली
+arpabet: IH0 G Z AE1 K T L IY0
+meaning: बिल्कुल , सही , अचूक
+
+
+-- lib.word: excuse
+american: इक्स्क्यूस
+arpabet: IH0 K S K Y UW1 S
+meaning: क्षमा करना , माफ करना ,क्षमादान करना
+
+
+-- lib.word: explain
+american: इक्स्प्लेऽन
+arpabet: IH0 K S P L EY1 N
+meaning: समझाना ,स्पष्ट करना ,व्याख्या करना
+
+
+-- lib.word: except
+american: इक्सेप्ट
+arpabet: IH0 K S EH1 P T
+meaning: के अलावा ,के अतिरिक्त,को छोड़कर,के सिवाय
+
+
+-- lib.word: expect
+american: इक्स्पेक्ट
+arpabet: IH0 K S P EH1 K T
+meaning: अपेक्षा करना,आशा करना,प्रतीक्षा करना
+
+
+-- lib.word: exclaimed
+american: इक्स्क्लेऽम्ड
+arpabet: IH0 K S K L EY1 M D
+
+
+
+
+-- lib.word: expression
+american: इक्स्प्रेशैन
+arpabet: IH0 K S P R EH1 SH AH0 N
+
+
+
+
+-- lib.word: expected
+american: इक्स्पेक्टैड
+arpabet: IH0 K S P EH1 K T AH0 D
+
+
+
+
+-- lib.word: experience
+american: इक्स्पिरीऐन्स
+arpabet: IH0 K S P IH1 R IY0 AH0 N S
+
+
+
+
+-- lib.word: ex
+american: एक्स
+arpabet: EH1 K S
+
+
+
+
+-- lib.word: existence
+american: एग्सिस्टैन्स
+arpabet: EH0 G Z IH1 S T AH0 N S
+
+
+
+
+-- lib.word: example
+american: इग्सैम्पैल
+arpabet: IH0 G Z AE1 M P AH0 L
+
+
+
+
+-- lib.word: extent
+american: इक्स्टेन्ट
+arpabet: IH0 K S T EH1 N T
+
+
+
+
+-- lib.word: excellent
+american: एक्सैलैन्ट
+arpabet: EH1 K S AH0 L AH0 N T
+
+
+
+
+-- lib.word: expressed
+american: इक्स्प्रेस्ट
+arpabet: IH0 K S P R EH1 S T
+
+
+
+
+-- lib.word: expense
+american: इक्स्पेन्स
+arpabet: IH0 K S P EH1 N S
+
+
+
+
+-- lib.word: explained
+american: इक्स्प्लेऽन्ड
+arpabet: IH0 K S P L EY1 N D
+
+
+
+
+-- lib.word: express
+american: इक्स्प्रेस
+arpabet: IH0 K S P R EH1 S
+
+
+
+
+-- lib.word: extraordinary
+american: एक्स्ट्रैऑर्डैनेरी
+arpabet: EH2 K S T R AH0 AO1 R D AH0 N EH2 R IY0
+
+
+
+
+-- lib.word: explanation
+american: एक्स्प्लैनेऽशैन
+arpabet: EH2 K S P L AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: excitement
+american: इक्साय्ट्मैन्ट
+arpabet: IH0 K S AY1 T M AH0 N T
+
+
+
+
+-- lib.word: exercise
+american: एक्स्र्साय्स
+arpabet: EH1 K S ER0 S AY2 Z
+
+
+
+
+-- lib.word: excited
+american: इक्साय्टैड
+arpabet: IH0 K S AY1 T AH0 D
+
+
+
+
+-- lib.word: extreme
+american: एक्स्ट्रीम
+arpabet: EH0 K S T R IY1 M
+
+
+
+
+-- lib.word: extremely
+american: एक्स्ट्रीम्ली
+arpabet: EH0 K S T R IY1 M L IY0
+
+
+
+
+-- lib.word: extended
+american: इक्स्टेन्डैड
+arpabet: IH0 K S T EH1 N D AH0 D
+
+
+
+
+-- lib.word: expedition
+american: एक्स्पैडिशैन
+arpabet: EH2 K S P AH0 D IH1 SH AH0 N
+
+
+
+
+-- lib.word: expenses
+american: इक्स्पेन्सैस
+arpabet: IH0 K S P EH1 N S AH0 Z
+
+
+
+
+-- lib.word: exact
+american: इग्सैक्ट
+arpabet: IH0 G Z AE1 K T
+
+
+
+
+-- lib.word: exist
+american: इग्सिस्ट
+arpabet: IH0 G Z IH1 S T
+
+
+
+
+-- lib.word: experienced
+american: इक्स्पिरीऐन्स्ट
+arpabet: IH0 K S P IH1 R IY0 AH0 N S T
+
+
+
+
+-- lib.word: exceedingly
+american: इक्सीडिंग्ली
+arpabet: IH0 K S IY1 D IH0 NG L IY0
+
+
+
+
+-- lib.word: execution
+american: एक्सैक्यूशैन
+arpabet: EH2 K S AH0 K Y UW1 SH AH0 N
+
+
+
+
+-- lib.word: examination
+american: इग्सैमैनेऽशैन
+arpabet: IH0 G Z AE2 M AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: examined
+american: इग्सैमैन्ड
+arpabet: IH0 G Z AE1 M AH0 N D
+
+
+
+
+-- lib.word: exception
+american: इक्सेप्शैन
+arpabet: IH0 K S EH1 P SH AH0 N
+
+
+
+
+-- lib.word: exhausted
+american: इग्सॉस्टैड
+arpabet: IH0 G Z AO1 S T AH0 D
+
+
+
+
+-- lib.word: existed
+american: इग्सिस्टैड
+arpabet: IH0 G Z IH1 S T AH0 D
+
+
+
+
+-- lib.word: exists
+american: इग्सिस्ट्स
+arpabet: IH0 G Z IH1 S T S
+
+
+
+
+-- lib.word: exchange
+american: इक्स्चेऽन्ज
+arpabet: IH0 K S CH EY1 N JH
+
+
+
+
+-- lib.word: existing
+american: इग्सिस्टिंग
+arpabet: IH0 G Z IH1 S T IH0 NG
+
+
+
+
+-- lib.word: examine
+american: इग्सैमिन
+arpabet: IH0 G Z AE1 M IH0 N
+
+
+
+
+-- lib.word: external
+american: इक्स्ट्र्नैल
+arpabet: IH0 K S T ER1 N AH0 L
+
+
+
+
+-- lib.word: exquisite
+american: एक्स्क्वैसैट
+arpabet: EH1 K S K W AH0 Z AH0 T
+
+
+
+
+-- lib.word: extensive
+american: इक्स्टेन्सिव
+arpabet: IH0 K S T EH1 N S IH0 V
+
+
+
+
+-- lib.word: experiment
+american: इक्स्पेरैमैन्ट
+arpabet: IH0 K S P EH1 R AH0 M AH0 N T
+
+
+
+
+-- lib.word: exclusion
+american: इक्स्क्लूसैन
+arpabet: IH0 K S K L UW1 ZH AH0 N
+
+
+
+
+-- lib.word: expecting
+american: इक्स्पेक्टिंग
+arpabet: IH0 K S P EH1 K T IH0 NG
+
+
+
+
+-- lib.word: expectation
+american: एक्स्पेक्टेऽशैन
+arpabet: EH2 K S P EH0 K T EY1 SH AH0 N
+
+
+
+
+-- lib.word: exhibited
+american: इग्सिबैटैड
+arpabet: IH0 G Z IH1 B AH0 T AH0 D
+
+
+
+
+-- lib.word: exempt
+american: इग्सेम्प्ट
+arpabet: IH0 G Z EH1 M P T
+
+
+
+
+-- lib.word: examples
+american: इग्सैम्पैल्स
+arpabet: IH0 G Z AE1 M P AH0 L Z
+
+
+
+
+-- lib.word: exercised
+american: एक्स्र्साय्स्ड
+arpabet: EH1 K S ER0 S AY2 Z D
+
+
+
+
+-- lib.word: experiences
+american: इक्स्पिरीऐन्सिस
+arpabet: IH0 K S P IH1 R IY0 AH0 N S IH0 Z
+
+
+
+
+-- lib.word: expressions
+american: इक्स्प्रेशैन्स
+arpabet: IH0 K S P R EH1 SH AH0 N Z
+
+
+
+
+-- lib.word: extend
+american: इक्स्टेन्ड
+arpabet: IH0 K S T EH1 N D
+
+
+
+
+-- lib.word: excess
+american: एक्सेस
+arpabet: EH1 K S EH2 S
+
+
+
+
+-- lib.word: extending
+american: इक्स्टेन्डिंग
+arpabet: IH0 K S T EH1 N D IH0 NG
+
+
+
+
+-- lib.word: exchanged
+american: इक्स्चेऽन्ज्ड
+arpabet: IH0 K S CH EY1 N JH D
+
+
+
+
+-- lib.word: extra
+american: एक्स्ट्रै
+arpabet: EH1 K S T R AH0
+
+
+
+
+-- lib.word: experiments
+american: इक्स्पेरैमैन्ट्स
+arpabet: IH0 K S P EH1 R AH0 M AH0 N T S
+
+
+
+
+-- lib.word: exalted
+american: इग्सॉल्टिड
+arpabet: IH0 G Z AO1 L T IH0 D
+
+
+
+
+-- lib.word: extremity
+american: एक्स्ट्रेमैटी
+arpabet: EH0 K S T R EH1 M AH0 T IY0
+
+
+
+
+-- lib.word: exile
+american: एग्साय्ल
+arpabet: EH1 G Z AY2 L
+
+
+
+
+-- lib.word: expressing
+american: इक्स्प्रेसिंग
+arpabet: IH0 K S P R EH1 S IH0 NG
+
+
+
+
+-- lib.word: excellence
+american: एक्सैलैन्स
+arpabet: EH1 K S AH0 L AH0 N S
+
+
+
+
+-- lib.word: exceeding
+american: इक्सीडिंग
+arpabet: IH0 K S IY1 D IH0 NG
+
+
+
+
+-- lib.word: examining
+american: इग्सैमिनिंग
+arpabet: IH0 G Z AE1 M IH0 N IH0 NG
+
+
+
+
+-- lib.word: excite
+american: इक्साय्ट
+arpabet: IH0 K S AY1 T
+
+
+
+
+-- lib.word: exciting
+american: इक्साय्टिंग
+arpabet: IH0 K S AY1 T IH0 NG
+
+
+
+
+-- lib.word: exclamation
+american: एक्स्क्लैमेऽशैन
+arpabet: EH2 K S K L AH0 M EY1 SH AH0 N
+
+
+
+
+-- lib.word: excessive
+american: इक्सेसिव
+arpabet: IH0 K S EH1 S IH0 V
+
+
+
+
+-- lib.word: exhibit
+american: इग्सिबिट
+arpabet: IH0 G Z IH1 B IH0 T
+
+
+
+
+-- lib.word: exclusively
+american: इक्स्क्लूसिव्ली
+arpabet: IH0 K S K L UW1 S IH0 V L IY0
+
+
+
+
+-- lib.word: exercises
+american: एक्स्र्साय्सैस
+arpabet: EH1 K S ER0 S AY2 Z AH0 Z
+
+
+
+
+-- lib.word: exclusive
+american: इक्स्क्लूसिव
+arpabet: IH0 K S K L UW1 S IH0 V
+
+
+
+
+-- lib.word: expensive
+american: इक्स्पेन्सिव
+arpabet: IH0 K S P EH1 N S IH0 V
+
+
+
+
+-- lib.word: extravagant
+american: एक्स्ट्रैवैगैन्ट
+arpabet: EH0 K S T R AE1 V AH0 G AH0 N T
+
+
+
+
+-- lib.word: exhibition
+american: एक्सैबिशैन
+arpabet: EH2 K S AH0 B IH1 SH AH0 N
+
+
+
+
+-- lib.word: extension
+american: इक्स्टेन्शैन
+arpabet: IH0 K S T EH1 N SH AH0 N
+
+
+
+
+-- lib.word: exertion
+american: इग्स्र्शैन
+arpabet: IH0 G Z ER1 SH AH0 N
+
+
+
+
+-- lib.word: exaggerated
+american: इग्सैज्रेऽटैड
+arpabet: IH0 G Z AE1 JH ER0 EY2 T AH0 D
+
+
+
+
+-- lib.word: extract
+american: एक्स्ट्रैक्ट
+arpabet: EH1 K S T R AE2 K T
+
+
+
+
+-- lib.word: executive
+american: इग्सेक्यैटिव
+arpabet: IH0 G Z EH1 K Y AH0 T IH0 V
+
+
+
+
+-- lib.word: execute
+american: एक्सैक्युट
+arpabet: EH1 K S AH0 K Y UW2 T
+
+
+
+
+-- lib.word: exertions
+american: इग्स्र्शैन्स
+arpabet: IH0 G Z ER1 SH AH0 N Z
+
+
+
+
+-- lib.word: expert
+american: एक्स्प्र्ट
+arpabet: EH1 K S P ER0 T
+
+
+
+
+-- lib.word: expedient
+american: इक्स्पीडीऐन्ट
+arpabet: IH0 K S P IY1 D IY0 AH0 N T
+
+
+
+
+-- lib.word: expose
+american: इक्स्पोस
+arpabet: IH0 K S P OW1 Z
+
+
+
+
+-- lib.word: expressive
+american: इक्स्प्रेसिव
+arpabet: IH0 K S P R EH1 S IH0 V
+
+
+
+
+-- lib.word: excepting
+american: एक्सेप्टिंग
+arpabet: EH2 K S EH1 P T IH0 NG
+
+
+
+
+-- lib.word: explanatory
+american: इक्स्प्लैनैटारी
+arpabet: IH0 K S P L AE1 N AH0 T AO2 R IY0
+
+
+
+
+-- lib.word: expectations
+american: एक्स्पेक्टेऽशैन्स
+arpabet: EH2 K S P EH0 K T EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: expressly
+american: एक्स्प्रेस्ली
+arpabet: EH0 K S P R EH1 S L IY0
+
+
+
+
+-- lib.word: expenditure
+american: इक्स्पेन्डैचर
+arpabet: IH0 K S P EH1 N D AH0 CH ER0
+
+
+
+
+-- lib.word: exposure
+american: इक्स्पोस्र
+arpabet: IH0 K S P OW1 ZH ER0
+
+
+
+
+-- lib.word: exceed
+american: इक्सीड
+arpabet: IH0 K S IY1 D
+
+
+
+
+-- lib.word: explosion
+american: इक्स्प्लोसैन
+arpabet: IH0 K S P L OW1 ZH AH0 N
+
+
+
+
+-- lib.word: exceptions
+american: इक्सेप्शैन्स
+arpabet: IH0 K S EH1 P SH AH0 N Z
+
+
+
+
+-- lib.word: extends
+american: इक्स्टेन्ड्स
+arpabet: IH0 K S T EH1 N D Z
+
+
+
+
+-- lib.word: expend
+american: इक्स्पेन्ड
+arpabet: IH0 K S P EH1 N D
+
+
+
+
+-- lib.word: excluded
+american: इक्स्क्लूडैड
+arpabet: IH0 K S K L UW1 D AH0 D
+
+
+
+
+-- lib.word: explanations
+american: एक्स्प्लैनेऽशैन्स
+arpabet: EH2 K S P L AH0 N EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: excused
+american: इक्स्क्यूस्ड
+arpabet: IH0 K S K Y UW1 Z D
+
+
+
+
+-- lib.word: exceptional
+american: इक्सेप्शैनैल
+arpabet: IH0 K S EH1 P SH AH0 N AH0 L
+
+
+
+
+-- lib.word: extinct
+american: इक्स्टिंग्क्ट
+arpabet: IH0 K S T IH1 NG K T
+
+
+
+
+-- lib.word: excursion
+american: इक्स्क्र्सैन
+arpabet: IH0 K S K ER1 ZH AH0 N
+
+
+
+
+-- lib.word: expends
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: expenditures
+american: इक्स्पेन्डैचर्स
+arpabet: IH0 K S P EH1 N D AH0 CH ER0 Z
+
+
+
+
+-- lib.word: extravagance
+american: एक्स्ट्रैवैगैन्स
+arpabet: EH0 K S T R AE1 V AH0 G AH0 N S
+
+
+
+
+-- lib.word: exhaustion
+american: इग्सॉस्चैन
+arpabet: IH0 G Z AO1 S CH AH0 N
+
+
+
+
+-- lib.word: exporting
+american: इक्स्पॉर्टिंग
+arpabet: IH0 K S P AO1 R T IH0 NG
+
+
+
+
+-- lib.word: expansion
+american: इक्स्पैन्शैन
+arpabet: IH0 K S P AE1 N SH AH0 N
+
+
+
+
+-- lib.word: exert
+american: इग्स्र्ट
+arpabet: IH0 G Z ER1 T
+
+
+
+
+-- lib.word: expanse
+american: इक्स्पैन्स
+arpabet: IH0 K S P AE1 N S
+
+
+
+
+-- lib.word: extracted
+american: एक्स्ट्रैक्टिड
+arpabet: EH0 K S T R AE1 K T IH0 D
+
+
+
+
+-- lib.word: expanded
+american: इक्स्पैन्डैड
+arpabet: IH0 K S P AE1 N D AH0 D
+
+
+
+
+-- lib.word: exclude
+american: इक्स्क्लूड
+arpabet: IH0 K S K L UW1 D
+
+
+
+
+-- lib.word: exultation
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: explore
+american: इक्स्प्लॉर
+arpabet: IH0 K S P L AO1 R
+
+
+
+
+-- lib.word: exaggeration
+american: इग्सैज्रेऽशैन
+arpabet: IH0 G Z AE2 JH ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: excessively
+american: इक्सेसिव्ली
+arpabet: IH0 K S EH1 S IH0 V L IY0
+
+
+
+
+-- lib.word: exposition
+american: एक्स्पैसिशैन
+arpabet: EH2 K S P AH0 Z IH1 SH AH0 N
+
+
+
+
+-- lib.word: extremes
+american: एक्स्ट्रीम्स
+arpabet: EH0 K S T R IY1 M Z
+
+
+
+
+-- lib.word: exit
+american: एग्सिट
+arpabet: EH1 G Z IH0 T
+
+
+
+
+-- lib.word: exasperated
+american: इग्सैस्प्रेऽटिड
+arpabet: IH0 G Z AE1 S P ER0 EY2 T IH0 D
+
+
+
+
+-- lib.word: extant
+american: एक्स्टैन्ट
+arpabet: EH1 K S T AH0 N T
+
+
+
+
+-- lib.word: extinction
+american: इक्स्टिंग्क्शैन
+arpabet: IH0 K S T IH1 NG K SH AH0 N
+
+
+
+
+-- lib.word: exclaim
+american: इक्स्क्लेऽम
+arpabet: IH0 K S K L EY1 M
+
+
+
+
+-- lib.word: exacting
+american: इग्सैक्टिंग
+arpabet: IH0 G Z AE1 K T IH0 NG
+
+
+
+
+-- lib.word: explicit
+american: इक्स्प्लिसैट
+arpabet: IH0 K S P L IH1 S AH0 T
+
+
+
+
+-- lib.word: exaltation
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: exploit
+american: एक्स्प्लॉयट
+arpabet: EH1 K S P L OY2 T
+
+
+
+
+-- lib.word: executioner
+american: एक्सैक्यूशैन्र
+arpabet: EH2 K S AH0 K Y UW1 SH AH0 N ER0
+
+
+
+
+-- lib.word: exploration
+american: एक्स्प्ल्रेऽशैन
+arpabet: EH2 K S P L ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: experimental
+american: इक्स्पेरिमेन्टैल
+arpabet: IH0 K S P EH2 R IH0 M EH1 N T AH0 L
+
+
+
+

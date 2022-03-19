@@ -1,0 +1,550 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: with
+american: विद
+arpabet: W IH1 DH
+indian: विद
+meaning: साथ
+
+
+-- lib.word: will
+american: विल
+arpabet: W IH1 L
+meaning: मेर्जी , एवं गा-गे-गी के लिए भी प्रयोग किया जाता है
+
+
+-- lib.word: without
+american: विथाव्ट
+arpabet: W IH0 TH AW1 T
+meaning: के बिना , बगैर
+
+
+-- lib.word: wife
+american: वाय्फ
+arpabet: W AY1 F
+meaning: पत्नी ,बीबी , स्त्री
+
+
+-- lib.word: wish
+american: विश
+arpabet: W IH1 SH
+meaning: इच्छा , अभिलाषा
+
+
+-- lib.word: win
+american: विन
+arpabet: W IH1 N
+meaning: जीतना,विजय पाना कृपा प्राप्त करना,मोह लेना
+
+
+-- lib.word: within
+american: विदिन
+arpabet: W IH0 DH IH1 N
+
+
+
+
+-- lib.word: wind
+american: वाय्न्ड
+arpabet: W AY1 N D
+
+
+
+
+-- lib.word: window
+american: विन्डो
+arpabet: W IH1 N D OW0
+
+
+
+
+-- lib.word: wild
+american: वाय्ल्ड
+arpabet: W AY1 L D
+
+
+
+
+-- lib.word: William
+american: विल्यैम
+arpabet: W IH1 L Y AH0 M
+
+
+
+
+-- lib.word: wished
+american: विशट
+arpabet: W IH1 SH T
+
+
+
+
+-- lib.word: wise
+american: वाय्स
+arpabet: W AY1 Z
+
+
+
+
+-- lib.word: winter
+american: विन्ट्र
+arpabet: W IH1 N T ER0
+
+
+
+
+-- lib.word: wine
+american: वाय्न
+arpabet: W AY1 N
+
+
+
+
+-- lib.word: windows
+american: विन्डोस
+arpabet: W IH1 N D OW0 Z
+
+
+
+
+-- lib.word: willing
+american: विलिंग
+arpabet: W IH1 L IH0 NG
+
+
+
+
+-- lib.word: wisdom
+american: विस्डैम
+arpabet: W IH1 Z D AH0 M
+
+
+
+
+-- lib.word: wishes
+american: विशिस
+arpabet: W IH1 SH IH0 Z
+
+
+
+
+-- lib.word: wicked
+american: विकैड
+arpabet: W IH1 K AH0 D
+
+
+
+
+-- lib.word: witness
+american: विट्नैस
+arpabet: W IH1 T N AH0 S
+
+
+
+
+-- lib.word: wings
+american: विंग्स
+arpabet: W IH1 NG Z
+
+
+
+
+-- lib.word: wit
+american: विट
+arpabet: W IH1 T
+
+
+
+
+-- lib.word: winds
+american: विन्ड्स
+arpabet: W IH1 N D Z
+
+
+
+
+-- lib.word: wives
+american: वाय्व्स
+arpabet: W AY1 V Z
+
+
+
+
+-- lib.word: widow
+american: विडो
+arpabet: W IH1 D OW0
+
+
+
+
+-- lib.word: wilt
+american: विल्ट
+arpabet: W IH1 L T
+
+
+
+
+-- lib.word: wire
+american: वाय्र
+arpabet: W AY1 ER0
+
+
+
+
+-- lib.word: wilderness
+american: विल्ड्र्नैस
+arpabet: W IH1 L D ER0 N AH0 S
+
+
+
+
+-- lib.word: wing
+american: विंग
+arpabet: W IH1 NG
+
+
+
+
+-- lib.word: Wilson
+american: विल्सैन
+arpabet: W IH1 L S AH0 N
+
+
+
+
+-- lib.word: wife's
+american: वाय्फ्स
+arpabet: W AY1 F S
+
+
+
+
+-- lib.word: withdrew
+american: विथड्रू
+arpabet: W IH0 TH D R UW1
+
+
+
+
+-- lib.word: willingly
+american: विलिंग्ली
+arpabet: W IH1 L IH0 NG L IY0
+
+
+
+
+-- lib.word: witnesses
+american: विट्नैसैस
+arpabet: W IH1 T N AH0 S AH0 Z
+
+
+
+
+-- lib.word: wishing
+american: विशिंग
+arpabet: W IH1 SH IH0 NG
+
+
+
+
+-- lib.word: witnessed
+american: विट्नैस्ट
+arpabet: W IH1 T N AH0 S T
+
+
+
+
+-- lib.word: widely
+american: वाय्ड्ली
+arpabet: W AY1 D L IY0
+
+
+
+
+-- lib.word: widest
+american: वाय्डैस्ट
+arpabet: W AY1 D AH0 S T
+
+
+
+
+-- lib.word: withdraw
+american: विदड्रॉ
+arpabet: W IH0 DH D R AO1
+
+
+
+
+-- lib.word: wits
+american: विट्स
+arpabet: W IH1 T S
+
+
+
+
+-- lib.word: winding
+american: वाय्न्डिंग
+arpabet: W AY1 N D IH0 NG
+
+
+
+
+-- lib.word: Williams
+american: विल्यैम्स
+arpabet: W IH1 L Y AH0 M Z
+
+
+
+
+-- lib.word: wildly
+american: वाय्ल्ड्ली
+arpabet: W AY1 L D L IY0
+
+
+
+
+-- lib.word: winning
+american: विनिंग
+arpabet: W IH1 N IH0 NG
+
+
+
+
+-- lib.word: wiser
+american: वाय्स्र
+arpabet: W AY1 Z ER0
+
+
+
+
+-- lib.word: withdrawn
+american: विथड्रॉन
+arpabet: W IH0 TH D R AO1 N
+
+
+
+
+-- lib.word: wisely
+american: वाय्स्ली
+arpabet: W AY1 Z L IY0
+
+
+
+
+-- lib.word: wickedness
+american: विकैड्नैस
+arpabet: W IH1 K AH0 D N AH0 S
+
+
+
+
+-- lib.word: wider
+american: वाय्ड्र
+arpabet: W AY1 D ER0
+
+
+
+
+-- lib.word: wiped
+american: वाय्प्ट
+arpabet: W AY1 P T
+
+
+
+
+-- lib.word: withered
+american: विदर्ड
+arpabet: W IH1 DH ER0 D
+
+
+
+
+-- lib.word: withal
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: witch
+american: विच
+arpabet: W IH1 CH
+
+
+
+
+-- lib.word: wid
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: width
+american: विड्थ
+arpabet: W IH1 D TH
+
+
+
+
+-- lib.word: Wisconsin
+american: विस्कॉन्सैन
+arpabet: W IH0 S K AA1 N S AH0 N
+
+
+
+
+-- lib.word: wires
+american: वाय्र्स
+arpabet: W AY1 ER0 Z
+
+
+
+
+-- lib.word: witty
+american: विटी
+arpabet: W IH1 T IY0
+
+
+
+
+-- lib.word: winged
+american: विंग्ड
+arpabet: W IH1 NG D
+
+
+
+
+-- lib.word: wipe
+american: वाय्प
+arpabet: W AY1 P
+
+
+
+
+-- lib.word: Winchester
+american: विन्चेस्ट्र
+arpabet: W IH1 N CH EH2 S T ER0
+
+
+
+
+-- lib.word: wink
+american: विंग्क
+arpabet: W IH1 NG K
+
+
+
+
+-- lib.word: wig
+american: विग
+arpabet: W IH1 G
+
+
+
+
+-- lib.word: willow
+american: विलो
+arpabet: W IH1 L OW2
+
+
+
+
+-- lib.word: withstand
+american: विथस्टैन्ड
+arpabet: W IH0 TH S T AE1 N D
+
+
+
+
+-- lib.word: wines
+american: वाय्न्स
+arpabet: W AY1 N Z
+
+
+
+
+-- lib.word: Willie
+american: विली
+arpabet: W IH1 L IY0
+
+
+
+
+-- lib.word: wistful
+american: विस्ट्फैल
+arpabet: W IH1 S T F AH0 L
+
+
+
+
+-- lib.word: withheld
+american: विथहेल्ड
+arpabet: W IH0 TH HH EH1 L D
+
+
+
+
+-- lib.word: willingness
+american: विलिंग्नैस
+arpabet: W IH1 L IH0 NG N AH0 S
+
+
+
+
+-- lib.word: Wilhelm
+american: विल्हेल्म
+arpabet: W IH1 L HH EH2 L M
+
+
+
+
+-- lib.word: withdrawal
+american: विदड्रॉऐल
+arpabet: W IH0 DH D R AO1 AH0 L
+
+
+
+
+-- lib.word: witchcraft
+american: विचक्रैफ्ट
+arpabet: W IH1 CH K R AE2 F T
+
+
+
+
+-- lib.word: Winston
+american: विन्स्टैन
+arpabet: W IH1 N S T AH0 N
+
+
+
+
+-- lib.word: wins
+american: विन्स
+arpabet: W IH1 N Z
+
+
+
+
+-- lib.word: withhold
+american: विथहोल्ड
+arpabet: W IH0 TH HH OW1 L D
+
+
+
+
+-- lib.word: wintry
+american: विन्ट्री
+arpabet: W IH1 N T R IY0
+
+
+
+
+-- lib.word: wilful
+american: unknown
+arpabet: unknown
+
+
+
+

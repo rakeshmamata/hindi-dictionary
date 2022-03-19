@@ -1,0 +1,486 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: let
+american: लेट
+arpabet: L EH1 T
+meaning: करने दो
+
+सामान्य रूप से किसी अन्य के साथ प्रयोग किया जाता है जैसे let us,me etc
+
+
+-- lib.word: let's
+american: लेट्स
+arpabet: L EH1 T S
+meaning: छोडना
+
+
+-- lib.word: leave
+american: लीव
+arpabet: L IY1 V
+meaning: छोडना ,छुट्टी ,अवकाश
+
+
+-- lib.word: left
+american: लेफ्ट
+arpabet: L EH1 F T
+meaning: बाएं , वाम-पक्ष
+
+
+-- lib.word: least
+american: लीस्ट
+arpabet: L IY1 S T
+meaning: कम से कम
+
+
+-- lib.word: Leo
+american: लीओ
+arpabet: L IY1 OW0
+meaning: सिंह राशि
+
+
+-- lib.word: leaving
+american: लीविंग
+arpabet: L IY1 V IH0 NG
+meaning: छोड़ना ,सर्जन ,वर्जन
+
+
+-- lib.word: less
+american: लेस
+arpabet: L EH1 S
+meaning: कम्ब,कमतर,न्यून,कम सीमा तक
+
+
+-- lib.word: learn
+american: ल्र्न
+arpabet: L ER1 N
+indian: लर्न
+meaning: सीखना,जानना,अनुभव शिक्षा विद्या प्राप्त करना
+
+
+-- lib.word: letter
+american: लेट्र
+arpabet: L EH1 T ER0
+
+
+
+
+-- lib.word: led
+american: लेड
+arpabet: L EH1 D
+
+
+
+
+-- lib.word: length
+american: लेंग्क्थ
+arpabet: L EH1 NG K TH
+
+
+
+
+-- lib.word: letters
+american: लेट्र्स
+arpabet: L EH1 T ER0 Z
+
+
+
+
+-- lib.word: learned
+american: ल्र्न्ड
+arpabet: L ER1 N D
+
+
+
+
+-- lib.word: leaves
+american: लीव्स
+arpabet: L IY1 V Z
+
+
+
+
+-- lib.word: lead
+american: लेड
+arpabet: L EH1 D
+
+
+
+
+-- lib.word: legal
+american: लीगैल
+arpabet: L IY1 G AH0 L
+
+
+
+
+-- lib.word: leading
+american: लीडिंग
+arpabet: L IY1 D IH0 NG
+
+
+
+
+-- lib.word: legs
+american: लेग्स
+arpabet: L EH1 G Z
+
+
+
+
+-- lib.word: level
+american: लेवैल
+arpabet: L EH1 V AH0 L
+
+
+
+
+-- lib.word: lest
+american: लेस्ट
+arpabet: L EH1 S T
+
+
+
+
+-- lib.word: learning
+american: ल्र्निंग
+arpabet: L ER1 N IH0 NG
+
+
+
+
+-- lib.word: leader
+american: लीड्र
+arpabet: L IY1 D ER0
+
+
+
+
+-- lib.word: leaned
+american: लीन्ड
+arpabet: L IY1 N D
+
+
+
+
+-- lib.word: les
+american: लेस
+arpabet: L EH1 S
+
+
+
+
+-- lib.word: leaning
+american: लीनिंग
+arpabet: L IY1 N IH0 NG
+
+
+
+
+-- lib.word: leg
+american: लेग
+arpabet: L EH1 G
+
+
+
+
+-- lib.word: lesson
+american: लेसैन
+arpabet: L EH1 S AH0 N
+
+
+
+
+-- lib.word: leaders
+american: लीड्र्स
+arpabet: L IY1 D ER0 Z
+
+
+
+
+-- lib.word: Lee
+american: ली
+arpabet: L IY1
+
+
+
+
+-- lib.word: legally
+american: लीगैली
+arpabet: L IY1 G AH0 L IY0
+
+
+
+
+-- lib.word: leads
+american: लीड्स
+arpabet: L IY1 D Z
+
+
+
+
+-- lib.word: leisure
+american: लेस्र
+arpabet: L EH1 ZH ER0
+
+
+
+
+-- lib.word: leaf
+american: लीफ
+arpabet: L IY1 F
+
+
+
+
+-- lib.word: lessons
+american: लेसैन्स
+arpabet: L EH1 S AH0 N Z
+
+
+
+
+-- lib.word: leaped
+american: लेप्ट
+arpabet: L EH1 P T
+
+
+
+
+-- lib.word: letting
+american: लेटिंग
+arpabet: L EH1 T IH0 NG
+
+
+
+
+-- lib.word: leagues
+american: लीग्स
+arpabet: L IY1 G Z
+
+
+
+
+-- lib.word: leather
+american: लेदर
+arpabet: L EH1 DH ER0
+
+
+
+
+-- lib.word: learnt
+american: ल्र्न्ट
+arpabet: L ER1 N T
+
+
+
+
+-- lib.word: lean
+american: लीन
+arpabet: L IY1 N
+
+
+
+
+-- lib.word: lend
+american: लेन्ड
+arpabet: L EH1 N D
+
+
+
+
+-- lib.word: lent
+american: लेन्ट
+arpabet: L EH1 N T
+
+
+
+
+-- lib.word: legislation
+american: लेजैस्लेऽशैन
+arpabet: L EH2 JH AH0 S L EY1 SH AH0 N
+
+
+
+
+-- lib.word: Lewis
+american: लूइस
+arpabet: L UW1 IH0 S
+
+
+
+
+-- lib.word: leap
+american: लीप
+arpabet: L IY1 P
+
+
+
+
+-- lib.word: legend
+american: लेजैन्ड
+arpabet: L EH1 JH AH0 N D
+
+
+
+
+-- lib.word: lecture
+american: लेक्चर
+arpabet: L EH1 K CH ER0
+
+
+
+
+-- lib.word: legitimate
+american: लैजिटैमैट
+arpabet: L AH0 JH IH1 T AH0 M AH0 T
+
+
+
+
+-- lib.word: league
+american: लीग
+arpabet: L IY1 G
+
+
+
+
+-- lib.word: lesser
+american: लेस्र
+arpabet: L EH1 S ER0
+
+
+
+
+-- lib.word: lectures
+american: लेक्चर्स
+arpabet: L EH1 K CH ER0 Z
+
+
+
+
+-- lib.word: legislature
+american: लेजैस्लेऽचर
+arpabet: L EH1 JH AH0 S L EY2 CH ER0
+
+
+
+
+-- lib.word: legislative
+american: लेजैस्लेऽटिव
+arpabet: L EH1 JH AH0 S L EY2 T IH0 V
+
+
+
+
+-- lib.word: leaping
+american: लीपिंग
+arpabet: L IY1 P IH0 NG
+
+
+
+
+-- lib.word: Leo
+american: लीओ
+arpabet: L IY1 OW0
+
+
+
+
+-- lib.word: leisurely
+american: लीस्र्ली
+arpabet: L IY1 Z ER0 L IY0
+
+
+
+
+-- lib.word: lets
+american: लेट्स
+arpabet: L EH1 T S
+
+
+
+
+-- lib.word: Leon
+american: लीऑन
+arpabet: L IY1 AA0 N
+
+
+
+
+-- lib.word: ledge
+american: लेज
+arpabet: L EH1 JH
+
+
+
+
+-- lib.word: Leslie
+american: लेस्ली
+arpabet: L EH1 S L IY0
+
+
+
+
+-- lib.word: lemon
+american: लेमैन
+arpabet: L EH1 M AH0 N
+
+
+
+
+-- lib.word: leadership
+american: लीड्र्शिप
+arpabet: L IY1 D ER0 SH IH2 P
+
+
+
+
+-- lib.word: leapt
+american: लेप्ट
+arpabet: L EH1 P T
+
+
+
+
+-- lib.word: lease
+american: लीस
+arpabet: L IY1 S
+
+
+
+
+-- lib.word: lessen
+american: लेसैन
+arpabet: L EH1 S AH0 N
+
+
+
+
+-- lib.word: lever
+american: लेव्र
+arpabet: L EH1 V ER0
+
+
+
+
+-- lib.word: legacy
+american: लेगैसी
+arpabet: L EH1 G AH0 S IY0
+
+
+
+
+-- lib.word: leaps
+american: लीप्स
+arpabet: L IY1 P S
+
+
+
+
+-- lib.word: leaden
+american: लेडैन
+arpabet: L EH1 D AH0 N
+
+
+
+

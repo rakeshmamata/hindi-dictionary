@@ -1,0 +1,457 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: from
+american: फ्राम
+arpabet: F R AH1 M
+meaning: से ,व्दारा ,कारण से
+
+
+-- lib.word: friend
+american: फ्रेन्ड
+arpabet: F R EH1 N D
+meaning: दोस्त ,मित्र
+
+
+-- lib.word: friends
+american: फ्रेन्ड्स
+arpabet: F R EH1 N D Z
+meaning: दोस्त ,मित्र
+
+
+-- lib.word: free
+american: फ्री
+arpabet: F R IY1
+meaning: नि:ह शुल्क ,मुक्त ,मुफ्त ,आजा़द ,स्वतंत्र
+
+
+-- lib.word: front
+american: फ्रान्ट
+arpabet: F R AH1 N T
+meaning: सामने ,मोर्चा ,अग्र
+
+
+-- lib.word: Frank
+american: फ्रैंग्क
+arpabet: F R AE1 NG K
+meaning: स्पषटवादी,साफ़,निष्पकपट,खरा,खुले मन का
+
+
+-- lib.word: Frasier
+american: फ्रेऽस्र
+arpabet: F R EY1 ZH ER0
+meaning: फ्रजि़यर
+
+
+-- lib.word: french
+american: फ्रेन्च
+arpabet: F R EH1 N CH
+
+
+
+
+-- lib.word: France
+american: फ्रैन्स
+arpabet: F R AE1 N S
+
+
+
+
+-- lib.word: fresh
+american: फ्रेश
+arpabet: F R EH1 SH
+
+
+
+
+-- lib.word: freely
+american: फ्रीली
+arpabet: F R IY1 L IY0
+
+
+
+
+-- lib.word: freedom
+american: फ्रीडैम
+arpabet: F R IY1 D AH0 M
+
+
+
+
+-- lib.word: frequently
+american: फ्रीक्वैन्ट्ली
+arpabet: F R IY1 K W AH0 N T L IY0
+
+
+
+
+-- lib.word: fruit
+american: फ्रूट
+arpabet: F R UW1 T
+
+
+
+
+-- lib.word: friendly
+american: फ्रेन्ड्ली
+arpabet: F R EH1 N D L IY0
+
+
+
+
+-- lib.word: frightened
+american: फ्राय्टैन्ड
+arpabet: F R AY1 T AH0 N D
+
+
+
+
+-- lib.word: frame
+american: फ्रेऽम
+arpabet: F R EY1 M
+
+
+
+
+-- lib.word: frequent
+american: फ्रीक्वैन्ट
+arpabet: F R IY1 K W AH0 N T
+
+
+
+
+-- lib.word: Francis
+american: फ्रैन्सैस
+arpabet: F R AE1 N S AH0 S
+
+
+
+
+-- lib.word: fruits
+american: फ्रूट्स
+arpabet: F R UW1 T S
+
+
+
+
+-- lib.word: Frederick
+american: फ्रेड्रिक
+arpabet: F R EH1 D R IH0 K
+
+
+
+
+-- lib.word: fro
+american: फ्रो
+arpabet: F R OW1
+
+
+
+
+-- lib.word: fragments
+american: फ्रैग्मैन्ट्स
+arpabet: F R AE1 G M AH0 N T S
+
+
+
+
+-- lib.word: frontier
+american: फ्रैन्टिर
+arpabet: F R AH0 N T IH1 R
+
+
+
+
+-- lib.word: frightful
+american: फ्राय्ट्फैल
+arpabet: F R AY1 T F AH0 L
+
+
+
+
+-- lib.word: frankly
+american: फ्रैंग्क्ली
+arpabet: F R AE1 NG K L IY0
+
+
+
+
+-- lib.word: Friday
+american: फ्राय्डी
+arpabet: F R AY1 D IY0
+
+
+
+
+-- lib.word: frozen
+american: फ्रोसैन
+arpabet: F R OW1 Z AH0 N
+
+
+
+
+-- lib.word: Fred
+american: फ्रेड
+arpabet: F R EH1 D
+
+
+
+
+-- lib.word: friend's
+american: फ्रेन्ड्स
+arpabet: F R EH1 N D Z
+
+
+
+
+-- lib.word: Frenchman
+american: फ्रेन्चमैन
+arpabet: F R EH1 N CH M AE0 N
+
+
+
+
+-- lib.word: fright
+american: फ्राय्ट
+arpabet: F R AY1 T
+
+
+
+
+-- lib.word: frost
+american: फ्रॉस्ट
+arpabet: F R AO1 S T
+
+
+
+
+-- lib.word: freed
+american: फ्रीड
+arpabet: F R IY1 D
+
+
+
+
+-- lib.word: Franklin
+american: फ्रैंग्क्लिन
+arpabet: F R AE1 NG K L IH0 N
+
+
+
+
+-- lib.word: fragrant
+american: फ्रेऽग्रैन्ट
+arpabet: F R EY1 G R AH0 N T
+
+
+
+
+-- lib.word: frown
+american: फ्राव्न
+arpabet: F R AW1 N
+
+
+
+
+-- lib.word: framed
+american: फ्रेऽम्ड
+arpabet: F R EY1 M D
+
+
+
+
+-- lib.word: frail
+american: फ्रेऽल
+arpabet: F R EY1 L
+
+
+
+
+-- lib.word: fraud
+american: फ्रॉड
+arpabet: F R AO1 D
+
+
+
+
+-- lib.word: frantic
+american: फ्रैन्टिक
+arpabet: F R AE1 N T IH0 K
+
+
+
+
+-- lib.word: fragment
+american: फ्रैग्मैन्ट
+arpabet: F R AE1 G M AH0 N T
+
+
+
+
+-- lib.word: freshness
+american: फ्रेशनैस
+arpabet: F R EH1 SH N AH0 S
+
+
+
+
+-- lib.word: fragrance
+american: फ्रेऽग्रैन्स
+arpabet: F R EY1 G R AH0 N S
+
+
+
+
+-- lib.word: frighten
+american: फ्राय्टैन
+arpabet: F R AY1 T AH0 N
+
+
+
+
+-- lib.word: fruitful
+american: फ्रूट्फैल
+arpabet: F R UW1 T F AH0 L
+
+
+
+
+-- lib.word: frankness
+american: फ्रैंग्क्नैस
+arpabet: F R AE1 NG K N AH0 S
+
+
+
+
+-- lib.word: frenzy
+american: फ्रेन्सी
+arpabet: F R EH1 N Z IY0
+
+
+
+
+-- lib.word: freight
+american: फ्रेऽट
+arpabet: F R EY1 T
+
+
+
+
+-- lib.word: frock
+american: फ्रॉक
+arpabet: F R AA1 K
+
+
+
+
+-- lib.word: fruitless
+american: फ्रूट्लैस
+arpabet: F R UW1 T L AH0 S
+
+
+
+
+-- lib.word: frivolous
+american: फ्रिवैलैस
+arpabet: F R IH1 V AH0 L AH0 S
+
+
+
+
+-- lib.word: fringe
+american: फ्रिन्ज
+arpabet: F R IH1 N JH
+
+
+
+
+-- lib.word: Friedrich
+american: फ्रीड्रिक
+arpabet: F R IY1 D R IH0 K
+
+
+
+
+-- lib.word: frigate
+american: फ्रिगैट
+arpabet: F R IH1 G AH0 T
+
+
+
+
+-- lib.word: friction
+american: फ्रिक्शैन
+arpabet: F R IH1 K SH AH0 N
+
+
+
+
+-- lib.word: friar
+american: फ्राय्र
+arpabet: F R AY1 ER0
+
+
+
+
+-- lib.word: fray
+american: फ्रेऽ
+arpabet: F R EY1
+
+
+
+
+-- lib.word: Franz
+american: फ्रैन्स
+arpabet: F R AE1 N Z
+
+
+
+
+-- lib.word: fried
+american: फ्राय्ड
+arpabet: F R AY1 D
+
+
+
+
+-- lib.word: fret
+american: फ्रेट
+arpabet: F R EH1 T
+
+
+
+
+-- lib.word: freezing
+american: फ्रीसिंग
+arpabet: F R IY1 Z IH0 NG
+
+
+
+
+-- lib.word: frog
+american: फ्रॉग
+arpabet: F R AA1 G
+
+
+
+
+-- lib.word: framework
+american: फ्रेऽम्वर्क
+arpabet: F R EY1 M W ER2 K
+
+
+
+
+-- lib.word: fraction
+american: फ्रैक्शैन
+arpabet: F R AE1 K SH AH0 N
+
+
+
+
+-- lib.word: friendliness
+american: फ्रेन्ड्लीनिस
+arpabet: F R EH1 N D L IY0 N IH0 S
+
+
+
+

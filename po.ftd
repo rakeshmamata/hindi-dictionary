@@ -1,0 +1,663 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: point
+american: पॉयन्ट
+arpabet: P OY1 N T
+meaning: बिन्दु , अंक , स्थल
+
+
+-- lib.word: police
+american: पैलीस
+arpabet: P AH0 L IY1 S
+indian: पोलिस ।पुलिस
+meaning: पुलिस , नगर-पाल , आरक्षी
+
+
+-- lib.word: possible
+american: पॉसैबैल
+arpabet: P AA1 S AH0 B AH0 L
+meaning: संभव ,संभाव्य ,सुलभ
+
+
+-- lib.word: power
+american: पाव्र
+arpabet: P AW1 ER0
+meaning: शक्ती ,सत्ता ,अधिकार,बल,पराक्रम,शासन,ऱाज़
+
+
+-- lib.word: poor
+american: पूर
+arpabet: P UW1 R
+indian:
+meaning: गरीब,दीन,दरिद्र,तुच्छ,निर्बल
+
+
+-- lib.word: possibly
+american: पॉसैब्ली
+arpabet: P AA1 S AH0 B L IY0
+meaning: संभवतः, कदाचित
+
+
+-- lib.word: position
+american: पैसिशैन
+arpabet: P AH0 Z IH1 SH AH0 N
+
+
+
+
+-- lib.word: political
+american: पैलिटैकैल
+arpabet: P AH0 L IH1 T AH0 K AH0 L
+
+
+
+
+-- lib.word: possession
+american: पैसेशैन
+arpabet: P AH0 Z EH1 SH AH0 N
+
+
+
+
+-- lib.word: powers
+american: पाव्र्स
+arpabet: P AW1 ER0 Z
+
+
+
+
+-- lib.word: possessed
+american: पैसेस्ट
+arpabet: P AH0 Z EH1 S T
+
+
+
+
+-- lib.word: points
+american: पॉयन्ट्स
+arpabet: P OY1 N T S
+
+
+
+
+-- lib.word: portion
+american: पॉर्शैन
+arpabet: P AO1 R SH AH0 N
+
+
+
+
+-- lib.word: powerful
+american: पाव्र्फैल
+arpabet: P AW1 ER0 F AH0 L
+
+
+
+
+-- lib.word: pointed
+american: पॉयन्टैड
+arpabet: P OY1 N T AH0 D
+
+
+
+
+-- lib.word: pounds
+american: पाव्न्ड्स
+arpabet: P AW1 N D Z
+
+
+
+
+-- lib.word: popular
+american: पॉप्यैल्र
+arpabet: P AA1 P Y AH0 L ER0
+
+
+
+
+-- lib.word: posted
+american: पोस्टिड
+arpabet: P OW1 S T IH0 D
+
+
+
+
+-- lib.word: post
+american: पोस्ट
+arpabet: P OW1 S T
+
+
+
+
+-- lib.word: pocket
+american: पॉकैट
+arpabet: P AA1 K AH0 T
+
+
+
+
+-- lib.word: population
+american: पॉप्यैलेऽशैन
+arpabet: P AA2 P Y AH0 L EY1 SH AH0 N
+
+
+
+
+-- lib.word: poetry
+american: पोऐट्री
+arpabet: P OW1 AH0 T R IY0
+
+
+
+
+-- lib.word: policy
+american: पॉलैसी
+arpabet: P AA1 L AH0 S IY0
+
+
+
+
+-- lib.word: pope
+american: पोप
+arpabet: P OW1 P
+
+
+
+
+-- lib.word: possess
+american: पैसेस
+arpabet: P AH0 Z EH1 S
+
+
+
+
+-- lib.word: poem
+american: पोऐम
+arpabet: P OW1 AH0 M
+
+
+
+
+-- lib.word: port
+american: पॉर्ट
+arpabet: P AO1 R T
+
+
+
+
+-- lib.word: poured
+american: पॉर्ड
+arpabet: P AO1 R D
+
+
+
+
+-- lib.word: politics
+american: पॉलैटिक्स
+arpabet: P AA1 L AH0 T IH2 K S
+
+
+
+
+-- lib.word: poverty
+american: पॉव्र्टी
+arpabet: P AA1 V ER0 T IY0
+
+
+
+
+-- lib.word: poets
+american: पोऐट्स
+arpabet: P OW1 AH0 T S
+
+
+
+
+-- lib.word: poems
+american: पोऐम्स
+arpabet: P OW1 AH0 M Z
+
+
+
+
+-- lib.word: possibility
+american: पॉसैबिलैटी
+arpabet: P AA2 S AH0 B IH1 L AH0 T IY0
+
+
+
+
+-- lib.word: pour
+american: पॉर
+arpabet: P AO1 R
+
+
+
+
+-- lib.word: pointing
+american: पॉयन्टिंग
+arpabet: P OY1 N T IH0 NG
+
+
+
+
+-- lib.word: portrait
+american: पॉर्ट्रैट
+arpabet: P AO1 R T R AH0 T
+
+
+
+
+-- lib.word: positive
+american: पॉसैटिव
+arpabet: P AA1 Z AH0 T IH0 V
+
+
+
+
+-- lib.word: pound
+american: पाव्न्ड
+arpabet: P AW1 N D
+
+
+
+
+-- lib.word: powder
+american: पाव्ड्र
+arpabet: P AW1 D ER0
+
+
+
+
+-- lib.word: poison
+american: पॉयसैन
+arpabet: P OY1 Z AH0 N
+
+
+
+
+-- lib.word: pole
+american: पोल
+arpabet: P OW1 L
+
+
+
+
+-- lib.word: Polly
+american: पॉली
+arpabet: P AA1 L IY0
+
+
+
+
+-- lib.word: pockets
+american: पॉकैट्स
+arpabet: P AA1 K AH0 T S
+
+
+
+
+-- lib.word: polite
+american: पैलाय्ट
+arpabet: P AH0 L AY1 T
+
+
+
+
+-- lib.word: porch
+american: पॉर्च
+arpabet: P AO1 R CH
+
+
+
+
+-- lib.word: positively
+american: पॉसैटिव्ली
+arpabet: P AA1 Z AH0 T IH0 V L IY0
+
+
+
+
+-- lib.word: possessions
+american: पैसेशैन्स
+arpabet: P AH0 Z EH1 SH AH0 N Z
+
+
+
+
+-- lib.word: portions
+american: पॉर्शैन्स
+arpabet: P AO1 R SH AH0 N Z
+
+
+
+
+-- lib.word: pot
+american: पॉट
+arpabet: P AA1 T
+
+
+
+
+-- lib.word: polished
+american: पॉलिशट
+arpabet: P AA1 L IH0 SH T
+
+
+
+
+-- lib.word: Portuguese
+american: पॉर्चैगीस
+arpabet: P AO1 R CH AH0 G IY2 Z
+
+
+
+
+-- lib.word: positions
+american: पैसिशैन्स
+arpabet: P AH0 Z IH1 SH AH0 N Z
+
+
+
+
+-- lib.word: potatoes
+american: पैटेऽटोस
+arpabet: P AH0 T EY1 T OW0 Z
+
+
+
+
+-- lib.word: poetic
+american: पोएटिक
+arpabet: P OW0 EH1 T IH0 K
+
+
+
+
+-- lib.word: pool
+american: पूल
+arpabet: P UW1 L
+
+
+
+
+-- lib.word: pouring
+american: पॉरिंग
+arpabet: P AO1 R IH0 NG
+
+
+
+
+-- lib.word: posts
+american: पोस्ट्स
+arpabet: P OW1 S T S
+
+
+
+
+-- lib.word: possesses
+american: पैसेसैस
+arpabet: P AH0 Z EH1 S AH0 Z
+
+
+
+
+-- lib.word: porter
+american: पॉर्ट्र
+arpabet: P AO1 R T ER0
+
+
+
+
+-- lib.word: poetical
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: pony
+american: पोनी
+arpabet: P OW1 N IY2
+
+
+
+
+-- lib.word: ports
+american: पॉर्ट्स
+arpabet: P AO1 R T S
+
+
+
+
+-- lib.word: possibilities
+american: पॉसैबिलैटीस
+arpabet: P AA2 S AH0 B IH1 L AH0 T IY0 Z
+
+
+
+
+-- lib.word: policeman
+american: पैलीस्मैन
+arpabet: P AH0 L IY1 S M AH0 N
+
+
+
+
+-- lib.word: polish
+american: पॉलिश
+arpabet: P AA1 L IH0 SH
+
+
+
+
+-- lib.word: politeness
+american: पैलाय्ट्नैस
+arpabet: P AH0 L AY1 T N AH0 S
+
+
+
+
+-- lib.word: popularity
+american: पॉप्यैलेरैटी
+arpabet: P AA2 P Y AH0 L EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: posterity
+american: पॉस्टेरैटी
+arpabet: P AA0 S T EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: Portugal
+american: पॉर्चैगैल
+arpabet: P AO1 R CH AH0 G AH0 L
+
+
+
+
+-- lib.word: pond
+american: पॉन्ड
+arpabet: P AA1 N D
+
+
+
+
+-- lib.word: poles
+american: पोल्स
+arpabet: P OW1 L Z
+
+
+
+
+-- lib.word: pomp
+american: पॉम्प
+arpabet: P AA1 M P
+
+
+
+
+-- lib.word: Poland
+american: पोलैन्ड
+arpabet: P OW1 L AH0 N D
+
+
+
+
+-- lib.word: politely
+american: पैलाय्ट्ली
+arpabet: P AH0 L AY1 T L IY0
+
+
+
+
+-- lib.word: poisoned
+american: पॉयसैन्ड
+arpabet: P OY1 Z AH0 N D
+
+
+
+
+-- lib.word: pots
+american: पॉट्स
+arpabet: P AA1 T S
+
+
+
+
+-- lib.word: powerless
+american: पाव्र्लैस
+arpabet: P AW1 ER0 L AH0 S
+
+
+
+
+-- lib.word: populace
+american: पॉप्यैलैस
+arpabet: P AA1 P Y AH0 L AH0 S
+
+
+
+
+-- lib.word: potent
+american: पोटैन्ट
+arpabet: P OW1 T AH0 N T
+
+
+
+
+-- lib.word: posture
+american: पॉस्चर
+arpabet: P AA1 S CH ER0
+
+
+
+
+-- lib.word: politician
+american: पॉलैटिशैन
+arpabet: P AA2 L AH0 T IH1 SH AH0 N
+
+
+
+
+-- lib.word: pork
+american: पॉर्क
+arpabet: P AO1 R K
+
+
+
+
+-- lib.word: poisonous
+american: पॉयसैनैस
+arpabet: P OY1 Z AH0 N AH0 S
+
+
+
+
+-- lib.word: pondered
+american: पॉन्ड्र्ड
+arpabet: P AA1 N D ER0 D
+
+
+
+
+-- lib.word: pools
+american: पूल्स
+arpabet: P UW1 L Z
+
+
+
+
+-- lib.word: poultry
+american: पोल्ट्री
+arpabet: P OW1 L T R IY0
+
+
+
+
+-- lib.word: pose
+american: पोस
+arpabet: P OW1 Z
+
+
+
+
+-- lib.word: powerfully
+american: पाव्र्फ्ली
+arpabet: P AW1 ER0 F L IY0
+
+
+
+
+-- lib.word: possessor
+american: पैसेस्र
+arpabet: P AH0 Z EH1 S ER0
+
+
+
+
+-- lib.word: poorly
+american: पूर्ली
+arpabet: P UW1 R L IY0
+
+
+
+
+-- lib.word: ponderous
+american: पॉन्ड्रैस
+arpabet: P AA1 N D ER0 AH0 S
+
+
+
+
+-- lib.word: populous
+american: पॉप्यैलैस
+arpabet: P AA1 P Y AH0 L AH0 S
+
+
+
+
+-- lib.word: potato
+american: पैटेऽटो
+arpabet: P AH0 T EY1 T OW2
+
+
+
+
+-- lib.word: Po
+american: पो
+arpabet: P OW1
+
+
+
+
+-- lib.word: pompous
+american: पॉम्पैस
+arpabet: P AA1 M P AH0 S
+
+
+
+

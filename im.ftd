@@ -1,0 +1,469 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: I'm
+american: आय्म
+arpabet: AY1 M
+indian: आइ ऐम
+meaning: मैं हूँ
+
+
+-- lib.word: important
+american: इम्पॉर्टैन्ट
+arpabet: IH0 M P AO1 R T AH0 N T
+meaning: आवश्यक , महत्वपूर्ण , जरूरी
+
+
+-- lib.word: imagine
+american: इमैजैन
+arpabet: IH0 M AE1 JH AH0 N
+meaning: कल्पना करना,मान लेना,समझना,विचारना,मनगढंत
+
+
+-- lib.word: immediately
+american: इमीडीऐट्ली
+arpabet: IH0 M IY1 D IY0 AH0 T L IY0
+
+
+
+
+-- lib.word: impossible
+american: इम्पॉसैबैल
+arpabet: IH0 M P AA1 S AH0 B AH0 L
+
+
+
+
+-- lib.word: importance
+american: इम्पॉर्टैन्स
+arpabet: IH0 M P AO1 R T AH0 N S
+
+
+
+
+-- lib.word: immediate
+american: इमीडीऐट
+arpabet: IH0 M IY1 D IY0 AH0 T
+
+
+
+
+-- lib.word: imagination
+american: इमैजैनेऽशैन
+arpabet: IH0 M AE2 JH AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: impression
+american: इम्प्रेशैन
+arpabet: IH0 M P R EH1 SH AH0 N
+
+
+
+
+-- lib.word: immense
+american: इमेन्स
+arpabet: IH0 M EH1 N S
+
+
+
+
+-- lib.word: image
+american: इमैज
+arpabet: IH1 M AH0 JH
+
+
+
+
+-- lib.word: imagined
+american: इमैजैन्ड
+arpabet: IH0 M AE1 JH AH0 N D
+
+
+
+
+-- lib.word: impulse
+american: इम्पैल्स
+arpabet: IH1 M P AH0 L S
+
+
+
+
+-- lib.word: implied
+american: इम्प्लाय्ड
+arpabet: IH0 M P L AY1 D
+
+
+
+
+-- lib.word: imposed
+american: इम्पोस्ड
+arpabet: IH0 M P OW1 Z D
+
+
+
+
+-- lib.word: impressed
+american: इम्प्रेस्ट
+arpabet: IH0 M P R EH1 S T
+
+
+
+
+-- lib.word: impatient
+american: इम्पेऽशैन्ट
+arpabet: IH0 M P EY1 SH AH0 N T
+
+
+
+
+-- lib.word: improvement
+american: इम्प्रूव्मैन्ट
+arpabet: IH0 M P R UW1 V M AH0 N T
+
+
+
+
+-- lib.word: improved
+american: इम्प्रूव्ड
+arpabet: IH0 M P R UW1 V D
+
+
+
+
+-- lib.word: immortal
+american: इमॉर्टैल
+arpabet: IH0 M AO1 R T AH0 L
+
+
+
+
+-- lib.word: impatience
+american: इम्पेऽशैन्स
+arpabet: IH0 M P EY1 SH AH0 N S
+
+
+
+
+-- lib.word: images
+american: इमैजैस
+arpabet: IH1 M AH0 JH AH0 Z
+
+
+
+
+-- lib.word: imperial
+american: इम्पिरीऐल
+arpabet: IH0 M P IH1 R IY0 AH0 L
+
+
+
+
+-- lib.word: imp.
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: impressions
+american: इम्प्रेशैन्स
+arpabet: IH0 M P R EH1 SH AH0 N Z
+
+
+
+
+-- lib.word: imitation
+american: इमैटेऽशैन
+arpabet: IH2 M AH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: impatiently
+american: इम्पेऽशैन्ट्ली
+arpabet: IH0 M P EY1 SH AH0 N T L IY0
+
+
+
+
+-- lib.word: improve
+american: इम्प्रूव
+arpabet: IH0 M P R UW1 V
+
+
+
+
+-- lib.word: imperfect
+american: इम्प्र्फिक्ट
+arpabet: IH0 M P ER1 F IH0 K T
+
+
+
+
+-- lib.word: imaginary
+american: इमैजैनेरी
+arpabet: IH0 M AE1 JH AH0 N EH2 R IY0
+
+
+
+
+-- lib.word: imprisonment
+american: इम्प्रिसैन्मैन्ट
+arpabet: IH0 M P R IH1 Z AH0 N M AH0 N T
+
+
+
+
+-- lib.word: imposing
+american: इम्पोसिंग
+arpabet: IH0 M P OW1 Z IH0 NG
+
+
+
+
+-- lib.word: imprisoned
+american: इम्प्रिसैन्ड
+arpabet: IH0 M P R IH1 Z AH0 N D
+
+
+
+
+-- lib.word: impressive
+american: इम्प्रेसिव
+arpabet: IH0 M P R EH1 S IH0 V
+
+
+
+
+-- lib.word: impress
+american: इम्प्रेस
+arpabet: IH0 M P R EH1 S
+
+
+
+
+-- lib.word: improvements
+american: इम्प्रूव्मैन्ट्स
+arpabet: IH0 M P R UW1 V M AH0 N T S
+
+
+
+
+-- lib.word: imitate
+american: इमैटेऽट
+arpabet: IH1 M AH0 T EY2 T
+
+
+
+
+-- lib.word: immortality
+american: इमार्टैलिटी
+arpabet: IH2 M AO0 R T AE1 L IH0 T IY0
+
+
+
+
+-- lib.word: impulses
+american: इम्पैल्सिस
+arpabet: IH1 M P AH0 L S IH0 Z
+
+
+
+
+-- lib.word: implies
+american: इम्प्लाय्स
+arpabet: IH0 M P L AY1 Z
+
+
+
+
+-- lib.word: imported
+american: इम्पॉर्टिड
+arpabet: IH0 M P AO1 R T IH0 D
+
+
+
+
+-- lib.word: import
+american: इम्पॉर्ट
+arpabet: IH0 M P AO1 R T
+
+
+
+
+-- lib.word: impose
+american: इम्पोस
+arpabet: IH0 M P OW1 Z
+
+
+
+
+-- lib.word: impossibility
+american: इम्पासिबिलिटी
+arpabet: IH0 M P AO2 S IH0 B IH1 L IH0 T IY0
+
+
+
+
+-- lib.word: improbable
+american: इम्प्रॉबैबैल
+arpabet: IH0 M P R AA1 B AH0 B AH0 L
+
+
+
+
+-- lib.word: imaginative
+american: इमैजैनैटिव
+arpabet: IH0 M AE1 JH AH0 N AH0 T IH0 V
+
+
+
+
+-- lib.word: imply
+american: इम्प्लाय
+arpabet: IH0 M P L AY1
+
+
+
+
+-- lib.word: improper
+american: इम्प्रॉप्र
+arpabet: IH0 M P R AA1 P ER0
+
+
+
+
+-- lib.word: impelled
+american: इम्पेल्ड
+arpabet: IH0 M P EH1 L D
+
+
+
+
+-- lib.word: impart
+american: इम्पॉर्ट
+arpabet: IH0 M P AA1 R T
+
+
+
+
+-- lib.word: impending
+american: इम्पेन्डिंग
+arpabet: IH0 M P EH1 N D IH0 NG
+
+
+
+
+-- lib.word: imperative
+american: इम्पेरैटिव
+arpabet: IH0 M P EH1 R AH0 T IH0 V
+
+
+
+
+-- lib.word: imminent
+american: इमैनैन्ट
+arpabet: IH1 M AH0 N AH0 N T
+
+
+
+
+-- lib.word: improving
+american: इम्प्रूविंग
+arpabet: IH0 M P R UW1 V IH0 NG
+
+
+
+
+-- lib.word: imperious
+american: इम्पिरीऐस
+arpabet: IH0 M P IH1 R IY0 AH0 S
+
+
+
+
+-- lib.word: impetuous
+american: इम्पेचवैस
+arpabet: IH0 M P EH1 CH W AH0 S
+
+
+
+
+-- lib.word: implements
+american: इम्प्लैमैन्ट्स
+arpabet: IH1 M P L AH0 M AH0 N T S
+
+
+
+
+-- lib.word: impertinent
+american: इम्प्र्टैनैन्ट
+arpabet: IH0 M P ER1 T AH0 N AH0 N T
+
+
+
+
+-- lib.word: impenetrable
+american: इम्पेनैट्रैबैल
+arpabet: IH0 M P EH1 N AH0 T R AH0 B AH0 L
+
+
+
+
+-- lib.word: impartial
+american: इम्पॉर्शैल
+arpabet: IH0 M P AA1 R SH AH0 L
+
+
+
+
+-- lib.word: impudent
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: implore
+american: इम्प्लॉर
+arpabet: IH0 M P L AO1 R
+
+
+
+
+-- lib.word: impracticable
+american: इम्प्रैक्टिकैबैल
+arpabet: IH0 M P R AE1 K T IH0 K AH0 B AH0 L
+
+
+
+
+-- lib.word: impudence
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: impunity
+american: इम्प्यूनिटी
+arpabet: IH0 M P Y UW1 N IH0 T IY0
+
+
+
+
+-- lib.word: impotent
+american: इम्पैटैन्ट
+arpabet: IH1 M P AH0 T AH0 N T
+
+
+
+
+-- lib.word: immoral
+american: इमॉरैल
+arpabet: IH0 M AO1 R AH0 L
+
+
+
+

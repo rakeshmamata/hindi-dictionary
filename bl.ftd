@@ -1,0 +1,328 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: blood
+american: ब्लाड
+arpabet: B L AH1 D
+meaning: खून, रक्त, लहू
+
+
+-- lib.word: black
+american: ब्लैक
+arpabet: B L AE1 K
+meaning: काला,स्याह,सांवला,दुष्टतापू्र्ण,कृष्णा
+
+
+-- lib.word: blame
+american: ब्लेऽम
+arpabet: B L EY1 M
+meaning: दोष,आरोप,निंदा
+
+
+-- lib.word: blockquote
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: blue
+american: ब्लू
+arpabet: B L UW1
+
+
+
+
+-- lib.word: blow
+american: ब्लो
+arpabet: B L OW1
+
+
+
+
+-- lib.word: blind
+american: ब्लाय्न्ड
+arpabet: B L AY1 N D
+
+
+
+
+-- lib.word: blessed
+american: ब्लेस्ट
+arpabet: B L EH1 S T
+
+
+
+
+-- lib.word: bless
+american: ब्लेस
+arpabet: B L EH1 S
+
+
+
+
+-- lib.word: blessing
+american: ब्लेसिंग
+arpabet: B L EH1 S IH0 NG
+
+
+
+
+-- lib.word: blows
+american: ब्लोस
+arpabet: B L OW1 Z
+
+
+
+
+-- lib.word: blew
+american: ब्लू
+arpabet: B L UW1
+
+
+
+
+-- lib.word: bloody
+american: ब्लाडी
+arpabet: B L AH1 D IY0
+
+
+
+
+-- lib.word: blank
+american: ब्लैंग्क
+arpabet: B L AE1 NG K
+
+
+
+
+-- lib.word: blowing
+american: ब्लोइंग
+arpabet: B L OW1 IH0 NG
+
+
+
+
+-- lib.word: blown
+american: ब्लोन
+arpabet: B L OW1 N
+
+
+
+
+-- lib.word: block
+american: ब्लॉक
+arpabet: B L AA1 K
+
+
+
+
+-- lib.word: bloom
+american: ब्लूम
+arpabet: B L UW1 M
+
+
+
+
+-- lib.word: bliss
+american: ब्लिस
+arpabet: B L IH1 S
+
+
+
+
+-- lib.word: blaze
+american: ब्लेऽस
+arpabet: B L EY1 Z
+
+
+
+
+-- lib.word: blush
+american: ब्लाश
+arpabet: B L AH1 SH
+
+
+
+
+-- lib.word: blessings
+american: ब्लेसिंग्स
+arpabet: B L EH1 S IH0 NG Z
+
+
+
+
+-- lib.word: blazing
+american: ब्लेऽसिंग
+arpabet: B L EY1 Z IH0 NG
+
+
+
+
+-- lib.word: blade
+american: ब्लेऽड
+arpabet: B L EY1 D
+
+
+
+
+-- lib.word: blast
+american: ब्लैस्ट
+arpabet: B L AE1 S T
+
+
+
+
+-- lib.word: blanket
+american: ब्लैंग्कैट
+arpabet: B L AE1 NG K AH0 T
+
+
+
+
+-- lib.word: blossoms
+american: ब्लॉसैम्स
+arpabet: B L AA1 S AH0 M Z
+
+
+
+
+-- lib.word: blankets
+american: ब्लैंग्कैट्स
+arpabet: B L AE1 NG K AH0 T S
+
+
+
+
+-- lib.word: bleeding
+american: ब्लीडिंग
+arpabet: B L IY1 D IH0 NG
+
+
+
+
+-- lib.word: blocks
+american: ब्लॉक्स
+arpabet: B L AA1 K S
+
+
+
+
+-- lib.word: blushed
+american: ब्लाशट
+arpabet: B L AH1 SH T
+
+
+
+
+-- lib.word: blamed
+american: ब्लेऽम्ड
+arpabet: B L EY1 M D
+
+
+
+
+-- lib.word: blossom
+american: ब्लॉसैम
+arpabet: B L AA1 S AH0 M
+
+
+
+
+-- lib.word: blushing
+american: ब्लाशिंग
+arpabet: B L AH1 SH IH0 NG
+
+
+
+
+-- lib.word: Blanche
+american: ब्लैन्च
+arpabet: B L AE1 N CH
+
+
+
+
+-- lib.word: blinded
+american: ब्लाय्न्डिड
+arpabet: B L AY1 N D IH0 D
+
+
+
+
+-- lib.word: blest
+american: ब्लेस्ट
+arpabet: B L EH1 S T
+
+
+
+
+-- lib.word: blazed
+american: ब्लेऽस्ड
+arpabet: B L EY1 Z D
+
+
+
+
+-- lib.word: bluff
+american: ब्लाफ
+arpabet: B L AH1 F
+
+
+
+
+-- lib.word: blooming
+american: ब्लूमिंग
+arpabet: B L UW1 M IH0 NG
+
+
+
+
+-- lib.word: blindness
+american: ब्लाय्न्ड्नैस
+arpabet: B L AY1 N D N AH0 S
+
+
+
+
+-- lib.word: blunder
+american: ब्लान्ड्र
+arpabet: B L AH1 N D ER0
+
+
+
+
+-- lib.word: blunt
+american: ब्लान्ट
+arpabet: B L AH1 N T
+
+
+
+
+-- lib.word: bleak
+american: ब्लीक
+arpabet: B L IY1 K
+
+
+
+
+-- lib.word: blocked
+american: ब्लॉक्ट
+arpabet: B L AA1 K T
+
+
+
+
+-- lib.word: blot
+american: ब्लॉट
+arpabet: B L AA1 T
+
+
+
+
+-- lib.word: blacksmith
+american: ब्लैक्स्मिथ
+arpabet: B L AE1 K S M IH2 TH
+
+
+
+

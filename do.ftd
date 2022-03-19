@@ -1,0 +1,454 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: don't
+american: डोन्ट
+arpabet: D OW1 N T
+meaning: नहीं
+
+
+-- lib.word: do
+american: डू
+arpabet: D UW1
+meaning: करना
+
+
+-- lib.word: down
+american: डाव्न
+arpabet: D AW1 N
+meaning: नीचे , तले ,नीचे की ओर
+
+
+-- lib.word: doing
+american: डूइंग
+arpabet: D UW1 IH0 NG
+meaning: करते हुए
+
+
+-- lib.word: doesn't
+american: डासैन्ट
+arpabet: D AH1 Z AH0 N T
+indian: डासैन्ट। डज़ नाट
+meaning: नहीं है
+
+
+-- lib.word: does
+american: डास
+arpabet: D AH1 Z
+meaning: करना
+
+
+-- lib.word: done
+american: डान
+arpabet: D AH1 N
+meaning: पूर्ण , समाप्त ,किया हुआ
+
+
+-- lib.word: door
+american: डॉर
+arpabet: D AO1 R
+meaning: दरवाजा , द्वार
+
+
+-- lib.word: doctor
+american: डॉक्ट्र
+arpabet: D AA1 K T ER0
+meaning: चिकित्सक
+
+
+-- lib.word: dog
+american: डॉग
+arpabet: D AO1 G
+meaning: कुत्ता,श्वान,नीच,पाज़ी,बदमाश
+
+
+-- lib.word: dollars
+american: डॉल्र्स
+arpabet: D AA1 L ER0 Z
+meaning: डॅालर
+
+
+-- lib.word: doubt
+american: डाव्ट
+arpabet: D AW1 T
+
+
+
+
+-- lib.word: donations
+american: डोनेऽशैन्स
+arpabet: D OW0 N EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: domain
+american: डोमेऽन
+arpabet: D OW0 M EY1 N
+
+
+
+
+-- lib.word: don
+american: डॉन
+arpabet: D AA1 N
+
+
+
+
+-- lib.word: doors
+american: डॉर्स
+arpabet: D AO1 R Z
+
+
+
+
+-- lib.word: double
+american: डाबैल
+arpabet: D AH1 B AH0 L
+
+
+
+
+-- lib.word: dozen
+american: डासैन
+arpabet: D AH1 Z AH0 N
+
+
+
+
+-- lib.word: dogs
+american: डॉग्स
+arpabet: D AA1 G Z
+
+
+
+
+-- lib.word: doctrine
+american: डॉक्ट्रैन
+arpabet: D AA1 K T R AH0 N
+
+
+
+
+-- lib.word: doth
+american: डॉथ
+arpabet: D AO1 TH
+
+
+
+
+-- lib.word: donate
+american: डोनेऽट
+arpabet: D OW1 N EY2 T
+
+
+
+
+-- lib.word: doubtless
+american: डाव्ट्लैस
+arpabet: D AW1 T L AH0 S
+
+
+
+
+-- lib.word: domestic
+american: डैमेस्टिक
+arpabet: D AH0 M EH1 S T IH0 K
+
+
+
+
+-- lib.word: doubtful
+american: डाव्ट्फैल
+arpabet: D AW1 T F AH0 L
+
+
+
+
+-- lib.word: dollar
+american: डॉल्र
+arpabet: D AA1 L ER0
+
+
+
+
+-- lib.word: doorway
+american: डॉर्वेऽ
+arpabet: D AO1 R W EY2
+
+
+
+
+-- lib.word: Dorothy
+american: डॉरैथी
+arpabet: D AO1 R AH0 TH IY0
+
+
+
+
+-- lib.word: doubts
+american: डाव्ट्स
+arpabet: D AW1 T S
+
+
+
+
+-- lib.word: donation
+american: डोनेऽशैन
+arpabet: D OW0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: Douglas
+american: डाग्लैस
+arpabet: D AH1 G L AH0 S
+
+
+
+
+-- lib.word: dost
+american: डॉस्ट
+arpabet: D AA1 S T
+
+
+
+
+-- lib.word: doubted
+american: डाव्टिड
+arpabet: D AW1 T IH0 D
+
+
+
+
+-- lib.word: download
+american: डाव्न्लोड
+arpabet: D AW1 N L OW2 D
+
+
+
+
+-- lib.word: dominion
+american: डैमिन्यैन
+arpabet: D AH0 M IH1 N Y AH0 N
+
+
+
+
+-- lib.word: doctrines
+american: डॉक्ट्रैन्स
+arpabet: D AA1 K T R AH0 N Z
+
+
+
+
+-- lib.word: document
+american: डॉक्यैमेन्ट
+arpabet: D AA1 K Y AH0 M EH0 N T
+
+
+
+
+-- lib.word: documents
+american: डॉक्यैमैन्ट्स
+arpabet: D AA1 K Y AH0 M AH0 N T S
+
+
+
+
+-- lib.word: doom
+american: डूम
+arpabet: D UW1 M
+
+
+
+
+-- lib.word: doctors
+american: डॉक्ट्र्स
+arpabet: D AA1 K T ER0 Z
+
+
+
+
+-- lib.word: downstairs
+american: डाव्न्स्टेर्स
+arpabet: D AW1 N S T EH1 R Z
+
+
+
+
+-- lib.word: donors
+american: डोन्र्स
+arpabet: D OW1 N ER0 Z
+
+
+
+
+-- lib.word: downward
+american: डाव्न्वर्ड
+arpabet: D AW1 N W ER0 D
+
+
+
+
+-- lib.word: downloading
+american: डाव्न्लोडिंग
+arpabet: D AW1 N L OW2 D IH0 NG
+
+
+
+
+-- lib.word: doomed
+american: डूम्ड
+arpabet: D UW1 M D
+
+
+
+
+-- lib.word: dominions
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: doe
+american: डो
+arpabet: D OW1
+
+
+
+
+-- lib.word: doubled
+american: डाबैल्ड
+arpabet: D AH1 B AH0 L D
+
+
+
+
+-- lib.word: Dora
+american: डॉरै
+arpabet: D AO1 R AH0
+
+
+
+
+-- lib.word: dove
+american: डाव
+arpabet: D AH1 V
+
+
+
+
+-- lib.word: Donald
+american: डॉनैल्ड
+arpabet: D AA1 N AH0 L D
+
+
+
+
+-- lib.word: dome
+american: डोम
+arpabet: D OW1 M
+
+
+
+
+-- lib.word: doll
+american: डॉल
+arpabet: D AA1 L
+
+
+
+
+-- lib.word: doubly
+american: डाब्ली
+arpabet: D AH1 B L IY0
+
+
+
+
+-- lib.word: dominant
+american: डॉमैनैन्ट
+arpabet: D AA1 M AH0 N AH0 N T
+
+
+
+
+-- lib.word: downwards
+american: डाव्न्वर्ड्स
+arpabet: D AW1 N W ER0 D Z
+
+
+
+
+-- lib.word: dot
+american: डॉट
+arpabet: D AA1 T
+
+
+
+
+-- lib.word: dock
+american: डॉक
+arpabet: D AA1 K
+
+
+
+
+-- lib.word: dose
+american: डोस
+arpabet: D OW1 S
+
+
+
+
+-- lib.word: donkey
+american: डॉंग्की
+arpabet: D AA1 NG K IY0
+
+
+
+
+-- lib.word: dotted
+american: डॉटैड
+arpabet: D AA1 T AH0 D
+
+
+
+
+-- lib.word: downright
+american: डाव्न्राय्ट
+arpabet: D AW1 N R AY2 T
+
+
+
+
+-- lib.word: downfall
+american: डाव्न्फाल
+arpabet: D AW1 N F AO2 L
+
+
+
+
+-- lib.word: downcast
+american: डाव्न्कैस्ट
+arpabet: D AW1 N K AE2 S T
+
+
+
+
+-- lib.word: Dover
+american: डोव्र
+arpabet: D OW1 V ER0
+
+
+
+
+-- lib.word: dough
+american: डो
+arpabet: D OW1
+
+
+
+

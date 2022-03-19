@@ -1,0 +1,618 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: like
+american: लाय्क
+arpabet: L AY1 K
+indian: लाइक
+meaning: पसन्द करना , जैसा ,के समान, सदृश
+
+
+-- lib.word: little
+american: लिटैल
+arpabet: L IH1 T AH0 L
+meaning: छोटा
+
+
+-- lib.word: life
+american: लाय्फ
+arpabet: L AY1 F
+meaning: ज़िंदगी ,जीवन काल ,प्राण
+
+
+-- lib.word: listen
+american: लिसैन
+arpabet: L IH1 S AH0 N
+meaning: सुनना , ध्यान देना ,
+
+
+-- lib.word: live
+american: लाय्व
+arpabet: L AY1 V
+indian: लाइव
+meaning: जीना , रहना , बिताना , जीवंत
+
+
+-- lib.word: line
+american: लाय्न
+arpabet: L AY1 N
+meaning: रेखा ,पंक्ति ,तार ,क्रम ,लीक ,रेल मार्ग,श्रेणी,
+
+
+-- lib.word: lives
+american: लिव्स
+arpabet: L IH1 V Z
+indian: Same /लाइव्स
+meaning: रहता है
+
+
+-- lib.word: living
+american: लिविंग
+arpabet: L IH1 V IH0 NG
+meaning: जीविका ,जीवित ,समकालीन
+
+
+-- lib.word: lie
+american: लाय
+arpabet: L AY1
+meaning: झूठ ,असत्य ,चालबाजी़
+
+
+-- lib.word: light
+american: लाय्ट
+arpabet: L AY1 T
+meaning: प्रकाश,रोशनी,चमक,हलका,सुपाच्य,पथ्य
+
+
+-- lib.word: list
+american: लिस्ट
+arpabet: L IH1 S T
+meaning: सूची पत्र
+
+
+-- lib.word: Lindsay
+american: लिन्ड्सी
+arpabet: L IH1 N D Z IY0
+meaning: लिंडसे
+
+it is neutralgender name means from the lake settlement island
+
+
+-- lib.word: lived
+american: लिव्ड
+arpabet: L IH1 V D
+
+
+
+
+-- lib.word: lips
+american: लिप्स
+arpabet: L IH1 P S
+
+
+
+
+-- lib.word: lines
+american: लाय्न्स
+arpabet: L AY1 N Z
+
+
+
+
+-- lib.word: likely
+american: लाय्क्ली
+arpabet: L AY1 K L IY0
+
+
+
+
+-- lib.word: liberty
+american: लिब्र्टी
+arpabet: L IH1 B ER0 T IY0
+
+
+
+
+-- lib.word: lies
+american: लाय्स
+arpabet: L AY1 Z
+
+
+
+
+-- lib.word: liked
+american: लाय्क्ट
+arpabet: L AY1 K T
+
+
+
+
+-- lib.word: listened
+american: लिसैन्ड
+arpabet: L IH1 S AH0 N D
+
+
+
+
+-- lib.word: lifted
+american: लिफ्टैड
+arpabet: L IH1 F T AH0 D
+
+
+
+
+-- lib.word: literature
+american: लिट्रैचर
+arpabet: L IH1 T ER0 AH0 CH ER0
+
+
+
+
+-- lib.word: literary
+american: लिट्रेरी
+arpabet: L IH1 T ER0 EH2 R IY0
+
+
+
+
+-- lib.word: license
+american: लाय्सैन्स
+arpabet: L AY1 S AH0 N S
+
+
+
+
+-- lib.word: limited
+american: लिमैटैड
+arpabet: L IH1 M AH0 T AH0 D
+
+
+
+
+-- lib.word: library
+american: लाय्ब्रेरी
+arpabet: L AY1 B R EH2 R IY0
+
+
+
+
+-- lib.word: likewise
+american: लाय्क्वाय्स
+arpabet: L AY1 K W AY2 Z
+
+
+
+
+-- lib.word: listening
+american: लिसैनिंग
+arpabet: L IH1 S AH0 N IH0 NG
+
+
+
+
+-- lib.word: liability
+american: लायैबिलिटी
+arpabet: L AY2 AH0 B IH1 L IH0 T IY0
+
+
+
+
+-- lib.word: lighted
+american: लाय्टैड
+arpabet: L AY1 T AH0 D
+
+
+
+
+-- lib.word: lights
+american: लाय्ट्स
+arpabet: L AY1 T S
+
+
+
+
+-- lib.word: links
+american: लिंग्क्स
+arpabet: L IH1 NG K S
+
+
+
+
+-- lib.word: limitation
+american: लिमिटेऽशैन
+arpabet: L IH2 M IH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: lightly
+american: लाय्ट्ली
+arpabet: L AY1 T L IY0
+
+
+
+
+-- lib.word: liberal
+american: लिब्रैल
+arpabet: L IH1 B ER0 AH0 L
+
+
+
+
+-- lib.word: lift
+american: लिफ्ट
+arpabet: L IH1 F T
+
+
+
+
+-- lib.word: limbs
+american: लिम्स
+arpabet: L IH1 M Z
+
+
+
+
+-- lib.word: lively
+american: लाय्व्ली
+arpabet: L AY1 V L IY0
+
+
+
+
+-- lib.word: limits
+american: लिमैट्स
+arpabet: L IH1 M AH0 T S
+
+
+
+
+-- lib.word: Lincoln
+american: लिंग्कैन
+arpabet: L IH1 NG K AH0 N
+
+
+
+
+-- lib.word: lion
+american: लायैन
+arpabet: L AY1 AH0 N
+
+
+
+
+-- lib.word: lightning
+american: लाय्ट्निंग
+arpabet: L AY1 T N IH0 NG
+
+
+
+
+-- lib.word: lit
+american: लिट
+arpabet: L IH1 T
+
+
+
+
+-- lib.word: linen
+american: लिनैन
+arpabet: L IH1 N AH0 N
+
+
+
+
+-- lib.word: likes
+american: लाय्क्स
+arpabet: L AY1 K S
+
+
+
+
+-- lib.word: limit
+american: लिमैट
+arpabet: L IH1 M AH0 T
+
+
+
+
+-- lib.word: lip
+american: लिप
+arpabet: L IH1 P
+
+
+
+
+-- lib.word: lieu
+american: लू
+arpabet: L UW1
+
+
+
+
+-- lib.word: liable
+american: लायैबैल
+arpabet: L AY1 AH0 B AH0 L
+
+
+
+
+-- lib.word: lieutenant
+american: लुटेनैन्ट
+arpabet: L UW0 T EH1 N AH0 N T
+
+
+
+
+-- lib.word: lifting
+american: लिफ्टिंग
+arpabet: L IH1 F T IH0 NG
+
+
+
+
+-- lib.word: liquid
+american: लिक्वैड
+arpabet: L IH1 K W AH0 D
+
+
+
+
+-- lib.word: literally
+american: लिट्रैली
+arpabet: L IH1 T ER0 AH0 L IY0
+
+
+
+
+-- lib.word: likeness
+american: लाय्क्नैस
+arpabet: L AY1 K N AH0 S
+
+
+
+
+-- lib.word: liquor
+american: लिक्र
+arpabet: L IH1 K ER0
+
+
+
+
+-- lib.word: licensed
+american: लाय्सैन्स्ट
+arpabet: L AY1 S AH0 N S T
+
+
+
+
+-- lib.word: lingered
+american: लिंग्ग्र्ड
+arpabet: L IH1 NG G ER0 D
+
+
+
+
+-- lib.word: limb
+american: लिम
+arpabet: L IH1 M
+
+
+
+
+-- lib.word: linked
+american: लिंग्क्ट
+arpabet: L IH1 NG K T
+
+
+
+
+-- lib.word: liking
+american: लाय्किंग
+arpabet: L AY1 K IH0 NG
+
+
+
+
+-- lib.word: lined
+american: लाय्न्ड
+arpabet: L AY1 N D
+
+
+
+
+-- lib.word: lighter
+american: लाय्ट्र
+arpabet: L AY1 T ER0
+
+
+
+
+-- lib.word: lighting
+american: लाय्टिंग
+arpabet: L AY1 T IH0 NG
+
+
+
+
+-- lib.word: lifetime
+american: लाय्फ्टाय्म
+arpabet: L AY1 F T AY2 M
+
+
+
+
+-- lib.word: li
+american: ली
+arpabet: L IY1
+
+
+
+
+-- lib.word: lists
+american: लिस्ट्स
+arpabet: L IH1 S T S
+
+
+
+
+-- lib.word: link
+american: लिंग्क
+arpabet: L IH1 NG K
+
+
+
+
+-- lib.word: listing
+american: लिस्टिंग
+arpabet: L IH1 S T IH0 NG
+
+
+
+
+-- lib.word: Liverpool
+american: लिव्र्पुल
+arpabet: L IH1 V ER0 P UW2 L
+
+
+
+
+-- lib.word: lime
+american: लाय्म
+arpabet: L AY1 M
+
+
+
+
+-- lib.word: litter
+american: लिट्र
+arpabet: L IH1 T ER0
+
+
+
+
+-- lib.word: linger
+american: लिंग्ग्र
+arpabet: L IH1 NG G ER0
+
+
+
+
+-- lib.word: lid
+american: लिड
+arpabet: L IH1 D
+
+
+
+
+-- lib.word: lifeless
+american: लाय्फ्लैस
+arpabet: L AY1 F L AH0 S
+
+
+
+
+-- lib.word: liver
+american: लिव्र
+arpabet: L IH1 V ER0
+
+
+
+
+-- lib.word: liar
+american: लाय्र
+arpabet: L AY1 ER0
+
+
+
+
+-- lib.word: lilies
+american: लिलीस
+arpabet: L IH1 L IY0 Z
+
+
+
+
+-- lib.word: literal
+american: लिट्रैल
+arpabet: L IH1 T ER0 AH0 L
+
+
+
+
+-- lib.word: lied
+american: लाय्ड
+arpabet: L AY1 D
+
+
+
+
+-- lib.word: limestone
+american: लाय्म्स्टोन
+arpabet: L AY1 M S T OW2 N
+
+
+
+
+-- lib.word: lily
+american: लिली
+arpabet: L IH1 L IY0
+
+
+
+
+-- lib.word: limp
+american: लिम्प
+arpabet: L IH1 M P
+
+
+
+
+-- lib.word: listener
+american: लिसैन्र
+arpabet: L IH1 S AH0 N ER0
+
+
+
+
+-- lib.word: lids
+american: लिड्स
+arpabet: L IH1 D Z
+
+
+
+
+-- lib.word: livelihood
+american: लाय्व्लीहूड
+arpabet: L AY1 V L IY0 HH UH2 D
+
+
+
+
+-- lib.word: lightness
+american: लाय्ट्नैस
+arpabet: L AY1 T N AH0 S
+
+
+
+
+-- lib.word: lining
+american: लाय्निंग
+arpabet: L AY1 N IH0 NG
+
+
+
+
+-- lib.word: liberally
+american: लिब्रैली
+arpabet: L IH1 B ER0 AH0 L IY0
+
+
+
+
+-- lib.word: livid
+american: लिविड
+arpabet: L IH1 V IH0 D
+
+
+
+

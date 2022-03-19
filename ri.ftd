@@ -1,0 +1,320 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: right
+american: राय्ट
+arpabet: R AY1 T
+indian: राइट
+meaning: अधिकार,दाहिने,सही
+
+
+-- lib.word: Rick
+american: रिक
+arpabet: R IH1 K
+meaning: पोरौटी
+
+
+-- lib.word: ring
+american: रिंग
+arpabet: R IH1 NG
+meaning: अंगूठी,गोला
+
+
+-- lib.word: ride
+american: राय्ड
+arpabet: R AY1 D
+meaning: सवारी,घोड़ा से यात्रा,गाड़ी से यात्रा,पथ
+
+
+-- lib.word: ridge
+american: रिज
+arpabet: R IH1 JH
+meaning: चोटी
+
+
+-- lib.word: river
+american: रिव्र
+arpabet: R IH1 V ER0
+
+
+
+
+-- lib.word: rich
+american: रिच
+arpabet: R IH1 CH
+
+
+
+
+-- lib.word: rise
+american: राय्स
+arpabet: R AY1 Z
+
+
+
+
+-- lib.word: rights
+american: राय्ट्स
+arpabet: R AY1 T S
+
+
+
+
+-- lib.word: richard
+american: रिचर्ड
+arpabet: R IH1 CH ER0 D
+
+
+
+
+-- lib.word: risk
+american: रिस्क
+arpabet: R IH1 S K
+
+
+
+
+-- lib.word: riding
+american: राय्डिंग
+arpabet: R AY1 D IH0 NG
+
+
+
+
+-- lib.word: rid
+american: रिड
+arpabet: R IH1 D
+
+
+
+
+-- lib.word: rivers
+american: रिव्र्स
+arpabet: R IH1 V ER0 Z
+
+
+
+
+-- lib.word: rival
+american: राय्वैल
+arpabet: R AY1 V AH0 L
+
+
+
+
+-- lib.word: risen
+american: रिसैन
+arpabet: R IH1 Z AH0 N
+
+
+
+
+-- lib.word: ridiculous
+american: रिडिक्यैलैस
+arpabet: R IH0 D IH1 K Y AH0 L AH0 S
+
+
+
+
+-- lib.word: rifle
+american: राय्फैल
+arpabet: R AY1 F AH0 L
+
+
+
+
+-- lib.word: rises
+american: राय्सैस
+arpabet: R AY1 Z AH0 Z
+
+
+
+
+-- lib.word: riches
+american: रिचैस
+arpabet: R IH1 CH AH0 Z
+
+
+
+
+-- lib.word: rightly
+american: राय्ट्ली
+arpabet: R AY1 T L IY0
+
+
+
+
+-- lib.word: righteousness
+american: राय्चैस्नैस
+arpabet: R AY1 CH AH0 S N AH0 S
+
+
+
+
+-- lib.word: rings
+american: रिंग्स
+arpabet: R IH1 NG Z
+
+
+
+
+-- lib.word: rice
+american: राय्स
+arpabet: R AY1 S
+
+
+
+
+-- lib.word: rigid
+american: रिजैड
+arpabet: R IH1 JH AH0 D
+
+
+
+
+-- lib.word: ringing
+american: रिंगिंग
+arpabet: R IH1 NG IH0 NG
+
+
+
+
+-- lib.word: righteous
+american: राय्चैस
+arpabet: R AY1 CH AH0 S
+
+
+
+
+-- lib.word: ripe
+american: राय्प
+arpabet: R AY1 P
+
+
+
+
+-- lib.word: Richmond
+american: रिचमैन्ड
+arpabet: R IH1 CH M AH0 N D
+
+
+
+
+-- lib.word: richly
+american: रिचली
+arpabet: R IH1 CH L IY0
+
+
+
+
+-- lib.word: ridicule
+american: रिडैक्युल
+arpabet: R IH1 D AH0 K Y UW2 L
+
+
+
+
+-- lib.word: richest
+american: रिचैस्ट
+arpabet: R IH1 CH AH0 S T
+
+
+
+
+-- lib.word: ribbon
+american: रिबैन
+arpabet: R IH1 B AH0 N
+
+
+
+
+-- lib.word: rider
+american: राय्ड्र
+arpabet: R AY1 D ER0
+
+
+
+
+-- lib.word: rifles
+american: राय्फैल्स
+arpabet: R AY1 F AH0 L Z
+
+
+
+
+-- lib.word: richer
+american: रिचर
+arpabet: R IH1 CH ER0
+
+
+
+
+-- lib.word: ridden
+american: रिडैन
+arpabet: R IH1 D AH0 N
+
+
+
+
+-- lib.word: ridges
+american: रिजैस
+arpabet: R IH1 JH AH0 Z
+
+
+
+
+-- lib.word: riot
+american: रायैट
+arpabet: R AY1 AH0 T
+
+
+
+
+-- lib.word: rides
+american: राय्ड्स
+arpabet: R AY1 D Z
+
+
+
+
+-- lib.word: rim
+american: रिम
+arpabet: R IH1 M
+
+
+
+
+-- lib.word: ritual
+american: रिचुऐल
+arpabet: R IH1 CH UW0 AH0 L
+
+
+
+
+-- lib.word: rite
+american: राय्ट
+arpabet: R AY1 T
+
+
+
+
+-- lib.word: rivalry
+american: राय्वैल्री
+arpabet: R AY1 V AH0 L R IY0
+
+
+
+
+-- lib.word: riddle
+american: रिडैल
+arpabet: R IH1 D AH0 L
+
+
+
+
+-- lib.word: rigging
+american: रिगिंग
+arpabet: R IH1 G IH0 NG
+
+
+
+

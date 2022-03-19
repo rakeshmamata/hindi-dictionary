@@ -1,0 +1,971 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: sure
+american: शूर
+arpabet: SH UH1 R
+indian: स्योर
+meaning: ज़रूरत, आवश्यकता
+
+
+-- lib.word: supposed
+american: सैपोस्ड
+arpabet: S AH0 P OW1 Z D
+indian: सपोज़्ड
+meaning: माना , काल्पनिक ,
+
+
+-- lib.word: such
+american: साच
+arpabet: S AH1 CH
+meaning: ऐसा , इतना , वैसा
+
+
+-- lib.word: surprise
+american: स्र्प्राय्स
+arpabet: S ER0 P R AY1 Z
+meaning: आश्चर्य,अचंभा,अद्भुत वस्तु,गोपनीय तरीके से
+
+
+-- lib.word: suppose
+american: सैपोस
+arpabet: S AH0 P OW1 Z
+meaning: कल्पना करना,मान लेना,समझना
+
+
+-- lib.word: surprised
+american: स्र्प्राय्स्ड
+arpabet: S ER0 P R AY1 Z D
+meaning: विस्मित, होना, आश्चर्य, ताज्जुब
+
+
+-- lib.word: subject
+american: सैब्जेक्ट
+arpabet: S AH0 B JH EH1 K T
+
+
+
+
+-- lib.word: sun
+american: सान
+arpabet: S AH1 N
+
+
+
+
+-- lib.word: suddenly
+american: साडैन्ली
+arpabet: S AH1 D AH0 N L IY0
+
+
+
+
+-- lib.word: sudden
+american: साडैन
+arpabet: S AH1 D AH0 N
+
+
+
+
+-- lib.word: support
+american: सैपॉर्ट
+arpabet: S AH0 P AO1 R T
+
+
+
+
+-- lib.word: success
+american: सैक्सेस
+arpabet: S AH0 K S EH1 S
+
+
+
+
+-- lib.word: summer
+american: साम्र
+arpabet: S AH1 M ER0
+
+
+
+
+-- lib.word: sufficient
+american: सैफिशैन्ट
+arpabet: S AH0 F IH1 SH AH0 N T
+
+
+
+
+-- lib.word: surface
+american: स्र्फैस
+arpabet: S ER1 F AH0 S
+
+
+
+
+-- lib.word: succeeded
+american: सैक्सीडैड
+arpabet: S AH0 K S IY1 D AH0 D
+
+
+
+
+-- lib.word: surely
+american: शूर्ली
+arpabet: SH UH1 R L IY0
+
+
+
+
+-- lib.word: suffered
+american: साफ्र्ड
+arpabet: S AH1 F ER0 D
+
+
+
+
+-- lib.word: suggested
+american: सैजेस्टैड
+arpabet: S AH0 JH EH1 S T AH0 D
+
+
+
+
+-- lib.word: subjects
+american: साब्जिक्ट्स
+arpabet: S AH1 B JH IH0 K T S
+
+
+
+
+-- lib.word: suffer
+american: साफ्र
+arpabet: S AH1 F ER0
+
+
+
+
+-- lib.word: suffering
+american: साफ्रिंग
+arpabet: S AH1 F ER0 IH0 NG
+
+
+
+
+-- lib.word: Sunday
+american: सान्डेऽ
+arpabet: S AH1 N D EY2
+
+
+
+
+-- lib.word: supper
+american: साप्र
+arpabet: S AH1 P ER0
+
+
+
+
+-- lib.word: sum
+american: साम
+arpabet: S AH1 M
+
+
+
+
+-- lib.word: superior
+american: सुपिरीर
+arpabet: S UW0 P IH1 R IY0 ER0
+
+
+
+
+-- lib.word: supply
+american: सैप्लाय
+arpabet: S AH0 P L AY1
+
+
+
+
+-- lib.word: surrounded
+american: स्राव्न्डैड
+arpabet: S ER0 AW1 N D AH0 D
+
+
+
+
+-- lib.word: suit
+american: सूट
+arpabet: S UW1 T
+
+
+
+
+-- lib.word: successful
+american: सैक्सेस्फैल
+arpabet: S AH0 K S EH1 S F AH0 L
+
+
+
+
+-- lib.word: sufficiently
+american: सैफिशैन्ट्ली
+arpabet: S AH0 F IH1 SH AH0 N T L IY0
+
+
+
+
+-- lib.word: suspicion
+american: सैस्पिशैन
+arpabet: S AH0 S P IH1 SH AH0 N
+
+
+
+
+-- lib.word: suggestion
+american: सैजेस्चैन
+arpabet: S AH0 JH EH1 S CH AH0 N
+
+
+
+
+-- lib.word: sugar
+american: शूग्र
+arpabet: SH UH1 G ER0
+
+
+
+
+-- lib.word: substance
+american: साब्स्टैन्स
+arpabet: S AH1 B S T AH0 N S
+
+
+
+
+-- lib.word: supported
+american: सैपॉर्टैड
+arpabet: S AH0 P AO1 R T AH0 D
+
+
+
+
+-- lib.word: sunshine
+american: सान्शाय्न
+arpabet: S AH1 N SH AY2 N
+
+
+
+
+-- lib.word: suspected
+american: सैस्पेक्टैड
+arpabet: S AH0 S P EH1 K T AH0 D
+
+
+
+
+-- lib.word: succeed
+american: सैक्सीड
+arpabet: S AH0 K S IY1 D
+
+
+
+
+-- lib.word: supreme
+american: सैप्रीम
+arpabet: S AH0 P R IY1 M
+
+
+
+
+-- lib.word: supplied
+american: सैप्लाय्ड
+arpabet: S AH0 P L AY1 D
+
+
+
+
+-- lib.word: succession
+american: सैक्सेशैन
+arpabet: S AH0 K S EH1 SH AH0 N
+
+
+
+
+-- lib.word: suitable
+american: सूटैबैल
+arpabet: S UW1 T AH0 B AH0 L
+
+
+
+
+-- lib.word: suspect
+american: सैस्पेक्ट
+arpabet: S AH0 S P EH1 K T
+
+
+
+
+-- lib.word: summoned
+american: सामैन्ड
+arpabet: S AH1 M AH0 N D
+
+
+
+
+-- lib.word: suggest
+american: सैजेस्ट
+arpabet: S AH0 JH EH1 S T
+
+
+
+
+-- lib.word: supplies
+american: सैप्लाय्स
+arpabet: S AH0 P L AY1 Z
+
+
+
+
+-- lib.word: submit
+american: सैब्मिट
+arpabet: S AH0 B M IH1 T
+
+
+
+
+-- lib.word: sunk
+american: सांग्क
+arpabet: S AH1 NG K
+
+
+
+
+-- lib.word: sunset
+american: सान्सेट
+arpabet: S AH1 N S EH2 T
+
+
+
+
+-- lib.word: surrender
+american: स्रेन्ड्र
+arpabet: S ER0 EH1 N D ER0
+
+
+
+
+-- lib.word: summit
+american: सामैट
+arpabet: S AH1 M AH0 T
+
+
+
+
+-- lib.word: surrounding
+american: स्राव्न्डिंग
+arpabet: S ER0 AW1 N D IH0 NG
+
+
+
+
+-- lib.word: subsequent
+american: साब्सैक्वैन्ट
+arpabet: S AH1 B S AH0 K W AH0 N T
+
+
+
+
+-- lib.word: subtle
+american: साटैल
+arpabet: S AH1 T AH0 L
+
+
+
+
+-- lib.word: sufferings
+american: साफ्रिंग्स
+arpabet: S AH1 F ER0 IH0 NG Z
+
+
+
+
+-- lib.word: submitted
+american: सैब्मिटैड
+arpabet: S AH0 B M IH1 T AH0 D
+
+
+
+
+-- lib.word: sunlight
+american: सान्लाय्ट
+arpabet: S AH1 N L AY2 T
+
+
+
+
+-- lib.word: sue
+american: सू
+arpabet: S UW1
+
+
+
+
+-- lib.word: suited
+american: सूटैड
+arpabet: S UW1 T AH0 D
+
+
+
+
+-- lib.word: suspended
+american: सैस्पेन्डैड
+arpabet: S AH0 S P EH1 N D AH0 D
+
+
+
+
+-- lib.word: surprising
+american: स्र्प्राय्सिंग
+arpabet: S ER0 P R AY1 Z IH0 NG
+
+
+
+
+-- lib.word: sustained
+american: सैस्टेऽन्ड
+arpabet: S AH0 S T EY1 N D
+
+
+
+
+-- lib.word: Susan
+american: सूसैन
+arpabet: S UW1 Z AH0 N
+
+
+
+
+-- lib.word: subdued
+american: सैब्डूड
+arpabet: S AH0 B D UW1 D
+
+
+
+
+-- lib.word: survive
+american: स्र्वाय्व
+arpabet: S ER0 V AY1 V
+
+
+
+
+-- lib.word: sublime
+american: सैब्लाय्म
+arpabet: S AH0 B L AY1 M
+
+
+
+
+-- lib.word: subscribe
+american: सैब्स्क्राय्ब
+arpabet: S AH0 B S K R AY1 B
+
+
+
+
+-- lib.word: suspicious
+american: सैस्पिशैस
+arpabet: S AH0 S P IH1 SH AH0 S
+
+
+
+
+-- lib.word: successfully
+american: सैक्सेस्फैली
+arpabet: S AH0 K S EH1 S F AH0 L IY0
+
+
+
+
+-- lib.word: sunny
+american: सानी
+arpabet: S AH1 N IY0
+
+
+
+
+-- lib.word: suspicions
+american: सैस्पिशैन्स
+arpabet: S AH0 S P IH1 SH AH0 N Z
+
+
+
+
+-- lib.word: supposing
+american: सैपोसिंग
+arpabet: S AH0 P OW1 Z IH0 NG
+
+
+
+
+-- lib.word: subsequently
+american: साब्सैक्वैन्ट्ली
+arpabet: S AH1 B S AH0 K W AH0 N T L IY0
+
+
+
+
+-- lib.word: surroundings
+american: स्राव्न्डिंग्स
+arpabet: S ER0 AW1 N D IH0 NG Z
+
+
+
+
+-- lib.word: successor
+american: सैक्सेस्र
+arpabet: S AH0 K S EH1 S ER0
+
+
+
+
+-- lib.word: submission
+american: सैब्मिशैन
+arpabet: S AH0 B M IH1 SH AH0 N
+
+
+
+
+-- lib.word: suppressed
+american: सैप्रेस्ट
+arpabet: S AH0 P R EH1 S T
+
+
+
+
+-- lib.word: successive
+american: सैक्सेसिव
+arpabet: S AH0 K S EH1 S IH0 V
+
+
+
+
+-- lib.word: superstition
+american: सुप्र्स्टिशैन
+arpabet: S UW2 P ER0 S T IH1 SH AH0 N
+
+
+
+
+-- lib.word: substantial
+american: सैब्स्टैन्शैल
+arpabet: S AH0 B S T AE1 N SH AH0 L
+
+
+
+
+-- lib.word: subjected
+american: सैब्जेक्टिड
+arpabet: S AH0 B JH EH1 K T IH0 D
+
+
+
+
+-- lib.word: summons
+american: सामैन्स
+arpabet: S AH1 M AH0 N Z
+
+
+
+
+-- lib.word: surgeon
+american: स्र्जैन
+arpabet: S ER1 JH AH0 N
+
+
+
+
+-- lib.word: succeeding
+american: सैक्सीडिंग
+arpabet: S AH0 K S IY1 D IH0 NG
+
+
+
+
+-- lib.word: survey
+american: स्र्वेऽ
+arpabet: S ER0 V EY1
+
+
+
+
+-- lib.word: sums
+american: साम्स
+arpabet: S AH1 M Z
+
+
+
+
+-- lib.word: sullen
+american: सालैन
+arpabet: S AH1 L AH0 N
+
+
+
+
+-- lib.word: suggestions
+american: सैजेस्चैन्स
+arpabet: S AH0 JH EH1 S CH AH0 N Z
+
+
+
+
+-- lib.word: substitute
+american: साब्स्टैटुट
+arpabet: S AH1 B S T AH0 T UW2 T
+
+
+
+
+-- lib.word: supernatural
+american: सुप्र्नैचरैल
+arpabet: S UW2 P ER0 N AE1 CH ER0 AH0 L
+
+
+
+
+-- lib.word: suffice
+american: सैफाय्स
+arpabet: S AH0 F AY1 S
+
+
+
+
+-- lib.word: supporting
+american: सैपॉर्टिंग
+arpabet: S AH0 P AO1 R T IH0 NG
+
+
+
+
+-- lib.word: suits
+american: सूट्स
+arpabet: S UW1 T S
+
+
+
+
+-- lib.word: sustain
+american: सैस्टेऽन
+arpabet: S AH0 S T EY1 N
+
+
+
+
+-- lib.word: subordinate
+american: सैबॉर्डैनेऽट
+arpabet: S AH0 B AO1 R D AH0 N EY2 T
+
+
+
+
+-- lib.word: suspense
+american: सैस्पेन्स
+arpabet: S AH0 S P EH1 N S
+
+
+
+
+-- lib.word: superb
+american: सूप्र्ब
+arpabet: S UH0 P ER1 B
+
+
+
+
+-- lib.word: sunrise
+american: सान्राय्स
+arpabet: S AH1 N R AY2 Z
+
+
+
+
+-- lib.word: suggests
+american: सैजेस्ट्स
+arpabet: S AH0 JH EH1 S T S
+
+
+
+
+-- lib.word: superstitious
+american: सुप्र्स्टिशैस
+arpabet: S UW2 P ER0 S T IH1 SH AH0 S
+
+
+
+
+-- lib.word: suicide
+american: सूऐसाय्ड
+arpabet: S UW1 AH0 S AY2 D
+
+
+
+
+-- lib.word: supposition
+american: स्ऽपैसिशैन
+arpabet: S AH2 P AH0 Z IH1 SH AH0 N
+
+
+
+
+-- lib.word: supremacy
+american: सैप्रेमैसी
+arpabet: S AH0 P R EH1 M AH0 S IY0
+
+
+
+
+-- lib.word: summon
+american: सामैन
+arpabet: S AH1 M AH0 N
+
+
+
+
+-- lib.word: superficial
+american: सुप्र्फिशैल
+arpabet: S UW2 P ER0 F IH1 SH AH0 L
+
+
+
+
+-- lib.word: superfluous
+american: सूप्र्फ्ल्वऽस
+arpabet: S UW1 P ER0 F L W AH2 S
+
+
+
+
+-- lib.word: sundry
+american: सान्ड्री
+arpabet: S AH1 N D R IY0
+
+
+
+
+-- lib.word: suppress
+american: सैप्रेस
+arpabet: S AH0 P R EH1 S
+
+
+
+
+-- lib.word: suite
+american: स्वीट
+arpabet: S W IY1 T
+
+
+
+
+-- lib.word: suggestive
+american: सैजेस्टिव
+arpabet: S AH0 JH EH1 S T IH0 V
+
+
+
+
+-- lib.word: surplus
+american: स्र्प्लैस
+arpabet: S ER1 P L AH0 S
+
+
+
+
+-- lib.word: suffrage
+american: साफ्रिज
+arpabet: S AH1 F R IH0 JH
+
+
+
+
+-- lib.word: Sundays
+american: सान्डेऽस
+arpabet: S AH1 N D EY2 Z
+
+
+
+
+-- lib.word: surround
+american: स्राव्न्ड
+arpabet: S ER0 AW1 N D
+
+
+
+
+-- lib.word: subsistence
+american: सैब्सिस्टैन्स
+arpabet: S AH0 B S IH1 S T AH0 N S
+
+
+
+
+-- lib.word: susceptible
+american: सैसेप्टैबैल
+arpabet: S AH0 S EH1 P T AH0 B AH0 L
+
+
+
+
+-- lib.word: substituted
+american: साब्स्टैटुटैड
+arpabet: S AH1 B S T AH0 T UW2 T AH0 D
+
+
+
+
+-- lib.word: submarine
+american: साब्म्रीन
+arpabet: S AH1 B M ER0 IY2 N
+
+
+
+
+-- lib.word: superintendent
+american: सुप्रैन्टेन्डैन्ट
+arpabet: S UW2 P ER0 AH0 N T EH1 N D AH0 N T
+
+
+
+
+-- lib.word: summary
+american: साम्री
+arpabet: S AH1 M ER0 IY0
+
+
+
+
+-- lib.word: suburbs
+american: साब्र्ब्स
+arpabet: S AH1 B ER0 B Z
+
+
+
+
+-- lib.word: sultan
+american: साल्टैन
+arpabet: S AH1 L T AH0 N
+
+
+
+
+-- lib.word: subdue
+american: सैब्डू
+arpabet: S AH0 B D UW1
+
+
+
+
+-- lib.word: surf
+american: स्र्फ
+arpabet: S ER1 F
+
+
+
+
+-- lib.word: supplying
+american: सैप्लायिंग
+arpabet: S AH0 P L AY1 IH0 NG
+
+
+
+
+-- lib.word: supervision
+american: सुप्र्विसैन
+arpabet: S UW2 P ER0 V IH1 ZH AH0 N
+
+
+
+
+-- lib.word: sunken
+american: सांग्कैन
+arpabet: S AH1 NG K AH0 N
+
+
+
+
+-- lib.word: sub
+american: साब
+arpabet: S AH1 B
+
+
+
+
+-- lib.word: suppression
+american: सैप्रेशैन
+arpabet: S AH0 P R EH1 SH AH0 N
+
+
+
+
+-- lib.word: subscription
+american: सैब्स्क्रिप्शैन
+arpabet: S AH0 B S K R IH1 P SH AH0 N
+
+
+
+
+-- lib.word: succour
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: sup
+american: साप
+arpabet: S AH1 P
+
+
+
+
+-- lib.word: sumptuous
+american: साम्प्चवैस
+arpabet: S AH1 M P CH W AH0 S
+
+
+
+
+-- lib.word: subterranean
+american: सैब्ट्रेऽनीऐन
+arpabet: S AH0 B T ER0 EY1 N IY0 AH0 N
+
+
+
+
+-- lib.word: surveying
+american: स्र्वेऽइंग
+arpabet: S ER0 V EY1 IH0 NG
+
+
+
+
+-- lib.word: sulphur
+american: साल्फ्र
+arpabet: S AH1 L F ER0
+
+
+
+
+-- lib.word: sullenly
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: supplement
+american: साप्लैमैन्ट
+arpabet: S AH1 P L AH0 M AH0 N T
+
+
+
+

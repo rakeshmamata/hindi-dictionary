@@ -7,7 +7,6 @@ spacing: 20
 
 --- ftd.text: English Hindi Pronunciation Dictionary
 padding-left: 10
-size: 32
 
 
 
@@ -24,11 +23,8 @@ border-width: 4
 padding-bottom: 10
 
 --- ftd.text: $word
-size: 28
 width: fill
 padding-bottom: 10
-background-color: black
-color: white
 padding-horizontal: 20
 padding-vertical: 5
 
@@ -39,7 +35,6 @@ padding-horizontal: 20
 padding-top: 10
 
 --- ftd.text: American Pronunciation
-style: bold
 
 --- ftd.text: $american
 move-up: 3
@@ -52,7 +47,6 @@ border-radius: 1
 padding-horizontal: 20
 
 --- ftd.text: ARPAbet
-style: bold
 
 --- ftd.text: $arpabet
 
@@ -65,7 +59,6 @@ border-radius: 1
 padding-horizontal: 20
 
 --- ftd.text: Indian Pronunciation
-style: bold
 
 --- ftd.text: $indian
 if: $indian is not null
@@ -80,7 +73,6 @@ border-radius: 1
 padding-horizontal: 20
 
 --- ftd.text: Meaning
-style: bold
 
 --- ftd.text: $meaning
 if: $meaning is not null

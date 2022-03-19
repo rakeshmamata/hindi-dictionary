@@ -1,0 +1,706 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: people
+american: पीपैल
+arpabet: P IY1 P AH0 L
+meaning: लोग ,जनताा ,प्रजा
+
+
+-- lib.word: person
+american: प्र्सैन
+arpabet: P ER1 S AH0 N
+indian: परसन
+meaning: आदमी ,व्यक्ति
+
+
+-- lib.word: perfect
+american: प्र्फेक्ट
+arpabet: P ER0 F EH1 K T
+meaning: उत्तम , सुन्दर , निष्कलंक
+
+
+-- lib.word: perhaps
+american: प्र्हैप्स
+arpabet: P ER0 HH AE1 P S
+meaning: शायद,हो सकता है,संभवतः,संयोग से
+
+
+-- lib.word: personal
+american: प्र्सिनैल
+arpabet: P ER1 S IH0 N AH0 L
+indian: परसनल
+meaning: व्यक्तिगत,निजी,वैयक्तिक,जा़ती
+
+
+-- lib.word: peace
+american: पीस
+arpabet: P IY1 S
+
+
+
+
+-- lib.word: persons
+american: प्र्सैन्स
+arpabet: P ER1 S AH0 N Z
+
+
+
+
+-- lib.word: period
+american: पिरीऐड
+arpabet: P IH1 R IY0 AH0 D
+
+
+
+
+-- lib.word: permission
+american: प्र्मिशैन
+arpabet: P ER0 M IH1 SH AH0 N
+
+
+
+
+-- lib.word: per
+american: प्र
+arpabet: P ER1
+
+
+
+
+-- lib.word: perfectly
+american: प्र्फैक्ट्ली
+arpabet: P ER1 F AH0 K T L IY0
+
+
+
+
+-- lib.word: peter
+american: पीट्र
+arpabet: P IY1 T ER0
+
+
+
+
+-- lib.word: peculiar
+american: पैक्यूल्य्र
+arpabet: P AH0 K Y UW1 L Y ER0
+
+
+
+
+-- lib.word: permitted
+american: प्र्मिटैड
+arpabet: P ER0 M IH1 T AH0 D
+
+
+
+
+-- lib.word: perceived
+american: प्र्सीव्ड
+arpabet: P ER0 S IY1 V D
+
+
+
+
+-- lib.word: performed
+american: प्र्फॉर्म्ड
+arpabet: P ER0 F AO1 R M D
+
+
+
+
+-- lib.word: permanent
+american: प्र्मैनैन्ट
+arpabet: P ER1 M AH0 N AH0 N T
+
+
+
+
+-- lib.word: perform
+american: प्र्फॉर्म
+arpabet: P ER0 F AO1 R M
+
+
+
+
+-- lib.word: pen
+american: पेन
+arpabet: P EH1 N
+
+
+
+
+-- lib.word: permit
+american: प्र्मिट
+arpabet: P ER0 M IH1 T
+
+
+
+
+-- lib.word: perceive
+american: प्र्सीव
+arpabet: P ER0 S IY1 V
+
+
+
+
+-- lib.word: performing
+american: प्र्फॉर्मिंग
+arpabet: P ER0 F AO1 R M IH0 NG
+
+
+
+
+-- lib.word: performance
+american: प्र्फॉर्मैन्स
+arpabet: P ER0 F AO1 R M AH0 N S
+
+
+
+
+-- lib.word: persuaded
+american: प्र्स्वेऽडैड
+arpabet: P ER0 S W EY1 D AH0 D
+
+
+
+
+-- lib.word: perfection
+american: प्र्फेक्शैन
+arpabet: P ER0 F EH1 K SH AH0 N
+
+
+
+
+-- lib.word: peaceful
+american: पीस्फैल
+arpabet: P IY1 S F AH0 L
+
+
+
+
+-- lib.word: perpetual
+american: प्र्पेचुऐल
+arpabet: P ER0 P EH1 CH UW0 AH0 L
+
+
+
+
+-- lib.word: persuade
+american: प्र्स्वेऽड
+arpabet: P ER0 S W EY1 D
+
+
+
+
+-- lib.word: perish
+american: पेरिश
+arpabet: P EH1 R IH0 SH
+
+
+
+
+-- lib.word: peasant
+american: पेसैन्ट
+arpabet: P EH1 Z AH0 N T
+
+
+
+
+-- lib.word: personally
+american: प्र्सैनैली
+arpabet: P ER1 S AH0 N AH0 L IY0
+
+
+
+
+-- lib.word: Persian
+american: प्र्सैन
+arpabet: P ER1 ZH AH0 N
+
+
+
+
+-- lib.word: personality
+american: प्र्सैनैलिटी
+arpabet: P ER2 S AH0 N AE1 L IH0 T IY0
+
+
+
+
+-- lib.word: Pennsylvania
+american: पेन्सैल्वेऽन्यै
+arpabet: P EH2 N S AH0 L V EY1 N Y AH0
+
+
+
+
+-- lib.word: peoples
+american: पीपैल्स
+arpabet: P IY1 P AH0 L Z
+
+
+
+
+-- lib.word: petty
+american: पेटी
+arpabet: P EH1 T IY0
+
+
+
+
+-- lib.word: penny
+american: पेनी
+arpabet: P EH1 N IY0
+
+
+
+
+-- lib.word: periodic
+american: पिरीऑडिक
+arpabet: P IH2 R IY0 AA1 D IH0 K
+
+
+
+
+-- lib.word: peasants
+american: पेसैन्ट्स
+arpabet: P EH1 Z AH0 N T S
+
+
+
+
+-- lib.word: perished
+american: पेरिशट
+arpabet: P EH1 R IH0 SH T
+
+
+
+
+-- lib.word: pertaining
+american: प्र्टेऽनिंग
+arpabet: P ER0 T EY1 N IH0 NG
+
+
+
+
+-- lib.word: persisted
+american: प्र्सिस्टैड
+arpabet: P ER0 S IH1 S T AH0 D
+
+
+
+
+-- lib.word: peculiarly
+american: पिक्यूल्य्र्ली
+arpabet: P IH0 K Y UW1 L Y ER0 L IY0
+
+
+
+
+-- lib.word: perception
+american: प्र्सेप्शैन
+arpabet: P ER0 S EH1 P SH AH0 N
+
+
+
+
+-- lib.word: pencil
+american: पेन्सैल
+arpabet: P EH1 N S AH0 L
+
+
+
+
+-- lib.word: petition
+american: पैटिशैन
+arpabet: P AH0 T IH1 SH AH0 N
+
+
+
+
+-- lib.word: penalty
+american: पेनैल्टी
+arpabet: P EH1 N AH0 L T IY0
+
+
+
+
+-- lib.word: pepper
+american: पेप्र
+arpabet: P EH1 P ER0
+
+
+
+
+-- lib.word: Percy
+american: प्र्सी
+arpabet: P ER1 S IY0
+
+
+
+
+-- lib.word: penetrated
+american: पेनैट्रेऽटैड
+arpabet: P EH1 N AH0 T R EY2 T AH0 D
+
+
+
+
+-- lib.word: personage
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: Persia
+american: प्र्सै
+arpabet: P ER1 ZH AH0
+
+
+
+
+-- lib.word: persecution
+american: प्र्सैक्यूशैन
+arpabet: P ER2 S AH0 K Y UW1 SH AH0 N
+
+
+
+
+-- lib.word: perplexed
+american: प्र्प्लेक्स्ट
+arpabet: P ER0 P L EH1 K S T
+
+
+
+
+-- lib.word: perilous
+american: पेरैलैस
+arpabet: P EH1 R AH0 L AH0 S
+
+
+
+
+-- lib.word: pet
+american: पेट
+arpabet: P EH1 T
+
+
+
+
+-- lib.word: penetrate
+american: पेनैट्रेऽट
+arpabet: P EH1 N AH0 T R EY2 T
+
+
+
+
+-- lib.word: perfume
+american: प्र्फ्यूम
+arpabet: P ER0 F Y UW1 M
+
+
+
+
+-- lib.word: perpetually
+american: प्र्पेचुऐली
+arpabet: P ER0 P EH1 CH UW0 AH0 L IY0
+
+
+
+
+-- lib.word: perplexity
+american: प्र्प्लेक्सैटी
+arpabet: P ER0 P L EH1 K S AH0 T IY0
+
+
+
+
+-- lib.word: pension
+american: पेन्शैन
+arpabet: P EH1 N SH AH0 N
+
+
+
+
+-- lib.word: penetrating
+american: पेनैट्रेऽटिंग
+arpabet: P EH1 N AH0 T R EY2 T IH0 NG
+
+
+
+
+-- lib.word: persuasion
+american: प्र्स्वेऽसैन
+arpabet: P ER0 S W EY1 ZH AH0 N
+
+
+
+
+-- lib.word: peaks
+american: पीक्स
+arpabet: P IY1 K S
+
+
+
+
+-- lib.word: perchance
+american: प्र्चैन्स
+arpabet: P ER0 CH AE1 N S
+
+
+
+
+-- lib.word: peculiarities
+american: पिक्युलीएरैटीस
+arpabet: P IH0 K Y UW2 L IY0 EH1 R AH0 T IY0 Z
+
+
+
+
+-- lib.word: persistent
+american: प्र्सिस्टैन्ट
+arpabet: P ER0 S IH1 S T AH0 N T
+
+
+
+
+-- lib.word: personages
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: pearl
+american: प्र्ल
+arpabet: P ER1 L
+
+
+
+
+-- lib.word: permanently
+american: प्र्मैनैन्ट्ली
+arpabet: P ER1 M AH0 N AH0 N T L IY0
+
+
+
+
+-- lib.word: peak
+american: पीक
+arpabet: P IY1 K
+
+
+
+
+-- lib.word: peer
+american: पिर
+arpabet: P IH1 R
+
+
+
+
+-- lib.word: perils
+american: पेरैल्स
+arpabet: P EH1 R AH0 L Z
+
+
+
+
+-- lib.word: pecuniary
+american: पेक्यूनीएरी
+arpabet: P EH0 K Y UW1 N IY0 EH2 R IY0
+
+
+
+
+-- lib.word: perceptible
+american: प्र्सेप्टैबैल
+arpabet: P ER0 S EH1 P T AH0 B AH0 L
+
+
+
+
+-- lib.word: perseverance
+american: प्र्सैविरैन्स
+arpabet: P ER2 S AH0 V IH1 R AH0 N S
+
+
+
+
+-- lib.word: peculiarity
+american: पिक्युलीएरैटी
+arpabet: P IH0 K Y UW2 L IY0 EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: perpendicular
+american: प्र्पैन्डिक्यैल्र
+arpabet: P ER2 P AH0 N D IH1 K Y AH0 L ER0
+
+
+
+
+-- lib.word: penance
+american: पेनैन्स
+arpabet: P EH1 N AH0 N S
+
+
+
+
+-- lib.word: Peru
+american: प्रू
+arpabet: P ER0 UW1
+
+
+
+
+-- lib.word: peep
+american: पीप
+arpabet: P IY1 P
+
+
+
+
+-- lib.word: peninsula
+american: पैनिन्सैलै
+arpabet: P AH0 N IH1 N S AH0 L AH0
+
+
+
+
+-- lib.word: perspiration
+american: प्र्स्प्रेऽशैन
+arpabet: P ER2 S P ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: peggy
+american: पेगी
+arpabet: P EH1 G IY0
+
+
+
+
+-- lib.word: perspective
+american: प्र्स्पेक्टिव
+arpabet: P ER0 S P EH1 K T IH0 V
+
+
+
+
+-- lib.word: pebbles
+american: पेबैल्स
+arpabet: P EH1 B AH0 L Z
+
+
+
+
+-- lib.word: peas
+american: पीस
+arpabet: P IY1 Z
+
+
+
+
+-- lib.word: persist
+american: प्र्सिस्ट
+arpabet: P ER0 S IH1 S T
+
+
+
+
+-- lib.word: peers
+american: पिर्स
+arpabet: P IH1 R Z
+
+
+
+
+-- lib.word: pensive
+american: पेन्सिव
+arpabet: P EH1 N S IH0 V
+
+
+
+
+-- lib.word: pernicious
+american: प्र्निशैस
+arpabet: P ER0 N IH1 SH AH0 S
+
+
+
+
+-- lib.word: peg
+american: पेग
+arpabet: P EH1 G
+
+
+
+
+-- lib.word: pestilence
+american: पेस्टैलैन्स
+arpabet: P EH1 S T AH0 L AH0 N S
+
+
+
+
+-- lib.word: periodical
+american: पिरीऑडिकैल
+arpabet: P IH2 R IY0 AA1 D IH0 K AH0 L
+
+
+
+
+-- lib.word: peaceable
+american: पीसैबैल
+arpabet: P IY1 S AH0 B AH0 L
+
+
+
+
+-- lib.word: perusal
+american: प्रूसैल
+arpabet: P ER0 UW1 Z AH0 L
+
+
+
+
+-- lib.word: percentage
+american: प्र्सेन्टैज
+arpabet: P ER0 S EH1 N T AH0 JH
+
+
+
+
+-- lib.word: peeping
+american: पीपिंग
+arpabet: P IY1 P IH0 NG
+
+
+
+
+-- lib.word: perverse
+american: प्र्व्र्स
+arpabet: P ER0 V ER1 S
+
+
+
+
+-- lib.word: perch
+american: प्र्च
+arpabet: P ER1 CH
+
+
+
+
+-- lib.word: penitent
+american: पेनिटिन्ट
+arpabet: P EH1 N IH0 T IH0 N T
+
+
+
+

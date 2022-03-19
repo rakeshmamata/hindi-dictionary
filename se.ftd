@@ -1,0 +1,940 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: see
+american: सी
+arpabet: S IY1
+meaning: देखना
+
+
+-- lib.word: seen
+american: सीन
+arpabet: S IY1 N
+meaning: देखा ,देखना
+
+
+-- lib.word: second
+american: सेकैन्ड
+arpabet: S EH1 K AH0 N D
+meaning: दूसरा ,दोबारा ,व्दितीय
+
+
+-- lib.word: set
+american: सेट
+arpabet: S EH1 T
+meaning: समूह , संग्रह ,अस्त
+
+
+-- lib.word: serious
+american: सिरीऐस
+arpabet: S IH1 R IY0 AH0 S
+meaning: गंम्भीर ,संगीन ,संजीदा
+
+
+-- lib.word: seems
+american: सीम्स
+arpabet: S IY1 M Z
+meaning: प्रतीत होना
+
+
+-- lib.word: seem
+american: सीम
+arpabet: S IY1 M
+meaning: प्रतीत होना ,लगना
+
+
+-- lib.word: sense
+american: सेन्स
+arpabet: S EH1 N S
+meaning: समझ ,भावना ,ज्ञान ,बोध
+
+
+-- lib.word: seeing
+american: सीइंग
+arpabet: S IY1 IH0 NG
+meaning: देखना ,
+
+
+-- lib.word: sex
+american: सेक्स
+arpabet: S EH1 K S
+meaning: लिंग,यौन क्रिया,काम
+
+
+-- lib.word: send
+american: सेन्ड
+arpabet: S EH1 N D
+meaning: भेज़ना,प्रषित करना फेंकना
+
+
+-- lib.word: secret
+american: सीक्रैट
+arpabet: S IY1 K R AH0 T
+meaning: गुप्त ,गोपनीय ,रहस्य का
+
+
+-- lib.word: sent
+american: सेन्ट
+arpabet: S EH1 N T
+meaning: भेज़ दिया
+
+
+-- lib.word: self
+american: सेल्फ
+arpabet: S EH1 L F
+meaning: खुद, स्वतः, स्व
+
+
+-- lib.word: seemed
+american: सीम्ड
+arpabet: S IY1 M D
+
+
+
+
+-- lib.word: several
+american: सेव्रैल
+arpabet: S EH1 V R AH0 L
+
+
+
+
+-- lib.word: sea
+american: सी
+arpabet: S IY1
+
+
+
+
+-- lib.word: service
+american: स्र्वैस
+arpabet: S ER1 V AH0 S
+
+
+
+
+-- lib.word: seven
+american: सेवैन
+arpabet: S EH1 V AH0 N
+
+
+
+
+-- lib.word: servant
+american: स्र्वैन्ट
+arpabet: S ER1 V AH0 N T
+
+
+
+
+-- lib.word: seat
+american: सीट
+arpabet: S IY1 T
+
+
+
+
+-- lib.word: serve
+american: स्र्व
+arpabet: S ER1 V
+
+
+
+
+-- lib.word: settled
+american: सेटैल्ड
+arpabet: S EH1 T AH0 L D
+
+
+
+
+-- lib.word: search
+american: स्र्च
+arpabet: S ER1 CH
+
+
+
+
+-- lib.word: seek
+american: सीक
+arpabet: S IY1 K
+
+
+
+
+-- lib.word: servants
+american: स्र्वैन्ट्स
+arpabet: S ER1 V AH0 N T S
+
+
+
+
+-- lib.word: secure
+american: सिक्यूर
+arpabet: S IH0 K Y UH1 R
+
+
+
+
+-- lib.word: served
+american: स्र्व्ड
+arpabet: S ER1 V D
+
+
+
+
+-- lib.word: seized
+american: सीस्ड
+arpabet: S IY1 Z D
+
+
+
+
+-- lib.word: season
+american: सीसैन
+arpabet: S IY1 Z AH0 N
+
+
+
+
+-- lib.word: sentence
+american: सेन्टैन्स
+arpabet: S EH1 N T AH0 N S
+
+
+
+
+-- lib.word: series
+american: सिरीस
+arpabet: S IH1 R IY0 Z
+
+
+
+
+-- lib.word: seated
+american: सीटैड
+arpabet: S IY1 T AH0 D
+
+
+
+
+-- lib.word: sending
+american: सेन्डिंग
+arpabet: S EH1 N D IH0 NG
+
+
+
+
+-- lib.word: separate
+american: सेप्रेऽट
+arpabet: S EH1 P ER0 EY2 T
+
+
+
+
+-- lib.word: seldom
+american: सेल्डैम
+arpabet: S EH1 L D AH0 M
+
+
+
+
+-- lib.word: September
+american: सेप्टेम्ब्र
+arpabet: S EH0 P T EH1 M B ER0
+
+
+
+
+-- lib.word: sell
+american: सेल
+arpabet: S EH1 L
+
+
+
+
+-- lib.word: severe
+american: सैविर
+arpabet: S AH0 V IH1 R
+
+
+
+
+-- lib.word: services
+american: स्र्वैसैस
+arpabet: S ER1 V AH0 S AH0 Z
+
+
+
+
+-- lib.word: setting
+american: सेटिंग
+arpabet: S EH1 T IH0 NG
+
+
+
+
+-- lib.word: sees
+american: सीस
+arpabet: S IY1 Z
+
+
+
+
+-- lib.word: senses
+american: सेन्सिस
+arpabet: S EH1 N S IH0 Z
+
+
+
+
+-- lib.word: sentiment
+american: सेन्टैमैन्ट
+arpabet: S EH1 N T AH0 M AH0 N T
+
+
+
+
+-- lib.word: separated
+american: सेप्रेऽटैड
+arpabet: S EH1 P ER0 EY2 T AH0 D
+
+
+
+
+-- lib.word: seriously
+american: सिरीऐस्ली
+arpabet: S IH1 R IY0 AH0 S L IY0
+
+
+
+
+-- lib.word: secured
+american: सिक्यूर्ड
+arpabet: S IH0 K Y UH1 R D
+
+
+
+
+-- lib.word: selected
+american: सैलेक्टैड
+arpabet: S AH0 L EH1 K T AH0 D
+
+
+
+
+-- lib.word: seeking
+american: सीकिंग
+arpabet: S IY1 K IH0 NG
+
+
+
+
+-- lib.word: security
+american: सिक्यूरैटी
+arpabet: S IH0 K Y UH1 R AH0 T IY0
+
+
+
+
+-- lib.word: sensible
+american: सेन्सैबैल
+arpabet: S EH1 N S AH0 B AH0 L
+
+
+
+
+-- lib.word: settle
+american: सेटैल
+arpabet: S EH1 T AH0 L
+
+
+
+
+-- lib.word: seed
+american: सीड
+arpabet: S IY1 D
+
+
+
+
+-- lib.word: section
+american: सेक्शैन
+arpabet: S EH1 K SH AH0 N
+
+
+
+
+-- lib.word: settlement
+american: सेटैल्मैन्ट
+arpabet: S EH1 T AH0 L M AH0 N T
+
+
+
+
+-- lib.word: sentiments
+american: सेन्टैमैन्ट्स
+arpabet: S EH1 N T AH0 M AH0 N T S
+
+
+
+
+-- lib.word: seas
+american: सीस
+arpabet: S IY1 Z
+
+
+
+
+-- lib.word: sensation
+american: सेन्सेऽशैन
+arpabet: S EH0 N S EY1 SH AH0 N
+
+
+
+
+-- lib.word: seats
+american: सीट्स
+arpabet: S IY1 T S
+
+
+
+
+-- lib.word: secretary
+american: सेक्रैटेरी
+arpabet: S EH1 K R AH0 T EH2 R IY0
+
+
+
+
+-- lib.word: searched
+american: स्र्चट
+arpabet: S ER1 CH T
+
+
+
+
+-- lib.word: selfish
+american: सेल्फिश
+arpabet: S EH1 L F IH0 SH
+
+
+
+
+-- lib.word: sets
+american: सेट्स
+arpabet: S EH1 T S
+
+
+
+
+-- lib.word: seize
+american: सीस
+arpabet: S IY1 Z
+
+
+
+
+-- lib.word: secretly
+american: सीक्रिट्ली
+arpabet: S IY1 K R IH0 T L IY0
+
+
+
+
+-- lib.word: sensitive
+american: सेन्सैटिव
+arpabet: S EH1 N S AH0 T IH0 V
+
+
+
+
+-- lib.word: secrets
+american: सीक्रैट्स
+arpabet: S IY1 K R AH0 T S
+
+
+
+
+-- lib.word: seeming
+american: सीमिंग
+arpabet: S IY1 M IH0 NG
+
+
+
+
+-- lib.word: seeds
+american: सीड्स
+arpabet: S IY1 D Z
+
+
+
+
+-- lib.word: seal
+american: सील
+arpabet: S IY1 L
+
+
+
+
+-- lib.word: searching
+american: स्र्चिंग
+arpabet: S ER1 CH IH0 NG
+
+
+
+
+-- lib.word: seconds
+american: सेकैन्ड्स
+arpabet: S EH1 K AH0 N D Z
+
+
+
+
+-- lib.word: separation
+american: सेप्रेऽशैन
+arpabet: S EH2 P ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: session
+american: सेशैन
+arpabet: S EH1 SH AH0 N
+
+
+
+
+-- lib.word: selection
+american: सैलेक्शैन
+arpabet: S AH0 L EH1 K SH AH0 N
+
+
+
+
+-- lib.word: sermon
+american: स्र्मैन
+arpabet: S ER1 M AH0 N
+
+
+
+
+-- lib.word: serving
+american: स्र्विंग
+arpabet: S ER1 V IH0 NG
+
+
+
+
+-- lib.word: seventy
+american: सेवैन्टी
+arpabet: S EH1 V AH0 N T IY0
+
+
+
+
+-- lib.word: seventeen
+american: सेवैन्टीन
+arpabet: S EH1 V AH0 N T IY1 N
+
+
+
+
+-- lib.word: sentences
+american: सेन्टैन्सैस
+arpabet: S EH1 N T AH0 N S AH0 Z
+
+
+
+
+-- lib.word: select
+american: सैलेक्ट
+arpabet: S AH0 L EH1 K T
+
+
+
+
+-- lib.word: sends
+american: सेन्ड्स
+arpabet: S EH1 N D Z
+
+
+
+
+-- lib.word: severity
+american: सिवेरिटी
+arpabet: S IH0 V EH1 R IH0 T IY0
+
+
+
+
+-- lib.word: selling
+american: सेलिंग
+arpabet: S EH1 L IH0 NG
+
+
+
+
+-- lib.word: sealed
+american: सील्ड
+arpabet: S IY1 L D
+
+
+
+
+-- lib.word: seasons
+american: सीसैन्स
+arpabet: S IY1 Z AH0 N Z
+
+
+
+
+-- lib.word: seventh
+american: सेवैन्थ
+arpabet: S EH1 V AH0 N TH
+
+
+
+
+-- lib.word: sexual
+american: सेक्शुऐल
+arpabet: S EH1 K SH UW0 AH0 L
+
+
+
+
+-- lib.word: senate
+american: सेनैट
+arpabet: S EH1 N AH0 T
+
+
+
+
+-- lib.word: serene
+american: स्रीन
+arpabet: S ER0 IY1 N
+
+
+
+
+-- lib.word: serpent
+american: स्र्पैन्ट
+arpabet: S ER1 P AH0 N T
+
+
+
+
+-- lib.word: settlers
+american: सेट्ल्र्स
+arpabet: S EH1 T L ER0 Z
+
+
+
+
+-- lib.word: securing
+american: सिक्यूरिंग
+arpabet: S IH0 K Y UH1 R IH0 NG
+
+
+
+
+-- lib.word: serves
+american: स्र्व्स
+arpabet: S ER1 V Z
+
+
+
+
+-- lib.word: seemingly
+american: सीमिंग्ली
+arpabet: S IY1 M IH0 NG L IY0
+
+
+
+
+-- lib.word: secondary
+american: सेकैन्डेरी
+arpabet: S EH1 K AH0 N D EH2 R IY0
+
+
+
+
+-- lib.word: seizing
+american: सीसिंग
+arpabet: S IY1 Z IH0 NG
+
+
+
+
+-- lib.word: sentimental
+american: सेन्टैमेन्टैल
+arpabet: S EH2 N T AH0 M EH1 N T AH0 L
+
+
+
+
+-- lib.word: settling
+american: सेटैलिंग
+arpabet: S EH1 T AH0 L IH0 NG
+
+
+
+
+-- lib.word: sergeant
+american: सॉर्जैन्ट
+arpabet: S AA1 R JH AH0 N T
+
+
+
+
+-- lib.word: sect
+american: सेक्ट
+arpabet: S EH1 K T
+
+
+
+
+-- lib.word: seamen
+american: सीमैन
+arpabet: S IY1 M AH0 N
+
+
+
+
+-- lib.word: selfishness
+american: सेल्फिशनैस
+arpabet: S EH1 L F IH0 SH N AH0 S
+
+
+
+
+-- lib.word: sexes
+american: सेक्सैस
+arpabet: S EH1 K S AH0 Z
+
+
+
+
+-- lib.word: secrecy
+american: सीक्रैसी
+arpabet: S IY1 K R AH0 S IY0
+
+
+
+
+-- lib.word: senior
+american: सीन्य्र
+arpabet: S IY1 N Y ER0
+
+
+
+
+-- lib.word: seventeenth
+american: सेवैन्टीन्थ
+arpabet: S EH1 V AH0 N T IY1 N TH
+
+
+
+
+-- lib.word: sez
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: sewing
+american: सोइंग
+arpabet: S OW1 IH0 NG
+
+
+
+
+-- lib.word: sensibility
+american: सेन्सिबिलिटी
+arpabet: S EH2 N S IH0 B IH1 L IH0 T IY0
+
+
+
+
+-- lib.word: senseless
+american: सेन्स्लैस
+arpabet: S EH1 N S L AH0 S
+
+
+
+
+-- lib.word: secondly
+american: सेकैन्ड्ली
+arpabet: S EH1 K AH0 N D L IY0
+
+
+
+
+-- lib.word: separately
+american: सेप्रैट्ली
+arpabet: S EH1 P ER0 AH0 T L IY0
+
+
+
+
+-- lib.word: securely
+american: सिक्यूर्ली
+arpabet: S IH0 K Y UH1 R L IY0
+
+
+
+
+-- lib.word: semblance
+american: सेम्ब्लैन्स
+arpabet: S EH1 M B L AH0 N S
+
+
+
+
+-- lib.word: self-control
+american: सेल्फ्कैन्ट्रोल
+arpabet: S EH1 L F K AH0 N T R OW1 L
+
+
+
+
+-- lib.word: seals
+american: सील्स
+arpabet: S IY1 L Z
+
+
+
+
+-- lib.word: secular
+american: सेक्यैल्र
+arpabet: S EH1 K Y AH0 L ER0
+
+
+
+
+-- lib.word: serenity
+american: स्रेनैटी
+arpabet: S ER0 EH1 N AH0 T IY0
+
+
+
+
+-- lib.word: seriousness
+american: सिरीऐस्नैस
+arpabet: S IH1 R IY0 AH0 S N AH0 S
+
+
+
+
+-- lib.word: servitude
+american: स्र्वैटुड
+arpabet: S ER1 V AH0 T UW2 D
+
+
+
+
+-- lib.word: sentinel
+american: सेन्टैनैल
+arpabet: S EH1 N T AH0 N AH0 L
+
+
+
+
+-- lib.word: sentenced
+american: सेन्टैन्स्ट
+arpabet: S EH1 N T AH0 N S T
+
+
+
+
+-- lib.word: seaman
+american: सीमैन
+arpabet: S IY1 M AH0 N
+
+
+
+
+-- lib.word: secluded
+american: सिक्लूडिड
+arpabet: S IH0 K L UW1 D IH0 D
+
+
+
+
+-- lib.word: serviceable
+american: स्र्वैसैबैल
+arpabet: S ER1 V AH0 S AH0 B AH0 L
+
+
+
+
+-- lib.word: separating
+american: सेप्रेऽटिंग
+arpabet: S EH1 P ER0 EY2 T IH0 NG
+
+
+
+
+-- lib.word: sensual
+american: सेन्शैवैल
+arpabet: S EH1 N SH AH0 W AH0 L
+
+
+
+
+-- lib.word: senators
+american: सेनैट्र्स
+arpabet: S EH1 N AH0 T ER0 Z
+
+
+
+
+-- lib.word: Seine
+american: सेऽन
+arpabet: S EY1 N
+
+
+
+
+-- lib.word: seventy-five
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: sequence
+american: सीक्वैन्स
+arpabet: S IY1 K W AH0 N S
+
+
+
+
+-- lib.word: senator
+american: सेनैट्र
+arpabet: S EH1 N AH0 T ER0
+
+
+
+
+-- lib.word: sentry
+american: सेन्ट्री
+arpabet: S EH1 N T R IY0
+
+
+
+
+-- lib.word: self-
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: sequel
+american: सीक्वैल
+arpabet: S IY1 K W AH0 L
+
+
+
+

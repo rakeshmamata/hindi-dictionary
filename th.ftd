@@ -1,0 +1,826 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: the
+american: दै
+arpabet: DH AH0
+indian: द
+meaning: यह,यही,वह,वही
+
+
+-- lib.word: that
+american: दैट
+arpabet: DH AE1 T
+meaning: वह
+
+यह कि,ताकि.वह,जो,उस,उसको इत्यादि के रूप में प्रयोग किया जाता है
+
+
+-- lib.word: this
+american: दिस
+arpabet: DH IH1 S
+meaning: यह
+
+
+-- lib.word: think
+american: थिंग्क
+arpabet: TH IH1 NG K
+meaning: सोचना ,समझना ,विचार करना
+
+
+-- lib.word: that's
+american: दैट्स
+arpabet: DH AE1 T S
+meaning: वह है
+
+
+-- lib.word: there
+american: देर
+arpabet: DH EH1 R
+meaning: वहाँ ,उधर
+
+
+-- lib.word: they
+american: देऽ
+arpabet: DH EY1
+meaning: वे ,ये
+
+
+-- lib.word: then
+american: देन
+arpabet: DH EH1 N
+meaning: तो ,तब ,उस समय
+
+
+-- lib.word: them
+american: देम
+arpabet: DH EH1 M
+meaning: उनको
+
+
+-- lib.word: thing
+american: थिंग
+arpabet: TH IH1 NG
+meaning: चीज़ ,बात ,काम
+
+
+-- lib.word: there's
+american: देर्स
+arpabet: DH EH1 R Z
+meaning: वहाँ है
+
+s
+
+
+-- lib.word: thank
+american: थैंग्क
+arpabet: TH AE1 NG K
+meaning: धन्यवाद ,शुक्रिया, कृतज्ञता
+
+
+-- lib.word: thought
+american: थॉट
+arpabet: TH AO1 T
+meaning: सोचना , विचार, योजना
+
+
+-- lib.word: things
+american: थिंग्स
+arpabet: TH IH1 NG Z
+meaning: चीज़ें ,सामान , हालात
+
+
+-- lib.word: than
+american: दैन
+arpabet: DH AE1 N
+meaning: से , की अपेक्षा, के बजाय
+
+
+-- lib.word: these
+american: दीस
+arpabet: DH IY1 Z
+meaning: ये ,इन्हें
+
+
+-- lib.word: they're
+american: देर
+arpabet: DH EH1 R
+indian: दे आर
+meaning: वे हैं
+
+दे आर को संक्षेप में लिखना
+
+
+-- lib.word: those
+american: दोस
+arpabet: DH OW1 Z
+indian: दोस ।दोज
+meaning: वे  ,उनका
+
+
+-- lib.word: thanks
+american: थैंग्क्स
+arpabet: TH AE1 NG K S
+meaning: धन्यवाद ,शुक्रिया, कृतज्ञता
+
+
+-- lib.word: through
+american: थरू
+arpabet: TH R UW1
+indian: थरू ,थ्रू
+meaning: के माध्यम से ,व्दारा ,से
+
+
+-- lib.word: their
+american: देर
+arpabet: DH EH1 R
+indian: दएयर
+meaning: उनका ,उनकी ,उनके
+
+
+-- lib.word: three
+american: थरी
+arpabet: TH R IY1
+indian: थरी । थ्री
+meaning: तीन
+
+
+-- lib.word: thinking
+american: थिंग्किंग
+arpabet: TH IH1 NG K IH0 NG
+meaning: विचाारधारा , सोच , विचार
+
+
+-- lib.word: though
+american: दो
+arpabet: DH OW1
+meaning: यद्यपि
+
+
+-- lib.word: Theresa
+american: ट्रीसै
+arpabet: T ER0 IY1 S AH0
+meaning: वहॅा है
+
+
+-- lib.word: thinks
+american: थिंग्क्स
+arpabet: TH IH1 NG K S
+meaning: सोचना ,विचार करना ,संकल्प करना ,चिन्ता करना
+
+
+-- lib.word: throw
+american: थरो
+arpabet: TH R OW1
+indian: Same । थ्रौ
+meaning: फेंकना ,गिराना ,पटकना ,प्रक्षेपण,झोंकना
+
+
+-- lib.word: they'll
+american: देऽल
+arpabet: DH EY1 L
+meaning: वे होंगे
+
+
+-- lib.word: thousand
+american: थाव्सैन्ड
+arpabet: TH AW1 Z AH0 N D
+meaning: हजार, १०००
+
+
+-- lib.word: they've
+american: देऽव
+arpabet: DH EY1 V
+indian: देहैव
+meaning: उन्होने,उनके द्वारा करना,उनके पास होना
+
+
+-- lib.word: thou
+american: दाव
+arpabet: DH AW1
+
+
+
+
+-- lib.word: themselves
+american: देम्सेल्व्स
+arpabet: DH EH0 M S EH1 L V Z
+
+
+
+
+-- lib.word: thy
+american: दाय
+arpabet: DH AY1
+
+
+
+
+-- lib.word: thus
+american: दास
+arpabet: DH AH1 S
+
+
+
+
+-- lib.word: thee
+american: दी
+arpabet: DH IY1
+
+
+
+
+-- lib.word: therefore
+american: देर्फार
+arpabet: DH EH1 R F AO2 R
+
+
+
+
+-- lib.word: thoughts
+american: थॉट्स
+arpabet: TH AO1 T S
+
+
+
+
+-- lib.word: third
+american: थर्ड
+arpabet: TH ER1 D
+
+
+
+
+-- lib.word: threw
+american: थरू
+arpabet: TH R UW1
+
+
+
+
+-- lib.word: thrown
+american: थरोन
+arpabet: TH R OW1 N
+
+
+
+
+-- lib.word: thirty
+american: थर्डी
+arpabet: TH ER1 D IY0
+
+
+
+
+-- lib.word: thick
+american: थिक
+arpabet: TH IH1 K
+
+
+
+
+-- lib.word: throughout
+american: थरुआव्ट
+arpabet: TH R UW0 AW1 T
+
+
+
+
+-- lib.word: thin
+american: थिन
+arpabet: TH IH1 N
+
+
+
+
+-- lib.word: thomas
+american: टॉमैस
+arpabet: T AA1 M AH0 S
+
+
+
+
+-- lib.word: theory
+american: थिरी
+arpabet: TH IH1 R IY0
+
+
+
+
+-- lib.word: throne
+american: थरोन
+arpabet: TH R OW1 N
+
+
+
+
+-- lib.word: thoroughly
+american: थरोली
+arpabet: TH ER1 OW0 L IY0
+
+
+
+
+-- lib.word: throat
+american: थरोट
+arpabet: TH R OW1 T
+
+
+
+
+-- lib.word: thine
+american: दाय्न
+arpabet: DH AY1 N
+
+
+
+
+-- lib.word: thousands
+american: थाव्सैन्ड्स
+arpabet: TH AW1 Z AH0 N D Z
+
+
+
+
+-- lib.word: thrust
+american: थरास्ट
+arpabet: TH R AH1 S T
+
+
+
+
+-- lib.word: thence
+american: देन्स
+arpabet: DH EH1 N S
+
+
+
+
+-- lib.word: th'
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: threatened
+american: थरेटैन्ड
+arpabet: TH R EH1 T AH0 N D
+
+
+
+
+-- lib.word: thereof
+american: देराव
+arpabet: DH EH2 R AH1 V
+
+
+
+
+-- lib.word: thither
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: throwing
+american: थरोइंग
+arpabet: TH R OW1 IH0 NG
+
+
+
+
+-- lib.word: thereby
+american: देर्बाय
+arpabet: DH EH1 R B AY1
+
+
+
+
+-- lib.word: theatre
+american: थीऐट्र
+arpabet: TH IY1 AH0 T ER0
+
+
+
+
+-- lib.word: therein
+american: देरिन
+arpabet: DH EH0 R IH1 N
+
+
+
+
+-- lib.word: thunder
+american: थान्ड्र
+arpabet: TH AH1 N D ER0
+
+
+
+
+-- lib.word: thyself
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: theirs
+american: देर्स
+arpabet: DH EH1 R Z
+
+
+
+
+-- lib.word: thanked
+american: थैंग्क्ट
+arpabet: TH AE1 NG K T
+
+
+
+
+-- lib.word: thread
+american: थरेड
+arpabet: TH R EH1 D
+
+
+
+
+-- lib.word: thief
+american: थीफ
+arpabet: TH IY1 F
+
+
+
+
+-- lib.word: thirst
+american: थर्स्ट
+arpabet: TH ER1 S T
+
+
+
+
+-- lib.word: threatening
+american: थरेटैनिंग
+arpabet: TH R EH1 T AH0 N IH0 NG
+
+
+
+
+-- lib.word: threshold
+american: थरेशोल्ड
+arpabet: TH R EH1 SH OW2 L D
+
+
+
+
+-- lib.word: thoughtful
+american: थॉट्फैल
+arpabet: TH AO1 T F AH0 L
+
+
+
+
+-- lib.word: thirteen
+american: थर्टीन
+arpabet: TH ER1 T IY1 N
+
+
+
+
+-- lib.word: theme
+american: थीम
+arpabet: TH IY1 M
+
+
+
+
+-- lib.word: thankful
+american: थैंग्क्फैल
+arpabet: TH AE1 NG K F AH0 L
+
+
+
+
+-- lib.word: thorough
+american: थरो
+arpabet: TH ER1 OW0
+
+
+
+
+-- lib.word: throng
+american: थरॉंग
+arpabet: TH R AO1 NG
+
+
+
+
+-- lib.word: thoughtfully
+american: थॉट्फैली
+arpabet: TH AO1 T F AH0 L IY0
+
+
+
+
+-- lib.word: theories
+american: थिरीस
+arpabet: TH IH1 R IY0 Z
+
+
+
+
+-- lib.word: Thursday
+american: थर्स्डेऽ
+arpabet: TH ER1 Z D EY2
+
+
+
+
+-- lib.word: thrill
+american: थरिल
+arpabet: TH R IH1 L
+
+
+
+
+-- lib.word: thieves
+american: थीव्स
+arpabet: TH IY1 V Z
+
+
+
+
+-- lib.word: threats
+american: थरेट्स
+arpabet: TH R EH1 T S
+
+
+
+
+-- lib.word: they'd
+american: देऽड
+arpabet: DH EY1 D
+
+
+
+
+-- lib.word: thumb
+american: थाम
+arpabet: TH AH1 M
+
+
+
+
+-- lib.word: threat
+american: थरेट
+arpabet: TH R EH1 T
+
+
+
+
+-- lib.word: throws
+american: थरोस
+arpabet: TH R OW1 Z
+
+
+
+
+-- lib.word: theology
+american: थीऑलैजी
+arpabet: TH IY0 AA1 L AH0 JH IY0
+
+
+
+
+-- lib.word: thrice
+american: थराय्स
+arpabet: TH R AY1 S
+
+
+
+
+-- lib.word: Thompson
+american: टॉम्प्सैन
+arpabet: T AA1 M P S AH0 N
+
+
+
+
+-- lib.word: thickly
+american: थिक्ली
+arpabet: TH IH1 K L IY0
+
+
+
+
+-- lib.word: thereupon
+american: देरैपॉन
+arpabet: DH EH2 R AH0 P AA1 N
+
+
+
+
+-- lib.word: thickness
+american: थिक्नैस
+arpabet: TH IH1 K N AH0 S
+
+
+
+
+-- lib.word: Theodore
+american: थीऐडार
+arpabet: TH IY1 AH0 D AO2 R
+
+
+
+
+-- lib.word: theological
+american: थीऐलॉजिकैल
+arpabet: TH IY2 AH0 L AA1 JH IH0 K AH0 L
+
+
+
+
+-- lib.word: Thames
+american: टेम्स
+arpabet: T EH1 M Z
+
+
+
+
+-- lib.word: thrilling
+american: थरिलिंग
+arpabet: TH R IH1 L IH0 NG
+
+
+
+
+-- lib.word: threaten
+american: थरेटैन
+arpabet: TH R EH1 T AH0 N
+
+
+
+
+-- lib.word: thrilled
+american: थरिल्ड
+arpabet: TH R IH1 L D
+
+
+
+
+-- lib.word: thicket
+american: थिकिट
+arpabet: TH IH1 K IH0 T
+
+
+
+
+-- lib.word: thereto
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: thereafter
+american: देरैफ्ट्र
+arpabet: DH EH0 R AE1 F T ER0
+
+
+
+
+-- lib.word: thirsty
+american: थर्स्टी
+arpabet: TH ER1 S T IY0
+
+
+
+
+-- lib.word: threads
+american: थरेड्स
+arpabet: TH R EH1 D Z
+
+
+
+
+-- lib.word: theatrical
+american: थीऐट्रिकैल
+arpabet: TH IY0 AE1 T R IH0 K AH0 L
+
+
+
+
+-- lib.word: thereon
+american: देरॉन
+arpabet: DH EH0 R AO1 N
+
+
+
+
+-- lib.word: theft
+american: थेफ्ट
+arpabet: TH EH1 F T
+
+
+
+
+-- lib.word: therewith
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: theater
+american: थीऐट्र
+arpabet: TH IY1 AH0 T ER0
+
+
+
+
+-- lib.word: thanksgiving
+american: थैंग्क्स्गिविंग
+arpabet: TH AE2 NG K S G IH1 V IH0 NG
+
+
+
+
+-- lib.word: thirteenth
+american: थर्टीन्थ
+arpabet: TH ER1 T IY1 N TH
+
+
+
+
+-- lib.word: thermometer
+american: थर्मॉमैट्र
+arpabet: TH ER0 M AA1 M AH0 T ER0
+
+
+
+
+-- lib.word: thorn
+american: थॉर्न
+arpabet: TH AO1 R N
+
+
+
+
+-- lib.word: thigh
+american: थाय
+arpabet: TH AY1
+
+
+
+
+-- lib.word: thoughtless
+american: थॉट्लैस
+arpabet: TH AO1 T L AH0 S
+
+
+
+
+-- lib.word: thirty-six
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: Thomson
+american: टॉम्सैन
+arpabet: T AA1 M S AH0 N
+
+
+
+
+-- lib.word: Thebes
+american: थीब्स
+arpabet: TH IY1 B Z
+
+
+
+
+-- lib.word: thirty-two
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: therefrom
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: three-quarters
+american: थरीक्वॉर्ट्र्स
+arpabet: TH R IY0 K W AO1 R T ER0 Z
+
+
+
+

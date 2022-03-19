@@ -1,0 +1,395 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: what
+american: वाट
+arpabet: W AH1 T
+indian: व्ह्आट व्हाट
+meaning: क्या
+
+वहाट? का प्रयोग प्रश्न वाचक क्या के रूप में किया जाता है
+
+
+-- lib.word: why
+american: वाय
+arpabet: W AY1
+indian: वाय्इ
+meaning: क्यों
+
+
+-- lib.word: when
+american: वेन
+arpabet: W EH1 N
+indian: व्हेन
+meaning: कब, जब
+
+
+-- lib.word: who
+american: हू
+arpabet: HH UW1
+meaning: कौन
+
+
+-- lib.word: where
+american: वेर
+arpabet: W EH1 R
+indian: ह्वेयर
+meaning: कहॅा , किस जगह ,जहां
+
+
+-- lib.word: what's
+american: वाट्स
+arpabet: W AH1 T S
+meaning: क्या है
+
+
+-- lib.word: whole
+american: होल
+arpabet: HH OW1 L
+meaning: संपूर्ण , पूरा का पूरा ,पूर्ण
+
+
+-- lib.word: which
+american: विच
+arpabet: W IH1 CH
+meaning: कौन ,जो , कौन सा
+
+
+-- lib.word: while
+american: वाय्ल
+arpabet: W AY1 L
+meaning: जबकि , जब तक
+
+
+-- lib.word: whatever
+american: वऽटेव्र
+arpabet: W AH2 T EH1 V ER0
+indian: व्हाटएवर
+meaning: जो भी हो , जो कुछ ,जितना ,जो जो
+
+
+-- lib.word: who's
+american: हूस
+arpabet: HH UW1 Z
+meaning: किसका , कौन है
+
+
+-- lib.word: whoa
+american: वो
+arpabet: W OW1
+meaning: रुको (घोड़े के लिए) , चेतावनी,आश्चर्य
+
+
+-- lib.word: where's
+american: वेर्स
+arpabet: W EH1 R Z
+meaning: कहॅा है
+
+
+-- lib.word: White
+american: वाय्ट
+arpabet: W AY1 T
+indian: Same / व्हाइट
+meaning: सफेद ,गोरा,धवल.शुभ्र,शुद्ध
+
+
+-- lib.word: whether
+american: वेदर
+arpabet: W EH1 DH ER0
+indian: Same । व्हेदर
+meaning: या, दोनों में से कौन, कि क्या
+
+
+-- lib.word: whom
+american: हूम
+arpabet: HH UW1 M
+
+
+
+
+-- lib.word: whose
+american: हूस
+arpabet: HH UW1 Z
+
+
+
+
+-- lib.word: whispered
+american: विस्प्र्ड
+arpabet: W IH1 S P ER0 D
+
+
+
+
+-- lib.word: wholly
+american: होली
+arpabet: HH OW1 L IY0
+
+
+
+
+-- lib.word: whilst
+american: वाय्ल्स्ट
+arpabet: W AY1 L S T
+
+
+
+
+-- lib.word: whenever
+american: वेनेव्र
+arpabet: W EH0 N EH1 V ER0
+
+
+
+
+-- lib.word: whence
+american: वेन्स
+arpabet: W EH1 N S
+
+
+
+
+-- lib.word: whisper
+american: विस्प्र
+arpabet: W IH1 S P ER0
+
+
+
+
+-- lib.word: whatsoever
+american: वऽट्सोएव्र
+arpabet: W AH2 T S OW0 EH1 V ER0
+
+
+
+
+-- lib.word: wherever
+american: वेरेव्र
+arpabet: W EH0 R EH1 V ER0
+
+
+
+
+-- lib.word: whereas
+american: वेरैस
+arpabet: W EH0 R AE1 Z
+
+
+
+
+-- lib.word: wherein
+american: वेरिन
+arpabet: W EH0 R IH1 N
+
+
+
+
+-- lib.word: wheel
+american: वील
+arpabet: W IY1 L
+
+
+
+
+-- lib.word: whither
+american: विदर
+arpabet: W IH1 DH ER0
+
+
+
+
+-- lib.word: wheels
+american: वील्स
+arpabet: W IY1 L Z
+
+
+
+
+-- lib.word: wheat
+american: वीट
+arpabet: W IY1 T
+
+
+
+
+-- lib.word: whip
+american: विप
+arpabet: W IH1 P
+
+
+
+
+-- lib.word: whereupon
+american: वेरैपॉन
+arpabet: W EH1 R AH0 P AA1 N
+
+
+
+
+-- lib.word: whistle
+american: विसैल
+arpabet: W IH1 S AH0 L
+
+
+
+
+-- lib.word: whereby
+american: वेर्बाय
+arpabet: W EH0 R B AY1
+
+
+
+
+-- lib.word: whereof
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: wherefore
+american: वेर्फॉर
+arpabet: W EH0 R F AO1 R
+
+
+
+
+-- lib.word: wholesome
+american: होल्सैम
+arpabet: HH OW1 L S AH0 M
+
+
+
+
+-- lib.word: whoever
+american: हुएव्र
+arpabet: HH UW0 EH1 V ER0
+
+
+
+
+-- lib.word: whites
+american: वाय्ट्स
+arpabet: W AY1 T S
+
+
+
+
+-- lib.word: whipped
+american: विप्ट
+arpabet: W IH1 P T
+
+
+
+
+-- lib.word: whistling
+american: विस्लिंग
+arpabet: W IH1 S L IH0 NG
+
+
+
+
+-- lib.word: wheeled
+american: वील्ड
+arpabet: W IY1 L D
+
+
+
+
+-- lib.word: whirling
+american: वर्लिंग
+arpabet: W ER1 L IH0 NG
+
+
+
+
+-- lib.word: whale
+american: वेऽल
+arpabet: W EY1 L
+
+
+
+
+-- lib.word: whiteness
+american: वाय्ट्नैस
+arpabet: W AY1 T N AH0 S
+
+
+
+
+-- lib.word: Whig
+american: विग
+arpabet: W IH1 G
+
+
+
+
+-- lib.word: wharf
+american: वॉर्फ
+arpabet: W AO1 R F
+
+
+
+
+-- lib.word: whisky
+american: विस्की
+arpabet: W IH1 S K IY0
+
+
+
+
+-- lib.word: whirl
+american: वर्ल
+arpabet: W ER1 L
+
+
+
+
+-- lib.word: whiskey
+american: विस्की
+arpabet: W IH1 S K IY0
+
+
+
+
+-- lib.word: wholesale
+american: होल्सेऽल
+arpabet: HH OW1 L S EY2 L
+
+
+
+
+-- lib.word: whim
+american: विम
+arpabet: W IH1 M
+
+
+
+
+-- lib.word: whimsical
+american: विम्सिकैल
+arpabet: W IH1 M Z IH0 K AH0 L
+
+
+
+
+-- lib.word: whit
+american: विट
+arpabet: W IH1 T
+
+
+
+
+-- lib.word: whereabouts
+american: वेरैबाव्ट्स
+arpabet: W EH1 R AH0 B AW2 T S
+
+
+
+
+-- lib.word: whirlwind
+american: वर्ल्विन्ड
+arpabet: W ER1 L W IH2 N D
+
+
+
+

@@ -1,0 +1,989 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: part
+american: पॉर्ट
+arpabet: P AA1 R T
+meaning: अंश , भाग , हिस्सा
+
+
+-- lib.word: party
+american: पॉर्टी
+arpabet: P AA1 R T IY0
+meaning: दल , पार्टी
+
+
+-- lib.word: pay
+american: पेऽ
+arpabet: P EY1
+meaning: वेतन,अदा करनाभुगतान करना ,बदलालेना ,ऋण चुकाना
+
+
+-- lib.word: past
+american: पैस्ट
+arpabet: P AE1 S T
+indian: Same /पास्ट
+meaning: भूतकाल ,अतीत ,भूत
+
+
+-- lib.word: parents
+american: पेरैन्ट्स
+arpabet: P EH1 R AH0 N T S
+meaning: माता-पिता
+
+
+-- lib.word: Paul
+american: पॉल
+arpabet: P AO1 L
+meaning: पाल
+
+
+-- lib.word: pain
+american: पेऽन
+arpabet: P EY1 N
+meaning: दर्द ,पीड़ा ,
+
+
+-- lib.word: paper
+american: पेऽप्र
+arpabet: P EY1 P ER0
+indian: Same / पेपर
+meaning: काग़ज़,दस्त्वेज़,लेख्य
+
+
+-- lib.word: pass
+american: पैस
+arpabet: P AE1 S
+meaning: उत्तीर्ण, पास होना, मार्ग, सफलता
+
+
+-- lib.word: passed
+american: पैस्ट
+arpabet: P AE1 S T
+
+
+
+
+-- lib.word: paid
+american: पेऽड
+arpabet: P EY1 D
+
+
+
+
+-- lib.word: particular
+american: प्र्टिक्यैल्र
+arpabet: P ER0 T IH1 K Y AH0 L ER0
+
+
+
+
+-- lib.word: Paris
+american: पेरिस
+arpabet: P EH1 R IH0 S
+
+
+
+
+-- lib.word: parts
+american: पॉर्ट्स
+arpabet: P AA1 R T S
+
+
+
+
+-- lib.word: passage
+american: पैसैज
+arpabet: P AE1 S AH0 JH
+
+
+
+
+-- lib.word: passing
+american: पैसिंग
+arpabet: P AE1 S IH0 NG
+
+
+
+
+-- lib.word: pale
+american: पेऽल
+arpabet: P EY1 L
+
+
+
+
+-- lib.word: passion
+american: पैशैन
+arpabet: P AE1 SH AH0 N
+
+
+
+
+-- lib.word: path
+american: पैथ
+arpabet: P AE1 TH
+
+
+
+
+-- lib.word: paragraph
+american: पैरैग्रैफ
+arpabet: P AE1 R AH0 G R AE2 F
+
+
+
+
+-- lib.word: page
+american: पेऽज
+arpabet: P EY1 JH
+
+
+
+
+-- lib.word: particularly
+american: पॉर्टिक्यैल्र्ली
+arpabet: P AA2 R T IH1 K Y AH0 L ER0 L IY0
+
+
+
+
+-- lib.word: papers
+american: पेऽप्र्स
+arpabet: P EY1 P ER0 Z
+
+
+
+
+-- lib.word: palace
+american: पैलैस
+arpabet: P AE1 L AH0 S
+
+
+
+
+-- lib.word: pair
+american: पेर
+arpabet: P EH1 R
+
+
+
+
+-- lib.word: parties
+american: पॉर्टीस
+arpabet: P AA1 R T IY0 Z
+
+
+
+
+-- lib.word: partly
+american: पॉर्ट्ली
+arpabet: P AA1 R T L IY0
+
+
+
+
+-- lib.word: paused
+american: पॉस्ड
+arpabet: P AO1 Z D
+
+
+
+
+-- lib.word: paying
+american: पेऽइंग
+arpabet: P EY1 IH0 NG
+
+
+
+
+-- lib.word: pardon
+american: पॉर्डैन
+arpabet: P AA1 R D AH0 N
+
+
+
+
+-- lib.word: patient
+american: पेऽशैन्ट
+arpabet: P EY1 SH AH0 N T
+
+
+
+
+-- lib.word: pages
+american: पेऽजैस
+arpabet: P EY1 JH AH0 Z
+
+
+
+
+-- lib.word: pause
+american: पॉस
+arpabet: P AO1 Z
+
+
+
+
+-- lib.word: painted
+american: पेऽन्टैड
+arpabet: P EY1 N T AH0 D
+
+
+
+
+-- lib.word: patience
+american: पेऽशैन्स
+arpabet: P EY1 SH AH0 N S
+
+
+
+
+-- lib.word: painful
+american: पेऽन्फैल
+arpabet: P EY1 N F AH0 L
+
+
+
+
+-- lib.word: parted
+american: पॉर्टैड
+arpabet: P AA1 R T AH0 D
+
+
+
+
+-- lib.word: passions
+american: पैशैन्स
+arpabet: P AE1 SH AH0 N Z
+
+
+
+
+-- lib.word: pains
+american: पेऽन्स
+arpabet: P EY1 N Z
+
+
+
+
+-- lib.word: passes
+american: पैसैस
+arpabet: P AE1 S AH0 Z
+
+
+
+
+-- lib.word: payment
+american: पेऽमैन्ट
+arpabet: P EY1 M AH0 N T
+
+
+
+
+-- lib.word: pace
+american: पेऽस
+arpabet: P EY1 S
+
+
+
+
+-- lib.word: passages
+american: पैसैजैस
+arpabet: P AE1 S AH0 JH AH0 Z
+
+
+
+
+-- lib.word: payments
+american: पेऽमैन्ट्स
+arpabet: P EY1 M AH0 N T S
+
+
+
+
+-- lib.word: paragraphs
+american: पैरैग्रैफ्स
+arpabet: P AE1 R AH0 G R AE2 F S
+
+
+
+
+-- lib.word: paradise
+american: पेरैडाय्स
+arpabet: P EH1 R AH0 D AY2 S
+
+
+
+
+-- lib.word: papa
+american: पॉपै
+arpabet: P AA1 P AH0
+
+
+
+
+-- lib.word: painting
+american: पेऽन्टिंग
+arpabet: P EY1 N T IH0 NG
+
+
+
+
+-- lib.word: paint
+american: पेऽन्ट
+arpabet: P EY1 N T
+
+
+
+
+-- lib.word: parish
+american: पैरिश
+arpabet: P AE1 R IH0 SH
+
+
+
+
+-- lib.word: parting
+american: पॉर्टिंग
+arpabet: P AA1 R T IH0 NG
+
+
+
+
+-- lib.word: pacific
+american: पैसिफिक
+arpabet: P AH0 S IH1 F IH0 K
+
+
+
+
+-- lib.word: pack
+american: पैक
+arpabet: P AE1 K
+
+
+
+
+-- lib.word: passengers
+american: पैसैन्ज्र्स
+arpabet: P AE1 S AH0 N JH ER0 Z
+
+
+
+
+-- lib.word: park
+american: पॉर्क
+arpabet: P AA1 R K
+
+
+
+
+-- lib.word: parallel
+american: पेरैलेल
+arpabet: P EH1 R AH0 L EH2 L
+
+
+
+
+-- lib.word: painter
+american: पेऽन्ट्र
+arpabet: P EY1 N T ER0
+
+
+
+
+-- lib.word: particulars
+american: प्र्टिक्यैल्र्स
+arpabet: P ER0 T IH1 K Y AH0 L ER0 Z
+
+
+
+
+-- lib.word: palm
+american: पॉम
+arpabet: P AA1 M
+
+
+
+
+-- lib.word: partner
+american: पॉर्ट्न्र
+arpabet: P AA1 R T N ER0
+
+
+
+
+-- lib.word: pan
+american: पैन
+arpabet: P AE1 N
+
+
+
+
+-- lib.word: paths
+american: पैदस
+arpabet: P AE1 DH Z
+
+
+
+
+-- lib.word: parent
+american: पेरैन्ट
+arpabet: P EH1 R AH0 N T
+
+
+
+
+-- lib.word: packed
+american: पैक्ट
+arpabet: P AE1 K T
+
+
+
+
+-- lib.word: pattern
+american: पैट्र्न
+arpabet: P AE1 T ER0 N
+
+
+
+
+-- lib.word: pathetic
+american: पैथेटिक
+arpabet: P AH0 TH EH1 T IH0 K
+
+
+
+
+-- lib.word: parlor
+american: पॉर्ल्र
+arpabet: P AA1 R L ER0
+
+
+
+
+-- lib.word: partial
+american: पॉर्शैल
+arpabet: P AA1 R SH AH0 L
+
+
+
+
+-- lib.word: patiently
+american: पेऽशैन्ट्ली
+arpabet: P EY1 SH AH0 N T L IY0
+
+
+
+
+-- lib.word: pavement
+american: पेऽव्मैन्ट
+arpabet: P EY1 V M AH0 N T
+
+
+
+
+-- lib.word: paces
+american: पेऽसिस
+arpabet: P EY1 S IH0 Z
+
+
+
+
+-- lib.word: paperwork
+american: पेऽप्र्वर्क
+arpabet: P EY1 P ER0 W ER2 K
+
+
+
+
+-- lib.word: partially
+american: पॉर्शैली
+arpabet: P AA1 R SH AH0 L IY0
+
+
+
+
+-- lib.word: patron
+american: पेऽट्रैन
+arpabet: P EY1 T R AH0 N
+
+
+
+
+-- lib.word: patriotism
+american: पेऽट्रीऐटिसैम
+arpabet: P EY1 T R IY0 AH0 T IH2 Z AH0 M
+
+
+
+
+-- lib.word: painfully
+american: पेऽन्फैली
+arpabet: P EY1 N F AH0 L IY0
+
+
+
+
+-- lib.word: parlour
+american: पॉर्ल्र
+arpabet: P AA1 R L ER0
+
+
+
+
+-- lib.word: panic
+american: पैनिक
+arpabet: P AE1 N IH0 K
+
+
+
+
+-- lib.word: passionately
+american: पैशैनैट्ली
+arpabet: P AE1 SH AH0 N AH0 T L IY0
+
+
+
+
+-- lib.word: pays
+american: पेऽस
+arpabet: P EY1 Z
+
+
+
+
+-- lib.word: patriotic
+american: पेऽट्रीऑटिक
+arpabet: P EY2 T R IY0 AA1 T IH0 K
+
+
+
+
+-- lib.word: patch
+american: पैच
+arpabet: P AE1 CH
+
+
+
+
+-- lib.word: payable
+american: पेऽऐबैल
+arpabet: P EY1 AH0 B AH0 L
+
+
+
+
+-- lib.word: palaces
+american: पैलैसैस
+arpabet: P AE1 L AH0 S AH0 Z
+
+
+
+
+-- lib.word: patent
+american: पैटैन्ट
+arpabet: P AE1 T AH0 N T
+
+
+
+
+-- lib.word: panting
+american: पैन्टिंग
+arpabet: P AE1 N T IH0 NG
+
+
+
+
+-- lib.word: Parker
+american: पॉर्क्र
+arpabet: P AA1 R K ER0
+
+
+
+
+-- lib.word: parson
+american: पॉर्सैन
+arpabet: P AA1 R S AH0 N
+
+
+
+
+-- lib.word: passive
+american: पैसिव
+arpabet: P AE1 S IH0 V
+
+
+
+
+-- lib.word: pamphlet
+american: पैम्फ्लैट
+arpabet: P AE1 M F L AH0 T
+
+
+
+
+-- lib.word: parliament
+american: पॉर्लैमैन्ट
+arpabet: P AA1 R L AH0 M AH0 N T
+
+
+
+
+-- lib.word: parcel
+american: पॉर्सैल
+arpabet: P AA1 R S AH0 L
+
+
+
+
+-- lib.word: Patrick
+american: पैट्रिक
+arpabet: P AE1 T R IH0 K
+
+
+
+
+-- lib.word: patches
+american: पैचैस
+arpabet: P AE1 CH AH0 Z
+
+
+
+
+-- lib.word: packet
+american: पैकैट
+arpabet: P AE1 K AH0 T
+
+
+
+
+-- lib.word: pasture
+american: पैस्चर
+arpabet: P AE1 S CH ER0
+
+
+
+
+-- lib.word: pat
+american: पैट
+arpabet: P AE1 T
+
+
+
+
+-- lib.word: passenger
+american: पैसैन्ज्र
+arpabet: P AE1 S AH0 N JH ER0
+
+
+
+
+-- lib.word: parade
+american: प्रेऽड
+arpabet: P ER0 EY1 D
+
+
+
+
+-- lib.word: pa
+american: पॉ
+arpabet: P AA1
+
+
+
+
+-- lib.word: pang
+american: पैंग
+arpabet: P AE1 NG
+
+
+
+
+-- lib.word: pathos
+american: पेऽथॉस
+arpabet: P EY1 TH AA0 S
+
+
+
+
+-- lib.word: pairs
+american: पेर्स
+arpabet: P EH1 R Z
+
+
+
+
+-- lib.word: patriot
+american: पेऽट्रीऐट
+arpabet: P EY1 T R IY0 AH0 T
+
+
+
+
+-- lib.word: patronage
+american: पैट्रैनिज
+arpabet: P AE1 T R AH0 N IH0 JH
+
+
+
+
+-- lib.word: particles
+american: पॉर्टैकैल्स
+arpabet: P AA1 R T AH0 K AH0 L Z
+
+
+
+
+-- lib.word: paternal
+american: पैट्र्नैल
+arpabet: P AH0 T ER1 N AH0 L
+
+
+
+
+-- lib.word: paced
+american: पेऽस्ट
+arpabet: P EY1 S T
+
+
+
+
+-- lib.word: pastoral
+american: पैस्ट्रैल
+arpabet: P AE1 S T ER0 AH0 L
+
+
+
+
+-- lib.word: patty
+american: पैटी
+arpabet: P AE1 T IY0
+
+
+
+
+-- lib.word: Parisian
+american: प्रिसैन
+arpabet: P ER0 IH1 ZH AH0 N
+
+
+
+
+-- lib.word: pastor
+american: पैस्ट्र
+arpabet: P AE1 S T ER0
+
+
+
+
+-- lib.word: packing
+american: पैकिंग
+arpabet: P AE1 K IH0 NG
+
+
+
+
+-- lib.word: partake
+american: पॉर्टेऽक
+arpabet: P AA0 R T EY1 K
+
+
+
+
+-- lib.word: pagan
+american: पेऽगैन
+arpabet: P EY1 G AH0 N
+
+
+
+
+-- lib.word: Palestine
+american: पैलैस्टाय्न
+arpabet: P AE1 L AH0 S T AY2 N
+
+
+
+
+-- lib.word: paved
+american: पेऽव्ड
+arpabet: P EY1 V D
+
+
+
+
+-- lib.word: paintings
+american: पेऽन्टिंग्स
+arpabet: P EY1 N T IH0 NG Z
+
+
+
+
+-- lib.word: pavilion
+american: पैविल्यैन
+arpabet: P AH0 V IH1 L Y AH0 N
+
+
+
+
+-- lib.word: paste
+american: पेऽस्ट
+arpabet: P EY1 S T
+
+
+
+
+-- lib.word: package
+american: पैकैज
+arpabet: P AE1 K AH0 JH
+
+
+
+
+-- lib.word: pathway
+american: पैथवेऽ
+arpabet: P AE1 TH W EY2
+
+
+
+
+-- lib.word: partition
+american: पॉर्टिशैन
+arpabet: P AA0 R T IH1 SH AH0 N
+
+
+
+
+-- lib.word: pallid
+american: पैलैड
+arpabet: P AE1 L AH0 D
+
+
+
+
+-- lib.word: Palmer
+american: पॉम्र
+arpabet: P AA1 M ER0
+
+
+
+
+-- lib.word: parliamentary
+american: पॉर्लैमेन्ट्री
+arpabet: P AA2 R L AH0 M EH1 N T ER0 IY0
+
+
+
+
+-- lib.word: participation
+american: पॉर्टिसैपेऽशैन
+arpabet: P AA0 R T IH2 S AH0 P EY1 SH AH0 N
+
+
+
+
+-- lib.word: parchment
+american: पॉर्चमैन्ट
+arpabet: P AA1 R CH M AH0 N T
+
+
+
+
+-- lib.word: paltry
+american: पॉल्ट्री
+arpabet: P AO1 L T R IY0
+
+
+
+
+-- lib.word: particle
+american: पॉर्टैकैल
+arpabet: P AA1 R T AH0 K AH0 L
+
+
+
+
+-- lib.word: paddle
+american: पैडैल
+arpabet: P AE1 D AH0 L
+
+
+
+
+-- lib.word: padre
+american: पैड्रेऽ
+arpabet: P AE1 D R EY2
+
+
+
+
+-- lib.word: pallor
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: partnership
+american: पॉर्ट्न्र्शिप
+arpabet: P AA1 R T N ER0 SH IH2 P
+
+
+
+
+-- lib.word: parched
+american: पॉर्चट
+arpabet: P AA1 R CH T
+
+
+
+
+-- lib.word: pail
+american: पेऽल
+arpabet: P EY1 L
+
+
+
+
+-- lib.word: Paula
+american: पॉलै
+arpabet: P AO1 L AH0
+
+
+
+
+-- lib.word: Panama
+american: पैनैमॉ
+arpabet: P AE1 N AH0 M AA2
+
+
+
+
+-- lib.word: parapet
+american: पेरैपेट
+arpabet: P EH1 R AH0 P EH2 T
+
+
+
+
+-- lib.word: Parma
+american: पॉर्मै
+arpabet: P AA1 R M AH0
+
+
+
+
+-- lib.word: palpable
+american: पैल्पैबैल
+arpabet: P AE1 L P AH0 B AH0 L
+
+
+
+
+-- lib.word: passport
+american: पैस्पार्ट
+arpabet: P AE1 S P AO2 R T
+
+
+
+

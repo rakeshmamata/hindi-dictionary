@@ -1,0 +1,411 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: to
+american: टू
+arpabet: T UW1
+meaning: प्रति,से,तक,के लिए आदि
+
+टू का प्रयोग संज्ञा,किया विशेषण,पूर्व सग के रूप में किया जाता है
+
+
+-- lib.word: too
+american: टू
+arpabet: T UW1
+meaning: बहुत,अतअत्यधिक
+
+
+-- lib.word: told
+american: टोल्ड
+arpabet: T OW1 L D
+meaning: कहा
+
+
+-- lib.word: together
+american: टैगेदर
+arpabet: T AH0 G EH1 DH ER0
+meaning: एक साथ ,साथ में
+
+
+-- lib.word: tonight
+american: टैनाय्ट
+arpabet: T AH0 N AY1 T
+indian: टूनाइट
+meaning: आज रात
+
+
+-- lib.word: today
+american: टैडेऽ
+arpabet: T AH0 D EY1
+indian: टुडे
+meaning: आज  , आजकल
+
+
+-- lib.word: took
+american: टूक
+arpabet: T UH1 K
+meaning: ले लिया
+
+
+-- lib.word: tomorrow
+american: टैमॉरो
+arpabet: T AH0 M AA1 R OW2
+meaning: आने वाला कल
+
+
+-- lib.word: town
+american: टाव्न
+arpabet: T AW1 N
+meaning: शहर , नगर , सिटी
+
+
+-- lib.word: totally
+american: टोटैली
+arpabet: T OW1 T AH0 L IY0
+meaning: पूरी तरह से ,कुल मिलाकर ,पूर्ण रूप से
+
+
+-- lib.word: touch
+american: टाच
+arpabet: T AH1 CH
+meaning: स्पर्श ,छूना ,संपर्क
+
+
+-- lib.word: top
+american: टॉप
+arpabet: T AA1 P
+meaning: ऊपर,चोटी,शिखर,ऊपर का हिस्सा,शीर्ष,सर्वोच्च
+
+
+-- lib.word: Todd
+american: टॉड
+arpabet: T AA1 D
+meaning: टोड
+
+
+-- lib.word: Tony
+american: टोनी
+arpabet: T OW1 N IY0
+meaning: टोनी
+
+
+-- lib.word: tough
+american: टाफ
+arpabet: T AH1 F
+meaning: कठोर,कड़ा,रूखा
+
+
+-- lib.word: towards
+american: टैवॉर्ड्स
+arpabet: T AH0 W AO1 R D Z
+
+
+
+
+-- lib.word: toward
+american: टैवॉर्ड
+arpabet: T AH0 W AO1 R D
+
+
+
+
+-- lib.word: tone
+american: टोन
+arpabet: T OW1 N
+
+
+
+
+-- lib.word: tom
+american: टॉम
+arpabet: T AA1 M
+
+
+
+
+-- lib.word: touched
+american: टाचट
+arpabet: T AH1 CH T
+
+
+
+
+-- lib.word: tongue
+american: टांग
+arpabet: T AH1 NG
+
+
+
+
+-- lib.word: total
+american: टोटैल
+arpabet: T OW1 T AH0 L
+
+
+
+
+-- lib.word: towns
+american: टाव्न्स
+arpabet: T AW1 N Z
+
+
+
+
+-- lib.word: touching
+american: टाचिंग
+arpabet: T AH1 CH IH0 NG
+
+
+
+
+-- lib.word: tower
+american: टाव्र
+arpabet: T AW1 ER0
+
+
+
+
+-- lib.word: tones
+american: टोन्स
+arpabet: T OW1 N Z
+
+
+
+
+-- lib.word: torn
+american: टॉर्न
+arpabet: T AO1 R N
+
+
+
+
+-- lib.word: tobacco
+american: टैबैको
+arpabet: T AH0 B AE1 K OW2
+
+
+
+
+-- lib.word: tomb
+american: टूम
+arpabet: T UW1 M
+
+
+
+
+-- lib.word: tore
+american: टॉर
+arpabet: T AO1 R
+
+
+
+
+-- lib.word: torture
+american: टॉर्चर
+arpabet: T AO1 R CH ER0
+
+
+
+
+-- lib.word: tossed
+american: टॉस्ट
+arpabet: T AO1 S T
+
+
+
+
+-- lib.word: tongues
+american: टांग्स
+arpabet: T AH1 NG Z
+
+
+
+
+-- lib.word: towers
+american: टाव्र्स
+arpabet: T AW1 ER0 Z
+
+
+
+
+-- lib.word: tools
+american: टूल्स
+arpabet: T UW1 L Z
+
+
+
+
+-- lib.word: Tommy
+american: टॉमी
+arpabet: T AA1 M IY0
+
+
+
+
+-- lib.word: token
+american: टोकैन
+arpabet: T OW1 K AH0 N
+
+
+
+
+-- lib.word: tops
+american: टॉप्स
+arpabet: T AA1 P S
+
+
+
+
+-- lib.word: touches
+american: टाचैस
+arpabet: T AH1 CH AH0 Z
+
+
+
+
+-- lib.word: tour
+american: टूर
+arpabet: T UH1 R
+
+
+
+
+-- lib.word: torment
+american: टॉर्मेन्ट
+arpabet: T AO1 R M EH2 N T
+
+
+
+
+-- lib.word: tons
+american: टान्स
+arpabet: T AH1 N Z
+
+
+
+
+-- lib.word: torrent
+american: टॉरैन्ट
+arpabet: T AO1 R AH0 N T
+
+
+
+
+-- lib.word: topic
+american: टॉपिक
+arpabet: T AA1 P IH0 K
+
+
+
+
+-- lib.word: tolerably
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: tortured
+american: टॉर्चर्ड
+arpabet: T AO1 R CH ER0 D
+
+
+
+
+-- lib.word: torch
+american: टॉर्च
+arpabet: T AO1 R CH
+
+
+
+
+-- lib.word: toast
+american: टोस्ट
+arpabet: T OW1 S T
+
+
+
+
+-- lib.word: topics
+american: टॉपिक्स
+arpabet: T AA1 P IH0 K S
+
+
+
+
+-- lib.word: tooth
+american: टूथ
+arpabet: T UW1 TH
+
+
+
+
+-- lib.word: tolerable
+american: टॉल्रैबैल
+arpabet: T AA1 L ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: tool
+american: टूल
+arpabet: T UW1 L
+
+
+
+
+-- lib.word: toy
+american: टॉय
+arpabet: T OY1
+
+
+
+
+-- lib.word: ton
+american: टान
+arpabet: T AH1 N
+
+
+
+
+-- lib.word: toilet
+american: टॉयलैट
+arpabet: T OY1 L AH0 T
+
+
+
+
+-- lib.word: toe
+american: टो
+arpabet: T OW1
+
+
+
+
+-- lib.word: toss
+american: टॉस
+arpabet: T AO1 S
+
+
+
+
+-- lib.word: tout
+american: टाव्ट
+arpabet: T AW1 T
+
+
+
+
+-- lib.word: township
+american: टाव्न्शिप
+arpabet: T AW1 N SH IH0 P
+
+
+
+
+-- lib.word: toleration
+american: टॉल्रेऽशैन
+arpabet: T AA2 L ER0 EY1 SH AH0 N
+
+
+
+

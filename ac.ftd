@@ -1,0 +1,559 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: actually
+american: ऐक्चुऐली
+arpabet: AE1 K CH UW2 AH0 L IY0
+meaning: वास्तव में ,ठीक-ठीक , वस्तुतः
+
+
+-- lib.word: act
+american: ऐक्ट
+arpabet: AE1 K T
+meaning: कार्य,अधिनियम,कृत्य,नियम
+
+
+-- lib.word: accident
+american: ऐक्सैडैन्ट
+arpabet: AE1 K S AH0 D AH0 N T
+meaning: दुर्घटना,संयोग
+
+
+-- lib.word: account
+american: ऐकाव्न्ट
+arpabet: AH0 K AW1 N T
+
+
+
+
+-- lib.word: across
+american: ऐक्रॉस
+arpabet: AH0 K R AO1 S
+
+
+
+
+-- lib.word: according
+american: ऐकॉर्डिंग
+arpabet: AH0 K AO1 R D IH0 NG
+
+
+
+
+-- lib.word: action
+american: ऐक्शैन
+arpabet: AE1 K SH AH0 N
+
+
+
+
+-- lib.word: access
+american: ऐक्सेस
+arpabet: AE1 K S EH2 S
+
+
+
+
+-- lib.word: accepted
+american: ऐक्सेप्टिड
+arpabet: AE0 K S EH1 P T IH0 D
+
+
+
+
+-- lib.word: accept
+american: ऐक्सेप्ट
+arpabet: AE0 K S EH1 P T
+
+
+
+
+-- lib.word: active
+american: ऐक्टिव
+arpabet: AE1 K T IH0 V
+
+
+
+
+-- lib.word: accompanied
+american: ऐकाम्पैनीड
+arpabet: AH0 K AH1 M P AH0 N IY0 D
+
+
+
+
+-- lib.word: acts
+american: ऐक्ट्स
+arpabet: AE1 K T S
+
+
+
+
+-- lib.word: acquaintance
+american: ऐक्वेऽन्टैन्स
+arpabet: AH0 K W EY1 N T AH0 N S
+
+
+
+
+-- lib.word: accustomed
+american: ऐकास्टैम्ड
+arpabet: AH0 K AH1 S T AH0 M D
+
+
+
+
+-- lib.word: actual
+american: ऐक्चैवैल
+arpabet: AE1 K CH AH0 W AH0 L
+
+
+
+
+-- lib.word: acquainted
+american: ऐक्वेऽन्टिड
+arpabet: AH0 K W EY1 N T IH0 D
+
+
+
+
+-- lib.word: accomplished
+american: ऐकॉम्प्लिशट
+arpabet: AH0 K AA1 M P L IH0 SH T
+
+
+
+
+-- lib.word: acted
+american: ऐक्टैड
+arpabet: AE1 K T AH0 D
+
+
+
+
+-- lib.word: accordingly
+american: ऐकॉर्डिंग्ली
+arpabet: AH0 K AO1 R D IH0 NG L IY0
+
+
+
+
+-- lib.word: acquired
+american: ऐक्वाय्र्ड
+arpabet: AH0 K W AY1 ER0 D
+
+
+
+
+-- lib.word: actions
+american: ऐक्शैन्स
+arpabet: AE1 K SH AH0 N Z
+
+
+
+
+-- lib.word: accounts
+american: ऐकाव्न्ट्स
+arpabet: AH0 K AW1 N T S
+
+
+
+
+-- lib.word: activity
+american: ऐक्टिवैटी
+arpabet: AE0 K T IH1 V AH0 T IY0
+
+
+
+
+-- lib.word: accordance
+american: ऐकॉर्डैन्स
+arpabet: AH0 K AO1 R D AH0 N S
+
+
+
+
+-- lib.word: acting
+american: ऐक्टिंग
+arpabet: AE1 K T IH0 NG
+
+
+
+
+-- lib.word: accompany
+american: ऐकाम्पैनी
+arpabet: AH0 K AH1 M P AH0 N IY0
+
+
+
+
+-- lib.word: accused
+american: ऐक्यूस्ड
+arpabet: AH0 K Y UW1 Z D
+
+
+
+
+-- lib.word: acid
+american: ऐसैड
+arpabet: AE1 S AH0 D
+
+
+
+
+-- lib.word: accepting
+american: ऐक्सेप्टिंग
+arpabet: AE0 K S EH1 P T IH0 NG
+
+
+
+
+-- lib.word: acknowledge
+american: ऐक्नॉलिज
+arpabet: AE0 K N AA1 L IH0 JH
+
+
+
+
+-- lib.word: acres
+american: एऽक्र्स
+arpabet: EY1 K ER0 Z
+
+
+
+
+-- lib.word: accomplish
+american: ऐकॉम्प्लिश
+arpabet: AH0 K AA1 M P L IH0 SH
+
+
+
+
+-- lib.word: accord
+american: ऐकॉर्ड
+arpabet: AH0 K AO1 R D
+
+
+
+
+-- lib.word: accurate
+american: ऐक्य्रैट
+arpabet: AE1 K Y ER0 AH0 T
+
+
+
+
+-- lib.word: acquire
+american: ऐक्वाय्र
+arpabet: AH0 K W AY1 ER0
+
+
+
+
+-- lib.word: accent
+american: ऐक्सेन्ट
+arpabet: AH0 K S EH1 N T
+
+
+
+
+-- lib.word: accessible
+american: ऐक्सेसैबैल
+arpabet: AE0 K S EH1 S AH0 B AH0 L
+
+
+
+
+-- lib.word: acute
+american: ऐक्यूट
+arpabet: AH0 K Y UW1 T
+
+
+
+
+-- lib.word: acceptance
+american: ऐक्सेप्टैन्स
+arpabet: AE0 K S EH1 P T AH0 N S
+
+
+
+
+-- lib.word: accepts
+american: ऐक्सेप्ट्स
+arpabet: AE0 K S EH1 P T S
+
+
+
+
+-- lib.word: accuracy
+american: ऐक्य्रैसी
+arpabet: AE1 K Y ER0 AH0 S IY0
+
+
+
+
+-- lib.word: accounted
+american: ऐकाव्न्टैड
+arpabet: AH0 K AW1 N T AH0 D
+
+
+
+
+-- lib.word: actor
+american: ऐक्ट्र
+arpabet: AE1 K T ER0
+
+
+
+
+-- lib.word: accompanying
+american: ऐकाम्पैनीइंग
+arpabet: AH0 K AH1 M P AH0 N IY0 IH0 NG
+
+
+
+
+-- lib.word: activities
+american: ऐक्टिवैटीस
+arpabet: AE0 K T IH1 V AH0 T IY0 Z
+
+
+
+
+-- lib.word: achievement
+american: ऐचीव्मैन्ट
+arpabet: AH0 CH IY1 V M AH0 N T
+
+
+
+
+-- lib.word: accusation
+american: ऐक्यैसेऽशैन
+arpabet: AE2 K Y AH0 Z EY1 SH AH0 N
+
+
+
+
+-- lib.word: accuse
+american: ऐक्यूस
+arpabet: AH0 K Y UW1 Z
+
+
+
+
+-- lib.word: acceptable
+american: ऐक्सेप्टैबैल
+arpabet: AE0 K S EH1 P T AH0 B AH0 L
+
+
+
+
+-- lib.word: accurately
+american: ऐक्य्रैट्ली
+arpabet: AE1 K Y ER0 AH0 T L IY0
+
+
+
+
+-- lib.word: acre
+american: एऽक्र
+arpabet: EY1 K ER0
+
+
+
+
+-- lib.word: accidental
+american: ऐक्सैडेन्टैल
+arpabet: AE2 K S AH0 D EH1 N T AH0 L
+
+
+
+
+-- lib.word: accomplishment
+american: ऐकॉम्प्लिशमैन्ट
+arpabet: AH0 K AA1 M P L IH0 SH M AH0 N T
+
+
+
+
+-- lib.word: achieve
+american: ऐचीव
+arpabet: AH0 CH IY1 V
+
+
+
+
+-- lib.word: accumulated
+american: ऐक्यूम्यैलेऽटिड
+arpabet: AH0 K Y UW1 M Y AH0 L EY2 T IH0 D
+
+
+
+
+-- lib.word: accommodation
+american: ऐकॉमैडेऽशैन
+arpabet: AH0 K AA2 M AH0 D EY1 SH AH0 N
+
+
+
+
+-- lib.word: accursed
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: Achilles
+american: ऐकिलीस
+arpabet: AH0 K IH1 L IY0 Z
+
+
+
+
+-- lib.word: acquisition
+american: ऐक्वैसिशैन
+arpabet: AE2 K W AH0 Z IH1 SH AH0 N
+
+
+
+
+-- lib.word: accession
+american: ऐक्सेशैन
+arpabet: AH0 K S EH1 SH AH0 N
+
+
+
+
+-- lib.word: achievements
+american: ऐचीव्मैन्ट्स
+arpabet: AH0 CH IY1 V M AH0 N T S
+
+
+
+
+-- lib.word: accents
+american: ऐक्सेन्ट्स
+arpabet: AE1 K S EH0 N T S
+
+
+
+
+-- lib.word: accidentally
+american: ऐक्सैडेन्टैली
+arpabet: AE2 K S AH0 D EH1 N T AH0 L IY0
+
+
+
+
+-- lib.word: accessed
+american: ऐक्सेस्ट
+arpabet: AE1 K S EH2 S T
+
+
+
+
+-- lib.word: acknowledgment
+american: ऐक्नॉलिज्मैन्ट
+arpabet: AE0 K N AA1 L IH0 JH M AH0 N T
+
+
+
+
+-- lib.word: AC
+american: एऽसी
+arpabet: EY1 S IY1
+
+
+
+
+-- lib.word: aching
+american: एऽकिंग
+arpabet: EY1 K IH0 NG
+
+
+
+
+-- lib.word: accorded
+american: ऐकॉर्डिड
+arpabet: AH0 K AO1 R D IH0 D
+
+
+
+
+-- lib.word: actress
+american: ऐक्ट्रैस
+arpabet: AE1 K T R AH0 S
+
+
+
+
+-- lib.word: accomplishments
+american: ऐकॉम्प्लिशमैन्ट्स
+arpabet: AH0 K AA1 M P L IH0 SH M AH0 N T S
+
+
+
+
+-- lib.word: acquiring
+american: ऐक्वाय्रिंग
+arpabet: AH0 K W AY1 R IH0 NG
+
+
+
+
+-- lib.word: accompaniment
+american: ऐकाम्प्निमैन्ट
+arpabet: AH0 K AH1 M P N IH0 M AH0 N T
+
+
+
+
+-- lib.word: ache
+american: एऽक
+arpabet: EY1 K
+
+
+
+
+-- lib.word: accumulation
+american: ऐक्युम्यैलेऽशैन
+arpabet: AH0 K Y UW2 M Y AH0 L EY1 SH AH0 N
+
+
+
+
+-- lib.word: acquaint
+american: ऐक्वेऽन्ट
+arpabet: AH0 K W EY1 N T
+
+
+
+
+-- lib.word: accommodate
+american: ऐकॉमैडेऽट
+arpabet: AH0 K AA1 M AH0 D EY2 T
+
+
+
+
+-- lib.word: actively
+american: ऐक्टिव्ली
+arpabet: AE1 K T IH0 V L IY0
+
+
+
+
+-- lib.word: acquitted
+american: ऐक्विटैड
+arpabet: AH0 K W IH1 T AH0 D
+
+
+
+
+-- lib.word: acquiescence
+american: ऐक्वीएसैन्स
+arpabet: AE2 K W IY0 EH1 S AH0 N S
+
+
+
+

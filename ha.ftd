@@ -1,0 +1,704 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: have
+american: हैव
+arpabet: HH AE1 V
+meaning: पास(नज़दीक) होना, रखना, सहन करना,
+
+
+-- lib.word: had
+american: हैड
+arpabet: HH AE1 D
+meaning: थे
+
+
+-- lib.word: has
+american: हैस
+arpabet: HH AE1 Z
+meaning: है
+
+एक वचन संज्ञा के पास होना
+
+
+-- lib.word: happened
+american: हैपैन्ड
+arpabet: HH AE1 P AH0 N D
+meaning: होना ,हो गई
+
+
+-- lib.word: happy
+american: हैपी
+arpabet: HH AE1 P IY0
+meaning: प्रसन्न , खुश ,मंगलमय
+
+
+-- lib.word: haven't
+american: हैवैन्ट
+arpabet: HH AE1 V AH0 N T
+meaning: नहीं है
+
+
+-- lib.word: having
+american: हैविंग
+arpabet: HH AE1 V IH0 NG
+meaning: होना , रखना
+
+
+-- lib.word: happen
+american: हैपैन
+arpabet: HH AE1 P AH0 N
+meaning: होना , घटित होना , आ पडना
+
+
+-- lib.word: hard
+american: हॉर्ड
+arpabet: HH AA1 R D
+meaning: कठिन , कठोर , कड़ा
+
+
+-- lib.word: ha
+american: हॉ
+arpabet: HH AA1
+meaning: वह रखता है ?
+
+
+-- lib.word: hate
+american: हेऽट
+arpabet: HH EY1 T
+meaning: नफरत करना , घृणा करना ,बैर
+
+
+-- lib.word: hand
+american: हैन्ड
+arpabet: HH AE1 N D
+meaning: हाथ ,भुजा ,हस्तक्षर
+
+
+-- lib.word: half
+american: हैफ
+arpabet: HH AE1 F
+meaning: आधा भाग
+
+
+-- lib.word: hands
+american: हैन्ड्स
+arpabet: HH AE1 N D Z
+meaning: हाथ ,भुजा ,हस्ताक्षर
+
+
+-- lib.word: happens
+american: हैपैन्स
+arpabet: HH AE1 P AH0 N Z
+meaning: होता है
+
+
+-- lib.word: hang
+american: हैंग
+arpabet: HH AE1 NG
+meaning: लटकना ,फ़ासी देना ,टांगना
+
+
+-- lib.word: handle
+american: हैन्डैल
+arpabet: HH AE1 N D AH0 L
+meaning: मॅूठ ,प्रबन्ध करना ,हत्था ,हाथ में लेना ,पकड़ना
+
+
+-- lib.word: hair
+american: हेर
+arpabet: HH EH1 R
+meaning: बाल ,केश
+
+
+-- lib.word: hasn't
+american: हैसैन्ट
+arpabet: HH AE1 Z AH0 N T
+meaning: नहीं है
+
+
+-- lib.word: happening
+american: हैपैनिंग
+arpabet: HH AE1 P AH0 N IH0 NG
+meaning: घटित होना,अवसर,संयोग,वारदात,संभव
+
+
+-- lib.word: hadn't
+american: हैडैन्ट
+arpabet: HH AE1 D AH0 N T
+meaning: नहीं था
+
+
+-- lib.word: hath
+american: हैथ
+arpabet: HH AE1 TH
+
+
+
+
+-- lib.word: hardly
+american: हॉर्ड्ली
+arpabet: HH AA1 R D L IY0
+
+
+
+
+-- lib.word: hall
+american: हॉल
+arpabet: HH AO1 L
+
+
+
+
+-- lib.word: happiness
+american: हैपीनैस
+arpabet: HH AE1 P IY0 N AH0 S
+
+
+
+
+-- lib.word: hart
+american: हॉर्ट
+arpabet: HH AA1 R T
+
+
+
+
+-- lib.word: hat
+american: हैट
+arpabet: HH AE1 T
+
+
+
+
+-- lib.word: hast
+american: हैस्ट
+arpabet: HH AE1 S T
+
+
+
+
+-- lib.word: habit
+american: हैबैट
+arpabet: HH AE1 B AH0 T
+
+
+
+
+-- lib.word: handsome
+american: हैन्सैम
+arpabet: HH AE1 N S AH0 M
+
+
+
+
+-- lib.word: Harry
+american: हेरी
+arpabet: HH EH1 R IY0
+
+
+
+
+-- lib.word: harm
+american: हॉर्म
+arpabet: HH AA1 R M
+
+
+
+
+-- lib.word: habits
+american: हैबैट्स
+arpabet: HH AE1 B AH0 T S
+
+
+
+
+-- lib.word: haste
+american: हेऽस्ट
+arpabet: HH EY1 S T
+
+
+
+
+-- lib.word: hanging
+american: हैंगिंग
+arpabet: HH AE1 NG IH0 NG
+
+
+
+
+-- lib.word: hastily
+american: हेऽस्टैली
+arpabet: HH EY1 S T AH0 L IY0
+
+
+
+
+-- lib.word: handed
+american: हैन्डैड
+arpabet: HH AE1 N D AH0 D
+
+
+
+
+-- lib.word: hated
+american: हेऽटैड
+arpabet: HH EY1 T AH0 D
+
+
+
+
+-- lib.word: hatred
+american: हेऽट्रैड
+arpabet: HH EY1 T R AH0 D
+
+
+
+
+-- lib.word: hastened
+american: हेऽसैन्ड
+arpabet: HH EY1 S AH0 N D
+
+
+
+
+-- lib.word: harmless
+american: हॉर्म्लैस
+arpabet: HH AA1 R M L AH0 S
+
+
+
+
+-- lib.word: harmony
+american: हॉर्मैनी
+arpabet: HH AA1 R M AH0 N IY0
+
+
+
+
+-- lib.word: handkerchief
+american: हैंग्क्र्चिफ
+arpabet: HH AE1 NG K ER0 CH IH0 F
+
+
+
+
+-- lib.word: happily
+american: हैपैली
+arpabet: HH AE1 P AH0 L IY0
+
+
+
+
+-- lib.word: halted
+american: हॉल्टैड
+arpabet: HH AO1 L T AH0 D
+
+
+
+
+-- lib.word: harsh
+american: हॉर्श
+arpabet: HH AA1 R SH
+
+
+
+
+-- lib.word: hamilton
+american: हैमैल्टैन
+arpabet: HH AE1 M AH0 L T AH0 N
+
+
+
+
+-- lib.word: hasty
+american: हेऽस्टी
+arpabet: HH EY1 S T IY0
+
+
+
+
+-- lib.word: Harold
+american: हेरैल्ड
+arpabet: HH EH1 R AH0 L D
+
+
+
+
+-- lib.word: harbour
+american: हॉर्ब्र
+arpabet: HH AA1 R B ER0
+
+
+
+
+-- lib.word: happier
+american: हैपीर
+arpabet: HH AE1 P IY0 ER0
+
+
+
+
+-- lib.word: harder
+american: हॉर्ड्र
+arpabet: HH AA1 R D ER0
+
+
+
+
+-- lib.word: harvest
+american: हॉर्वैस्ट
+arpabet: HH AA1 R V AH0 S T
+
+
+
+
+-- lib.word: haunted
+american: हॉन्टैड
+arpabet: HH AO1 N T AH0 D
+
+
+
+
+-- lib.word: hardy
+american: हॉर्डी
+arpabet: HH AA1 R D IY0
+
+
+
+
+-- lib.word: hanged
+american: हैंग्ड
+arpabet: HH AE1 NG D
+
+
+
+
+-- lib.word: hats
+american: हैट्स
+arpabet: HH AE1 T S
+
+
+
+
+-- lib.word: harbor
+american: हॉर्ब्र
+arpabet: HH AA1 R B ER0
+
+
+
+
+-- lib.word: haughty
+american: हॉटी
+arpabet: HH AO1 T IY0
+
+
+
+
+-- lib.word: hay
+american: हेऽ
+arpabet: HH EY1
+
+
+
+
+-- lib.word: halt
+american: हॉल्ट
+arpabet: HH AO1 L T
+
+
+
+
+-- lib.word: hasten
+american: हेऽसैन
+arpabet: HH EY1 S AH0 N
+
+
+
+
+-- lib.word: handful
+american: हैन्ड्फूल
+arpabet: HH AE1 N D F UH2 L
+
+
+
+
+-- lib.word: Harriet
+american: हेरीऐट
+arpabet: HH EH1 R IY0 AH0 T
+
+
+
+
+-- lib.word: hail
+american: हेऽल
+arpabet: HH EY1 L
+
+
+
+
+-- lib.word: habitual
+american: हैबिचुऐल
+arpabet: HH AH0 B IH1 CH UW0 AH0 L
+
+
+
+
+-- lib.word: hammer
+american: हैम्र
+arpabet: HH AE1 M ER0
+
+
+
+
+-- lib.word: Hampshire
+american: हैम्प्शर
+arpabet: HH AE1 M P SH ER0
+
+
+
+
+-- lib.word: handled
+american: हैन्डैल्ड
+arpabet: HH AE1 N D AH0 L D
+
+
+
+
+-- lib.word: Hans
+american: हॉन्स
+arpabet: HH AA1 N S
+
+
+
+
+-- lib.word: hardened
+american: हॉर्डैन्ड
+arpabet: HH AA1 R D AH0 N D
+
+
+
+
+-- lib.word: hastings
+american: हेऽस्टिंग्स
+arpabet: HH EY1 S T IH0 NG Z
+
+
+
+
+-- lib.word: Hannah
+american: हैनै
+arpabet: HH AE1 N AH0
+
+
+
+
+-- lib.word: hateful
+american: हेऽट्फैल
+arpabet: HH EY1 T F AH0 L
+
+
+
+
+-- lib.word: happiest
+american: हैपीऐस्ट
+arpabet: HH AE1 P IY0 AH0 S T
+
+
+
+
+-- lib.word: hazard
+american: हैस्र्ड
+arpabet: HH AE1 Z ER0 D
+
+
+
+
+-- lib.word: handling
+american: हैन्ड्लिंग
+arpabet: HH AE1 N D L IH0 NG
+
+
+
+
+-- lib.word: Harris
+american: हेरिस
+arpabet: HH EH1 R IH0 S
+
+
+
+
+-- lib.word: harp
+american: हॉर्प
+arpabet: HH AA1 R P
+
+
+
+
+-- lib.word: harness
+american: हॉर्नैस
+arpabet: HH AA1 R N AH0 S
+
+
+
+
+-- lib.word: handwriting
+american: हैन्ड्राय्टिंग
+arpabet: HH AE1 N D R AY2 T IH0 NG
+
+
+
+
+-- lib.word: Harvey
+american: हॉर्वी
+arpabet: HH AA1 R V IY0
+
+
+
+
+-- lib.word: habitation
+american: हैबैटेऽशैन
+arpabet: HH AE2 B AH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: hardware
+american: हॉर्ड्वेर
+arpabet: HH AA1 R D W EH2 R
+
+
+
+
+-- lib.word: haunt
+american: हॉन्ट
+arpabet: HH AO1 N T
+
+
+
+
+-- lib.word: Hawaii
+american: हैवायी
+arpabet: HH AH0 W AY1 IY2
+
+
+
+
+-- lib.word: harmonious
+american: हॉर्मोनीऐस
+arpabet: HH AA0 R M OW1 N IY0 AH0 S
+
+
+
+
+-- lib.word: Harrison
+american: हेरिसैन
+arpabet: HH EH1 R IH0 S AH0 N
+
+
+
+
+-- lib.word: hare
+american: हेर
+arpabet: HH EH1 R
+
+
+
+
+-- lib.word: haze
+american: हेऽस
+arpabet: HH EY1 Z
+
+
+
+
+-- lib.word: hardest
+american: हॉर्डैस्ट
+arpabet: HH AA1 R D AH0 S T
+
+
+
+
+-- lib.word: hazel
+american: हेऽसैल
+arpabet: HH EY1 Z AH0 L
+
+
+
+
+-- lib.word: hawk
+american: हॉक
+arpabet: HH AO1 K
+
+
+
+
+-- lib.word: handy
+american: हैन्डी
+arpabet: HH AE1 N D IY0
+
+
+
+
+-- lib.word: hardship
+american: हॉर्ड्शिप
+arpabet: HH AA1 R D SH IH0 P
+
+
+
+
+-- lib.word: harshly
+american: हॉर्शली
+arpabet: HH AA1 R SH L IY0
+
+
+
+
+-- lib.word: ham
+american: हैम
+arpabet: HH AE1 M
+
+
+
+
+-- lib.word: handsomely
+american: हैन्सैम्ली
+arpabet: HH AE1 N S AH0 M L IY0
+
+
+
+
+-- lib.word: hardness
+american: हॉर्ड्नैस
+arpabet: HH AA1 R D N AH0 S
+
+
+
+
+-- lib.word: haul
+american: हॉल
+arpabet: HH AO1 L
+
+
+
+
+-- lib.word: hairy
+american: हेरी
+arpabet: HH EH1 R IY0
+
+
+
+
+-- lib.word: Hamburg
+american: हैम्ब्र्ग
+arpabet: HH AE1 M B ER0 G
+
+
+
+
+-- lib.word: Hanover
+american: हैनोव्र
+arpabet: HH AE1 N OW0 V ER0
+
+
+
+

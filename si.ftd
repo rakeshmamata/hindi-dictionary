@@ -1,0 +1,553 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: sir
+american: स्र
+arpabet: S ER1
+indian: सर
+meaning: श्रीमान , महोदय
+
+
+-- lib.word: since
+american: सिन्स
+arpabet: S IH1 N S
+meaning: जबसे , के बाद से , क्योंकि
+
+
+-- lib.word: sit
+american: सिट
+arpabet: S IH1 T
+meaning: बैठना , अधिवेशन
+
+
+-- lib.word: sister
+american: सिस्ट्र
+arpabet: S IH1 S T ER0
+meaning: बहन , नर्स
+
+
+-- lib.word: side
+american: साय्ड
+arpabet: S AY1 D
+meaning: पक्ष , पहलू , दिशा
+
+
+-- lib.word: sick
+american: सिक
+arpabet: S IH1 K
+meaning: बीमार ,रुग्ण
+
+
+-- lib.word: sign
+american: साय्न
+arpabet: S AY1 N
+meaning: संकेत ,निशान ,चिह्न
+
+
+-- lib.word: situation
+american: सिचुएऽशैन
+arpabet: S IH2 CH UW0 EY1 SH AH0 N
+meaning: परिस्थिति,स्थान,दशा,
+
+
+-- lib.word: sitting
+american: सिटिंग
+arpabet: S IH1 T IH0 NG
+meaning: बैठक,अधिवेशन,सीट
+
+
+-- lib.word: simple
+american: सिम्पैल
+arpabet: S IH1 M P AH0 L
+meaning: सरल,आसान,सादा
+
+
+-- lib.word: sight
+american: साय्ट
+arpabet: S AY1 T
+
+
+
+
+-- lib.word: six
+american: सिक्स
+arpabet: S IH1 K S
+
+
+
+
+-- lib.word: silence
+american: साय्लैन्स
+arpabet: S AY1 L AH0 N S
+
+
+
+
+-- lib.word: single
+american: सिंग्गैल
+arpabet: S IH1 NG G AH0 L
+
+
+
+
+-- lib.word: silent
+american: साय्लैन्ट
+arpabet: S AY1 L AH0 N T
+
+
+
+
+-- lib.word: simply
+american: सिम्प्ली
+arpabet: S IH1 M P L IY0
+
+
+
+
+-- lib.word: silver
+american: सिल्व्र
+arpabet: S IH1 L V ER0
+
+
+
+
+-- lib.word: sides
+american: साय्ड्स
+arpabet: S AY1 D Z
+
+
+
+
+-- lib.word: similar
+american: सिमैल्र
+arpabet: S IH1 M AH0 L ER0
+
+
+
+
+-- lib.word: sin
+american: सिन
+arpabet: S IH1 N
+
+
+
+
+-- lib.word: size
+american: साय्स
+arpabet: S AY1 Z
+
+
+
+
+-- lib.word: sing
+american: सिंग
+arpabet: S IH1 NG
+
+
+
+
+-- lib.word: singing
+american: सिंगिंग
+arpabet: S IH1 NG IH0 NG
+
+
+
+
+-- lib.word: signs
+american: साय्न्स
+arpabet: S AY1 N Z
+
+
+
+
+-- lib.word: site
+american: साय्ट
+arpabet: S AY1 T
+
+
+
+
+-- lib.word: singular
+american: सिंग्ग्यैल्र
+arpabet: S IH1 NG G Y AH0 L ER0
+
+
+
+
+-- lib.word: sigh
+american: साय
+arpabet: S AY1
+
+
+
+
+-- lib.word: silk
+american: सिल्क
+arpabet: S IH1 L K
+
+
+
+
+-- lib.word: sins
+american: सिन्स
+arpabet: S IH1 N Z
+
+
+
+
+-- lib.word: sisters
+american: सिस्ट्र्स
+arpabet: S IH1 S T ER0 Z
+
+
+
+
+-- lib.word: sighed
+american: साय्ड
+arpabet: S AY1 D
+
+
+
+
+-- lib.word: signal
+american: सिग्नैल
+arpabet: S IH1 G N AH0 L
+
+
+
+
+-- lib.word: sixty
+american: सिक्स्टी
+arpabet: S IH1 K S T IY0
+
+
+
+
+-- lib.word: signed
+american: साय्न्ड
+arpabet: S AY1 N D
+
+
+
+
+-- lib.word: simplicity
+american: सिम्प्लिसैटी
+arpabet: S IH0 M P L IH1 S AH0 T IY0
+
+
+
+
+-- lib.word: silly
+american: सिली
+arpabet: S IH1 L IY0
+
+
+
+
+-- lib.word: silently
+american: साय्लैन्ट्ली
+arpabet: S AY1 L AH0 N T L IY0
+
+
+
+
+-- lib.word: sincere
+american: सिन्सिर
+arpabet: S IH0 N S IH1 R
+
+
+
+
+-- lib.word: sixteen
+american: सिक्स्टीन
+arpabet: S IH0 K S T IY1 N
+
+
+
+
+-- lib.word: situated
+american: सिचुएऽटिड
+arpabet: S IH1 CH UW0 EY2 T IH0 D
+
+
+
+
+-- lib.word: sink
+american: सिंग्क
+arpabet: S IH1 NG K
+
+
+
+
+-- lib.word: siege
+american: सीज
+arpabet: S IY1 JH
+
+
+
+
+-- lib.word: sickness
+american: सिक्नैस
+arpabet: S IH1 K N AH0 S
+
+
+
+
+-- lib.word: sits
+american: सिट्स
+arpabet: S IH1 T S
+
+
+
+
+-- lib.word: sinking
+american: सिंग्किंग
+arpabet: S IH1 NG K IH0 NG
+
+
+
+
+-- lib.word: significance
+american: सैग्निफिकैन्स
+arpabet: S AH0 G N IH1 F IH0 K AH0 N S
+
+
+
+
+-- lib.word: Simon
+american: साय्मैन
+arpabet: S AY1 M AH0 N
+
+
+
+
+-- lib.word: sites
+american: साय्ट्स
+arpabet: S AY1 T S
+
+
+
+
+-- lib.word: significant
+american: सैग्निफिकैन्ट
+arpabet: S AH0 G N IH1 F IH0 K AH0 N T
+
+
+
+
+-- lib.word: sincerity
+american: सिन्सेरैटी
+arpabet: S IH0 N S EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: sixth
+american: सिक्स्थ
+arpabet: S IH1 K S TH
+
+
+
+
+-- lib.word: sire
+american: साय्र
+arpabet: S AY1 ER0
+
+
+
+
+-- lib.word: sincerely
+american: सिन्सिर्ली
+arpabet: S IH0 N S IH1 R L IY0
+
+
+
+
+-- lib.word: singularly
+american: सिंग्ग्यैल्र्ली
+arpabet: S IH1 NG G Y AH0 L ER0 L IY0
+
+
+
+
+-- lib.word: sinner
+american: सिन्र
+arpabet: S IH1 N ER0
+
+
+
+
+-- lib.word: sings
+american: सिंग्स
+arpabet: S IH1 NG Z
+
+
+
+
+-- lib.word: sinister
+american: सिनिस्ट्र
+arpabet: S IH1 N IH0 S T ER0
+
+
+
+
+-- lib.word: Sidney
+american: सिड्नी
+arpabet: S IH1 D N IY0
+
+
+
+
+-- lib.word: sixteenth
+american: सिक्स्टीन्थ
+arpabet: S IH0 K S T IY1 N TH
+
+
+
+
+-- lib.word: signature
+american: सिग्नैचर
+arpabet: S IH1 G N AH0 CH ER0
+
+
+
+
+-- lib.word: singer
+american: सिंग्र
+arpabet: S IH1 NG ER0
+
+
+
+
+-- lib.word: sinful
+american: सिन्फैल
+arpabet: S IH1 N F AH0 L
+
+
+
+
+-- lib.word: Sicily
+american: सिसैली
+arpabet: S IH1 S AH0 L IY0
+
+
+
+
+-- lib.word: simultaneously
+american: साय्मैल्टेऽनीऐस्ली
+arpabet: S AY2 M AH0 L T EY1 N IY0 AH0 S L IY0
+
+
+
+
+-- lib.word: signify
+american: सिग्नैफाय
+arpabet: S IH1 G N AH0 F AY2
+
+
+
+
+-- lib.word: silken
+american: सिल्कैन
+arpabet: S IH1 L K AH0 N
+
+
+
+
+-- lib.word: signifies
+american: सिग्नैफाय्स
+arpabet: S IH1 G N AH0 F AY2 Z
+
+
+
+
+-- lib.word: sickly
+american: सिक्ली
+arpabet: S IH1 K L IY0
+
+
+
+
+-- lib.word: silvery
+american: सिल्व्री
+arpabet: S IH1 L V ER0 IY0
+
+
+
+
+-- lib.word: sic
+american: सिक
+arpabet: S IH1 K
+
+
+
+
+-- lib.word: similarly
+american: सिमैल्र्ली
+arpabet: S IH1 M AH0 L ER0 L IY0
+
+
+
+
+-- lib.word: singers
+american: सिंग्र्स
+arpabet: S IH1 NG ER0 Z
+
+
+
+
+-- lib.word: signals
+american: सिग्नैल्स
+arpabet: S IH1 G N AH0 L Z
+
+
+
+
+-- lib.word: si
+american: सी
+arpabet: S IY1
+
+
+
+
+-- lib.word: similarity
+american: सिमैलेरैटी
+arpabet: S IH2 M AH0 L EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: simpler
+american: सिम्पैल्र
+arpabet: S IH1 M P AH0 L ER0
+
+
+
+
+-- lib.word: sidewalk
+american: साय्ड्वाक
+arpabet: S AY1 D W AO2 K
+
+
+
+
+-- lib.word: sister-in-law
+american: सिस्ट्रिन्ला
+arpabet: S IH1 S T ER0 IH0 N L AO2
+
+
+
+
+-- lib.word: Simpson
+american: सिम्प्सैन
+arpabet: S IH1 M P S AH0 N
+
+
+
+
+-- lib.word: significantly
+american: सिग्निफिकैन्ट्ली
+arpabet: S IH0 G N IH1 F IH0 K AH0 N T L IY0
+
+
+
+

@@ -1,0 +1,466 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: find
+american: फाय्न्ड
+arpabet: F AY1 N D
+meaning: पाना ,खोज,प्राप्त वस्तु
+
+
+-- lib.word: first
+american: फ्र्स्ट
+arpabet: F ER1 S T
+meaning: सबसे पहले ,प्रथम
+
+
+-- lib.word: fine
+american: फाय्न
+arpabet: F AY1 N
+meaning: बढिया ,उत्कृष्ट ,महीन ,अर्थदन्ड
+
+
+-- lib.word: five
+american: फाय्व
+arpabet: F AY1 V
+meaning: पॉच , पॉचवॉ
+
+
+-- lib.word: fire
+american: फाय्र
+arpabet: F AY1 ER0
+meaning: आग ,ज्वाला
+
+
+-- lib.word: fight
+american: फाय्ट
+arpabet: F AY1 T
+meaning: लड़ाई, झगड़ा ,युद्ध
+
+
+-- lib.word: finally
+american: फाय्नैली
+arpabet: F AY1 N AH0 L IY0
+meaning: अन्ततोगत्वा ,अंतिम रूप में ,आखिरकार
+
+
+-- lib.word: figure
+american: फिग्य्र
+arpabet: F IH1 G Y ER0
+meaning: आकृती ,आंकड़ा ,मूर्ती
+
+
+-- lib.word: figured
+american: फिग्य्र्ड
+arpabet: F IH1 G Y ER0 D
+meaning: लगा,नक्शे से सुसज्जित,बेल-बूटेदार
+
+
+-- lib.word: finish
+american: फिनिश
+arpabet: F IH1 N IH0 SH
+meaning: समाप्त करना,पूर्ण करना
+
+
+-- lib.word: finished
+american: फिनिशट
+arpabet: F IH1 N IH0 SH T
+meaning: समाप्त, खत्म, पूरा, पू्रण, सिद्ध
+
+
+-- lib.word: fix
+american: फिक्स
+arpabet: F IH1 K S
+meaning: ठीक करना, लगाना, जमाना, कड़ा हो जाना
+
+
+-- lib.word: filled
+american: फिल्ड
+arpabet: F IH1 L D
+
+
+
+
+-- lib.word: field
+american: फील्ड
+arpabet: F IY1 L D
+
+
+
+
+-- lib.word: fixed
+american: फिक्स्ट
+arpabet: F IH1 K S T
+
+
+
+
+-- lib.word: fifty
+american: फिफ्टी
+arpabet: F IH1 F T IY0
+
+
+
+
+-- lib.word: fit
+american: फिट
+arpabet: F IH1 T
+
+
+
+
+-- lib.word: fingers
+american: फिंग्ग्र्स
+arpabet: F IH1 NG G ER0 Z
+
+
+
+
+-- lib.word: file
+american: फाय्ल
+arpabet: F AY1 L
+
+
+
+
+-- lib.word: fish
+american: फिश
+arpabet: F IH1 SH
+
+
+
+
+-- lib.word: finding
+american: फाय्न्डिंग
+arpabet: F AY1 N D IH0 NG
+
+
+
+
+-- lib.word: final
+american: फाय्नैल
+arpabet: F AY1 N AH0 L
+
+
+
+
+-- lib.word: fighting
+american: फाय्टिंग
+arpabet: F AY1 T IH0 NG
+
+
+
+
+-- lib.word: fields
+american: फील्ड्स
+arpabet: F IY1 L D Z
+
+
+
+
+-- lib.word: fifteen
+american: फिफ्टीन
+arpabet: F IH0 F T IY1 N
+
+
+
+
+-- lib.word: firm
+american: फ्र्म
+arpabet: F ER1 M
+
+
+
+
+-- lib.word: figures
+american: फिग्य्र्स
+arpabet: F IH1 G Y ER0 Z
+
+
+
+
+-- lib.word: fill
+american: फिल
+arpabet: F IH1 L
+
+
+
+
+-- lib.word: fierce
+american: फिर्स
+arpabet: F IH1 R S
+
+
+
+
+-- lib.word: finger
+american: फिंग्ग्र
+arpabet: F IH1 NG G ER0
+
+
+
+
+-- lib.word: files
+american: फाय्ल्स
+arpabet: F AY1 L Z
+
+
+
+
+-- lib.word: finds
+american: फाय्न्ड्स
+arpabet: F AY1 N D Z
+
+
+
+
+-- lib.word: firmly
+american: फ्र्म्ली
+arpabet: F ER1 M L IY0
+
+
+
+
+-- lib.word: fitted
+american: फिटैड
+arpabet: F IH1 T AH0 D
+
+
+
+
+-- lib.word: finest
+american: फाय्नैस्ट
+arpabet: F AY1 N AH0 S T
+
+
+
+
+-- lib.word: fires
+american: फाय्र्स
+arpabet: F AY1 ER0 Z
+
+
+
+
+-- lib.word: financial
+american: फैनैन्शैल
+arpabet: F AH0 N AE1 N SH AH0 L
+
+
+
+
+-- lib.word: fifth
+american: फिफ्थ
+arpabet: F IH1 F TH
+
+
+
+
+-- lib.word: fishing
+american: फिशिंग
+arpabet: F IH1 SH IH0 NG
+
+
+
+
+-- lib.word: fiery
+american: फाय्री
+arpabet: F AY1 ER0 IY0
+
+
+
+
+-- lib.word: filling
+american: फिलिंग
+arpabet: F IH1 L IH0 NG
+
+
+
+
+-- lib.word: firing
+american: फाय्रिंग
+arpabet: F AY1 R IH0 NG
+
+
+
+
+-- lib.word: filename
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: fist
+american: फिस्ट
+arpabet: F IH1 S T
+
+
+
+
+-- lib.word: fiction
+american: फिक्शैन
+arpabet: F IH1 K SH AH0 N
+
+
+
+
+-- lib.word: fiercely
+american: फिर्स्ली
+arpabet: F IH1 R S L IY0
+
+
+
+
+-- lib.word: fitting
+american: फिटिंग
+arpabet: F IH1 T IH0 NG
+
+
+
+
+-- lib.word: finishing
+american: फिनिशिंग
+arpabet: F IH1 N IH0 SH IH0 NG
+
+
+
+
+-- lib.word: fidelity
+american: फैडेलैटी
+arpabet: F AH0 D EH1 L AH0 T IY0
+
+
+
+
+-- lib.word: finer
+american: फाय्न्र
+arpabet: F AY1 N ER0
+
+
+
+
+-- lib.word: fits
+american: फिट्स
+arpabet: F IH1 T S
+
+
+
+
+-- lib.word: fishes
+american: फिशैस
+arpabet: F IH1 SH AH0 Z
+
+
+
+
+-- lib.word: finely
+american: फाय्न्ली
+arpabet: F AY1 N L IY0
+
+
+
+
+-- lib.word: firmness
+american: फ्र्म्नैस
+arpabet: F ER1 M N AH0 S
+
+
+
+
+-- lib.word: fireplace
+american: फाय्र्प्लेऽस
+arpabet: F AY1 ER0 P L EY2 S
+
+
+
+
+-- lib.word: fixing
+american: फिक्सिंग
+arpabet: F IH1 K S IH0 NG
+
+
+
+
+-- lib.word: fifteenth
+american: फिफ्टीन्थ
+arpabet: F IH0 F T IY1 N TH
+
+
+
+
+-- lib.word: fishermen
+american: फिशर्मिन
+arpabet: F IH1 SH ER0 M IH0 N
+
+
+
+
+-- lib.word: filthy
+american: फिल्थी
+arpabet: F IH1 L TH IY0
+
+
+
+
+-- lib.word: fisherman
+american: फिशर्मैन
+arpabet: F IH1 SH ER0 M AE2 N
+
+
+
+
+-- lib.word: fiend
+american: फीन्ड
+arpabet: F IY1 N D
+
+
+
+
+-- lib.word: fiscal
+american: फिस्कैल
+arpabet: F IH1 S K AH0 L
+
+
+
+
+-- lib.word: fitness
+american: फिट्नैस
+arpabet: F IH1 T N AH0 S
+
+
+
+
+-- lib.word: finance
+american: फैनैन्स
+arpabet: F AH0 N AE1 N S
+
+
+
+
+-- lib.word: fiddle
+american: फिडैल
+arpabet: F IH1 D AH0 L
+
+
+
+
+-- lib.word: firmament
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: filth
+american: फिल्थ
+arpabet: F IH1 L TH
+
+
+
+
+-- lib.word: film
+american: फिल्म
+arpabet: F IH1 L M
+
+
+
+

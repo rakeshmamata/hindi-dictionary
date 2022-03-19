@@ -1,0 +1,640 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: so
+american: सो
+arpabet: S OW1
+meaning: इसलिये
+
+
+-- lib.word: something
+american: साम्थिंग
+arpabet: S AH1 M TH IH0 NG
+meaning: कुछ, कोई बात ,कोई चीज़
+
+
+-- lib.word: some
+american: साम
+arpabet: S AH1 M
+meaning: कुछ,  कुछ लोग
+
+
+-- lib.word: sorry
+american: सॉरी
+arpabet: S AA1 R IY0
+meaning: माफ करना ,शोकाकुल,उदास
+
+
+-- lib.word: someone
+american: साम्वऽन
+arpabet: S AH1 M W AH2 N
+meaning: कोई न कोई, कोई व्यक्ति
+
+
+-- lib.word: son
+american: सान
+arpabet: S AH1 N
+meaning: पुत्र ,बेटा
+
+
+-- lib.word: soon
+american: सून
+arpabet: S UW1 N
+meaning: जल्दी , शीघ्र
+
+
+-- lib.word: somebody
+american: साम्बॉडी
+arpabet: S AH1 M B AA2 D IY0
+meaning: कोई , कोई व्यक्ति , कोई न कोई
+
+
+-- lib.word: sounds
+american: साव्न्ड्स
+arpabet: S AW1 N D Z
+meaning: आवाज़
+
+
+-- lib.word: sonny
+american: सानी
+arpabet: S AH1 N IY0
+meaning: बेटे को पुकारन वाला शब्द ,बेटा ,लला ,लाल
+
+
+-- lib.word: sometimes
+american: सैम्टाय्म्स
+arpabet: S AH0 M T AY1 M Z
+meaning: कभी-कभी ,किसी समय ,किसी-किसी समय
+
+
+-- lib.word: sort
+american: सॉर्ट
+arpabet: S AO1 R T
+meaning: तरह ,प्रकार भेद
+
+
+-- lib.word: sound
+american: साव्न्ड
+arpabet: S AW1 N D
+meaning: आवाज़ ,की वज़ह से ,के कारणसे ,यह देखते हुए
+
+
+-- lib.word: somewhere
+american: साम्वेर
+arpabet: S AH1 M W EH2 R
+indian: Same / समव्हेयर
+meaning: कहीं ,किसी न किसी स्थान में ,
+
+
+-- lib.word: soul
+american: सोल
+arpabet: S OW1 L
+
+
+
+
+-- lib.word: south
+american: साव्थ
+arpabet: S AW1 TH
+
+
+
+
+-- lib.word: society
+american: सैसायैटी
+arpabet: S AH0 S AY1 AH0 T IY0
+
+
+
+
+-- lib.word: somewhat
+american: साम्वाट
+arpabet: S AH1 M W AH1 T
+
+
+
+
+-- lib.word: soldiers
+american: सोल्ज्र्स
+arpabet: S OW1 L JH ER0 Z
+
+
+
+
+-- lib.word: soft
+american: सॉफ्ट
+arpabet: S AA1 F T
+
+
+
+
+-- lib.word: social
+american: सोशैल
+arpabet: S OW1 SH AH0 L
+
+
+
+
+-- lib.word: sought
+american: सॉट
+arpabet: S AO1 T
+
+
+
+
+-- lib.word: sons
+american: सान्स
+arpabet: S AH1 N Z
+
+
+
+
+-- lib.word: song
+american: सॉंग
+arpabet: S AO1 NG
+
+
+
+
+-- lib.word: sorrow
+american: सॉरो
+arpabet: S AA1 R OW0
+
+
+
+
+-- lib.word: soil
+american: सॉयल
+arpabet: S OY1 L
+
+
+
+
+-- lib.word: soldier
+american: सोल्ज्र
+arpabet: S OW1 L JH ER0
+
+
+
+
+-- lib.word: sold
+american: सोल्ड
+arpabet: S OW1 L D
+
+
+
+
+-- lib.word: sooner
+american: सून्र
+arpabet: S UW1 N ER0
+
+
+
+
+-- lib.word: souls
+american: सोल्स
+arpabet: S OW1 L Z
+
+
+
+
+-- lib.word: solemn
+american: सॉलैम
+arpabet: S AA1 L AH0 M
+
+
+
+
+-- lib.word: softly
+american: सॉफ्ट्ली
+arpabet: S AO1 F T L IY0
+
+
+
+
+-- lib.word: source
+american: सॉर्स
+arpabet: S AO1 R S
+
+
+
+
+-- lib.word: solid
+american: सॉलैड
+arpabet: S AA1 L AH0 D
+
+
+
+
+-- lib.word: somehow
+american: साम्हाव
+arpabet: S AH1 M HH AW2
+
+
+
+
+-- lib.word: sovereign
+american: सॉव्रैन
+arpabet: S AA1 V R AH0 N
+
+
+
+
+-- lib.word: sorts
+american: सॉर्ट्स
+arpabet: S AO1 R T S
+
+
+
+
+-- lib.word: sounded
+american: साव्न्डैड
+arpabet: S AW1 N D AH0 D
+
+
+
+
+-- lib.word: sole
+american: सोल
+arpabet: S OW1 L
+
+
+
+
+-- lib.word: southern
+american: सादर्न
+arpabet: S AH1 DH ER0 N
+
+
+
+
+-- lib.word: songs
+american: सॉंग्स
+arpabet: S AO1 NG Z
+
+
+
+
+-- lib.word: sources
+american: सॉर्सैस
+arpabet: S AO1 R S AH0 Z
+
+
+
+
+-- lib.word: solitary
+american: सॉलैटेरी
+arpabet: S AA1 L AH0 T EH2 R IY0
+
+
+
+
+-- lib.word: software
+american: सॉफ्ट्वेर
+arpabet: S AO1 F T W EH2 R
+
+
+
+
+-- lib.word: sore
+american: सॉर
+arpabet: S AO1 R
+
+
+
+
+-- lib.word: solution
+american: सैलूशैन
+arpabet: S AH0 L UW1 SH AH0 N
+
+
+
+
+-- lib.word: solicit
+american: सैलिसिट
+arpabet: S AH0 L IH1 S IH0 T
+
+
+
+
+-- lib.word: solitude
+american: सॉलैटुड
+arpabet: S AA1 L AH0 T UW2 D
+
+
+
+
+-- lib.word: sober
+american: सोब्र
+arpabet: S OW1 B ER0
+
+
+
+
+-- lib.word: solemnly
+american: सॉलैम्ली
+arpabet: S AO1 L AH0 M L IY0
+
+
+
+
+-- lib.word: sofa
+american: सोफै
+arpabet: S OW1 F AH0
+
+
+
+
+-- lib.word: Solomon
+american: सॉलैमैन
+arpabet: S AA1 L AH0 M AH0 N
+
+
+
+
+-- lib.word: so-called
+american: सोकॉल्ड
+arpabet: S OW1 K AO1 L D
+
+
+
+
+-- lib.word: sorrows
+american: सॉरोस
+arpabet: S AA1 R OW0 Z
+
+
+
+
+-- lib.word: solely
+american: सोऐली
+arpabet: S OW1 AH0 L IY0
+
+
+
+
+-- lib.word: soup
+american: सूप
+arpabet: S UW1 P
+
+
+
+
+-- lib.word: sovereignty
+american: सॉव्रैन्टी
+arpabet: S AA1 V R AH0 N T IY0
+
+
+
+
+-- lib.word: softened
+american: सॉफैन्ड
+arpabet: S AO1 F AH0 N D
+
+
+
+
+-- lib.word: sorrowful
+american: सॉरोफैल
+arpabet: S AA1 R OW0 F AH0 L
+
+
+
+
+-- lib.word: Socrates
+american: सॉक्रैटीस
+arpabet: S AA1 K R AH0 T IY2 Z
+
+
+
+
+-- lib.word: solicited
+american: सैलिसिटिड
+arpabet: S AH0 L IH1 S IH0 T IH0 D
+
+
+
+
+-- lib.word: sobbing
+american: सॉबिंग
+arpabet: S AA1 B IH0 NG
+
+
+
+
+-- lib.word: solemnity
+american: सैलेम्नैटी
+arpabet: S AH0 L EH1 M N AH0 T IY0
+
+
+
+
+-- lib.word: solicitation
+american: सैलिसिटेऽशैन
+arpabet: S AH0 L IH2 S IH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: soothing
+american: सूदिंग
+arpabet: S UW1 DH IH0 NG
+
+
+
+
+-- lib.word: sorely
+american: सॉर्ली
+arpabet: S AO1 R L IY0
+
+
+
+
+-- lib.word: sounding
+american: साव्न्डिंग
+arpabet: S AW1 N D IH0 NG
+
+
+
+
+-- lib.word: sombre
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: sovereigns
+american: सॉव्रैन्स
+arpabet: S AA1 V R AH0 N Z
+
+
+
+
+-- lib.word: sown
+american: सोन
+arpabet: S OW1 N
+
+
+
+
+-- lib.word: sob
+american: सॉब
+arpabet: S AA1 B
+
+
+
+
+-- lib.word: sour
+american: साव्र
+arpabet: S AW1 ER0
+
+
+
+
+-- lib.word: soap
+american: सोप
+arpabet: S OW1 P
+
+
+
+
+-- lib.word: Sophia
+american: सोफीऐ
+arpabet: S OW0 F IY1 AH0
+
+
+
+
+-- lib.word: son-in-law
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: solve
+american: सॉल्व
+arpabet: S AA1 L V
+
+
+
+
+-- lib.word: solicitude
+american: सैलिसिटुड
+arpabet: S AH0 L IH1 S IH0 T UW2 D
+
+
+
+
+-- lib.word: sow
+american: साव
+arpabet: S AW1
+
+
+
+
+-- lib.word: soothe
+american: सूद
+arpabet: S UW1 DH
+
+
+
+
+-- lib.word: sordid
+american: सॉर्डैड
+arpabet: S AO1 R D AH0 D
+
+
+
+
+-- lib.word: soda
+american: सोडै
+arpabet: S OW1 D AH0
+
+
+
+
+-- lib.word: softness
+american: सॉफ्ट्नैस
+arpabet: S AO1 F T N AH0 S
+
+
+
+
+-- lib.word: soothed
+american: सूदड
+arpabet: S UW1 DH D
+
+
+
+
+-- lib.word: sojourn
+american: सोज्र्न
+arpabet: S OW1 JH ER0 N
+
+
+
+
+-- lib.word: sometime
+american: साम्टाय्म
+arpabet: S AH1 M T AY2 M
+
+
+
+
+-- lib.word: solace
+american: सॉलैस
+arpabet: S AA1 L AH0 S
+
+
+
+
+-- lib.word: soften
+american: सॉफैन
+arpabet: S AA1 F AH0 N
+
+
+
+
+-- lib.word: Soames
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: solar
+american: सोल्र
+arpabet: S OW1 L ER0
+
+
+
+
+-- lib.word: sol
+american: सॉल
+arpabet: S AA1 L
+
+
+
+
+-- lib.word: soiled
+american: सॉयल्ड
+arpabet: S OY1 L D
+
+
+
+
+-- lib.word: Somerset
+american: साम्र्सेट
+arpabet: S AH1 M ER0 S EH2 T
+
+
+
+
+-- lib.word: sous
+american: सूस
+arpabet: S UW1 Z
+
+
+
+

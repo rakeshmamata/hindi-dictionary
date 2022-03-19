@@ -1,0 +1,557 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: tell
+american: टेल
+arpabet: T EH1 L
+meaning: बताना ,बोलना ,बयान करना
+
+
+-- lib.word: telling
+american: टेलिंग
+arpabet: T EH1 L IH0 NG
+meaning: कहना , अर्थ पूर्ण
+
+
+-- lib.word: test
+american: टेस्ट
+arpabet: T EH1 S T
+meaning: परेीक्षण,जॅाच परख,परीक्षा,आज़माइश
+
+
+-- lib.word: terrible
+american: टेरैबैल
+arpabet: T EH1 R AH0 B AH0 L
+meaning: भयानक,डरावना,दिल दहलानेवाला,खौ़फ़नाक
+
+
+-- lib.word: team
+american: टीम
+arpabet: T IY1 M
+meaning: समूह,टोली,टीम
+
+
+-- lib.word: terms
+american: ट्र्म्स
+arpabet: T ER1 M Z
+
+
+
+
+-- lib.word: ten
+american: टेन
+arpabet: T EH1 N
+
+
+
+
+-- lib.word: tears
+american: टेर्स
+arpabet: T EH1 R Z
+
+
+
+
+-- lib.word: tender
+american: टेन्ड्र
+arpabet: T EH1 N D ER0
+
+
+
+
+-- lib.word: tells
+american: टेल्स
+arpabet: T EH1 L Z
+
+
+
+
+-- lib.word: teeth
+american: टीथ
+arpabet: T IY1 TH
+
+
+
+
+-- lib.word: tea
+american: टी
+arpabet: T IY1
+
+
+
+
+-- lib.word: text
+american: टेक्स्ट
+arpabet: T EH1 K S T
+
+
+
+
+-- lib.word: terror
+american: टेर्र
+arpabet: T EH1 R ER0
+
+
+
+
+-- lib.word: term
+american: ट्र्म
+arpabet: T ER1 M
+
+
+
+
+-- lib.word: temper
+american: टेम्प्र
+arpabet: T EH1 M P ER0
+
+
+
+
+-- lib.word: teach
+american: टीच
+arpabet: T IY1 CH
+
+
+
+
+-- lib.word: temple
+american: टेम्पैल
+arpabet: T EH1 M P AH0 L
+
+
+
+
+-- lib.word: tent
+american: टेन्ट
+arpabet: T EH1 N T
+
+
+
+
+-- lib.word: territory
+american: टेरिटारी
+arpabet: T EH1 R IH0 T AO2 R IY0
+
+
+
+
+-- lib.word: teaching
+american: टीचिंग
+arpabet: T IY1 CH IH0 NG
+
+
+
+
+-- lib.word: teacher
+american: टीचर
+arpabet: T IY1 CH ER0
+
+
+
+
+-- lib.word: tenderness
+american: टेन्ड्र्नैस
+arpabet: T EH1 N D ER0 N AH0 S
+
+
+
+
+-- lib.word: tendency
+american: टेन्डैन्सी
+arpabet: T EH1 N D AH0 N S IY0
+
+
+
+
+-- lib.word: tear
+american: टेर
+arpabet: T EH1 R
+
+
+
+
+-- lib.word: testimony
+american: टेस्टैमोनी
+arpabet: T EH1 S T AH0 M OW2 N IY0
+
+
+
+
+-- lib.word: temporary
+american: टेम्प्रेरी
+arpabet: T EH1 M P ER0 EH2 R IY0
+
+
+
+
+-- lib.word: temperature
+american: टेम्प्रैचर
+arpabet: T EH1 M P R AH0 CH ER0
+
+
+
+
+-- lib.word: temptation
+american: टेम्टेऽशैन
+arpabet: T EH0 M T EY1 SH AH0 N
+
+
+
+
+-- lib.word: temples
+american: टेम्पैल्स
+arpabet: T EH1 M P AH0 L Z
+
+
+
+
+-- lib.word: tempted
+american: टेम्प्टैड
+arpabet: T EH1 M P T AH0 D
+
+
+
+
+-- lib.word: Texas
+american: टेक्सैस
+arpabet: T EH1 K S AH0 S
+
+
+
+
+-- lib.word: teachers
+american: टीचर्स
+arpabet: T IY1 CH ER0 Z
+
+
+
+
+-- lib.word: telephone
+american: टेलैफोन
+arpabet: T EH1 L AH0 F OW2 N
+
+
+
+
+-- lib.word: tenderly
+american: टेन्ड्र्ली
+arpabet: T EH1 N D ER0 L IY0
+
+
+
+
+-- lib.word: tents
+american: टेन्ट्स
+arpabet: T EH1 N T S
+
+
+
+
+-- lib.word: tend
+american: टेन्ड
+arpabet: T EH1 N D
+
+
+
+
+-- lib.word: temperament
+american: टेम्प्रैमैन्ट
+arpabet: T EH1 M P R AH0 M AH0 N T
+
+
+
+
+-- lib.word: terribly
+american: टेरैब्ली
+arpabet: T EH1 R AH0 B L IY0
+
+
+
+
+-- lib.word: Tennessee
+american: टेनैसी
+arpabet: T EH2 N AH0 S IY1
+
+
+
+
+-- lib.word: terrified
+american: टेरैफाय्ड
+arpabet: T EH1 R AH0 F AY2 D
+
+
+
+
+-- lib.word: texts
+american: टेक्स्ट्स
+arpabet: T EH1 K S T S
+
+
+
+
+-- lib.word: terrace
+american: टेरैस
+arpabet: T EH1 R AH0 S
+
+
+
+
+-- lib.word: termed
+american: ट्र्म्ड
+arpabet: T ER1 M D
+
+
+
+
+-- lib.word: tempest
+american: टेम्पैस्ट
+arpabet: T EH1 M P AH0 S T
+
+
+
+
+-- lib.word: telegraph
+american: टेलैग्रैफ
+arpabet: T EH1 L AH0 G R AE2 F
+
+
+
+
+-- lib.word: telegram
+american: टेलैग्रैम
+arpabet: T EH1 L AH0 G R AE2 M
+
+
+
+
+-- lib.word: tenth
+american: टेन्थ
+arpabet: T EH1 N TH
+
+
+
+
+-- lib.word: tedious
+american: टीडीऐस
+arpabet: T IY1 D IY0 AH0 S
+
+
+
+
+-- lib.word: tended
+american: टेन्डैड
+arpabet: T EH1 N D AH0 D
+
+
+
+
+-- lib.word: technical
+american: टेक्निकैल
+arpabet: T EH1 K N IH0 K AH0 L
+
+
+
+
+-- lib.word: tearing
+american: टेरिंग
+arpabet: T EH1 R IH0 NG
+
+
+
+
+-- lib.word: terrific
+american: ट्रिफिक
+arpabet: T ER0 IH1 F IH0 K
+
+
+
+
+-- lib.word: te
+american: टी
+arpabet: T IY1
+
+
+
+
+-- lib.word: tends
+american: टेन्ड्स
+arpabet: T EH1 N D Z
+
+
+
+
+-- lib.word: territories
+american: टेरैटारीस
+arpabet: T EH1 R AH0 T AO2 R IY0 Z
+
+
+
+
+-- lib.word: temporal
+american: टेम्प्रैल
+arpabet: T EH1 M P ER0 AH0 L
+
+
+
+
+-- lib.word: terminated
+american: ट्र्मैनेऽटैड
+arpabet: T ER1 M AH0 N EY2 T AH0 D
+
+
+
+
+-- lib.word: Tennyson
+american: टेनिसैन
+arpabet: T EH1 N IH0 S AH0 N
+
+
+
+
+-- lib.word: tendencies
+american: टेन्डैन्सीस
+arpabet: T EH1 N D AH0 N S IY0 Z
+
+
+
+
+-- lib.word: termination
+american: ट्र्मैनेऽशैन
+arpabet: T ER0 M AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: tempt
+american: टेम्प्ट
+arpabet: T EH1 M P T
+
+
+
+
+-- lib.word: tending
+american: टेन्डिंग
+arpabet: T EH1 N D IH0 NG
+
+
+
+
+-- lib.word: testify
+american: टेस्टैफाय
+arpabet: T EH1 S T AH0 F AY2
+
+
+
+
+-- lib.word: tense
+american: टेन्स
+arpabet: T EH1 N S
+
+
+
+
+-- lib.word: tenant
+american: टेनैन्ट
+arpabet: T EH1 N AH0 N T
+
+
+
+
+-- lib.word: temporarily
+american: टेम्प्रेरैली
+arpabet: T EH2 M P ER0 EH1 R AH0 L IY0
+
+
+
+
+-- lib.word: temperate
+american: टेम्प्रैट
+arpabet: T EH1 M P R AH0 T
+
+
+
+
+-- lib.word: tension
+american: टेन्शैन
+arpabet: T EH1 N SH AH0 N
+
+
+
+
+-- lib.word: ted
+american: टेड
+arpabet: T EH1 D
+
+
+
+
+-- lib.word: tempting
+american: टेम्प्टिंग
+arpabet: T EH1 M P T IH0 NG
+
+
+
+
+-- lib.word: teddy
+american: टेडी
+arpabet: T EH1 D IY0
+
+
+
+
+-- lib.word: tenor
+american: टेन्र
+arpabet: T EH1 N ER0
+
+
+
+
+-- lib.word: telescope
+american: टेलैस्कोप
+arpabet: T EH1 L AH0 S K OW2 P
+
+
+
+
+-- lib.word: tested
+american: टेस्टैड
+arpabet: T EH1 S T AH0 D
+
+
+
+
+-- lib.word: texture
+american: टेक्स्चर
+arpabet: T EH1 K S CH ER0
+
+
+
+
+-- lib.word: temperance
+american: टेम्प्रैन्स
+arpabet: T EH1 M P ER0 AH0 N S
+
+
+
+
+-- lib.word: territorial
+american: टेरिटॉरीऐल
+arpabet: T EH2 R IH0 T AO1 R IY0 AH0 L
+
+
+
+
+-- lib.word: Terence
+american: टेरैन्स
+arpabet: T EH1 R AH0 N S
+
+
+
+
+-- lib.word: terminate
+american: ट्र्मैनेऽट
+arpabet: T ER1 M AH0 N EY2 T
+
+
+
+

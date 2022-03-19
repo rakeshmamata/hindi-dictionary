@@ -1,0 +1,642 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: father
+american: फॉदर
+arpabet: F AA1 DH ER0
+meaning: पापा,पिता,बाबू
+
+
+-- lib.word: family
+american: फैमैली
+arpabet: F AE1 M AH0 L IY0
+meaning: परिवार , परिजन
+
+
+-- lib.word: face
+american: फेऽस
+arpabet: F EY1 S
+
+
+-- lib.word: fact
+american: फैक्ट
+arpabet: F AE1 K T
+meaning: तथ्य , सत्य , सच्चाई
+
+
+-- lib.word: far
+american: फॉर
+arpabet: F AA1 R
+meaning: दूर , दूरस्थ ,बहुत दूर
+
+
+-- lib.word: fault
+american: फॉल्ट
+arpabet: F AO1 L T
+meaning: दोष ,गुनाह ,अशुद्धि ,त्रृटि ,चूक ,अपूर्णता
+
+
+-- lib.word: fast
+american: फैस्ट
+arpabet: F AE1 S T
+meaning: तेज़ ,अनशन ,व्रत
+
+
+-- lib.word: fall
+american: फॉल
+arpabet: F AO1 L
+meaning: गिरना,पतन,विनाश,ढलान,झरना,पड़ना,पराजय
+
+
+-- lib.word: fair
+american: फेर
+arpabet: F EH1 R
+meaning: निषपक्ष,गोरा स्वच्छ
+
+
+-- lib.word: favor
+american: फेऽव्र
+arpabet: F EY1 V ER0
+meaning: कृपा दृष्टि,पक्ष,तरफदारी,अनुग्रह करना
+
+
+-- lib.word: faith
+american: फेऽथ
+arpabet: F EY1 TH
+
+
+
+
+-- lib.word: father's
+american: फॉदर्स
+arpabet: F AA1 DH ER0 Z
+
+
+
+
+-- lib.word: fancy
+american: फैन्सी
+arpabet: F AE1 N S IY0
+
+
+
+
+-- lib.word: fate
+american: फेऽट
+arpabet: F EY1 T
+
+
+
+
+-- lib.word: facts
+american: फैक्ट्स
+arpabet: F AE1 K T S
+
+
+
+
+-- lib.word: false
+american: फॉल्स
+arpabet: F AO1 L S
+
+
+
+
+-- lib.word: fashion
+american: फैशैन
+arpabet: F AE1 SH AH0 N
+
+
+
+
+-- lib.word: faces
+american: फेऽसैस
+arpabet: F EY1 S AH0 Z
+
+
+
+
+-- lib.word: failed
+american: फेऽल्ड
+arpabet: F EY1 L D
+
+
+
+
+-- lib.word: famous
+american: फेऽमैस
+arpabet: F EY1 M AH0 S
+
+
+
+
+-- lib.word: familiar
+american: फैमिल्य्र
+arpabet: F AH0 M IH1 L Y ER0
+
+
+
+
+-- lib.word: favour
+american: फेऽव्र
+arpabet: F EY1 V ER0
+
+
+
+
+-- lib.word: farther
+american: फॉर्दर
+arpabet: F AA1 R DH ER0
+
+
+
+
+-- lib.word: falling
+american: फॉलिंग
+arpabet: F AA1 L IH0 NG
+
+
+
+
+-- lib.word: faithful
+american: फेऽथफैल
+arpabet: F EY1 TH F AH0 L
+
+
+
+
+-- lib.word: fail
+american: फेऽल
+arpabet: F EY1 L
+
+
+
+
+-- lib.word: faint
+american: फेऽन्ट
+arpabet: F EY1 N T
+
+
+
+
+-- lib.word: fairly
+american: फेर्ली
+arpabet: F EH1 R L IY0
+
+
+
+
+-- lib.word: fat
+american: फैट
+arpabet: F AE1 T
+
+
+
+
+-- lib.word: fame
+american: फेऽम
+arpabet: F EY1 M
+
+
+
+
+-- lib.word: fatal
+american: फेऽटैल
+arpabet: F EY1 T AH0 L
+
+
+
+
+-- lib.word: farm
+american: फॉर्म
+arpabet: F AA1 R M
+
+
+
+
+-- lib.word: failure
+american: फेऽल्य्र
+arpabet: F EY1 L Y ER0
+
+
+
+
+-- lib.word: falls
+american: फॉल्स
+arpabet: F AO1 L Z
+
+
+
+
+-- lib.word: fathers
+american: फॉदर्स
+arpabet: F AA1 DH ER0 Z
+
+
+
+
+-- lib.word: favourite
+american: फेऽव्रिट
+arpabet: F EY1 V ER0 IH0 T
+
+
+
+
+-- lib.word: fastened
+american: फैसैन्ड
+arpabet: F AE1 S AH0 N D
+
+
+
+
+-- lib.word: fancied
+american: फैन्सीड
+arpabet: F AE1 N S IY0 D
+
+
+
+
+-- lib.word: farmer
+american: फॉर्म्र
+arpabet: F AA1 R M ER0
+
+
+
+
+-- lib.word: farewell
+american: फेर्वेल
+arpabet: F EH2 R W EH1 L
+
+
+
+
+-- lib.word: favorite
+american: फेऽव्रिट
+arpabet: F EY1 V ER0 IH0 T
+
+
+
+
+-- lib.word: faced
+american: फेऽस्ट
+arpabet: F EY1 S T
+
+
+
+
+-- lib.word: faded
+american: फेऽडैड
+arpabet: F EY1 D AH0 D
+
+
+
+
+-- lib.word: faults
+american: फॉल्ट्स
+arpabet: F AO1 L T S
+
+
+
+
+-- lib.word: favourable
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: fanny
+american: फैनी
+arpabet: F AE1 N IY0
+
+
+
+
+-- lib.word: fatigue
+american: फैटीग
+arpabet: F AH0 T IY1 G
+
+
+
+
+-- lib.word: fairy
+american: फेरी
+arpabet: F EH1 R IY0
+
+
+
+
+-- lib.word: favorable
+american: फेऽव्रैबैल
+arpabet: F EY1 V ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: fain
+american: फेऽन
+arpabet: F EY1 N
+
+
+
+
+-- lib.word: facing
+american: फेऽसिंग
+arpabet: F EY1 S IH0 NG
+
+
+
+
+-- lib.word: fashionable
+american: फैशैनैबैल
+arpabet: F AE1 SH AH0 N AH0 B AH0 L
+
+
+
+
+-- lib.word: faculty
+american: फैकैल्टी
+arpabet: F AE1 K AH0 L T IY0
+
+
+
+
+-- lib.word: faintly
+american: फेऽन्ट्ली
+arpabet: F EY1 N T L IY0
+
+
+
+
+-- lib.word: fare
+american: फेर
+arpabet: F EH1 R
+
+
+
+
+-- lib.word: faculties
+american: फैकैल्टीस
+arpabet: F AE1 K AH0 L T IY0 Z
+
+
+
+
+-- lib.word: facility
+american: फैसिलिटी
+arpabet: F AH0 S IH1 L IH0 T IY0
+
+
+
+
+-- lib.word: faithfully
+american: फेऽथफैली
+arpabet: F EY1 TH F AH0 L IY0
+
+
+
+
+-- lib.word: farmers
+american: फॉर्म्र्स
+arpabet: F AA1 R M ER0 Z
+
+
+
+
+-- lib.word: faster
+american: फैस्ट्र
+arpabet: F AE1 S T ER0
+
+
+
+
+-- lib.word: factory
+american: फैक्ट्री
+arpabet: F AE1 K T ER0 IY0
+
+
+
+
+-- lib.word: failing
+american: फेऽलिंग
+arpabet: F EY1 L IH0 NG
+
+
+
+
+-- lib.word: fantastic
+american: फैन्टैस्टिक
+arpabet: F AE0 N T AE1 S T IH0 K
+
+
+
+
+-- lib.word: fancies
+american: फैन्सीस
+arpabet: F AE1 N S IY0 Z
+
+
+
+
+-- lib.word: falsehood
+american: फैल्स्हूड
+arpabet: F AE1 L S HH UH2 D
+
+
+
+
+-- lib.word: famine
+american: फैमैन
+arpabet: F AE1 M AH0 N
+
+
+
+
+-- lib.word: favoured
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: farms
+american: फॉर्म्स
+arpabet: F AA1 R M Z
+
+
+
+
+-- lib.word: fascinating
+american: फैसैनेऽटिंग
+arpabet: F AE1 S AH0 N EY2 T IH0 NG
+
+
+
+
+-- lib.word: factor
+american: फैक्ट्र
+arpabet: F AE1 K T ER0
+
+
+
+
+-- lib.word: fan
+american: फैन
+arpabet: F AE1 N
+
+
+
+
+-- lib.word: familiarity
+american: फैमिल्येरैटी
+arpabet: F AH0 M IH2 L Y EH1 R AH0 T IY0
+
+
+
+
+-- lib.word: fairest
+american: फेरिस्ट
+arpabet: F EH1 R IH0 S T
+
+
+
+
+-- lib.word: fascination
+american: फैसैनेऽशैन
+arpabet: F AE2 S AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: fabric
+american: फैब्रिक
+arpabet: F AE1 B R IH0 K
+
+
+
+
+-- lib.word: faction
+american: फैक्शैन
+arpabet: F AE1 K SH AH0 N
+
+
+
+
+-- lib.word: fade
+american: फेऽड
+arpabet: F EY1 D
+
+
+
+
+-- lib.word: fable
+american: फेऽबैल
+arpabet: F EY1 B AH0 L
+
+
+
+
+-- lib.word: farthest
+american: फॉर्दैस्ट
+arpabet: F AA1 R DH AH0 S T
+
+
+
+
+-- lib.word: farming
+american: फॉर्मिंग
+arpabet: F AA1 R M IH0 NG
+
+
+
+
+-- lib.word: fasten
+american: फैसैन
+arpabet: F AE1 S AH0 N
+
+
+
+
+-- lib.word: facilities
+american: फैसिलैटीस
+arpabet: F AH0 S IH1 L AH0 T IY0 Z
+
+
+
+
+-- lib.word: favors
+american: फेऽव्र्स
+arpabet: F EY1 V ER0 Z
+
+
+
+
+-- lib.word: faintest
+american: फेऽन्टैस्ट
+arpabet: F EY1 N T AH0 S T
+
+
+
+
+-- lib.word: fanciful
+american: फैन्सिफैल
+arpabet: F AE1 N S IH0 F AH0 L
+
+
+
+
+-- lib.word: factors
+american: फैक्ट्र्स
+arpabet: F AE1 K T ER0 Z
+
+
+
+
+-- lib.word: fairies
+american: फेरीस
+arpabet: F EH1 R IY0 Z
+
+
+
+
+-- lib.word: Faust
+american: फाव्स्ट
+arpabet: F AW1 S T
+
+
+
+
+-- lib.word: farce
+american: फॉर्स
+arpabet: F AA1 R S
+
+
+
+
+-- lib.word: fasting
+american: फैस्टिंग
+arpabet: F AE1 S T IH0 NG
+
+
+
+
+-- lib.word: father-in-law
+american: फॉदरिन्ला
+arpabet: F AA1 DH ER0 IH0 N L AO2
+
+
+
+
+-- lib.word: fathom
+american: फैदैम
+arpabet: F AE1 DH AH0 M
+
+
+
+
+-- lib.word: farthing
+american: फॉर्दिंग
+arpabet: F AA1 R DH IH0 NG
+
+
+
+

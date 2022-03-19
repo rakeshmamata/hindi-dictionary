@@ -1,0 +1,501 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: look
+american: लूक
+arpabet: L UH1 K
+meaning: देखना , रूप, आकृति, तकना
+
+
+-- lib.word: love
+american: लाव
+arpabet: L AH1 V
+meaning: प्यार,प्रीति ,प्रेम
+
+
+-- lib.word: long
+american: लॉंग
+arpabet: L AO1 NG
+meaning: लंबा ,फैला हुआ, दीर्घ
+
+
+-- lib.word: lot
+american: लॉट
+arpabet: L AA1 T
+meaning: बहुत , ढेर
+
+
+-- lib.word: looking
+american: लूकिंग
+arpabet: L UH1 K IH0 NG
+meaning: देखना
+
+
+-- lib.word: lost
+american: लॉस्ट
+arpabet: L AO1 S T
+meaning: खोना ,लुप्त
+
+
+-- lib.word: looks
+american: लूक्स
+arpabet: L UH1 K S
+meaning: दिखता है , देखना
+
+
+-- lib.word: lose
+american: लूस
+arpabet: L UW1 Z
+meaning: खोना  ,गवाना ,छोड़ना
+
+
+-- lib.word: loved
+american: लाव्ड
+arpabet: L AH1 V D
+meaning: प्यार किया
+
+
+-- lib.word: loves
+american: लाव्स
+arpabet: L AH1 V Z
+meaning: प्यार
+
+
+-- lib.word: looked
+american: लूक्ट
+arpabet: L UH1 K T
+meaning: देखा
+
+
+-- lib.word: longer
+american: लॉंग्ग्र
+arpabet: L AO1 NG G ER0
+meaning: लंबे समय तक,बहुत समय पूर्व
+
+
+-- lib.word: lord
+american: लॉर्ड
+arpabet: L AO1 R D
+
+
+
+
+-- lib.word: low
+american: लो
+arpabet: L OW1
+
+
+
+
+-- lib.word: London
+american: लान्डैन
+arpabet: L AH1 N D AH0 N
+
+
+
+
+-- lib.word: loss
+american: लॉस
+arpabet: L AO1 S
+
+
+
+
+-- lib.word: lower
+american: लोर
+arpabet: L OW1 ER0
+
+
+
+
+-- lib.word: louis
+american: लूइस
+arpabet: L UW1 IH0 S
+
+
+
+
+-- lib.word: loud
+american: लाव्ड
+arpabet: L AW1 D
+
+
+
+
+-- lib.word: lovely
+american: लाव्ली
+arpabet: L AH1 V L IY0
+
+
+
+
+-- lib.word: loose
+american: लूस
+arpabet: L UW1 S
+
+
+
+
+-- lib.word: lover
+american: लाव्र
+arpabet: L AH1 V ER0
+
+
+
+
+-- lib.word: local
+american: लोकैल
+arpabet: L OW1 K AH0 L
+
+
+
+
+-- lib.word: lonely
+american: लोन्ली
+arpabet: L OW1 N L IY0
+
+
+
+
+-- lib.word: located
+american: लोकेऽटैड
+arpabet: L OW1 K EY2 T AH0 D
+
+
+
+
+-- lib.word: loving
+american: लाविंग
+arpabet: L AH1 V IH0 NG
+
+
+
+
+-- lib.word: lords
+american: लॉर्ड्स
+arpabet: L AO1 R D Z
+
+
+
+
+-- lib.word: lofty
+american: लॉफ्टी
+arpabet: L AO1 F T IY0
+
+
+
+
+-- lib.word: locked
+american: लॉक्ट
+arpabet: L AA1 K T
+
+
+
+
+-- lib.word: losing
+american: लूसिंग
+arpabet: L UW1 Z IH0 NG
+
+
+
+
+-- lib.word: longing
+american: लॉंगिंग
+arpabet: L AO1 NG IH0 NG
+
+
+
+
+-- lib.word: lovers
+american: लाव्र्स
+arpabet: L AH1 V ER0 Z
+
+
+
+
+-- lib.word: load
+american: लोड
+arpabet: L OW1 D
+
+
+
+
+-- lib.word: lock
+american: लॉक
+arpabet: L AA1 K
+
+
+
+
+-- lib.word: lowest
+american: लोऐस्ट
+arpabet: L OW1 AH0 S T
+
+
+
+
+-- lib.word: loaded
+american: लोडिड
+arpabet: L OW1 D IH0 D
+
+
+
+
+-- lib.word: longed
+american: लॉंग्ड
+arpabet: L AO1 NG D
+
+
+
+
+-- lib.word: loudly
+american: लाव्ड्ली
+arpabet: L AW1 D L IY0
+
+
+
+
+-- lib.word: loyal
+american: लॉयैल
+arpabet: L OY1 AH0 L
+
+
+
+
+-- lib.word: lowered
+american: लोर्ड
+arpabet: L OW1 ER0 D
+
+
+
+
+-- lib.word: lo
+american: लो
+arpabet: L OW1
+
+
+
+
+-- lib.word: log
+american: लॉग
+arpabet: L AO1 G
+
+
+
+
+-- lib.word: lots
+american: लॉट्स
+arpabet: L AA1 T S
+
+
+
+
+-- lib.word: lodge
+american: लॉज
+arpabet: L AA1 JH
+
+
+
+
+-- lib.word: loyalty
+american: लॉयैल्टी
+arpabet: L OY1 AH0 L T IY0
+
+
+
+
+-- lib.word: lordship
+american: लॉर्ड्शिप
+arpabet: L AO1 R D SH IH0 P
+
+
+
+
+-- lib.word: locations
+american: लोकेऽशैन्स
+arpabet: L OW0 K EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: Louisiana
+american: लुईसीऐनै
+arpabet: L UW0 IY2 Z IY0 AE1 N AH0
+
+
+
+
+-- lib.word: Louise
+american: लुईस
+arpabet: L UW0 IY1 Z
+
+
+
+
+-- lib.word: lodging
+american: लॉजिंग
+arpabet: L AA1 JH IH0 NG
+
+
+
+
+-- lib.word: locks
+american: लॉक्स
+arpabet: L AA1 K S
+
+
+
+
+-- lib.word: lodgings
+american: लॉजिंग्स
+arpabet: L AA1 JH IH0 NG Z
+
+
+
+
+-- lib.word: louder
+american: लाव्ड्र
+arpabet: L AW1 D ER0
+
+
+
+
+-- lib.word: lodged
+american: लॉज्ड
+arpabet: L AA1 JH D
+
+
+
+
+-- lib.word: logic
+american: लॉजिक
+arpabet: L AA1 JH IH0 K
+
+
+
+
+-- lib.word: logs
+american: लॉग्स
+arpabet: L AO1 G Z
+
+
+
+
+-- lib.word: logical
+american: लॉजिकैल
+arpabet: L AA1 JH IH0 K AH0 L
+
+
+
+
+-- lib.word: loneliness
+american: लोन्लीनैस
+arpabet: L OW1 N L IY0 N AH0 S
+
+
+
+
+-- lib.word: loveliness
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: loan
+american: लोन
+arpabet: L OW1 N
+
+
+
+
+-- lib.word: locality
+american: लोकैलैटी
+arpabet: L OW0 K AE1 L AH0 T IY0
+
+
+
+
+-- lib.word: longitude
+american: लॉन्जैटुड
+arpabet: L AA1 N JH AH0 T UW2 D
+
+
+
+
+-- lib.word: lowering
+american: लोरिंग
+arpabet: L OW1 ER0 IH0 NG
+
+
+
+
+-- lib.word: longest
+american: लॉंग्गैस्ट
+arpabet: L AO1 NG G AH0 S T
+
+
+
+
+-- lib.word: loaf
+american: लोफ
+arpabet: L OW1 F
+
+
+
+
+-- lib.word: lone
+american: लोन
+arpabet: L OW1 N
+
+
+
+
+-- lib.word: lowly
+american: लोली
+arpabet: L OW1 L IY0
+
+
+
+
+-- lib.word: locke
+american: लॉक
+arpabet: L AA1 K
+
+
+
+
+-- lib.word: location
+american: लोकेऽशैन
+arpabet: L OW0 K EY1 SH AH0 N
+
+
+
+
+-- lib.word: login
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: lore
+american: लॉर
+arpabet: L AO1 R
+
+
+
+
+-- lib.word: lonesome
+american: लोन्सैम
+arpabet: L OW1 N S AH0 M
+
+
+
+
+-- lib.word: lookout
+american: लूकाव्ट
+arpabet: L UH1 K AW2 T
+
+
+
+

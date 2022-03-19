@@ -1,0 +1,474 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: room
+american: रूम
+arpabet: R UW1 M
+meaning: कमरा ,कक्ष
+
+
+-- lib.word: Ross
+american: रॉस
+arpabet: R AA1 S
+meaning: रॅास
+
+
+-- lib.word: rose
+american: रोस
+arpabet: R OW1 Z
+meaning: गुलाब
+
+
+-- lib.word: road
+american: रोड
+arpabet: R OW1 D
+meaning: सड़क, मार्ग, पथ, पद्धति, राज पथ
+
+
+-- lib.word: round
+american: राव्न्ड
+arpabet: R AW1 N D
+
+
+
+
+-- lib.word: Rome
+american: रोम
+arpabet: R OW1 M
+
+
+
+
+-- lib.word: roman
+american: रोमैन
+arpabet: R OW1 M AH0 N
+
+
+
+
+-- lib.word: rock
+american: रॉक
+arpabet: R AA1 K
+
+
+
+
+-- lib.word: royal
+american: रॉयैल
+arpabet: R OY1 AH0 L
+
+
+
+
+-- lib.word: robert
+american: रॉब्र्ट
+arpabet: R AA1 B ER0 T
+
+
+
+
+-- lib.word: rode
+american: रोड
+arpabet: R OW1 D
+
+
+
+
+-- lib.word: rocks
+american: रॉक्स
+arpabet: R AA1 K S
+
+
+
+
+-- lib.word: rooms
+american: रूम्स
+arpabet: R UW1 M Z
+
+
+
+
+-- lib.word: rough
+american: राफ
+arpabet: R AH1 F
+
+
+
+
+-- lib.word: roof
+american: रूफ
+arpabet: R UW1 F
+
+
+
+
+-- lib.word: rolled
+american: रोल्ड
+arpabet: R OW1 L D
+
+
+
+
+-- lib.word: Romans
+american: रोमैन्स
+arpabet: R OW1 M AH0 N Z
+
+
+
+
+-- lib.word: row
+american: रो
+arpabet: R OW1
+
+
+
+
+-- lib.word: roads
+american: रोड्स
+arpabet: R OW1 D Z
+
+
+
+
+-- lib.word: rope
+american: रोप
+arpabet: R OW1 P
+
+
+
+
+-- lib.word: royalty
+american: रॉयैल्टी
+arpabet: R OY1 AH0 L T IY0
+
+
+
+
+-- lib.word: romance
+american: रोमैन्स
+arpabet: R OW0 M AE1 N S
+
+
+
+
+-- lib.word: roll
+american: रोल
+arpabet: R OW1 L
+
+
+
+
+-- lib.word: root
+american: रूट
+arpabet: R UW1 T
+
+
+
+
+-- lib.word: route
+american: रूट
+arpabet: R UW1 T
+
+
+
+
+-- lib.word: roots
+american: रूट्स
+arpabet: R UW1 T S
+
+
+
+
+-- lib.word: rolling
+american: रोलिंग
+arpabet: R OW1 L IH0 NG
+
+
+
+
+-- lib.word: roses
+american: रोसिस
+arpabet: R OW1 Z IH0 Z
+
+
+
+
+-- lib.word: roar
+american: रॉर
+arpabet: R AO1 R
+
+
+
+
+-- lib.word: romantic
+american: रोमैन्टिक
+arpabet: R OW0 M AE1 N T IH0 K
+
+
+
+
+-- lib.word: roused
+american: राव्स्ड
+arpabet: R AW1 Z D
+
+
+
+
+-- lib.word: rocky
+american: रॉकी
+arpabet: R AA1 K IY0
+
+
+
+
+-- lib.word: roger
+american: रॉज्र
+arpabet: R AA1 JH ER0
+
+
+
+
+-- lib.word: robin
+american: रॉबैन
+arpabet: R AA1 B AH0 N
+
+
+
+
+-- lib.word: robbed
+american: रॉब्ड
+arpabet: R AA1 B D
+
+
+
+
+-- lib.word: robe
+american: रोब
+arpabet: R OW1 B
+
+
+
+
+-- lib.word: rows
+american: रोस
+arpabet: R OW1 Z
+
+
+
+
+-- lib.word: rob
+american: रॉब
+arpabet: R AA1 B
+
+
+
+
+-- lib.word: rod
+american: रॉड
+arpabet: R AA1 D
+
+
+
+
+-- lib.word: robes
+american: रोब्स
+arpabet: R OW1 B Z
+
+
+
+
+-- lib.word: rosy
+american: रोसी
+arpabet: R OW1 Z IY0
+
+
+
+
+-- lib.word: roaring
+american: रॉरिंग
+arpabet: R AO1 R IH0 NG
+
+
+
+
+-- lib.word: roared
+american: रॉर्ड
+arpabet: R AO1 R D
+
+
+
+
+-- lib.word: roughly
+american: राफ्ली
+arpabet: R AH1 F L IY0
+
+
+
+
+-- lib.word: rounded
+american: राव्न्डैड
+arpabet: R AW1 N D AH0 D
+
+
+
+
+-- lib.word: roofs
+american: रूफ्स
+arpabet: R UW1 F S
+
+
+
+
+-- lib.word: Robinson
+american: रॉबैन्सैन
+arpabet: R AA1 B AH0 N S AH0 N
+
+
+
+
+-- lib.word: ropes
+american: रोप्स
+arpabet: R OW1 P S
+
+
+
+
+-- lib.word: rolls
+american: रोल्स
+arpabet: R OW1 L Z
+
+
+
+
+-- lib.word: rotten
+american: रॉटैन
+arpabet: R AA1 T AH0 N
+
+
+
+
+-- lib.word: Roy
+american: रॉय
+arpabet: R OY1
+
+
+
+
+-- lib.word: rouse
+american: राव्स
+arpabet: R AW1 S
+
+
+
+
+-- lib.word: robbery
+american: रॉब्री
+arpabet: R AA1 B ER0 IY0
+
+
+
+
+-- lib.word: Rogers
+american: रॉज्र्स
+arpabet: R AA1 JH ER0 Z
+
+
+
+
+-- lib.word: rogue
+american: रोग
+arpabet: R OW1 G
+
+
+
+
+-- lib.word: routine
+american: रुटीन
+arpabet: R UW0 T IY1 N
+
+
+
+
+-- lib.word: roast
+american: रोस्ट
+arpabet: R OW1 S T
+
+
+
+
+-- lib.word: robber
+american: रॉब्र
+arpabet: R AA1 B ER0
+
+
+
+
+-- lib.word: Roberts
+american: रॉब्र्ट्स
+arpabet: R AA1 B ER0 T S
+
+
+
+
+-- lib.word: rooted
+american: रूटैड
+arpabet: R UW1 T AH0 D
+
+
+
+
+-- lib.word: rosa
+american: रोसै
+arpabet: R OW1 Z AH0
+
+
+
+
+-- lib.word: rounds
+american: राव्न्ड्स
+arpabet: R AW1 N D Z
+
+
+
+
+-- lib.word: role
+american: रोल
+arpabet: R OW1 L
+
+
+
+
+-- lib.word: robust
+american: रोबास्ट
+arpabet: R OW0 B AH1 S T
+
+
+
+
+-- lib.word: rout
+american: राव्ट
+arpabet: R AW1 T
+
+
+
+
+-- lib.word: rot
+american: रॉट
+arpabet: R AA1 T
+
+
+
+
+-- lib.word: rowing
+american: रोइंग
+arpabet: R OW1 IH0 NG
+
+
+
+
+-- lib.word: rocking
+american: रॉकिंग
+arpabet: R AA1 K IH0 NG
+
+
+
+

@@ -1,0 +1,600 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: back
+american: बैक
+arpabet: B AE1 K
+meaning: पीछे की ओर, वापस
+
+
+-- lib.word: bad
+american: बैड
+arpabet: B AE1 D
+meaning: खराब ,बुरा ,अशुभ ,हानिकारक
+
+
+-- lib.word: baby
+american: बेऽबी
+arpabet: B EY1 B IY0
+meaning: शिशु ,बच्चा ,
+
+
+-- lib.word: bar
+american: बॉर
+arpabet: B AA1 R
+meaning: बार(समय की संख्या से सम्बंधित, मधुशाला
+
+
+-- lib.word: battle
+american: बैटैल
+arpabet: B AE1 T AH0 L
+
+
+
+
+-- lib.word: bank
+american: बैंग्क
+arpabet: B AE1 NG K
+
+
+
+
+-- lib.word: bay
+american: बेऽ
+arpabet: B EY1
+
+
+
+
+-- lib.word: based
+american: बेऽस्ट
+arpabet: B EY1 S T
+
+
+
+
+-- lib.word: bare
+american: बेर
+arpabet: B EH1 R
+
+
+
+
+-- lib.word: base
+american: बेऽस
+arpabet: B EY1 S
+
+
+
+
+-- lib.word: band
+american: बैन्ड
+arpabet: B AE1 N D
+
+
+
+
+-- lib.word: ball
+american: बॉल
+arpabet: B AO1 L
+
+
+
+
+-- lib.word: banks
+american: बैंग्क्स
+arpabet: B AE1 NG K S
+
+
+
+
+-- lib.word: bade
+american: बेऽड
+arpabet: B EY1 D
+
+
+
+
+-- lib.word: bag
+american: बैग
+arpabet: B AE1 G
+
+
+
+
+-- lib.word: badly
+american: बैड्ली
+arpabet: B AE1 D L IY0
+
+
+
+
+-- lib.word: basis
+american: बेऽसैस
+arpabet: B EY1 S AH0 S
+
+
+
+
+-- lib.word: balance
+american: बैलैन्स
+arpabet: B AE1 L AH0 N S
+
+
+
+
+-- lib.word: bark
+american: बॉर्क
+arpabet: B AA1 R K
+
+
+
+
+-- lib.word: bath
+american: बैथ
+arpabet: B AE1 TH
+
+
+
+
+-- lib.word: basket
+american: बैस्कैट
+arpabet: B AE1 S K AH0 T
+
+
+
+
+-- lib.word: bargain
+american: बॉर्गैन
+arpabet: B AA1 R G AH0 N
+
+
+
+
+-- lib.word: bands
+american: बैन्ड्स
+arpabet: B AE1 N D Z
+
+
+
+
+-- lib.word: Barbara
+american: बॉर्ब्रै
+arpabet: B AA1 R B ER0 AH0
+
+
+
+
+-- lib.word: background
+american: बैक्ग्राव्न्ड
+arpabet: B AE1 K G R AW2 N D
+
+
+
+
+-- lib.word: backs
+american: बैक्स
+arpabet: B AE1 K S
+
+
+
+
+-- lib.word: bars
+american: बॉर्स
+arpabet: B AA1 R Z
+
+
+
+
+-- lib.word: barren
+american: बैरैन
+arpabet: B AE1 R AH0 N
+
+
+
+
+-- lib.word: barely
+american: बेर्ली
+arpabet: B EH1 R L IY0
+
+
+
+
+-- lib.word: battles
+american: बैटैल्स
+arpabet: B AE1 T AH0 L Z
+
+
+
+
+-- lib.word: balls
+american: बॉल्स
+arpabet: B AO1 L Z
+
+
+
+
+-- lib.word: battery
+american: बैट्री
+arpabet: B AE1 T ER0 IY0
+
+
+
+
+-- lib.word: baggage
+american: बैगैज
+arpabet: B AE1 G AH0 JH
+
+
+
+
+-- lib.word: basin
+american: बेऽसैन
+arpabet: B EY1 S AH0 N
+
+
+
+
+-- lib.word: barbarous
+american: बॉर्ब्रैस
+arpabet: B AA1 R B ER0 AH0 S
+
+
+
+
+-- lib.word: banished
+american: बैनिशट
+arpabet: B AE1 N IH0 SH T
+
+
+
+
+-- lib.word: Babylon
+american: बैबैलॉन
+arpabet: B AE1 B AH0 L AA2 N
+
+
+
+
+-- lib.word: barrier
+american: बैरीर
+arpabet: B AE1 R IY0 ER0
+
+
+
+
+-- lib.word: barrel
+american: बैरैल
+arpabet: B AE1 R AH0 L
+
+
+
+
+-- lib.word: baker
+american: बेऽक्र
+arpabet: B EY1 K ER0
+
+
+
+
+-- lib.word: banquet
+american: बैंग्क्वैट
+arpabet: B AE1 NG K W AH0 T
+
+
+
+
+-- lib.word: bags
+american: बैग्स
+arpabet: B AE1 G Z
+
+
+
+
+-- lib.word: backed
+american: बैक्ट
+arpabet: B AE1 K T
+
+
+
+
+-- lib.word: banner
+american: बैन्र
+arpabet: B AE1 N ER0
+
+
+
+
+-- lib.word: backwards
+american: बैक्वर्ड्स
+arpabet: B AE1 K W ER0 D Z
+
+
+
+
+-- lib.word: balcony
+american: बैल्कैनी
+arpabet: B AE1 L K AH0 N IY0
+
+
+
+
+-- lib.word: batteries
+american: बैट्रीस
+arpabet: B AE1 T ER0 IY0 Z
+
+
+
+
+-- lib.word: banker
+american: बैंग्क्र
+arpabet: B AE1 NG K ER0
+
+
+
+
+-- lib.word: baffled
+american: बैफैल्ड
+arpabet: B AE1 F AH0 L D
+
+
+
+
+-- lib.word: baptism
+american: बैप्टिसैम
+arpabet: B AE1 P T IH0 Z AH0 M
+
+
+
+
+-- lib.word: baron
+american: बैरैन
+arpabet: B AE1 R AH0 N
+
+
+
+
+-- lib.word: babe
+american: बेऽब
+arpabet: B EY1 B
+
+
+
+
+-- lib.word: bacon
+american: बेऽकैन
+arpabet: B EY1 K AH0 N
+
+
+
+
+-- lib.word: baked
+american: बेऽक्ट
+arpabet: B EY1 K T
+
+
+
+
+-- lib.word: Baltimore
+american: बॉल्टैमार
+arpabet: B AO1 L T AH0 M AO2 R
+
+
+
+
+-- lib.word: Barry
+american: बैरी
+arpabet: B AE1 R IY0
+
+
+
+
+-- lib.word: basil
+american: बैसैल
+arpabet: B AE1 Z AH0 L
+
+
+
+
+-- lib.word: bachelor
+american: बैचैल्र
+arpabet: B AE1 CH AH0 L ER0
+
+
+
+
+-- lib.word: balloon
+american: बैलून
+arpabet: B AH0 L UW1 N
+
+
+
+
+-- lib.word: baptized
+american: बैप्टाय्स्ड
+arpabet: B AE0 P T AY1 Z D
+
+
+
+
+-- lib.word: balanced
+american: बैलैन्स्ट
+arpabet: B AE1 L AH0 N S T
+
+
+
+
+-- lib.word: barley
+american: बॉर्ली
+arpabet: B AA1 R L IY0
+
+
+
+
+-- lib.word: ballad
+american: बैलैड
+arpabet: B AE1 L AH0 D
+
+
+
+
+-- lib.word: baking
+american: बेऽकिंग
+arpabet: B EY1 K IH0 NG
+
+
+
+
+-- lib.word: bathing
+american: बेऽदिंग
+arpabet: B EY1 DH IH0 NG
+
+
+
+
+-- lib.word: bake
+american: बेऽक
+arpabet: B EY1 K
+
+
+
+
+-- lib.word: bailey
+american: बेऽली
+arpabet: B EY1 L IY0
+
+
+
+
+-- lib.word: bait
+american: बेऽट
+arpabet: B EY1 T
+
+
+
+
+-- lib.word: barking
+american: बॉर्किंग
+arpabet: B AA1 R K IH0 NG
+
+
+
+
+-- lib.word: battalion
+american: बैटैल्यैन
+arpabet: B AH0 T AE1 L Y AH0 N
+
+
+
+
+-- lib.word: bamboo
+american: बैम्बू
+arpabet: B AE0 M B UW1
+
+
+
+
+-- lib.word: baths
+american: बैथस
+arpabet: B AE1 TH S
+
+
+
+
+-- lib.word: Baptist
+american: बैप्टैस्ट
+arpabet: B AE1 P T AH0 S T
+
+
+
+
+-- lib.word: baronet
+american: बेरैनैट
+arpabet: B EH1 R AH0 N AH0 T
+
+
+
+
+-- lib.word: barber
+american: बॉर्ब्र
+arpabet: B AA1 R B ER0
+
+
+
+
+-- lib.word: bathe
+american: बेऽद
+arpabet: B EY1 DH
+
+
+
+
+-- lib.word: Bart
+american: बॉर्ट
+arpabet: B AA1 R T
+
+
+
+
+-- lib.word: basic
+american: बेऽसिक
+arpabet: B EY1 S IH0 K
+
+
+
+
+-- lib.word: banish
+american: बैनिश
+arpabet: B AE1 N IH0 SH
+
+
+
+
+-- lib.word: bass
+american: बैस
+arpabet: B AE1 S
+
+
+
+
+-- lib.word: barbarian
+american: बॉर्बेरीऐन
+arpabet: B AA0 R B EH1 R IY0 AH0 N
+
+
+
+
+-- lib.word: bat
+american: बैट
+arpabet: B AE1 T
+
+
+
+
+-- lib.word: barge
+american: बॉर्ज
+arpabet: B AA1 R JH
+
+
+
+
+-- lib.word: bang
+american: बैंग
+arpabet: B AE1 NG
+
+
+
+
+-- lib.word: Bavaria
+american: बैवेरीऐ
+arpabet: B AH0 V EH1 R IY0 AH0
+
+
+
+
+-- lib.word: bases
+american: बेऽसैस
+arpabet: B EY1 S AH0 Z
+
+
+
+

@@ -1,0 +1,526 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: boy
+american: बॉय
+arpabet: B OY1
+meaning: लडका , बालक
+
+
+-- lib.word: both
+american: बोथ
+arpabet: B OW1 TH
+meaning: दोनो , दूसरा भी
+
+
+-- lib.word: book
+american: बूक
+arpabet: B UH1 K
+meaning: किताब ,पुस्तक ,बही
+
+
+-- lib.word: body
+american: बॉडी
+arpabet: B AA1 D IY0
+meaning: शरीर ,तन ,मुर्दा ,प्रधान भाग ,संस्था
+
+
+-- lib.word: boys
+american: बॉयस
+arpabet: B OY1 Z
+meaning: लड़के
+
+
+-- lib.word: Bo
+american: बो
+arpabet: B OW1
+meaning: बो ?
+
+
+-- lib.word: boyfriend
+american: बॉयफ्रेन्ड
+arpabet: B OY1 F R EH2 N D
+meaning: प्रेमी
+
+
+-- lib.word: box
+american: बॉक्स
+arpabet: B AA1 K S
+meaning: डिब्बा, पेटी, बक्स
+
+
+-- lib.word: books
+american: बूक्स
+arpabet: B UH1 K S
+
+
+
+
+-- lib.word: born
+american: बॉर्न
+arpabet: B AO1 R N
+
+
+
+
+-- lib.word: bound
+american: बाव्न्ड
+arpabet: B AW1 N D
+
+
+
+
+-- lib.word: boat
+american: बोट
+arpabet: B OW1 T
+
+
+
+
+-- lib.word: board
+american: बॉर्ड
+arpabet: B AO1 R D
+
+
+
+
+-- lib.word: bottom
+american: बॉटैम
+arpabet: B AA1 T AH0 M
+
+
+
+
+-- lib.word: bore
+american: बॉर
+arpabet: B AO1 R
+
+
+
+
+-- lib.word: bought
+american: बॉट
+arpabet: B AA1 T
+
+
+
+
+-- lib.word: bow
+american: बाव
+arpabet: B AW1
+
+
+
+
+-- lib.word: bold
+american: बोल्ड
+arpabet: B OW1 L D
+
+
+
+
+-- lib.word: bosom
+american: बूसैम
+arpabet: B UH1 Z AH0 M
+
+
+
+
+-- lib.word: bowed
+american: बाव्ड
+arpabet: B AW1 D
+
+
+
+
+-- lib.word: Boston
+american: बॉस्टैन
+arpabet: B AA1 S T AH0 N
+
+
+
+
+-- lib.word: borne
+american: बॉर्न
+arpabet: B AO1 R N
+
+
+
+
+-- lib.word: boats
+american: बोट्स
+arpabet: B OW1 T S
+
+
+
+
+-- lib.word: bones
+american: बोन्स
+arpabet: B OW1 N Z
+
+
+
+
+-- lib.word: bottle
+american: बॉटैल
+arpabet: B AA1 T AH0 L
+
+
+
+
+-- lib.word: boots
+american: बूट्स
+arpabet: B UW1 T S
+
+
+
+
+-- lib.word: Bob
+american: बॉब
+arpabet: B AA1 B
+
+
+
+
+-- lib.word: bone
+american: बोन
+arpabet: B OW1 N
+
+
+
+
+-- lib.word: border
+american: बॉर्ड्र
+arpabet: B AO1 R D ER0
+
+
+
+
+-- lib.word: Bonaparte
+american: बोनैपॉर्ट
+arpabet: B OW1 N AH0 P AA2 R T
+
+
+
+
+-- lib.word: boldly
+american: बोल्ड्ली
+arpabet: B OW1 L D L IY0
+
+
+
+
+-- lib.word: boiling
+american: बॉयलिंग
+arpabet: B OY1 L IH0 NG
+
+
+
+
+-- lib.word: bodily
+american: बॉडैली
+arpabet: B AA1 D AH0 L IY0
+
+
+
+
+-- lib.word: boxes
+american: बॉक्सैस
+arpabet: B AA1 K S AH0 Z
+
+
+
+
+-- lib.word: borrowed
+american: बॉरोड
+arpabet: B AA1 R OW2 D
+
+
+
+
+-- lib.word: bonds
+american: बॉन्ड्स
+arpabet: B AA1 N D Z
+
+
+
+
+-- lib.word: bowl
+american: बोल
+arpabet: B OW1 L
+
+
+
+
+-- lib.word: boiled
+american: बॉयल्ड
+arpabet: B OY1 L D
+
+
+
+
+-- lib.word: bond
+american: बॉन्ड
+arpabet: B AA1 N D
+
+
+
+
+-- lib.word: boil
+american: बॉयल
+arpabet: B OY1 L
+
+
+
+
+-- lib.word: bows
+american: बाव्स
+arpabet: B AW1 Z
+
+
+
+
+-- lib.word: borders
+american: बॉर्ड्र्स
+arpabet: B AO1 R D ER0 Z
+
+
+
+
+-- lib.word: boards
+american: बॉर्ड्स
+arpabet: B AO1 R D Z
+
+
+
+
+-- lib.word: bottles
+american: बॉटैल्स
+arpabet: B AA1 T AH0 L Z
+
+
+
+
+-- lib.word: boughs
+american: बाव्स
+arpabet: B AW1 Z
+
+
+
+
+-- lib.word: bonnet
+american: बॉनैट
+arpabet: B AA1 N AH0 T
+
+
+
+
+-- lib.word: boundary
+american: बाव्न्ड्री
+arpabet: B AW1 N D ER0 IY0
+
+
+
+
+-- lib.word: bounded
+american: बाव्न्डैड
+arpabet: B AW1 N D AH0 D
+
+
+
+
+-- lib.word: borrow
+american: बॉरो
+arpabet: B AA1 R OW2
+
+
+
+
+-- lib.word: bother
+american: बॉदर
+arpabet: B AA1 DH ER0
+
+
+
+
+-- lib.word: bowing
+american: बोइंग
+arpabet: B OW1 IH0 NG
+
+
+
+
+-- lib.word: bored
+american: बॉर्ड
+arpabet: B AO1 R D
+
+
+
+
+-- lib.word: bolt
+american: बोल्ट
+arpabet: B OW1 L T
+
+
+
+
+-- lib.word: boyhood
+american: बॉयहूड
+arpabet: B OY1 HH UH2 D
+
+
+
+
+-- lib.word: bondage
+american: बॉन्डिज
+arpabet: B AA1 N D IH0 JH
+
+
+
+
+-- lib.word: boyish
+american: बॉयिश
+arpabet: B OY1 IH0 SH
+
+
+
+
+-- lib.word: boot
+american: बूट
+arpabet: B UW1 T
+
+
+
+
+-- lib.word: boldness
+american: बोल्ड्नैस
+arpabet: B OW1 L D N AH0 S
+
+
+
+
+-- lib.word: boasted
+american: बोस्टैड
+arpabet: B OW1 S T AH0 D
+
+
+
+
+-- lib.word: bounty
+american: बाव्न्टी
+arpabet: B AW1 N T IY0
+
+
+
+
+-- lib.word: boss
+american: बॉस
+arpabet: B AA1 S
+
+
+
+
+-- lib.word: boon
+american: बून
+arpabet: B UW1 N
+
+
+
+
+-- lib.word: bobby
+american: बॉबी
+arpabet: B AA1 B IY0
+
+
+
+
+-- lib.word: bowels
+american: बावैल्स
+arpabet: B AW1 AH0 L Z
+
+
+
+
+-- lib.word: booty
+american: बूटी
+arpabet: B UW1 T IY0
+
+
+
+
+-- lib.word: bower
+american: बाव्र
+arpabet: B AW1 ER0
+
+
+
+
+-- lib.word: Boer
+american: बॉर
+arpabet: B AO1 R
+
+
+
+
+-- lib.word: Bohemia
+american: बोहीमीऐ
+arpabet: B OW0 HH IY1 M IY0 AH0
+
+
+
+
+-- lib.word: bolted
+american: बोल्टैड
+arpabet: B OW1 L T AH0 D
+
+
+
+
+-- lib.word: bough
+american: बाव
+arpabet: B AW1
+
+
+
+
+-- lib.word: boiler
+american: बॉयल्र
+arpabet: B OY1 L ER0
+
+
+
+
+-- lib.word: bolts
+american: बोल्ट्स
+arpabet: B OW1 L T S
+
+
+
+
+-- lib.word: Bombay
+american: बॉम्बेऽ
+arpabet: B AA0 M B EY1
+
+
+
+
+-- lib.word: bony
+american: बोनी
+arpabet: B OW1 N IY0
+
+
+
+
+-- lib.word: boisterous
+american: बॉयस्ट्रैस
+arpabet: B OY1 S T ER0 AH0 S
+
+
+
+
+-- lib.word: bohemian
+american: बोहीमीऐन
+arpabet: B OW0 HH IY1 M IY0 AH0 N
+
+
+
+

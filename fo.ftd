@@ -1,0 +1,816 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: for
+american: फॉर
+arpabet: F AO1 R
+meaning: संबंध में
+
+
+-- lib.word: found
+american: फाव्न्ड
+arpabet: F AW1 N D
+meaning: पाना , नींव डालना , स्थापित करना ढालना
+
+
+-- lib.word: forget
+american: फ्र्गेट
+arpabet: F ER0 G EH1 T
+meaning: भूल जाना , भूल जाना ,भुलाना
+
+
+-- lib.word: four
+american: फॉर
+arpabet: F AO1 R
+indian: फोर
+meaning: चार
+
+
+-- lib.word: food
+american: फूड
+arpabet: F UW1 D
+meaning: खाद्य पदार्थ ,खाना
+
+
+-- lib.word: forever
+american: फ्रेव्र
+arpabet: F ER0 EH1 V ER0
+indian:
+meaning: हमेशा के लिये,उम्र भर,सदैव,चिरकाल
+
+
+-- lib.word: forgot
+american: फ्र्गॉट
+arpabet: F ER0 G AA1 T
+indian: Same / फ़ारगाट
+meaning: भूला
+
+
+-- lib.word: follow
+american: फॉलो
+arpabet: F AA1 L OW0
+meaning: अनुसरण करना,चलना
+
+
+-- lib.word: forgive
+american: फ्र्गिव
+arpabet: F ER0 G IH1 V
+indian: फारगिव
+meaning: क्षमा करना,छोड़ना,मुक्त कर देना
+
+
+-- lib.word: form
+american: फॉर्म
+arpabet: F AO1 R M
+
+
+
+
+-- lib.word: forth
+american: फॉर्थ
+arpabet: F AO1 R TH
+
+
+
+
+-- lib.word: following
+american: फॉलोइंग
+arpabet: F AA1 L OW0 IH0 NG
+
+
+
+
+-- lib.word: followed
+american: फॉलोड
+arpabet: F AA1 L OW0 D
+
+
+
+
+-- lib.word: force
+american: फॉर्स
+arpabet: F AO1 R S
+
+
+
+
+-- lib.word: forward
+american: फॉर्वर्ड
+arpabet: F AO1 R W ER0 D
+
+
+
+
+-- lib.word: foot
+american: फूट
+arpabet: F UH1 T
+
+
+
+
+-- lib.word: former
+american: फॉर्म्र
+arpabet: F AO1 R M ER0
+
+
+
+
+-- lib.word: formed
+american: फॉर्म्ड
+arpabet: F AO1 R M D
+
+
+
+
+-- lib.word: fortune
+american: फॉर्चैन
+arpabet: F AO1 R CH AH0 N
+
+
+
+
+-- lib.word: forms
+american: फॉर्म्स
+arpabet: F AO1 R M Z
+
+
+
+
+-- lib.word: forced
+american: फॉर्स्ट
+arpabet: F AO1 R S T
+
+
+
+
+-- lib.word: foreign
+american: फॉरैन
+arpabet: F AO1 R AH0 N
+
+
+
+
+-- lib.word: forgotten
+american: फ्र्गॉटैन
+arpabet: F ER0 G AA1 T AH0 N
+
+
+
+
+-- lib.word: forest
+american: फॉरैस्ट
+arpabet: F AO1 R AH0 S T
+
+
+
+
+-- lib.word: fool
+american: फूल
+arpabet: F UW1 L
+
+
+
+
+-- lib.word: follows
+american: फॉलोस
+arpabet: F AA1 L OW0 Z
+
+
+
+
+-- lib.word: forces
+american: फॉर्सिस
+arpabet: F AO1 R S IH0 Z
+
+
+
+
+-- lib.word: forty
+american: फॉर्टी
+arpabet: F AO1 R T IY0
+
+
+
+
+-- lib.word: fond
+american: फॉन्ड
+arpabet: F AA1 N D
+
+
+
+
+-- lib.word: fought
+american: फॉट
+arpabet: F AO1 T
+
+
+
+
+-- lib.word: foolish
+american: फूलिश
+arpabet: F UW1 L IH0 SH
+
+
+
+
+-- lib.word: formerly
+american: फॉर्म्र्ली
+arpabet: F AO1 R M ER0 L IY0
+
+
+
+
+-- lib.word: forehead
+american: फॉर्हेड
+arpabet: F AO1 R HH EH0 D
+
+
+
+
+-- lib.word: fourth
+american: फॉर्थ
+arpabet: F AO1 R TH
+
+
+
+
+-- lib.word: founded
+american: फाव्न्डैड
+arpabet: F AW1 N D AH0 D
+
+
+
+
+-- lib.word: folly
+american: फॉली
+arpabet: F AA1 L IY0
+
+
+
+
+-- lib.word: folks
+american: फोक्स
+arpabet: F OW1 K S
+
+
+
+
+-- lib.word: folk
+american: फोक
+arpabet: F OW1 K
+
+
+
+
+-- lib.word: format
+american: फॉर्मैट
+arpabet: F AO1 R M AE2 T
+
+
+
+
+-- lib.word: foundation
+american: फाव्न्डेऽशैन
+arpabet: F AW0 N D EY1 SH AH0 N
+
+
+
+
+-- lib.word: fortunate
+american: फॉर्चैनैट
+arpabet: F AO1 R CH AH0 N AH0 T
+
+
+
+
+-- lib.word: foe
+american: फो
+arpabet: F OW1
+
+
+
+
+-- lib.word: forming
+american: फॉर्मिंग
+arpabet: F AO1 R M IH0 NG
+
+
+
+
+-- lib.word: fort
+american: फॉर्ट
+arpabet: F AO1 R T
+
+
+
+
+-- lib.word: fourteen
+american: फॉर्टीन
+arpabet: F AO1 R T IY1 N
+
+
+
+
+-- lib.word: fortunes
+american: फॉर्चैन्स
+arpabet: F AO1 R CH AH0 N Z
+
+
+
+
+-- lib.word: formal
+american: फॉर्मैल
+arpabet: F AO1 R M AH0 L
+
+
+
+
+-- lib.word: forests
+american: फॉरैस्ट्स
+arpabet: F AO1 R AH0 S T S
+
+
+
+
+-- lib.word: folded
+american: फोल्डैड
+arpabet: F OW1 L D AH0 D
+
+
+
+
+-- lib.word: foul
+american: फाव्ल
+arpabet: F AW1 L
+
+
+
+
+-- lib.word: formidable
+american: फॉर्मैडैबैल
+arpabet: F AO1 R M AH0 D AH0 B AH0 L
+
+
+
+
+-- lib.word: footsteps
+american: फूट्स्टेप्स
+arpabet: F UH1 T S T EH2 P S
+
+
+
+
+-- lib.word: formation
+american: फार्मेऽशैन
+arpabet: F AO0 R M EY1 SH AH0 N
+
+
+
+
+-- lib.word: foes
+american: फोस
+arpabet: F OW1 Z
+
+
+
+
+-- lib.word: forbidden
+american: फॉर्बिडैन
+arpabet: F AO1 R B IH0 D AH0 N
+
+
+
+
+-- lib.word: fortnight
+american: फॉर्ट्नाय्ट
+arpabet: F AO1 R T N AY2 T
+
+
+
+
+-- lib.word: foremost
+american: फॉर्मोस्ट
+arpabet: F AO1 R M OW2 S T
+
+
+
+
+-- lib.word: fountain
+american: फाव्न्टैन
+arpabet: F AW1 N T AH0 N
+
+
+
+
+-- lib.word: Ford
+american: फॉर्ड
+arpabet: F AO1 R D
+
+
+
+
+-- lib.word: formats
+american: फॉर्मैट्स
+arpabet: F AO1 R M AE2 T S
+
+
+
+
+-- lib.word: fools
+american: फूल्स
+arpabet: F UW1 L Z
+
+
+
+
+-- lib.word: fog
+american: फॉग
+arpabet: F AA1 G
+
+
+
+
+-- lib.word: forbid
+american: फ्र्बिड
+arpabet: F ER0 B IH1 D
+
+
+
+
+-- lib.word: forgetting
+american: फ्र्गेटिंग
+arpabet: F ER0 G EH1 T IH0 NG
+
+
+
+
+-- lib.word: fortress
+american: फॉर्ट्रैस
+arpabet: F AO1 R T R AH0 S
+
+
+
+
+-- lib.word: forthwith
+american: फॉर्थविथ
+arpabet: F AO1 R TH W IH1 TH
+
+
+
+
+-- lib.word: foliage
+american: फोलिज
+arpabet: F OW1 L IH0 JH
+
+
+
+
+-- lib.word: forgiveness
+american: फ्र्गिव्नैस
+arpabet: F ER0 G IH1 V N AH0 S
+
+
+
+
+-- lib.word: foreigners
+american: फॉरैन्र्स
+arpabet: F AO1 R AH0 N ER0 Z
+
+
+
+
+-- lib.word: fox
+american: फॉक्स
+arpabet: F AA1 K S
+
+
+
+
+-- lib.word: foundations
+american: फाव्न्डेऽशैन्स
+arpabet: F AW0 N D EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: forgiven
+american: फ्र्गिवैन
+arpabet: F ER0 G IH1 V AH0 N
+
+
+
+
+-- lib.word: footing
+american: फूटिंग
+arpabet: F UH1 T IH0 NG
+
+
+
+
+-- lib.word: folds
+american: फोल्ड्स
+arpabet: F OW1 L D Z
+
+
+
+
+-- lib.word: fold
+american: फोल्ड
+arpabet: F OW1 L D
+
+
+
+
+-- lib.word: foster
+american: फॉस्ट्र
+arpabet: F AA1 S T ER0
+
+
+
+
+-- lib.word: fortunately
+american: फॉर्चैनैट्ली
+arpabet: F AO1 R CH AH0 N AH0 T L IY0
+
+
+
+
+-- lib.word: fortified
+american: फॉर्टैफाय्ड
+arpabet: F AO1 R T AH0 F AY2 D
+
+
+
+
+-- lib.word: forlorn
+american: फ्र्लॉर्न
+arpabet: F ER0 L AO1 R N
+
+
+
+
+-- lib.word: forcing
+american: फॉर्सिंग
+arpabet: F AO1 R S IH0 NG
+
+
+
+
+-- lib.word: foam
+american: फोम
+arpabet: F OW1 M
+
+
+
+
+-- lib.word: fork
+american: फॉर्क
+arpabet: F AO1 R K
+
+
+
+
+-- lib.word: founder
+american: फाव्न्ड्र
+arpabet: F AW1 N D ER0
+
+
+
+
+-- lib.word: forcibly
+american: फॉर्सैब्ली
+arpabet: F AO1 R S AH0 B L IY0
+
+
+
+
+-- lib.word: forbade
+american: फ्र्बेऽड
+arpabet: F ER0 B EY1 D
+
+
+
+
+-- lib.word: forwards
+american: फॉर्वर्ड्स
+arpabet: F AO1 R W ER0 D Z
+
+
+
+
+-- lib.word: formally
+american: फॉर्मैली
+arpabet: F AO1 R M AH0 L IY0
+
+
+
+
+-- lib.word: foreigner
+american: फॉरैन्र
+arpabet: F AO1 R AH0 N ER0
+
+
+
+
+-- lib.word: fondly
+american: फॉन्ड्ली
+arpabet: F AA1 N D L IY0
+
+
+
+
+-- lib.word: fowl
+american: फाव्ल
+arpabet: F AW1 L
+
+
+
+
+-- lib.word: fore
+american: फॉर
+arpabet: F AO1 R
+
+
+
+
+-- lib.word: foregoing
+american: फार्गोइंग
+arpabet: F AO0 R G OW1 IH0 NG
+
+
+
+
+-- lib.word: forsaken
+american: फार्सेऽकैन
+arpabet: F AO0 R S EY1 K AH0 N
+
+
+
+
+-- lib.word: formula
+american: फॉर्म्यैलै
+arpabet: F AO1 R M Y AH0 L AH0
+
+
+
+
+-- lib.word: forbear
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: fondness
+american: फॉन्ड्नैस
+arpabet: F AA1 N D N AH0 S
+
+
+
+
+-- lib.word: forsake
+american: फार्सेऽक
+arpabet: F AO0 R S EY1 K
+
+
+
+
+-- lib.word: foreseen
+american: फार्सीन
+arpabet: F AO2 R S IY1 N
+
+
+
+
+-- lib.word: fortitude
+american: फॉर्टिटुड
+arpabet: F AO1 R T IH0 T UW2 D
+
+
+
+
+-- lib.word: forefathers
+american: फॉर्फॉदर्स
+arpabet: F AO1 R F AA2 DH ER0 Z
+
+
+
+
+-- lib.word: foreman
+american: फॉर्मैन
+arpabet: F AO1 R M AH0 N
+
+
+
+
+-- lib.word: fourteenth
+american: फॉर्टीन्थ
+arpabet: F AO1 R T IY1 N TH
+
+
+
+
+-- lib.word: forbidding
+american: फ्र्बिडिंग
+arpabet: F ER0 B IH1 D IH0 NG
+
+
+
+
+-- lib.word: forty-five
+american: फॉर्टीफाय्व
+arpabet: F AO1 R T IY0 F AY2 V
+
+
+
+
+-- lib.word: foresee
+american: फार्सी
+arpabet: F AO0 R S IY1
+
+
+
+
+-- lib.word: folding
+american: फोल्डिंग
+arpabet: F OW1 L D IH0 NG
+
+
+
+
+-- lib.word: foresaw
+american: फार्सॉ
+arpabet: F AO2 R S AO1
+
+
+
+
+-- lib.word: forged
+american: फॉर्ज्ड
+arpabet: F AO1 R JH D
+
+
+
+
+-- lib.word: foresight
+american: फॉर्साय्ट
+arpabet: F AO1 R S AY2 T
+
+
+
+
+-- lib.word: forenoon
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: football
+american: फूट्बाल
+arpabet: F UH1 T B AO2 L
+
+
+
+
+-- lib.word: forefinger
+american: फॉर्फिंग्ग्र
+arpabet: F AO1 R F IH2 NG G ER0
+
+
+
+
+-- lib.word: forbearance
+american: फार्बेरैन्स
+arpabet: F AO0 R B EH1 R AH0 N S
+
+
+
+
+-- lib.word: foretold
+american: फार्टोल्ड
+arpabet: F AO0 R T OW1 L D
+
+
+
+
+-- lib.word: forfeit
+american: फॉर्फिट
+arpabet: F AO1 R F IH0 T
+
+
+
+
+-- lib.word: foolishness
+american: फूलिशनैस
+arpabet: F UW1 L IH0 SH N AH0 S
+
+
+
+
+-- lib.word: folio
+american: unknown
+arpabet: unknown
+
+
+
+

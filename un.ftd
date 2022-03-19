@@ -1,0 +1,636 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: understand
+american: ऽन्ड्र्स्टैन्ड
+arpabet: AH2 N D ER0 S T AE1 N D
+meaning: समझना , जानना ,मानना
+
+
+-- lib.word: until
+american: ऐन्टिल
+arpabet: AH0 N T IH1 L
+meaning: तक , जब तक
+
+
+-- lib.word: under
+american: आन्ड्र
+arpabet: AH1 N D ER0
+indian: आन्ड्र । अन्डर
+meaning: अंतर्गत , नीचे , अधीन , कम
+
+
+-- lib.word: unless
+american: ऐन्लेस
+arpabet: AH0 N L EH1 S
+meaning: जब-तक,यदि नहीं,न कि,सिवाय
+
+
+-- lib.word: united
+american: युनाय्टैड
+arpabet: Y UW0 N AY1 T AH0 D
+
+
+
+
+-- lib.word: unto
+american: आन्टु
+arpabet: AH1 N T UW0
+
+
+
+
+-- lib.word: understood
+american: ऽन्ड्र्स्टूड
+arpabet: AH2 N D ER0 S T UH1 D
+
+
+
+
+-- lib.word: uncle
+american: आंग्कैल
+arpabet: AH1 NG K AH0 L
+
+
+
+
+-- lib.word: unknown
+american: ऐन्नोन
+arpabet: AH0 N N OW1 N
+
+
+
+
+-- lib.word: understanding
+american: ऽन्ड्र्स्टैन्डिंग
+arpabet: AH2 N D ER0 S T AE1 N D IH0 NG
+
+
+
+
+-- lib.word: unable
+american: ऐनेऽबैल
+arpabet: AH0 N EY1 B AH0 L
+
+
+
+
+-- lib.word: unhappy
+american: ऐन्हैपी
+arpabet: AH0 N HH AE1 P IY0
+
+
+
+
+-- lib.word: universal
+american: युनैव्र्सैल
+arpabet: Y UW2 N AH0 V ER1 S AH0 L
+
+
+
+
+-- lib.word: unfortunate
+american: ऐन्फॉर्चैनैट
+arpabet: AH0 N F AO1 R CH AH0 N AH0 T
+
+
+
+
+-- lib.word: union
+american: यून्यैन
+arpabet: Y UW1 N Y AH0 N
+
+
+
+
+-- lib.word: uniform
+american: यूनैफार्म
+arpabet: Y UW1 N AH0 F AO2 R M
+
+
+
+
+-- lib.word: unusual
+american: ऐन्यूसुऐल
+arpabet: AH0 N Y UW1 ZH UW2 AH0 L
+
+
+
+
+-- lib.word: unexpected
+american: ऽनिक्स्पेक्टिड
+arpabet: AH2 N IH0 K S P EH1 K T IH0 D
+
+
+
+
+-- lib.word: unconscious
+american: ऽन्कॉन्शैस
+arpabet: AH2 N K AA1 N SH AH0 S
+
+
+
+
+-- lib.word: universe
+american: यूनैव्र्स
+arpabet: Y UW1 N AH0 V ER2 S
+
+
+
+
+-- lib.word: uncertain
+american: ऐन्स्र्टैन
+arpabet: AH0 N S ER1 T AH0 N
+
+
+
+
+-- lib.word: unlike
+american: ऐन्लाय्क
+arpabet: AH0 N L AY1 K
+
+
+
+
+-- lib.word: undoubtedly
+american: ऐन्डाव्टिड्ली
+arpabet: AH0 N D AW1 T IH0 D L IY0
+
+
+
+
+-- lib.word: unpleasant
+american: ऐन्प्लेसैन्ट
+arpabet: AH0 N P L EH1 Z AH0 N T
+
+
+
+
+-- lib.word: uneasy
+american: ऐनीसी
+arpabet: AH0 N IY1 Z IY0
+
+
+
+
+-- lib.word: unity
+american: यूनैटी
+arpabet: Y UW1 N AH0 T IY0
+
+
+
+
+-- lib.word: undertake
+american: आन्ड्र्टेऽक
+arpabet: AH1 N D ER0 T EY2 K
+
+
+
+
+-- lib.word: unworthy
+american: ऐन्वर्दी
+arpabet: AH0 N W ER1 DH IY0
+
+
+
+
+-- lib.word: unnecessary
+american: ऐन्नेसैसेरी
+arpabet: AH0 N N EH1 S AH0 S EH2 R IY0
+
+
+
+
+-- lib.word: unjust
+american: ऐन्जास्ट
+arpabet: AH0 N JH AH1 S T
+
+
+
+
+-- lib.word: unwilling
+american: ऐन्विलिंग
+arpabet: AH0 N W IH1 L IH0 NG
+
+
+
+
+-- lib.word: unfortunately
+american: ऐन्फॉर्चैनैट्ली
+arpabet: AH0 N F AO1 R CH AH0 N AH0 T L IY0
+
+
+
+
+-- lib.word: unseen
+american: ऐन्सीन
+arpabet: AH0 N S IY1 N
+
+
+
+
+-- lib.word: undertaking
+american: आन्ड्र्टेऽकिंग
+arpabet: AH1 N D ER0 T EY2 K IH0 NG
+
+
+
+
+-- lib.word: uncomfortable
+american: ऐन्काम्फ्र्टैबैल
+arpabet: AH0 N K AH1 M F ER0 T AH0 B AH0 L
+
+
+
+
+-- lib.word: undertaken
+american: आन्ड्र्टेऽकैन
+arpabet: AH1 N D ER0 T EY2 K AH0 N
+
+
+
+
+-- lib.word: unite
+american: यूनाय्ट
+arpabet: Y UW1 N AY2 T
+
+
+
+
+-- lib.word: unconsciously
+american: ऽन्कॉन्शैस्ली
+arpabet: AH2 N K AA1 N SH AH0 S L IY0
+
+
+
+
+-- lib.word: unnatural
+american: ऐन्नैचरैल
+arpabet: AH0 N N AE1 CH ER0 AH0 L
+
+
+
+
+-- lib.word: uncommon
+american: ऐन्कॉमैन
+arpabet: AH0 N K AA1 M AH0 N
+
+
+
+
+-- lib.word: uneasiness
+american: ऽनीसीनैस
+arpabet: AH2 N IY1 Z IY0 N AH0 S
+
+
+
+
+-- lib.word: university
+american: युनैव्र्सैटी
+arpabet: Y UW2 N AH0 V ER1 S AH0 T IY0
+
+
+
+
+-- lib.word: undertook
+american: ऽन्ड्र्टूक
+arpabet: AH2 N D ER0 T UH1 K
+
+
+
+
+-- lib.word: uncertainty
+american: ऐन्स्र्टैन्टी
+arpabet: AH0 N S ER1 T AH0 N T IY0
+
+
+
+
+-- lib.word: unexpectedly
+american: ऽनिक्स्पेक्टिड्ली
+arpabet: AH2 N IH0 K S P EH1 K T IH0 D L IY0
+
+
+
+
+-- lib.word: universally
+american: युनैव्र्सैली
+arpabet: Y UW2 N AH0 V ER1 S AH0 L IY0
+
+
+
+
+-- lib.word: underneath
+american: ऽन्ड्र्नीथ
+arpabet: AH2 N D ER0 N IY1 TH
+
+
+
+
+-- lib.word: unusually
+american: ऐन्यूसुऐली
+arpabet: AH0 N Y UW1 ZH UW2 AH0 L IY0
+
+
+
+
+-- lib.word: unique
+american: युनीक
+arpabet: Y UW0 N IY1 K
+
+
+
+
+-- lib.word: unbroken
+american: ऐन्ब्रोकैन
+arpabet: AH0 N B R OW1 K AH0 N
+
+
+
+
+-- lib.word: unreasonable
+american: ऐन्रीस्नैबैल
+arpabet: AH0 N R IY1 Z N AH0 B AH0 L
+
+
+
+
+-- lib.word: unlucky
+american: ऐन्लाकी
+arpabet: AH0 N L AH1 K IY0
+
+
+
+
+-- lib.word: ungrateful
+american: ऐन्ग्रेऽट्फैल
+arpabet: AH0 N G R EY1 T F AH0 L
+
+
+
+
+-- lib.word: unfit
+american: ऐन्फिट
+arpabet: AH0 N F IH1 T
+
+
+
+
+-- lib.word: underline
+american: आन्ड्र्लाय्न
+arpabet: AH1 N D ER0 L AY2 N
+
+
+
+
+-- lib.word: unequal
+american: ऐनीक्वैल
+arpabet: AH0 N IY1 K W AH0 L
+
+
+
+
+-- lib.word: undone
+american: ऐन्डान
+arpabet: AH0 N D AH1 N
+
+
+
+
+-- lib.word: unsolicited
+american: ऽन्सैलिसिटिड
+arpabet: AH2 N S AH0 L IH1 S IH0 T IH0 D
+
+
+
+
+-- lib.word: unsuccessful
+american: ऽन्सैक्सेस्फैल
+arpabet: AH2 N S AH0 K S EH1 S F AH0 L
+
+
+
+
+-- lib.word: unlimited
+american: ऐन्लिमैटैड
+arpabet: AH0 N L IH1 M AH0 T AH0 D
+
+
+
+
+-- lib.word: underground
+american: आन्ड्र्ग्राव्न्ड
+arpabet: AH1 N D ER0 G R AW2 N D
+
+
+
+
+-- lib.word: unkind
+american: ऐन्काय्न्ड
+arpabet: AH0 N K AY1 N D
+
+
+
+
+-- lib.word: uncovered
+american: ऐन्काव्र्ड
+arpabet: AH0 N K AH1 V ER0 D
+
+
+
+
+-- lib.word: unit
+american: यूनैट
+arpabet: Y UW1 N AH0 T
+
+
+
+
+-- lib.word: undergo
+american: ऽन्ड्र्गो
+arpabet: AH2 N D ER0 G OW1
+
+
+
+
+-- lib.word: unfinished
+american: ऐन्फिनिशट
+arpabet: AH0 N F IH1 N IH0 SH T
+
+
+
+
+-- lib.word: unlikely
+american: ऐन्लाय्क्ली
+arpabet: AH0 N L AY1 K L IY0
+
+
+
+
+-- lib.word: unclean
+american: ऐन्क्लीन
+arpabet: AH0 N K L IY1 N
+
+
+
+
+-- lib.word: untouched
+american: ऐन्टाचट
+arpabet: AH0 N T AH1 CH T
+
+
+
+
+-- lib.word: unnoticed
+american: ऐन्नोटिस्ट
+arpabet: AH0 N N OW1 T IH0 S T
+
+
+
+
+-- lib.word: unmarried
+american: ऐन्मेरीड
+arpabet: AH0 N M EH1 R IY0 D
+
+
+
+
+-- lib.word: unintelligible
+american: ऽनिन्टेलैजैबैल
+arpabet: AH2 N IH0 N T EH1 L AH0 JH AH0 B AH0 L
+
+
+
+
+-- lib.word: unfair
+american: ऐन्फेर
+arpabet: AH0 N F EH1 R
+
+
+
+
+-- lib.word: unaware
+american: ऽनैवेर
+arpabet: AH2 N AH0 W EH1 R
+
+
+
+
+-- lib.word: unanimous
+american: युनैनैमैस
+arpabet: Y UW0 N AE1 N AH0 M AH0 S
+
+
+
+
+-- lib.word: unaccountable
+american: ऽनैकाव्न्टैबैल
+arpabet: AH2 N AH0 K AW1 N T AH0 B AH0 L
+
+
+
+
+-- lib.word: unimportant
+american: ऐनिम्पॉर्टैन्ट
+arpabet: AH0 N IH0 M P AO1 R T AH0 N T
+
+
+
+
+-- lib.word: universities
+american: युनैव्र्सैटीस
+arpabet: Y UW2 N AH0 V ER1 S AH0 T IY0 Z
+
+
+
+
+-- lib.word: unsatisfactory
+american: ऽन्सैटिस्फैक्ट्री
+arpabet: AH2 N S AH0 T IH0 S F AE1 K T ER0 IY0
+
+
+
+
+-- lib.word: unjustly
+american: ऐन्जास्ट्ली
+arpabet: AH0 N JH AH1 S T L IY0
+
+
+
+
+-- lib.word: unchanged
+american: ऐन्चेऽन्ज्ड
+arpabet: AH0 N CH EY1 N JH D
+
+
+
+
+-- lib.word: unfamiliar
+american: ऽन्फैमिल्य्र
+arpabet: AH2 N F AH0 M IH1 L Y ER0
+
+
+
+
+-- lib.word: undue
+american: ऐन्डू
+arpabet: AH0 N D UW1
+
+
+
+
+-- lib.word: unlocked
+american: ऐन्लॉक्ट
+arpabet: AH0 N L AA1 K T
+
+
+
+
+-- lib.word: unwonted
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: unarmed
+american: ऐनॉर्म्ड
+arpabet: AH0 N AA1 R M D
+
+
+
+
+-- lib.word: unscrupulous
+american: ऐन्स्क्रूप्यैलैस
+arpabet: AH0 N S K R UW1 P Y AH0 L AH0 S
+
+
+
+
+-- lib.word: uniformity
+american: युनैफॉर्मैटी
+arpabet: Y UW2 N AH0 F AO1 R M AH0 T IY0
+
+
+
+
+-- lib.word: unreal
+american: ऐन्रील
+arpabet: AH0 N R IY1 L
+
+
+
+
+-- lib.word: uncouth
+american: आन्कूथ
+arpabet: AH1 N K UW1 TH
+
+
+
+
+-- lib.word: untrue
+american: ऐन्ट्रू
+arpabet: AH0 N T R UW1
+
+
+
+

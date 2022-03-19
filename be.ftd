@@ -1,0 +1,751 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: be
+american: बी
+arpabet: B IY1
+meaning: होना
+
+
+-- lib.word: been
+american: बिन
+arpabet: B IH1 N
+indian: बीन
+meaning: बग़ैर, बिना
+
+
+-- lib.word: because
+american: बिकॉस
+arpabet: B IH0 K AO1 Z
+meaning: चूँकि ,क्योंकि , इसलिए
+
+
+-- lib.word: before
+american: बिफॉर
+arpabet: B IH0 F AO1 R
+meaning: से पहले , के सामने ,के समक्ष
+
+
+-- lib.word: better
+american: बेट्र
+arpabet: B EH1 T ER0
+meaning: बेहतर ,पहले से अच्छा
+
+तुलनात्मक रूप में प्रयोग किया जाता है
+
+
+-- lib.word: believe
+american: बिलीव
+arpabet: B IH0 L IY1 V
+meaning: विश्वास करना ,मानना ,भरोसा रखना
+
+
+-- lib.word: being
+american: बीइंग
+arpabet: B IY1 IH0 NG
+meaning: प्राणी ,जीव ,हो रहा ,अस्तित्व
+
+
+-- lib.word: best
+american: बेस्ट
+arpabet: B EH1 S T
+meaning: सर्वोत्तम , श्रेष्ठ ,सबसे अच्छा , सर्वश्रेष्ठ
+
+
+-- lib.word: beautiful
+american: ब्यूटैफैल
+arpabet: B Y UW1 T AH0 F AH0 L
+indian: ब्युटिफुल
+meaning: सुन्दर , सुरूप , शोभायमान
+
+
+-- lib.word: between
+american: बिट्वीन
+arpabet: B IH0 T W IY1 N
+meaning: बीच में ,
+
+
+-- lib.word: bed
+american: बेड
+arpabet: B EH1 D
+meaning: बिस्तर ,खाट ,चारपाई ,शैय्या ,नदीतल ,सेज़
+
+
+-- lib.word: behind
+american: बिहाय्न्ड
+arpabet: B IH0 HH AY1 N D
+meaning: पीछे ,और पीछे
+
+
+-- lib.word: bet
+american: बेट
+arpabet: B EH1 T
+meaning: शर्त
+
+
+-- lib.word: besides
+american: बिसाय्ड्स
+arpabet: B IH0 S AY1 D Z
+meaning: इस के अतिरिक्त,साथ ही,और भी
+
+
+-- lib.word: Ben
+american: बेन
+arpabet: B EH1 N
+meaning: पुस्तक ?
+
+
+-- lib.word: become
+american: बिकाम
+arpabet: B IH0 K AH1 M
+meaning: बन गये
+
+
+-- lib.word: beat
+american: बीट
+arpabet: B IY1 T
+meaning: हराना, गश्त, इलाका, चूकना
+
+
+-- lib.word: Beth
+american: बेथ
+arpabet: B EH1 TH
+meaning: ऊसर ज़मीन, ऋणके लिया गय पेशगी, धन
+
+
+-- lib.word: began
+american: बिगैन
+arpabet: B IH0 G AE1 N
+
+
+
+
+-- lib.word: became
+american: बिकेऽम
+arpabet: B IH0 K EY1 M
+
+
+
+
+-- lib.word: beyond
+american: बिऑन्ड
+arpabet: B IH0 AA1 N D
+
+
+
+
+-- lib.word: below
+american: बिलो
+arpabet: B IH0 L OW1
+
+
+
+
+-- lib.word: bear
+american: बेर
+arpabet: B EH1 R
+
+
+
+
+-- lib.word: beauty
+american: ब्यूटी
+arpabet: B Y UW1 T IY0
+
+
+
+
+-- lib.word: beginning
+american: बिगिनिंग
+arpabet: B IH0 G IH1 N IH0 NG
+
+
+
+
+-- lib.word: beside
+american: बिसाय्ड
+arpabet: B IH0 S AY1 D
+
+
+
+
+-- lib.word: begin
+american: बिगिन
+arpabet: B IH0 G IH1 N
+
+
+
+
+-- lib.word: beneath
+american: बिनीथ
+arpabet: B IH0 N IY1 TH
+
+
+
+
+-- lib.word: bent
+american: बेन्ट
+arpabet: B EH1 N T
+
+
+
+
+-- lib.word: becomes
+american: बिकाम्स
+arpabet: B IH0 K AH1 M Z
+
+
+
+
+-- lib.word: bearing
+american: बेरिंग
+arpabet: B EH1 R IH0 NG
+
+
+
+
+-- lib.word: belief
+american: बिलीफ
+arpabet: B IH0 L IY1 F
+
+
+
+
+-- lib.word: becoming
+american: बिकामिंग
+arpabet: B IH0 K AH1 M IH0 NG
+
+
+
+
+-- lib.word: beg
+american: बेग
+arpabet: B EH1 G
+
+
+
+
+-- lib.word: behold
+american: बिहोल्ड
+arpabet: B IH0 HH OW1 L D
+
+
+
+
+-- lib.word: belong
+american: बिलॉंग
+arpabet: B IH0 L AO1 NG
+
+
+
+
+-- lib.word: belonged
+american: बिलॉंग्ड
+arpabet: B IH0 L AO1 NG D
+
+
+
+
+-- lib.word: bell
+american: बेल
+arpabet: B EH1 L
+
+
+
+
+-- lib.word: benefit
+american: बेनैफिट
+arpabet: B EH1 N AH0 F IH0 T
+
+
+
+
+-- lib.word: begged
+american: बेग्ड
+arpabet: B EH1 G D
+
+
+
+
+-- lib.word: beloved
+american: बिलाव्ड
+arpabet: B IH0 L AH1 V D
+
+
+
+
+-- lib.word: beast
+american: बीस्ट
+arpabet: B IY1 S T
+
+
+
+
+-- lib.word: belonging
+american: बिलॉंगिंग
+arpabet: B IH0 L AO1 NG IH0 NG
+
+
+
+
+-- lib.word: begins
+american: बिगिन्स
+arpabet: B IH0 G IH1 N Z
+
+
+
+
+-- lib.word: beings
+american: बीइंग्स
+arpabet: B IY1 IH0 NG Z
+
+
+
+
+-- lib.word: beheld
+american: बीहेल्ड
+arpabet: B IY0 HH EH1 L D
+
+
+
+
+-- lib.word: beasts
+american: बीस्ट्स
+arpabet: B IY1 S T S
+
+
+
+
+-- lib.word: beaten
+american: बीटैन
+arpabet: B IY1 T AH0 N
+
+
+
+
+-- lib.word: belongs
+american: बिलॉंग्स
+arpabet: B IH0 L AO1 NG Z
+
+
+
+
+-- lib.word: bears
+american: बेर्स
+arpabet: B EH1 R Z
+
+
+
+
+-- lib.word: beard
+american: बिर्ड
+arpabet: B IH1 R D
+
+
+
+
+-- lib.word: beating
+american: बीटिंग
+arpabet: B IY1 T IH0 NG
+
+
+
+
+-- lib.word: behalf
+american: बिहैफ
+arpabet: B IH0 HH AE1 F
+
+
+
+
+-- lib.word: betrayed
+american: बिट्रेऽड
+arpabet: B IH0 T R EY1 D
+
+
+
+
+-- lib.word: beach
+american: बीच
+arpabet: B IY1 CH
+
+
+
+
+-- lib.word: beds
+american: बेड्स
+arpabet: B EH1 D Z
+
+
+
+
+-- lib.word: bestowed
+american: बिस्टोड
+arpabet: B IH0 S T OW1 D
+
+
+
+
+-- lib.word: bedroom
+american: बेड्रुम
+arpabet: B EH1 D R UW2 M
+
+
+
+
+-- lib.word: bench
+american: बेन्च
+arpabet: B EH1 N CH
+
+
+
+
+-- lib.word: bells
+american: बेल्स
+arpabet: B EH1 L Z
+
+
+
+
+-- lib.word: bending
+american: बेन्डिंग
+arpabet: B EH1 N D IH0 NG
+
+
+
+
+-- lib.word: Berlin
+american: ब्र्लिन
+arpabet: B ER0 L IH1 N
+
+
+
+
+-- lib.word: beforehand
+american: बिफॉर्हैन्ड
+arpabet: B IH0 F AO1 R HH AE2 N D
+
+
+
+
+-- lib.word: beer
+american: बिर
+arpabet: B IH1 R
+
+
+
+
+-- lib.word: behaviour
+american: बिहेऽव्य्र
+arpabet: B IH0 HH EY1 V Y ER0
+
+
+
+
+-- lib.word: betray
+american: बिट्रेऽ
+arpabet: B IH0 T R EY1
+
+
+
+
+-- lib.word: bewildered
+american: बिविल्ड्र्ड
+arpabet: B IH0 W IH1 L D ER0 D
+
+
+
+
+-- lib.word: beautifully
+american: ब्यूटैफ्ली
+arpabet: B Y UW1 T AH0 F L IY0
+
+
+
+
+-- lib.word: beef
+american: बीफ
+arpabet: B IY1 F
+
+
+
+
+-- lib.word: behaved
+american: बिहेऽव्ड
+arpabet: B IH0 HH EY1 V D
+
+
+
+
+-- lib.word: bestow
+american: बिस्टो
+arpabet: B IH0 S T OW1
+
+
+
+
+-- lib.word: Benjamin
+american: बेन्जैमैन
+arpabet: B EH1 N JH AH0 M AH0 N
+
+
+
+
+-- lib.word: beauties
+american: ब्यूटीस
+arpabet: B Y UW1 T IY0 Z
+
+
+
+
+-- lib.word: beggar
+american: बेग्र
+arpabet: B EH1 G ER0
+
+
+
+
+-- lib.word: beam
+american: बीम
+arpabet: B IY1 M
+
+
+
+
+-- lib.word: beams
+american: बीम्स
+arpabet: B IY1 M Z
+
+
+
+
+-- lib.word: bee
+american: बी
+arpabet: B IY1
+
+
+
+
+-- lib.word: begging
+american: बेगिंग
+arpabet: B EH1 G IH0 NG
+
+
+
+
+-- lib.word: behave
+american: बिहेऽव
+arpabet: B IH0 HH EY1 V
+
+
+
+
+-- lib.word: bees
+american: बीस
+arpabet: B IY1 Z
+
+
+
+
+-- lib.word: betwixt
+american: बीट्विक्स्ट
+arpabet: B IY0 T W IH1 K S T
+
+
+
+
+-- lib.word: behavior
+american: बिहेऽव्य्र
+arpabet: B IH0 HH EY1 V Y ER0
+
+
+
+
+-- lib.word: beads
+american: बीड्स
+arpabet: B IY1 D Z
+
+
+
+
+-- lib.word: beseech
+american: बीसीच
+arpabet: B IY0 S IY1 CH
+
+
+
+
+-- lib.word: benevolent
+american: बैनेवैलैन्ट
+arpabet: B AH0 N EH1 V AH0 L AH0 N T
+
+
+
+
+-- lib.word: bedside
+american: बेड्साय्ड
+arpabet: B EH1 D S AY2 D
+
+
+
+
+-- lib.word: besieged
+american: बिसीज्ड
+arpabet: B IH0 S IY1 JH D
+
+
+
+
+-- lib.word: Belgium
+american: बेल्जैम
+arpabet: B EH1 L JH AH0 M
+
+
+
+
+-- lib.word: beans
+american: बीन्स
+arpabet: B IY1 N Z
+
+
+
+
+-- lib.word: benevolence
+american: बैनेवैलैन्स
+arpabet: B AH0 N EH1 V AH0 L AH0 N S
+
+
+
+
+-- lib.word: belly
+american: बेली
+arpabet: B EH1 L IY0
+
+
+
+
+-- lib.word: befallen
+american: बैफॉलैन
+arpabet: B AH0 F AA1 L AH0 N
+
+
+
+
+-- lib.word: beset
+american: बिसेट
+arpabet: B IH0 S EH1 T
+
+
+
+
+-- lib.word: beneficial
+american: बेनैफिशैल
+arpabet: B EH2 N AH0 F IH1 SH AH0 L
+
+
+
+
+-- lib.word: beware
+american: बिवेर
+arpabet: B IH0 W EH1 R
+
+
+
+
+-- lib.word: befall
+american: बिफॉल
+arpabet: B IH0 F AO1 L
+
+
+
+
+-- lib.word: belgian
+american: बेल्जैन
+arpabet: B EH1 L JH AH0 N
+
+
+
+
+-- lib.word: berth
+american: ब्र्थ
+arpabet: B ER1 TH
+
+
+
+
+-- lib.word: bewilderment
+american: बिविल्ड्र्मैन्ट
+arpabet: B IH0 W IH1 L D ER0 M AH0 N T
+
+
+
+
+-- lib.word: befell
+american: बिफेल
+arpabet: B IH0 F EH1 L
+
+
+
+
+-- lib.word: benefactor
+american: बेनैफैक्ट्र
+arpabet: B EH1 N AH0 F AE2 K T ER0
+
+
+
+
+-- lib.word: Bengal
+american: बेंग्गैल
+arpabet: B EH1 NG G AH0 L
+
+
+
+
+-- lib.word: beak
+american: बीक
+arpabet: B IY1 K
+
+
+
+
+-- lib.word: bearded
+american: बिर्डैड
+arpabet: B IH1 R D AH0 D
+
+
+
+
+-- lib.word: Beth
+american: बेथ
+arpabet: B EH1 TH
+
+
+
+
+-- lib.word: believer
+american: बैलीव्र
+arpabet: B AH0 L IY1 V ER0
+
+
+
+
+-- lib.word: beastly
+american: बीस्ट्ली
+arpabet: B IY1 S T L IY2
+
+
+
+
+-- lib.word: beaver
+american: बीव्र
+arpabet: B IY1 V ER0
+
+
+
+
+-- lib.word: Bennett
+american: बेनैट
+arpabet: B EH1 N AH0 T
+
+
+
+

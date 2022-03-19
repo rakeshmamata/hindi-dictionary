@@ -1,0 +1,608 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: enough
+american: इनाफ
+arpabet: IH0 N AH1 F
+meaning: पर्याप्त ,काफी ,यथेष्ट
+
+
+-- lib.word: end
+american: एन्ड
+arpabet: EH1 N D
+indian:
+meaning: समाप्त , अंत , समाप्ति
+
+
+-- lib.word: entire
+american: इन्टाय्र
+arpabet: IH0 N T AY1 ER0
+meaning: संपूर्ण,समूचा,कुल,पूरा,अखंड,साबित,तमाम
+
+
+-- lib.word: enjoy
+american: एन्जॉय
+arpabet: EH0 N JH OY1
+meaning: आनंद लेना, उपभोग करना, रस लेना
+
+
+-- lib.word: english
+american: इंग्ग्लिश
+arpabet: IH1 NG G L IH0 SH
+
+
+
+
+-- lib.word: England
+american: इंग्ग्लैन्ड
+arpabet: IH1 NG G L AH0 N D
+
+
+
+
+-- lib.word: entered
+american: एन्ट्र्ड
+arpabet: EH1 N T ER0 D
+
+
+
+
+-- lib.word: enemy
+american: एनैमी
+arpabet: EH1 N AH0 M IY0
+
+
+
+
+-- lib.word: entirely
+american: इन्टाय्र्ली
+arpabet: IH0 N T AY1 ER0 L IY0
+
+
+
+
+-- lib.word: enter
+american: एन्ट्र
+arpabet: EH1 N T ER0
+
+
+
+
+-- lib.word: engaged
+american: एन्गेऽज्ड
+arpabet: EH0 N G EY1 JH D
+
+
+
+
+-- lib.word: enemies
+american: एनैमीस
+arpabet: EH1 N AH0 M IY0 Z
+
+
+
+
+-- lib.word: entrance
+american: एन्ट्रैन्स
+arpabet: EH1 N T R AH0 N S
+
+
+
+
+-- lib.word: ended
+american: एन्डैड
+arpabet: EH1 N D AH0 D
+
+
+
+
+-- lib.word: energy
+american: एन्र्जी
+arpabet: EH1 N ER0 JH IY0
+
+
+
+
+-- lib.word: ends
+american: एन्ड्स
+arpabet: EH1 N D Z
+
+
+
+
+-- lib.word: en
+american: एन
+arpabet: EH1 N
+
+
+
+
+-- lib.word: enjoyed
+american: एन्जॉयड
+arpabet: EH0 N JH OY1 D
+
+
+
+
+-- lib.word: enthusiasm
+american: इन्थूसीऐसैम
+arpabet: IH0 N TH UW1 Z IY0 AE2 Z AH0 M
+
+
+
+
+-- lib.word: enormous
+american: इनॉर्मैस
+arpabet: IH0 N AO1 R M AH0 S
+
+
+
+
+-- lib.word: entering
+american: एन्ट्रिंग
+arpabet: EH1 N T ER0 IH0 NG
+
+
+
+
+-- lib.word: endure
+american: एन्ड्यूर
+arpabet: EH0 N D Y UH1 R
+
+
+
+
+-- lib.word: enterprise
+american: एन्ट्र्प्राय्स
+arpabet: EH1 N T ER0 P R AY2 Z
+
+
+
+
+-- lib.word: enabled
+american: एनेऽबैल्ड
+arpabet: EH0 N EY1 B AH0 L D
+
+
+
+
+-- lib.word: enjoyment
+american: एन्जॉयमैन्ट
+arpabet: EH0 N JH OY1 M AH0 N T
+
+
+
+
+-- lib.word: enable
+american: एनेऽबैल
+arpabet: EH0 N EY1 B AH0 L
+
+
+
+
+-- lib.word: engagement
+american: एन्गेऽज्मैन्ट
+arpabet: EH0 N G EY1 JH M AH0 N T
+
+
+
+
+-- lib.word: Englishman
+american: इंग्ग्लिशमैन
+arpabet: IH1 NG G L IH0 SH M AH0 N
+
+
+
+
+-- lib.word: entity
+american: एन्टैटी
+arpabet: EH1 N T AH0 T IY0
+
+
+
+
+-- lib.word: entertained
+american: एन्ट्र्टेऽन्ड
+arpabet: EH2 N T ER0 T EY1 N D
+
+
+
+
+-- lib.word: envy
+american: एन्वी
+arpabet: EH1 N V IY0
+
+
+
+
+-- lib.word: endless
+american: एन्ड्लैस
+arpabet: EH1 N D L AH0 S
+
+
+
+
+-- lib.word: engine
+american: एन्जैन
+arpabet: EH1 N JH AH0 N
+
+
+
+
+-- lib.word: encounter
+american: इन्काव्न्ट्र
+arpabet: IH0 N K AW1 N T ER0
+
+
+
+
+-- lib.word: enemy's
+american: एनैमीस
+arpabet: EH1 N AH0 M IY0 Z
+
+
+
+
+-- lib.word: encourage
+american: एन्क्रिज
+arpabet: EH0 N K ER1 IH0 JH
+
+
+
+
+-- lib.word: endeavour
+american: इन्डेव्र
+arpabet: IH0 N D EH1 V ER0
+
+
+
+
+-- lib.word: endeavoured
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: encountered
+american: इन्काव्न्ट्र्ड
+arpabet: IH0 N K AW1 N T ER0 D
+
+
+
+
+-- lib.word: enjoying
+american: एन्जॉयिंग
+arpabet: EH0 N JH OY1 IH0 NG
+
+
+
+
+-- lib.word: entertainment
+american: एन्ट्र्टेऽन्मैन्ट
+arpabet: EH2 N T ER0 T EY1 N M AH0 N T
+
+
+
+
+-- lib.word: engage
+american: एन्गेऽज
+arpabet: EH0 N G EY1 JH
+
+
+
+
+-- lib.word: entertain
+american: एन्ट्र्टेऽन
+arpabet: EH2 N T ER0 T EY1 N
+
+
+
+
+-- lib.word: ending
+american: एन्डिंग
+arpabet: EH1 N D IH0 NG
+
+
+
+
+-- lib.word: encouragement
+american: एन्क्रिज्मैन्ट
+arpabet: EH0 N K ER1 IH0 JH M AH0 N T
+
+
+
+
+-- lib.word: enters
+american: एन्ट्र्स
+arpabet: EH1 N T ER0 Z
+
+
+
+
+-- lib.word: endured
+american: एन्ड्यूर्ड
+arpabet: EH0 N D Y UH1 R D
+
+
+
+
+-- lib.word: entry
+american: एन्ट्री
+arpabet: EH1 N T R IY0
+
+
+
+
+-- lib.word: enthusiastic
+american: इन्थुसीऐस्टिक
+arpabet: IH0 N TH UW2 Z IY0 AE1 S T IH0 K
+
+
+
+
+-- lib.word: envelope
+american: एन्वैलोप
+arpabet: EH1 N V AH0 L OW2 P
+
+
+
+
+-- lib.word: endowed
+american: एन्डाव्ड
+arpabet: EH0 N D AW1 D
+
+
+
+
+-- lib.word: engineer
+american: एन्जैनिर
+arpabet: EH1 N JH AH0 N IH1 R
+
+
+
+
+-- lib.word: encoding
+american: एन्कोडिंग
+arpabet: EH0 N K OW1 D IH0 NG
+
+
+
+
+-- lib.word: enclosed
+american: एन्क्लोस्ड
+arpabet: EH0 N K L OW1 Z D
+
+
+
+
+-- lib.word: enlightened
+american: एन्लाय्टैन्ड
+arpabet: EH0 N L AY1 T AH0 N D
+
+
+
+
+-- lib.word: enlarged
+american: एन्लॉर्ज्ड
+arpabet: EH0 N L AA1 R JH D
+
+
+
+
+-- lib.word: endeavor
+american: इन्डेव्र
+arpabet: IH0 N D EH1 V ER0
+
+
+
+
+-- lib.word: energetic
+american: एन्र्जेटिक
+arpabet: EH2 N ER0 JH EH1 T IH0 K
+
+
+
+
+-- lib.word: energies
+american: एन्र्जीस
+arpabet: EH1 N ER0 JH IY0 Z
+
+
+
+
+-- lib.word: endurance
+american: एन्ड्रैन्स
+arpabet: EH1 N D ER0 AH0 N S
+
+
+
+
+-- lib.word: endeavored
+american: इन्डेव्र्ड
+arpabet: IH0 N D EH1 V ER0 D
+
+
+
+
+-- lib.word: entrusted
+american: एन्ट्रास्टिड
+arpabet: EH0 N T R AH1 S T IH0 D
+
+
+
+
+-- lib.word: encouraging
+american: एन्क्रिजिंग
+arpabet: EH0 N K ER1 IH0 JH IH0 NG
+
+
+
+
+-- lib.word: enforced
+american: एन्फॉर्स्ट
+arpabet: EH0 N F AO1 R S T
+
+
+
+
+-- lib.word: environment
+american: इन्वाय्रैन्मैन्ट
+arpabet: IH0 N V AY1 R AH0 N M AH0 N T
+
+
+
+
+-- lib.word: encamped
+american: इन्कैम्प्ट
+arpabet: IH0 N K AE1 M P T
+
+
+
+
+-- lib.word: enchanted
+american: एन्चैन्टिड
+arpabet: EH0 N CH AE1 N T IH0 D
+
+
+
+
+-- lib.word: entreat
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: enduring
+american: एन्ड्यूरिंग
+arpabet: EH0 N D Y UH1 R IH0 NG
+
+
+
+
+-- lib.word: endeavouring
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: enforce
+american: एन्फॉर्स
+arpabet: EH0 N F AO1 R S
+
+
+
+
+-- lib.word: ensuring
+american: एन्शूरिंग
+arpabet: EH0 N SH UH1 R IH0 NG
+
+
+
+
+-- lib.word: engaging
+american: एन्गेऽजिंग
+arpabet: EH0 N G EY1 JH IH0 NG
+
+
+
+
+-- lib.word: enveloped
+american: एन्वेलैप्ट
+arpabet: EH0 N V EH1 L AH0 P T
+
+
+
+
+-- lib.word: enmity
+american: एन्मैटी
+arpabet: EH1 N M AH0 T IY0
+
+
+
+
+-- lib.word: enclosure
+american: एन्क्लोस्र
+arpabet: EH0 N K L OW1 ZH ER0
+
+
+
+
+-- lib.word: engraved
+american: इन्ग्रेऽव्ड
+arpabet: IH0 N G R EY1 V D
+
+
+
+
+-- lib.word: envious
+american: एन्वीऐस
+arpabet: EH1 N V IY0 AH0 S
+
+
+
+
+-- lib.word: envoy
+american: एन्वॉय
+arpabet: EH1 N V OY0
+
+
+
+
+-- lib.word: ensure
+american: एन्शूर
+arpabet: EH0 N SH UH1 R
+
+
+
+
+-- lib.word: encampment
+american: इन्कैम्प्मिन्ट
+arpabet: IH0 N K AE1 M P M IH0 N T
+
+
+
+
+-- lib.word: engineers
+american: एन्जैनिर्स
+arpabet: EH1 N JH AH0 N IH1 R Z
+
+
+
+
+-- lib.word: enlarge
+american: एन्लॉर्ज
+arpabet: EH0 N L AA1 R JH
+
+
+
+
+-- lib.word: entreaty
+american: एन्ट्रीटी
+arpabet: EH0 N T R IY1 T IY0
+
+
+
+
+-- lib.word: enjoys
+american: एन्जॉयस
+arpabet: EH0 N JH OY1 Z
+
+
+
+
+-- lib.word: enchantment
+american: एन्चैन्ट्मैन्ट
+arpabet: EH0 N CH AE1 N T M AH0 N T
+
+
+
+
+-- lib.word: enchanting
+american: एन्चैन्टिंग
+arpabet: EH0 N CH AE1 N T IH0 NG
+
+
+
+

@@ -1,0 +1,607 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: special
+american: स्पेशैल
+arpabet: S P EH1 SH AH0 L
+meaning: विशेष ,विशिष्ट
+
+
+-- lib.word: speak
+american: स्पीक
+arpabet: S P IY1 K
+meaning: बोलना
+
+
+-- lib.word: spend
+american: स्पेन्ड
+arpabet: S P EH1 N D
+meaning: बिताना,खर्च करना ,उपयोग करना ,व्यय करना
+
+
+-- lib.word: spent
+american: स्पेन्ट
+arpabet: S P EH1 N T
+meaning: खर्च करना, व्यय करनाथका हुआ, क्षीण
+
+
+-- lib.word: spirit
+american: स्पिरैट
+arpabet: S P IH1 R AH0 T
+
+
+
+
+-- lib.word: spoke
+american: स्पोक
+arpabet: S P OW1 K
+
+
+
+
+-- lib.word: speaking
+american: स्पीकिंग
+arpabet: S P IY1 K IH0 NG
+
+
+
+
+-- lib.word: speech
+american: स्पीच
+arpabet: S P IY1 CH
+
+
+
+
+-- lib.word: spring
+american: स्प्रिंग
+arpabet: S P R IH1 NG
+
+
+
+
+-- lib.word: spot
+american: स्पॉट
+arpabet: S P AA1 T
+
+
+
+
+-- lib.word: spoken
+american: स्पोकैन
+arpabet: S P OW1 K AH0 N
+
+
+
+
+-- lib.word: spite
+american: स्पाय्ट
+arpabet: S P AY1 T
+
+
+
+
+-- lib.word: spread
+american: स्प्रेड
+arpabet: S P R EH1 D
+
+
+
+
+-- lib.word: space
+american: स्पेऽस
+arpabet: S P EY1 S
+
+
+
+
+-- lib.word: species
+american: स्पीशीस
+arpabet: S P IY1 SH IY0 Z
+
+
+
+
+-- lib.word: spirits
+american: स्पिरिट्स
+arpabet: S P IH1 R IH0 T S
+
+
+
+
+-- lib.word: spanish
+american: स्पैनिश
+arpabet: S P AE1 N IH0 SH
+
+
+
+
+-- lib.word: Spain
+american: स्पेऽन
+arpabet: S P EY1 N
+
+
+
+
+-- lib.word: spiritual
+american: स्पिरिचैवैल
+arpabet: S P IH1 R IH0 CH AH0 W AH0 L
+
+
+
+
+-- lib.word: splendid
+american: स्प्लेन्डैड
+arpabet: S P L EH1 N D AH0 D
+
+
+
+
+-- lib.word: speed
+american: स्पीड
+arpabet: S P IY1 D
+
+
+
+
+-- lib.word: spare
+american: स्पेर
+arpabet: S P EH1 R
+
+
+
+
+-- lib.word: speaks
+american: स्पीक्स
+arpabet: S P IY1 K S
+
+
+
+
+-- lib.word: Spaniards
+american: स्पैन्य्र्ड्स
+arpabet: S P AE1 N Y ER0 D Z
+
+
+
+
+-- lib.word: specific
+american: स्पैसिफिक
+arpabet: S P AH0 S IH1 F IH0 K
+
+
+
+
+-- lib.word: sport
+american: स्पॉर्ट
+arpabet: S P AO1 R T
+
+
+
+
+-- lib.word: spell
+american: स्पेल
+arpabet: S P EH1 L
+
+
+
+
+-- lib.word: springs
+american: स्प्रिंग्स
+arpabet: S P R IH1 NG Z
+
+
+
+
+-- lib.word: spake
+american: स्पेऽक
+arpabet: S P EY1 K
+
+
+
+
+-- lib.word: spectacle
+american: स्पेक्टैकैल
+arpabet: S P EH1 K T AH0 K AH0 L
+
+
+
+
+-- lib.word: spared
+american: स्पेर्ड
+arpabet: S P EH1 R D
+
+
+
+
+-- lib.word: specified
+american: स्पेसैफाय्ड
+arpabet: S P EH1 S AH0 F AY2 D
+
+
+
+
+-- lib.word: sphere
+american: स्फिर
+arpabet: S F IH1 R
+
+
+
+
+-- lib.word: speedily
+american: स्पीडैली
+arpabet: S P IY1 D AH0 L IY0
+
+
+
+
+-- lib.word: speeches
+american: स्पीचैस
+arpabet: S P IY1 CH AH0 Z
+
+
+
+
+-- lib.word: speaker
+american: स्पीक्र
+arpabet: S P IY1 K ER0
+
+
+
+
+-- lib.word: spear
+american: स्पिर
+arpabet: S P IH1 R
+
+
+
+
+-- lib.word: spoil
+american: स्पॉयल
+arpabet: S P OY1 L
+
+
+
+
+-- lib.word: specially
+american: स्पेशैली
+arpabet: S P EH1 SH AH0 L IY0
+
+
+
+
+-- lib.word: spots
+american: स्पॉट्स
+arpabet: S P AA1 T S
+
+
+
+
+-- lib.word: sprung
+american: स्प्रांग
+arpabet: S P R AH1 NG
+
+
+
+
+-- lib.word: specimens
+american: स्पेसैमैन्स
+arpabet: S P EH1 S AH0 M AH0 N Z
+
+
+
+
+-- lib.word: specimen
+american: स्पेसैमैन
+arpabet: S P EH1 S AH0 M AH0 N
+
+
+
+
+-- lib.word: spreading
+american: स्प्रेडिंग
+arpabet: S P R EH1 D IH0 NG
+
+
+
+
+-- lib.word: splendour
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: spy
+american: स्पाय
+arpabet: S P AY1
+
+
+
+
+-- lib.word: sparkling
+american: स्पॉर्क्लिंग
+arpabet: S P AA1 R K L IH0 NG
+
+
+
+
+-- lib.word: split
+american: स्प्लिट
+arpabet: S P L IH1 T
+
+
+
+
+-- lib.word: spoiled
+american: स्पॉयल्ड
+arpabet: S P OY1 L D
+
+
+
+
+-- lib.word: splendor
+american: स्प्लेन्ड्र
+arpabet: S P L EH1 N D ER0
+
+
+
+
+-- lib.word: speculation
+american: स्पेक्यैलेऽशैन
+arpabet: S P EH2 K Y AH0 L EY1 SH AH0 N
+
+
+
+
+-- lib.word: spectacles
+american: स्पेक्टैकैल्स
+arpabet: S P EH1 K T AH0 K AH0 L Z
+
+
+
+
+-- lib.word: springing
+american: स्प्रिंगिंग
+arpabet: S P R IH1 NG IH0 NG
+
+
+
+
+-- lib.word: spark
+american: स्पॉर्क
+arpabet: S P AA1 R K
+
+
+
+
+-- lib.word: spacious
+american: स्पेऽशैस
+arpabet: S P EY1 SH AH0 S
+
+
+
+
+-- lib.word: Spenser
+american: स्पेन्स्र
+arpabet: S P EH1 N S ER0
+
+
+
+
+-- lib.word: spaces
+american: स्पेऽसैस
+arpabet: S P EY1 S AH0 Z
+
+
+
+
+-- lib.word: speedy
+american: स्पीडी
+arpabet: S P IY1 D IY0
+
+
+
+
+-- lib.word: spur
+american: स्प्र
+arpabet: S P ER1
+
+
+
+
+-- lib.word: spoils
+american: स्पॉयल्स
+arpabet: S P OY1 L Z
+
+
+
+
+-- lib.word: spray
+american: स्प्रेऽ
+arpabet: S P R EY1
+
+
+
+
+-- lib.word: sports
+american: स्पॉर्ट्स
+arpabet: S P AO1 R T S
+
+
+
+
+-- lib.word: spies
+american: स्पाय्स
+arpabet: S P AY1 Z
+
+
+
+
+-- lib.word: Spaniard
+american: स्पैन्य्र्ड
+arpabet: S P AE1 N Y ER0 D
+
+
+
+
+-- lib.word: spirited
+american: स्पिरिटैड
+arpabet: S P IH1 R IH0 T AH0 D
+
+
+
+
+-- lib.word: spectator
+american: स्पेक्टेऽट्र
+arpabet: S P EH1 K T EY0 T ER0
+
+
+
+
+-- lib.word: spoon
+american: स्पून
+arpabet: S P UW1 N
+
+
+
+
+-- lib.word: spontaneous
+american: स्पॉन्टेऽनीऐस
+arpabet: S P AA0 N T EY1 N IY0 AH0 S
+
+
+
+
+-- lib.word: speechless
+american: स्पीचलैस
+arpabet: S P IY1 CH L AH0 S
+
+
+
+
+-- lib.word: spinning
+american: स्पिनिंग
+arpabet: S P IH1 N IH0 NG
+
+
+
+
+-- lib.word: speculative
+american: स्पेक्यैलैटिव
+arpabet: S P EH1 K Y AH0 L AH0 T IH0 V
+
+
+
+
+-- lib.word: spelling
+american: स्पेलिंग
+arpabet: S P EH1 L IH0 NG
+
+
+
+
+-- lib.word: spun
+american: स्पान
+arpabet: S P AH1 N
+
+
+
+
+-- lib.word: spit
+american: स्पिट
+arpabet: S P IH1 T
+
+
+
+
+-- lib.word: spotted
+american: स्पॉटैड
+arpabet: S P AA1 T AH0 D
+
+
+
+
+-- lib.word: spider
+american: स्पाय्ड्र
+arpabet: S P AY1 D ER0
+
+
+
+
+-- lib.word: sporting
+american: स्पॉर्टिंग
+arpabet: S P AO1 R T IH0 NG
+
+
+
+
+-- lib.word: spin
+american: स्पिन
+arpabet: S P IH1 N
+
+
+
+
+-- lib.word: span
+american: स्पैन
+arpabet: S P AE1 N
+
+
+
+
+-- lib.word: sparkle
+american: स्पॉर्कैल
+arpabet: S P AA1 R K AH0 L
+
+
+
+
+-- lib.word: spade
+american: स्पेऽड
+arpabet: S P EY1 D
+
+
+
+
+-- lib.word: spouse
+american: स्पाव्स
+arpabet: S P AW1 S
+
+
+
+
+-- lib.word: splash
+american: स्प्लैश
+arpabet: S P L AE1 SH
+
+
+
+
+-- lib.word: specifically
+american: स्पैसिफिक्ली
+arpabet: S P AH0 S IH1 F IH0 K L IY0
+
+
+
+
+-- lib.word: sponge
+american: स्पान्ज
+arpabet: S P AH1 N JH
+
+
+
+
+-- lib.word: speakers
+american: स्पीक्र्स
+arpabet: S P IY1 K ER0 Z
+
+
+
+
+-- lib.word: speck
+american: स्पेक
+arpabet: S P EH1 K
+
+
+
+

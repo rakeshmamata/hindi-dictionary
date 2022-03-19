@@ -1,0 +1,411 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: need
+american: नीड
+arpabet: N IY1 D
+meaning: ज़रूरत, आवश्यकता
+
+
+-- lib.word: never
+american: नेव्र
+arpabet: N EH1 V ER0
+indian: नेवर
+meaning: कभी नहीं ,कदापि नहीं
+
+
+-- lib.word: new
+american: नू
+arpabet: N UW1
+indian: नू ।न्यू
+meaning: नया ,नई ,नव
+
+
+-- lib.word: next
+american: नेक्स्ट
+arpabet: N EH1 K S T
+meaning: अगला , दूसरा , आगामी
+
+
+-- lib.word: needs
+american: नीड्स
+arpabet: N IY1 D Z
+meaning: जरूरत , आवश्कता
+
+
+-- lib.word: news
+american: नूस
+arpabet: N UW1 Z
+indian:
+meaning: समाचार ,संदेश ,ख़बर
+
+
+-- lib.word: needed
+american: नीडैड
+arpabet: N IY1 D AH0 D
+meaning: आवश्यकता है
+
+
+-- lib.word: neither
+american: नीदर
+arpabet: N IY1 DH ER0
+indian: Same / नाइदर
+meaning: भी नहीं, न यह न वह, दोनों में से कोई नहीं नइधर न उधर
+
+
+-- lib.word: near
+american: निर
+arpabet: N IH1 R
+indian: Same / नियर
+meaning: पास, नज़दीक,
+
+
+-- lib.word: necessary
+american: नेसैसेरी
+arpabet: N EH1 S AH0 S EH2 R IY0
+
+
+
+
+-- lib.word: nearly
+american: निर्ली
+arpabet: N IH1 R L IY0
+
+
+
+
+-- lib.word: neck
+american: नेक
+arpabet: N EH1 K
+
+
+
+
+-- lib.word: necessity
+american: नैसेसैटी
+arpabet: N AH0 S EH1 S AH0 T IY0
+
+
+
+
+-- lib.word: nearer
+american: निर्र
+arpabet: N IH1 R ER0
+
+
+
+
+-- lib.word: nevertheless
+american: नेव्र्दैलेस
+arpabet: N EH2 V ER0 DH AH0 L EH1 S
+
+
+
+
+-- lib.word: necessarily
+american: नेसैसेरैली
+arpabet: N EH2 S AH0 S EH1 R AH0 L IY0
+
+
+
+
+-- lib.word: nervous
+american: न्र्वैस
+arpabet: N ER1 V AH0 S
+
+
+
+
+-- lib.word: nearest
+american: निरैस्ट
+arpabet: N IH1 R AH0 S T
+
+
+
+
+-- lib.word: negro
+american: नीग्रो
+arpabet: N IY1 G R OW0
+
+
+
+
+-- lib.word: newspaper
+american: नूस्पेऽप्र
+arpabet: N UW1 Z P EY2 P ER0
+
+
+
+
+-- lib.word: neglected
+american: नैग्लेक्टैड
+arpabet: N AH0 G L EH1 K T AH0 D
+
+
+
+
+-- lib.word: nerves
+american: न्र्व्स
+arpabet: N ER1 V Z
+
+
+
+
+-- lib.word: nest
+american: नेस्ट
+arpabet: N EH1 S T
+
+
+
+
+-- lib.word: neglect
+american: नैग्लेक्ट
+arpabet: N AH0 G L EH1 K T
+
+
+
+
+-- lib.word: net
+american: नेट
+arpabet: N EH1 T
+
+
+
+
+-- lib.word: newspapers
+american: नूस्पेऽप्र्स
+arpabet: N UW1 Z P EY2 P ER0 Z
+
+
+
+
+-- lib.word: Ned
+american: नेड
+arpabet: N EH1 D
+
+
+
+
+-- lib.word: nephew
+american: नेफ्यु
+arpabet: N EH1 F Y UW0
+
+
+
+
+-- lib.word: neighborhood
+american: नेऽब्र्हूड
+arpabet: N EY1 B ER0 HH UH2 D
+
+
+
+
+-- lib.word: neighbors
+american: नेऽब्र्स
+arpabet: N EY1 B ER0 Z
+
+
+
+
+-- lib.word: neat
+american: नीट
+arpabet: N IY1 T
+
+
+
+
+-- lib.word: neighbour
+american: नेऽब्र
+arpabet: N EY1 B ER0
+
+
+
+
+-- lib.word: neighbouring
+american: नेऽब्रिंग
+arpabet: N EY1 B ER0 IH0 NG
+
+
+
+
+-- lib.word: nerve
+american: न्र्व
+arpabet: N ER1 V
+
+
+
+
+-- lib.word: newly
+american: नूली
+arpabet: N UW1 L IY0
+
+
+
+
+-- lib.word: neighbor
+american: नेऽब्र
+arpabet: N EY1 B ER0
+
+
+
+
+-- lib.word: negroes
+american: नीग्रोस
+arpabet: N IY1 G R OW0 Z
+
+
+
+
+-- lib.word: needn't
+american: नीडैन्ट
+arpabet: N IY1 D AH0 N T
+
+
+
+
+-- lib.word: negative
+american: नेगैटिव
+arpabet: N EH1 G AH0 T IH0 V
+
+
+
+
+-- lib.word: newsletter
+american: नूस्लेट्र
+arpabet: N UW1 Z L EH2 T ER0
+
+
+
+
+-- lib.word: Netherlands
+american: नेदर्लैन्ड्स
+arpabet: N EH1 DH ER0 L AH0 N D Z
+
+
+
+
+-- lib.word: network
+american: नेट्वर्क
+arpabet: N EH1 T W ER2 K
+
+
+
+
+-- lib.word: neighboring
+american: नेऽब्रिंग
+arpabet: N EY1 B ER0 IH0 NG
+
+
+
+
+-- lib.word: negotiations
+american: नैगोशीएऽशैन्स
+arpabet: N AH0 G OW2 SH IY0 EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: needle
+american: नीडैल
+arpabet: N IY1 D AH0 L
+
+
+
+
+-- lib.word: ne'er
+american: नेर
+arpabet: N EH1 R
+
+
+
+
+-- lib.word: ness
+american: नेस
+arpabet: N EH1 S
+
+
+
+
+-- lib.word: needful
+american: नीड्फैल
+arpabet: N IY1 D F AH0 L
+
+
+
+
+-- lib.word: neatly
+american: नीट्ली
+arpabet: N IY1 T L IY0
+
+
+
+
+-- lib.word: Nevada
+american: नैवॉडै
+arpabet: N AH0 V AA1 D AH0
+
+
+
+
+-- lib.word: necessities
+american: नैसेसिटीस
+arpabet: N AH0 S EH1 S IH0 T IY0 Z
+
+
+
+
+-- lib.word: neutral
+american: नूट्रैल
+arpabet: N UW1 T R AH0 L
+
+
+
+
+-- lib.word: Nebraska
+american: नैब्रैस्कै
+arpabet: N AH0 B R AE1 S K AH0
+
+
+
+
+-- lib.word: needless
+american: नीड्लैस
+arpabet: N IY1 D L AH0 S
+
+
+
+
+-- lib.word: necklace
+american: नेक्लैस
+arpabet: N EH1 K L AH0 S
+
+
+
+
+-- lib.word: nets
+american: नेट्स
+arpabet: N EH1 T S
+
+
+
+
+-- lib.word: neutrality
+american: नुट्रैलैटी
+arpabet: N UW0 T R AE1 L AH0 T IY0
+
+
+
+
+-- lib.word: negligence
+american: नेग्लैजैन्स
+arpabet: N EH1 G L AH0 JH AH0 N S
+
+
+
+
+-- lib.word: needy
+american: नीडी
+arpabet: N IY1 D IY0
+
+
+
+

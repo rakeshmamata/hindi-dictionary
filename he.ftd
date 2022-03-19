@@ -1,0 +1,655 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: he
+american: ही
+arpabet: HH IY1
+meaning: वह (पुलिंग के लिए
+
+
+-- lib.word: here
+american: हीर
+arpabet: HH IY1 R
+indian: हियर
+meaning: यहाँ ,इधर ,इस सस्थान पर
+
+
+-- lib.word: her
+american: हर
+arpabet: HH ER0
+meaning: उसका (स्त्री लिंग)
+
+
+-- lib.word: hey
+american: हेऽ
+arpabet: HH EY1
+meaning: अरे ,आहा ,है
+
+
+-- lib.word: he's
+american: हीस
+arpabet: HH IY1 Z
+indian: हीज़
+meaning: वह है
+
+
+-- lib.word: help
+american: हेल्प
+arpabet: HH EH1 L P
+meaning: सहायता करना , मदद करना
+
+
+-- lib.word: hear
+american: हीर
+arpabet: HH IY1 R
+indian: हियर
+meaning: सुनो ,सुनना , सुनाई पडना
+
+
+-- lib.word: hell
+american: हेल
+arpabet: HH EH1 L
+meaning: नरक , यमलोक
+
+
+-- lib.word: hello
+american: हैलो
+arpabet: HH AH0 L OW1
+meaning: नमस्ते ,देखो
+
+
+-- lib.word: heard
+american: हर्ड
+arpabet: HH ER1 D
+meaning: सुना हुआ ,श्रुत
+
+
+-- lib.word: head
+american: हेड
+arpabet: HH EH1 D
+meaning: सिर , मुखिया , सर
+
+
+-- lib.word: heart
+american: हॉर्ट
+arpabet: HH AA1 R T
+meaning: दिल , केन्द्र
+
+
+-- lib.word: he'll
+american: हील
+arpabet: HH IY1 L
+meaning: नरक ,यमलोक ,दोज़ख
+
+
+-- lib.word: here's
+american: हिर्स
+arpabet: HH IH1 R Z
+meaning: यहॅा है
+
+
+-- lib.word: he'd
+american: हीड
+arpabet: HH IY1 D
+meaning: वह था
+
+
+-- lib.word: herself
+american: हर्सेल्फ
+arpabet: HH ER0 S EH1 L F
+meaning: स्वयं,आप,खुद
+
+स्त्री वाचक शब्द
+
+
+-- lib.word: helping
+american: हेल्पिंग
+arpabet: HH EH1 L P IH0 NG
+meaning: सहायता करना, मदद करना, हिस्सा
+
+
+-- lib.word: held
+american: हेल्ड
+arpabet: HH EH1 L D
+
+
+
+
+-- lib.word: heavy
+american: हेवी
+arpabet: HH EH1 V IY0
+
+
+
+
+-- lib.word: heaven
+american: हेवैन
+arpabet: HH EH1 V AH0 N
+
+
+
+
+-- lib.word: Henry
+american: हेन्री
+arpabet: HH EH1 N R IY0
+
+
+
+
+-- lib.word: health
+american: हेल्थ
+arpabet: HH EH1 L TH
+
+
+
+
+-- lib.word: heads
+american: हेड्स
+arpabet: HH EH1 D Z
+
+
+
+
+-- lib.word: hearts
+american: हॉर्ट्स
+arpabet: HH AA1 R T S
+
+
+
+
+-- lib.word: heat
+american: हीट
+arpabet: HH IY1 T
+
+
+
+
+-- lib.word: hearing
+american: हीरिंग
+arpabet: HH IY1 R IH0 NG
+
+
+
+
+-- lib.word: height
+american: हाय्ट
+arpabet: HH AY1 T
+
+
+
+
+-- lib.word: helped
+american: हेल्प्ट
+arpabet: HH EH1 L P T
+
+
+
+
+-- lib.word: hence
+american: हेन्स
+arpabet: HH EH1 N S
+
+
+
+
+-- lib.word: hers
+american: हर्स
+arpabet: HH ER0 Z
+
+
+
+
+-- lib.word: hero
+american: हिरो
+arpabet: HH IH1 R OW0
+
+
+
+
+-- lib.word: Helen
+american: हेलैन
+arpabet: HH EH1 L AH0 N
+
+
+
+
+-- lib.word: heavens
+american: हेवैन्स
+arpabet: HH EH1 V AH0 N Z
+
+
+
+
+-- lib.word: heavily
+american: हेवैली
+arpabet: HH EH1 V AH0 L IY0
+
+
+
+
+-- lib.word: hesitated
+american: हेसिटेऽटिड
+arpabet: HH EH1 Z IH0 T EY2 T IH0 D
+
+
+
+
+-- lib.word: helpless
+american: हेल्प्लैस
+arpabet: HH EH1 L P L AH0 S
+
+
+
+
+-- lib.word: heartily
+american: हॉर्टैली
+arpabet: HH AA1 R T AH0 L IY0
+
+
+
+
+-- lib.word: heap
+american: हीप
+arpabet: HH IY1 P
+
+
+
+
+-- lib.word: heels
+american: हील्स
+arpabet: HH IY1 L Z
+
+
+
+
+-- lib.word: heavenly
+american: हेवैन्ली
+arpabet: HH EH1 V AH0 N L IY0
+
+
+
+
+-- lib.word: healthy
+american: हेल्थी
+arpabet: HH EH1 L TH IY0
+
+
+
+
+-- lib.word: heroic
+american: हिरोइक
+arpabet: HH IH0 R OW1 IH0 K
+
+
+
+
+-- lib.word: heir
+american: एर
+arpabet: EH1 R
+
+
+
+
+-- lib.word: heroes
+american: हिरोस
+arpabet: HH IH1 R OW0 Z
+
+
+
+
+-- lib.word: hesitation
+american: हेसैटेऽशैन
+arpabet: HH EH2 Z AH0 T EY1 SH AH0 N
+
+
+
+
+-- lib.word: heed
+american: हीड
+arpabet: HH IY1 D
+
+
+
+
+-- lib.word: hereafter
+american: हिरैफ्ट्र
+arpabet: HH IH0 R AE1 F T ER0
+
+
+
+
+-- lib.word: header
+american: हेड्र
+arpabet: HH EH1 D ER0
+
+
+
+
+-- lib.word: Herbert
+american: हर्ब्र्ट
+arpabet: HH ER1 B ER0 T
+
+
+
+
+-- lib.word: hearty
+american: हॉर्टी
+arpabet: HH AA1 R T IY0
+
+
+
+
+-- lib.word: herd
+american: हर्ड
+arpabet: HH ER1 D
+
+
+
+
+-- lib.word: heights
+american: हाय्ट्स
+arpabet: HH AY1 T S
+
+
+
+
+-- lib.word: hesitate
+american: हेसैटेऽट
+arpabet: HH EH1 Z AH0 T EY2 T
+
+
+
+
+-- lib.word: Hebrew
+american: हीब्रु
+arpabet: HH IY1 B R UW0
+
+
+
+
+-- lib.word: heathen
+american: हीदैन
+arpabet: HH IY1 DH AH0 N
+
+
+
+
+-- lib.word: hears
+american: हीर्स
+arpabet: HH IY1 R Z
+
+
+
+
+-- lib.word: hearth
+american: हॉर्थ
+arpabet: HH AA1 R TH
+
+
+
+
+-- lib.word: headquarters
+american: हेड्क्वार्ट्र्स
+arpabet: HH EH1 D K W AO2 R T ER0 Z
+
+
+
+
+-- lib.word: headed
+american: हेडैड
+arpabet: HH EH1 D AH0 D
+
+
+
+
+-- lib.word: henceforth
+american: हेन्स्फॉर्थ
+arpabet: HH EH1 N S F AO1 R TH
+
+
+
+
+-- lib.word: hedge
+american: हेज
+arpabet: HH EH1 JH
+
+
+
+
+-- lib.word: heated
+american: हीटैड
+arpabet: HH IY1 T AH0 D
+
+
+
+
+-- lib.word: hereditary
+american: हरेडैटेरी
+arpabet: HH ER0 EH1 D AH0 T EH2 R IY0
+
+
+
+
+-- lib.word: heel
+american: हील
+arpabet: HH IY1 L
+
+
+
+
+-- lib.word: here]'s
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: healing
+american: हीलिंग
+arpabet: HH IY1 L IH0 NG
+
+
+
+
+-- lib.word: heretofore
+american: हिर्टैफॉर
+arpabet: HH IH2 R T AH0 F AO1 R
+
+
+
+
+-- lib.word: headlong
+american: हेड्लांग
+arpabet: HH EH1 D L AO2 NG
+
+
+
+
+-- lib.word: heavier
+american: हेवीर
+arpabet: HH EH1 V IY0 ER0
+
+
+
+
+-- lib.word: helm
+american: हेल्म
+arpabet: HH EH1 L M
+
+
+
+
+-- lib.word: helmet
+american: हेल्मैट
+arpabet: HH EH1 L M AH0 T
+
+
+
+
+-- lib.word: Hercules
+american: हर्क्यैलीस
+arpabet: HH ER1 K Y AH0 L IY2 Z
+
+
+
+
+-- lib.word: heaped
+american: हीप्ट
+arpabet: HH IY1 P T
+
+
+
+
+-- lib.word: hen
+american: हेन
+arpabet: HH EH1 N
+
+
+
+
+-- lib.word: heroine
+american: हेरोऐन
+arpabet: HH EH1 R OW0 AH0 N
+
+
+
+
+-- lib.word: headache
+american: हेडेऽक
+arpabet: HH EH1 D EY2 K
+
+
+
+
+-- lib.word: heal
+american: हील
+arpabet: HH IY1 L
+
+
+
+
+-- lib.word: hem
+american: हेम
+arpabet: HH EH1 M
+
+
+
+
+-- lib.word: heroism
+american: हेरोइसैम
+arpabet: HH EH1 R OW0 IH2 Z AH0 M
+
+
+
+
+-- lib.word: hermit
+american: हर्मैट
+arpabet: HH ER1 M AH0 T
+
+
+
+
+-- lib.word: herald
+american: हेरैल्ड
+arpabet: HH EH1 R AH0 L D
+
+
+
+
+-- lib.word: hetty
+american: हेटी
+arpabet: HH EH1 T IY0
+
+
+
+
+-- lib.word: henrietta
+american: हेन्रीएटै
+arpabet: HH EH2 N R IY0 EH1 T AH0
+
+
+
+
+-- lib.word: heresy
+american: हेरैसी
+arpabet: HH EH1 R AH0 S IY0
+
+
+
+
+-- lib.word: heading
+american: हेडिंग
+arpabet: HH EH1 D IH0 NG
+
+
+
+
+-- lib.word: hereby
+american: हिर्बाय
+arpabet: HH IH0 R B AY1
+
+
+
+
+-- lib.word: heritage
+american: हेरैटैज
+arpabet: HH EH1 R AH0 T AH0 JH
+
+
+
+
+-- lib.word: helpful
+american: हेल्प्फैल
+arpabet: HH EH1 L P F AH0 L
+
+
+
+
+-- lib.word: heartless
+american: हॉर्ट्लैस
+arpabet: HH AA1 R T L AH0 S
+
+
+
+
+-- lib.word: heightened
+american: हाय्टैन्ड
+arpabet: HH AY1 T AH0 N D
+
+
+
+
+-- lib.word: herb
+american: र्ब
+arpabet: ER1 B
+
+
+
+
+-- lib.word: heath
+american: हीथ
+arpabet: HH IY1 TH
+
+
+
+
+-- lib.word: heedless
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: herein
+american: हिरिन
+arpabet: HH IH0 R IH1 N
+
+
+
+
+-- lib.word: heave
+american: हीव
+arpabet: HH IY1 V
+
+
+
+

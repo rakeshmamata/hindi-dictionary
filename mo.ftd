@@ -1,0 +1,711 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: more
+american: मॉर
+arpabet: M AO1 R
+meaning: अधिक , ज्यादा
+
+
+-- lib.word: mom
+american: मॉम
+arpabet: M AA1 M
+meaning: माँ ,मम्मी
+
+
+-- lib.word: mother
+american: मादर
+arpabet: M AH1 DH ER0
+meaning: माँ ,मम्मी ,जननी
+
+
+-- lib.word: money
+american: मानी
+arpabet: M AH1 N IY0
+indian: Same / मनी
+meaning: पैसा ,धन ,मु्द्रा
+
+
+-- lib.word: morning
+american: मॉर्निंग
+arpabet: M AO1 R N IH0 NG
+meaning: सुबह , सवेरा , तडके
+
+
+-- lib.word: most
+american: मोस्ट
+arpabet: M OW1 S T
+meaning: ज्यादातर , अधिकांश , अत्यंन्त
+
+
+-- lib.word: move
+american: मूव
+arpabet: M UW1 V
+meaning: स्थान परिवर्तन , कार्यवाही , चाल
+
+
+-- lib.word: moment
+american: मोमैन्ट
+arpabet: M OW1 M AH0 N T
+meaning: क्षण ,पल ,समय ,दम ,
+
+
+-- lib.word: months
+american: मान्थस
+arpabet: M AH1 N TH S
+meaning: महीने
+
+
+-- lib.word: movie
+american: मूवी
+arpabet: M UW1 V IY0
+meaning: चलचित्र,सिनेमा
+
+
+-- lib.word: moving
+american: मूविंग
+arpabet: M UW1 V IH0 NG
+meaning: चलती,गतिमान,गतिशील,चलता-फिरता
+
+
+-- lib.word: mouth
+american: माव्थ
+arpabet: M AW1 TH
+meaning: मुंह,मुहाना,मुख
+
+
+-- lib.word: mommy
+american: मॉमी
+arpabet: M AA1 M IY0
+meaning: मां, माता
+
+
+-- lib.word: moved
+american: मूव्ड
+arpabet: M UW1 V D
+
+
+
+
+-- lib.word: month
+american: मान्थ
+arpabet: M AH1 N TH
+
+
+
+
+-- lib.word: modern
+american: मॉड्र्न
+arpabet: M AA1 D ER0 N
+
+
+
+
+-- lib.word: moral
+american: मॉरैल
+arpabet: M AO1 R AH0 L
+
+
+
+
+-- lib.word: movement
+american: मूव्मैन्ट
+arpabet: M UW1 V M AH0 N T
+
+
+
+
+-- lib.word: mountains
+american: माव्न्टैन्स
+arpabet: M AW1 N T AH0 N Z
+
+
+
+
+-- lib.word: mountain
+american: माव्न्टैन
+arpabet: M AW1 N T AH0 N
+
+
+
+
+-- lib.word: moon
+american: मून
+arpabet: M UW1 N
+
+
+
+
+-- lib.word: mother+'s
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: moments
+american: मोमैन्ट्स
+arpabet: M OW1 M AH0 N T S
+
+
+
+
+-- lib.word: motion
+american: मोशैन
+arpabet: M OW1 SH AH0 N
+
+
+
+
+-- lib.word: mounted
+american: माव्न्टैड
+arpabet: M AW1 N T AH0 D
+
+
+
+
+-- lib.word: movements
+american: मूव्मैन्ट्स
+arpabet: M UW1 V M AH0 N T S
+
+
+
+
+-- lib.word: mortal
+american: मॉर्टैल
+arpabet: M AO1 R T AH0 L
+
+
+
+
+-- lib.word: mode
+american: मोड
+arpabet: M OW1 D
+
+
+
+
+-- lib.word: mood
+american: मूड
+arpabet: M UW1 D
+
+
+
+
+-- lib.word: Moses
+american: मोसैस
+arpabet: M OW1 Z AH0 S
+
+
+
+
+-- lib.word: moreover
+american: मारोव्र
+arpabet: M AO0 R OW1 V ER0
+
+
+
+
+-- lib.word: motive
+american: मोटिव
+arpabet: M OW1 T IH0 V
+
+
+
+
+-- lib.word: mostly
+american: मोस्ट्ली
+arpabet: M OW1 S T L IY0
+
+
+
+
+-- lib.word: motives
+american: मोटिव्स
+arpabet: M OW1 T IH0 V Z
+
+
+
+
+-- lib.word: monarch
+american: मॉनॉर्क
+arpabet: M AA1 N AA2 R K
+
+
+
+
+-- lib.word: model
+american: मॉडैल
+arpabet: M AA1 D AH0 L
+
+
+
+
+-- lib.word: modest
+american: मॉडैस्ट
+arpabet: M AA1 D AH0 S T
+
+
+
+
+-- lib.word: moonlight
+american: मून्लाय्ट
+arpabet: M UW1 N L AY2 T
+
+
+
+
+-- lib.word: moderate
+american: मॉड्रैट
+arpabet: M AA1 D ER0 AH0 T
+
+
+
+
+-- lib.word: Monday
+american: मान्डी
+arpabet: M AH1 N D IY0
+
+
+
+
+-- lib.word: motionless
+american: मोशैन्लैस
+arpabet: M OW1 SH AH0 N L AH0 S
+
+
+
+
+-- lib.word: modification
+american: मॉडैफैकेऽशैन
+arpabet: M AA2 D AH0 F AH0 K EY1 SH AH0 N
+
+
+
+
+-- lib.word: mount
+american: माव्न्ट
+arpabet: M AW1 N T
+
+
+
+
+-- lib.word: modified
+american: मॉडैफाय्ड
+arpabet: M AA1 D AH0 F AY2 D
+
+
+
+
+-- lib.word: morality
+american: म्रैलैटी
+arpabet: M ER0 AE1 L AH0 T IY0
+
+
+
+
+-- lib.word: mothers
+american: मादर्स
+arpabet: M AH1 DH ER0 Z
+
+
+
+
+-- lib.word: mob
+american: मॉब
+arpabet: M AA1 B
+
+
+
+
+-- lib.word: morrow
+american: मॉरो
+arpabet: M AA1 R OW0
+
+
+
+
+-- lib.word: monster
+american: मॉन्स्ट्र
+arpabet: M AA1 N S T ER0
+
+
+
+
+-- lib.word: mourning
+american: मॉर्निंग
+arpabet: M AO1 R N IH0 NG
+
+
+
+
+-- lib.word: monstrous
+american: मॉन्स्ट्रैस
+arpabet: M AA1 N S T R AH0 S
+
+
+
+
+-- lib.word: moves
+american: मूव्स
+arpabet: M UW1 V Z
+
+
+
+
+-- lib.word: monks
+american: मांग्क्स
+arpabet: M AH1 NG K S
+
+
+
+
+-- lib.word: mouths
+american: माव्दस
+arpabet: M AW1 DH Z
+
+
+
+
+-- lib.word: monument
+american: मॉन्युमैन्ट
+arpabet: M AA1 N Y UW0 M AH0 N T
+
+
+
+
+-- lib.word: morals
+american: मॉरैल्स
+arpabet: M AO1 R AH0 L Z
+
+
+
+
+-- lib.word: modesty
+american: मॉडैस्टी
+arpabet: M AA1 D AH0 S T IY0
+
+
+
+
+-- lib.word: Morris
+american: मॉरैस
+arpabet: M AO1 R AH0 S
+
+
+
+
+-- lib.word: monk
+american: मांग्क
+arpabet: M AH1 NG K
+
+
+
+
+-- lib.word: motor
+american: मोट्र
+arpabet: M OW1 T ER0
+
+
+
+
+-- lib.word: momentary
+american: मोमैन्टेरी
+arpabet: M OW1 M AH0 N T EH2 R IY0
+
+
+
+
+-- lib.word: modify
+american: मॉडैफाय
+arpabet: M AA1 D AH0 F AY2
+
+
+
+
+-- lib.word: mournful
+american: मॉर्न्फैल
+arpabet: M AO1 R N F AH0 L
+
+
+
+
+-- lib.word: Moore
+american: मूर
+arpabet: M UH1 R
+
+
+
+
+-- lib.word: monarchy
+american: मॉनॉर्की
+arpabet: M AA1 N AA0 R K IY0
+
+
+
+
+-- lib.word: moor
+american: मूर
+arpabet: M UH1 R
+
+
+
+
+-- lib.word: Morgan
+american: मॉर्गैन
+arpabet: M AO1 R G AH0 N
+
+
+
+
+-- lib.word: mock
+american: मॉक
+arpabet: M AA1 K
+
+
+
+
+-- lib.word: monastery
+american: मॉनैस्टेरी
+arpabet: M AA1 N AH0 S T EH2 R IY0
+
+
+
+
+-- lib.word: mould
+american: मोल्ड
+arpabet: M OW1 L D
+
+
+
+
+-- lib.word: monuments
+american: मॉन्यैमैन्ट्स
+arpabet: M AA1 N Y AH0 M AH0 N T S
+
+
+
+
+-- lib.word: monotonous
+american: मैनॉटैनैस
+arpabet: M AH0 N AA1 T AH0 N AH0 S
+
+
+
+
+-- lib.word: moist
+american: मॉयस्ट
+arpabet: M OY1 S T
+
+
+
+
+-- lib.word: moisture
+american: मॉयस्चर
+arpabet: M OY1 S CH ER0
+
+
+
+
+-- lib.word: moss
+american: मॉस
+arpabet: M AO1 S
+
+
+
+
+-- lib.word: monkey
+american: मांग्की
+arpabet: M AH1 NG K IY0
+
+
+
+
+-- lib.word: Montana
+american: मॉन्टैनै
+arpabet: M AA0 N T AE1 N AH0
+
+
+
+
+-- lib.word: mounting
+american: माव्न्टिंग
+arpabet: M AW1 N T IH0 NG
+
+
+
+
+-- lib.word: mouse
+american: माव्स
+arpabet: M AW1 S
+
+
+
+
+-- lib.word: moderation
+american: मॉड्रेऽशैन
+arpabet: M AA2 D ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: mound
+american: माव्न्ड
+arpabet: M AW1 N D
+
+
+
+
+-- lib.word: Moscow
+american: मॉस्को
+arpabet: M AA1 S K OW2
+
+
+
+
+-- lib.word: mocking
+american: मॉकिंग
+arpabet: M AA1 K IH0 NG
+
+
+
+
+-- lib.word: morbid
+american: मॉर्बैड
+arpabet: M AO1 R B AH0 D
+
+
+
+
+-- lib.word: moustache
+american: मास्टैश
+arpabet: M AH1 S T AE2 SH
+
+
+
+
+-- lib.word: mourn
+american: मॉर्न
+arpabet: M AO1 R N
+
+
+
+
+-- lib.word: motto
+american: मॉटो
+arpabet: M AA1 T OW0
+
+
+
+
+-- lib.word: Montreal
+american: म्ऽन्ट्रीऑल
+arpabet: M AH2 N T R IY0 AO1 L
+
+
+
+
+-- lib.word: monopoly
+american: मैनॉपैली
+arpabet: M AH0 N AA1 P AH0 L IY0
+
+
+
+
+-- lib.word: monotony
+american: मैनॉटैनी
+arpabet: M AH0 N AA1 T AH0 N IY0
+
+
+
+
+-- lib.word: moan
+american: मोन
+arpabet: M OW1 N
+
+
+
+
+-- lib.word: montague
+american: मॉन्टैग्यु
+arpabet: M AA1 N T AH0 G Y UW2
+
+
+
+
+-- lib.word: mortality
+american: मार्टैलैटी
+arpabet: M AO0 R T AE1 L AH0 T IY0
+
+
+
+
+-- lib.word: morally
+american: मॉरैली
+arpabet: M AO1 R AH0 L IY0
+
+
+
+
+-- lib.word: monthly
+american: मान्थली
+arpabet: M AH1 N TH L IY0
+
+
+
+
+-- lib.word: morsel
+american: मॉर्सैल
+arpabet: M AO1 R S AH0 L
+
+
+
+
+-- lib.word: momentous
+american: मोमेन्टैस
+arpabet: M OW0 M EH1 N T AH0 S
+
+
+
+
+-- lib.word: mortar
+american: मॉर्ट्र
+arpabet: M AO1 R T ER0
+
+
+
+
+-- lib.word: monkeys
+american: मांग्कीस
+arpabet: M AH1 NG K IY0 Z
+
+
+
+
+-- lib.word: mortgage
+american: मॉर्गैज
+arpabet: M AO1 R G AH0 JH
+
+
+
+
+-- lib.word: mountainous
+american: माव्न्टैनैस
+arpabet: M AW1 N T AH0 N AH0 S
+
+
+
+
+-- lib.word: mon
+american: मोन
+arpabet: M OW1 N
+
+
+
+
+-- lib.word: Moslem
+american: मॉस्लैम
+arpabet: M AA1 Z L AH0 M
+
+
+
+

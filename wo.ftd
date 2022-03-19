@@ -1,0 +1,497 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: would
+american: वूड
+arpabet: W UH1 D
+meaning: चाहेंगे
+
+
+-- lib.word: work
+american: वर्क
+arpabet: W ER1 K
+meaning: काम करना , कार्य
+
+
+-- lib.word: won't
+american: वोन्ट
+arpabet: W OW1 N T
+meaning: नहीं होना
+
+
+-- lib.word: wouldn't
+american: वूडैन्ट
+arpabet: W UH1 D AH0 N T
+meaning: नहीं
+
+अन्य ,शबशब्दों के साथ मिलकर स्पष्ट
+
+
+-- lib.word: woman
+american: वूमैन
+arpabet: W UH1 M AH0 N
+meaning: औरत , स्त्री , महिला
+
+
+-- lib.word: world
+american: वर्ल्ड
+arpabet: W ER1 L D
+meaning: दुनिया , संसार , लोक
+
+
+-- lib.word: worry
+american: वरी
+arpabet: W ER1 IY0
+meaning: चिंता करना ,परेशानी , कष्ट
+
+
+-- lib.word: working
+american: वर्किंग
+arpabet: W ER1 K IH0 NG
+meaning: काम कर रहे हैं , कार्यकारी , श्रमजीवी
+
+
+-- lib.word: word
+american: वर्ड
+arpabet: W ER1 D
+meaning: वचन , बात , शब्द
+
+
+-- lib.word: wow
+american: वाव
+arpabet: W AW1
+meaning: बहुत खूब
+
+
+-- lib.word: wonderful
+american: वान्ड्र्फैल
+arpabet: W AH1 N D ER0 F AH0 L
+indian: s/ वन्डरफुल
+meaning: कमाल का ,निराला ,अद्भुत
+
+
+-- lib.word: worried
+american: वरीड
+arpabet: W ER1 IY0 D
+meaning: चिंतित
+
+
+-- lib.word: women
+american: विमैन
+arpabet: W IH1 M AH0 N
+meaning: महिला ,औरत
+
+
+-- lib.word: worse
+american: वर्स
+arpabet: W ER1 S
+meaning: और भी बुरा होना
+
+
+-- lib.word: wonder
+american: वान्ड्र
+arpabet: W AH1 N D ER0
+indian: Same / वन्डर
+meaning: आश्चर्य ,अचंभा ,अद्भुत वस्तु
+
+
+-- lib.word: words
+american: वर्ड्स
+arpabet: W ER1 D Z
+meaning: शब्दों
+
+
+-- lib.word: worked
+american: वर्क्ट
+arpabet: W ER1 K T
+indian: वर्क्ड
+meaning: काम किया
+
+
+-- lib.word: worth
+american: वर्थ
+arpabet: W ER1 TH
+meaning: लायक,कीमत,श्रेय
+
+
+-- lib.word: works
+american: वर्क्स
+arpabet: W ER1 K S
+meaning: काम किरता है,कर्मशाला,संकर्म,कार्य
+
+
+-- lib.word: wondering
+american: वान्ड्रिंग
+arpabet: W AH1 N D ER0 IH0 NG
+meaning: सोच,जिज्ञासु,हैरान
+
+
+-- lib.word: would've
+american: वूडैव
+arpabet: W UH1 D AH0 V
+meaning: चाहेंगे
+
+
+-- lib.word: worst
+american: वर्स्ट
+arpabet: W ER1 S T
+meaning: सबसे खराब, निकृष्तम, सबसे बुरा, अत्यंत बुरा
+
+
+
+-- lib.word: wood
+american: वूड
+arpabet: W UH1 D
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: worthy
+american: वर्दी
+arpabet: W ER1 DH IY0
+
+
+
+
+-- lib.word: woods
+american: वूड्स
+arpabet: W UH1 D Z
+
+
+
+
+-- lib.word: wounded
+american: वून्डिड
+arpabet: W UW1 N D IH0 D
+
+
+
+
+-- lib.word: wore
+american: वॉर
+arpabet: W AO1 R
+
+
+
+
+-- lib.word: won
+american: वान
+arpabet: W AH1 N
+
+
+
+
+-- lib.word: worship
+american: वर्शैप
+arpabet: W ER1 SH AH0 P
+
+
+
+
+-- lib.word: worn
+american: वॉर्न
+arpabet: W AO1 R N
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: wound
+american: वाव्न्ड
+arpabet: W AW1 N D
+
+
+
+
+-- lib.word: wondered
+american: वान्ड्र्ड
+arpabet: W AH1 N D ER0 D
+
+
+
+
+-- lib.word: woman's
+american: वूमैन्स
+arpabet: W UH1 M AH0 N Z
+
+
+
+
+-- lib.word: wooden
+american: वूडैन
+arpabet: W UH1 D AH0 N
+
+
+
+
+-- lib.word: wordforms
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: wounds
+american: वून्ड्स
+arpabet: W UW1 N D Z
+
+
+
+
+-- lib.word: wont
+american: वोन्ट
+arpabet: W OW1 N T
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: woe
+american: वो
+arpabet: W OW1
+
+
+
+
+-- lib.word: worldly
+american: वर्ल्ड्ली
+arpabet: W ER1 L D L IY0
+
+
+
+
+-- lib.word: wonders
+american: वान्ड्र्स
+arpabet: W AH1 N D ER0 Z
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: workmen
+american: वर्क्मिन
+arpabet: W ER1 K M IH0 N
+
+
+
+
+-- lib.word: woke
+american: वोक
+arpabet: W OW1 K
+
+
+
+
+-- lib.word: wool
+american: वूल
+arpabet: W UH1 L
+
+
+
+
+-- lib.word: wolf
+american: वूल्फ
+arpabet: W UH1 L F
+
+
+
+
+-- lib.word: workers
+american: वर्क्र्स
+arpabet: W ER1 K ER0 Z
+
+
+
+
+-- lib.word: wonderfully
+american: वान्ड्र्फैली
+arpabet: W AH1 N D ER0 F AH0 L IY0
+
+
+
+
+-- lib.word: wondrous
+american: वान्ड्रैस
+arpabet: W AH1 N D R AH0 S
+
+
+
+
+-- lib.word: worlds
+american: वर्ल्ड्स
+arpabet: W ER1 L D Z
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: worshipped
+american: वर्शैप्ट
+arpabet: W ER1 SH AH0 P T
+
+
+
+
+-- lib.word: wolves
+american: वूल्व्स
+arpabet: W UH1 L V Z
+
+
+
+
+-- lib.word: worthless
+american: वर्थलैस
+arpabet: W ER1 TH L AH0 S
+
+
+
+
+-- lib.word: Wordsworth
+american: वर्ड्स्वर्थ
+arpabet: W ER1 D Z W ER0 TH
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: worm
+american: वर्म
+arpabet: W ER1 M
+
+
+
+
+-- lib.word: wooded
+american: वूडिड
+arpabet: W UH1 D IH0 D
+
+
+
+
+-- lib.word: woven
+american: वोवैन
+arpabet: W OW1 V AH0 N
+
+
+
+
+-- lib.word: workman
+american: वर्क्मैन
+arpabet: W ER1 K M AH0 N
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: worker
+american: वर्क्र
+arpabet: W ER1 K ER0
+
+
+
+
+-- lib.word: woodland
+american: वूड्लैन्ड
+arpabet: W UH1 D L AE2 N D
+
+
+
+
+-- lib.word: worms
+american: वर्म्स
+arpabet: W ER1 M Z
+
+
+
+
+-- lib.word: womb
+american: वूम
+arpabet: W UW1 M
+
+
+
+
+-- lib.word: womanhood
+american: वूमैन्हूड
+arpabet: W UH1 M AH0 N HH UH2 D
+
+
+
+
+-- lib.word: Word
+american: वर्ड
+arpabet: W ER1 D
+
+
+
+
+-- lib.word: womanly
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: workmanship
+american: वर्क्मैन्शिप
+arpabet: W ER1 K M AH0 N SH IH2 P
+
+
+
+
+-- lib.word: woollen
+american: वूलैन
+arpabet: W UH1 L AH0 N
+
+
+
+

@@ -1,0 +1,569 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: was
+american: वॉस
+arpabet: W AA1 Z
+indian: वाज़
+meaning: था
+
+
+-- lib.word: want
+american: वॉन्ट
+arpabet: W AA1 N T
+meaning: चाहते हैं
+
+
+-- lib.word: way
+american: वेऽ
+arpabet: W EY1
+meaning: रास्ता
+
+
+-- lib.word: wait
+american: वेऽट
+arpabet: W EY1 T
+meaning: रुको ,इंतज़ार ,प्रतीक्षा
+
+
+-- lib.word: wanted
+american: वॉन्टैड
+arpabet: W AA1 N T AH0 D
+meaning: चाहता था ,जरूरत है ,आवश्यकता है ,
+
+
+-- lib.word: wasn't
+american: वॉसैन्ट
+arpabet: W AA1 Z AH0 N T
+meaning: नहीं था ,नहीं होता
+
+
+-- lib.word: wants
+american: वॉन्ट्स
+arpabet: W AA1 N T S
+meaning: चाहता है , आवश्यकताएँ
+
+
+-- lib.word: wanna
+american: वॉनै
+arpabet: W AA1 N AH0
+meaning: चाहना
+
+
+-- lib.word: watch
+american: वॉच
+arpabet: W AA1 CH
+meaning: घड़ीी , निगरानी करना ,पहरा
+
+
+-- lib.word: walk
+american: वॉक
+arpabet: W AO1 K
+meaning: चलना , जाना , कदम
+
+
+-- lib.word: waiting
+american: वेऽटिंग
+arpabet: W EY1 T IH0 NG
+meaning: इतंजार करना , प्रतीक्षा
+
+
+-- lib.word: water
+american: वॉट्र
+arpabet: W AO1 T ER0
+meaning: पानी ,जल ,नीर
+
+
+-- lib.word: watching
+american: वॉचिंग
+arpabet: W AA1 CH IH0 NG
+meaning: निगरानी करना,पहरा देना,देख रहे,चौकीदारी करना
+
+
+-- lib.word: wake
+american: वेऽक
+arpabet: W EY1 K
+meaning: जागना,जागृत होना
+
+
+-- lib.word: war
+american: वॉर
+arpabet: W AO1 R
+meaning: युद्ध,लड़ाई,जंग
+
+
+-- lib.word: walked
+american: वॉक्ट
+arpabet: W AO1 K T
+
+
+
+
+-- lib.word: wall
+american: वॉल
+arpabet: W AO1 L
+
+
+
+
+-- lib.word: ways
+american: वेऽस
+arpabet: W EY1 Z
+
+
+
+
+-- lib.word: walls
+american: वॉल्स
+arpabet: W AO1 L Z
+
+
+
+
+-- lib.word: warm
+american: वॉर्म
+arpabet: W AO1 R M
+
+
+
+
+-- lib.word: watched
+american: वॉचट
+arpabet: W AA1 CH T
+
+
+
+
+-- lib.word: waited
+american: वेऽटैड
+arpabet: W EY1 T AH0 D
+
+
+
+
+-- lib.word: waters
+american: वॉट्र्स
+arpabet: W AO1 T ER0 Z
+
+
+
+
+-- lib.word: Washington
+american: वॉशिंग्टैन
+arpabet: W AA1 SH IH0 NG T AH0 N
+
+
+
+
+-- lib.word: walking
+american: वॉकिंग
+arpabet: W AO1 K IH0 NG
+
+
+
+
+-- lib.word: waste
+american: वेऽस्ट
+arpabet: W EY1 S T
+
+
+
+
+-- lib.word: waves
+american: वेऽव्स
+arpabet: W EY1 V Z
+
+
+
+
+-- lib.word: warning
+american: वॉर्निंग
+arpabet: W AO1 R N IH0 NG
+
+
+
+
+-- lib.word: Walter
+american: वॉल्ट्र
+arpabet: W AO1 L T ER0
+
+
+
+
+-- lib.word: wave
+american: वेऽव
+arpabet: W EY1 V
+
+
+
+
+-- lib.word: wanting
+american: वॉन्टिंग
+arpabet: W AA1 N T IH0 NG
+
+
+
+
+-- lib.word: walks
+american: वॉक्स
+arpabet: W AO1 K S
+
+
+
+
+-- lib.word: wandering
+american: वॉन्ड्रिंग
+arpabet: W AA1 N D ER0 IH0 NG
+
+
+
+
+-- lib.word: wars
+american: वॉर्स
+arpabet: W AO1 R Z
+
+
+
+
+-- lib.word: wages
+american: वेऽजैस
+arpabet: W EY1 JH AH0 Z
+
+
+
+
+-- lib.word: wandered
+american: वॉन्ड्र्ड
+arpabet: W AA1 N D ER0 D
+
+
+
+
+-- lib.word: warriors
+american: वॉरीर्स
+arpabet: W AO1 R IY0 ER0 Z
+
+
+
+
+-- lib.word: washed
+american: वॉशट
+arpabet: W AA1 SH T
+
+
+
+
+-- lib.word: warmth
+american: वॉर्म्थ
+arpabet: W AO1 R M TH
+
+
+
+
+-- lib.word: warned
+american: वॉर्न्ड
+arpabet: W AO1 R N D
+
+
+
+
+-- lib.word: wash
+american: वॉश
+arpabet: W AA1 SH
+
+
+
+
+-- lib.word: ward
+american: वॉर्ड
+arpabet: W AO1 R D
+
+
+
+
+-- lib.word: waved
+american: वेऽव्ड
+arpabet: W EY1 V D
+
+
+
+
+-- lib.word: wasted
+american: वेऽस्टैड
+arpabet: W EY1 S T AH0 D
+
+
+
+
+-- lib.word: wagon
+american: वैगैन
+arpabet: W AE1 G AH0 N
+
+
+
+
+-- lib.word: waist
+american: वेऽस्ट
+arpabet: W EY1 S T
+
+
+
+
+-- lib.word: warrant
+american: वॉरैन्ट
+arpabet: W AO1 R AH0 N T
+
+
+
+
+-- lib.word: warrior
+american: वॉरीर
+arpabet: W AO1 R IY0 ER0
+
+
+
+
+-- lib.word: warranties
+american: वॉरैन्टीस
+arpabet: W AO1 R AH0 N T IY0 Z
+
+
+
+
+-- lib.word: Wales
+american: वेऽल्स
+arpabet: W EY1 L Z
+
+
+
+
+-- lib.word: warn
+american: वॉर्न
+arpabet: W AO1 R N
+
+
+
+
+-- lib.word: warfare
+american: वॉर्फेर
+arpabet: W AO1 R F EH2 R
+
+
+
+
+-- lib.word: warmly
+american: वॉर्म्ली
+arpabet: W AO1 R M L IY0
+
+
+
+
+-- lib.word: wander
+american: वॉन्ड्र
+arpabet: W AA1 N D ER0
+
+
+
+
+-- lib.word: washing
+american: वॉशिंग
+arpabet: W AA1 SH IH0 NG
+
+
+
+
+-- lib.word: wax
+american: वैक्स
+arpabet: W AE1 K S
+
+
+
+
+-- lib.word: waking
+american: वेऽकिंग
+arpabet: W EY1 K IH0 NG
+
+
+
+
+-- lib.word: waiter
+american: वेऽट्र
+arpabet: W EY1 T ER0
+
+
+
+
+-- lib.word: warlike
+american: वॉर्लाय्क
+arpabet: W AO1 R L AY2 K
+
+
+
+
+-- lib.word: waistcoat
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: wan
+american: वॉन
+arpabet: W AA1 N
+
+
+
+
+-- lib.word: watchful
+american: वॉचफैल
+arpabet: W AA1 CH F AH0 L
+
+
+
+
+-- lib.word: watches
+american: वॉचैस
+arpabet: W AA1 CH AH0 Z
+
+
+
+
+-- lib.word: Walt
+american: वॉल्ट
+arpabet: W AO1 L T
+
+
+
+
+-- lib.word: walker
+american: वॉक्र
+arpabet: W AO1 K ER0
+
+
+
+
+-- lib.word: wanton
+american: वॉन्टैन
+arpabet: W AO1 N T AH0 N
+
+
+
+
+-- lib.word: wasting
+american: वेऽस्टिंग
+arpabet: W EY1 S T IH0 NG
+
+
+
+
+-- lib.word: Watson
+american: वॉट्सैन
+arpabet: W AA1 T S AH0 N
+
+
+
+
+-- lib.word: wage
+american: वेऽज
+arpabet: W EY1 JH
+
+
+
+
+-- lib.word: wade
+american: वेऽड
+arpabet: W EY1 D
+
+
+
+
+-- lib.word: wail
+american: वेऽल
+arpabet: W EY1 L
+
+
+
+
+-- lib.word: warmer
+american: वॉर्म्र
+arpabet: W AO1 R M ER0
+
+
+
+
+-- lib.word: wager
+american: वेऽज्र
+arpabet: W EY1 JH ER0
+
+
+
+
+-- lib.word: wares
+american: वेर्स
+arpabet: W EH1 R Z
+
+
+
+
+-- lib.word: watery
+american: वॉट्री
+arpabet: W AO1 T ER0 IY0
+
+
+
+
+-- lib.word: wad
+american: वॉड
+arpabet: W AA1 D
+
+
+
+
+-- lib.word: wardrobe
+american: वॉर्ड्रोब
+arpabet: W AO1 R D R OW2 B
+
+
+
+
+-- lib.word: waked
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: wary
+american: वेरी
+arpabet: W EH1 R IY0
+
+
+
+
+-- lib.word: wast
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: wand
+american: वॉन्ड
+arpabet: W AA1 N D
+
+
+
+
+-- lib.word: wanderer
+american: वॉन्ड्र्र
+arpabet: W AA1 N D ER0 ER0
+
+
+
+
+-- lib.word: ware
+american: वेर
+arpabet: W EH1 R
+
+
+
+

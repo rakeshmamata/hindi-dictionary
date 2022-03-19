@@ -1,0 +1,3194 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: come
+american: काम
+arpabet: K AH1 M
+indian: कम
+meaning: आना ,
+
+
+-- lib.word: could
+american: कूड
+arpabet: K UH1 D
+indian: कूड
+meaning: सकता है
+
+
+-- lib.word: course
+american: कॉर्स
+arpabet: K AO1 R S
+meaning: अवधि , कार्यप्रणाली ,जलमार्ग ,श्रृंखला
+
+
+-- lib.word: coming
+american: कामिंग
+arpabet: K AH1 M IH0 NG
+meaning: आना ,आगमन ,आगामी
+
+
+-- lib.word: couldn't
+american: कूडैन्ट
+arpabet: K UH1 D AH0 N T
+meaning: नहीं कर सकना
+
+
+-- lib.word: couple
+american: कापैल
+arpabet: K AH1 P AH0 L
+indian: Same  /कपिल
+meaning: जोड़ा , युगल , मिथुन राशि
+
+
+-- lib.word: comes
+american: काम्स
+arpabet: K AH1 M Z
+meaning: आता है
+
+
+-- lib.word: cool
+american: कूल
+arpabet: K UW1 L
+meaning: ढंडा,शीतल ,उत्तेजनाहीन ,उदासीन
+
+
+-- lib.word: coffee
+american: कॉफी
+arpabet: K AA1 F IY0
+meaning: काफ़ी (पेय पदार्थ)
+
+
+-- lib.word: company
+american: काम्पैनी
+arpabet: K AH1 M P AH0 N IY0
+meaning: साथ ,कंपनी ,संगठन ,सेना का समूह ,साहचर्य
+
+
+-- lib.word: control
+american: कैन्ट्रोल
+arpabet: K AH0 N T R OW1 L
+meaning: नियंत्रण ,संयम ,अंकुश ,संचालन,निरोध
+
+
+-- lib.word: completely
+american: कैम्प्लीट्ली
+arpabet: K AH0 M P L IY1 T L IY0
+meaning: पूरी तरह से ,कुल मिलाकर ,पूर्ण रूप से
+
+
+-- lib.word: cold
+american: कोल्ड
+arpabet: K OW1 L D
+meaning: सर्दी ,ठंढा ,जुकाम,शीतल,उदासीन,निरुत्साह
+
+
+-- lib.word: country
+american: कान्ट्री
+arpabet: K AH1 N T R IY0
+meaning: देश,वतन,भूभाग
+
+
+-- lib.word: court
+american: कॉर्ट
+arpabet: K AO1 R T
+indian: कौर्ट
+meaning: कचहरी,कोर्ट,राजसभा,प्रांगण
+
+
+-- lib.word: count
+american: काव्न्ट
+arpabet: K AW1 N T
+meaning: गिनती करना,गणना,संख्या
+
+
+-- lib.word: college
+american: कॉलिज
+arpabet: K AA1 L IH0 JH
+meaning: कालेज,महाविद्यालय,शिक्षण संस्थान
+
+
+-- lib.word: concerned
+american: कैन्स्र्न्ड
+arpabet: K AH0 N S ER1 N D
+meaning: सम्बंधित, चिंतित, सम्बद्ध
+
+
+-- lib.word: cover
+american: काव्र
+arpabet: K AH1 V ER0
+indian: कवर
+meaning: आवरण, ढक्कन, आच्छादन
+
+
+-- lib.word: common
+american: कॉमैन
+arpabet: K AA1 M AH0 N
+
+
+
+
+-- lib.word: continued
+american: कैन्टिन्युड
+arpabet: K AH0 N T IH1 N Y UW0 D
+
+
+
+
+-- lib.word: copy
+american: कॉपी
+arpabet: K AA1 P IY0
+
+
+
+
+-- lib.word: copyright
+american: कॉपीराय्ट
+arpabet: K AA1 P IY0 R AY2 T
+
+
+
+
+-- lib.word: condition
+american: कैन्डिशैन
+arpabet: K AH0 N D IH1 SH AH0 N
+
+
+
+
+-- lib.word: command
+american: कैमैन्ड
+arpabet: K AH0 M AE1 N D
+
+
+
+
+-- lib.word: covered
+american: काव्र्ड
+arpabet: K AH1 V ER0 D
+
+
+
+
+-- lib.word: considered
+american: कैन्सिड्र्ड
+arpabet: K AH0 N S IH1 D ER0 D
+
+
+
+
+-- lib.word: conversation
+american: कॉन्व्र्सेऽशैन
+arpabet: K AA2 N V ER0 S EY1 SH AH0 N
+
+
+
+
+-- lib.word: cost
+american: कॉस्ट
+arpabet: K AA1 S T
+
+
+
+
+-- lib.word: considerable
+american: कैन्सिड्रैबैल
+arpabet: K AH0 N S IH1 D ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: corner
+american: कॉर्न्र
+arpabet: K AO1 R N ER0
+
+
+
+
+-- lib.word: copies
+american: कॉपीस
+arpabet: K AA1 P IY0 Z
+
+
+
+
+-- lib.word: conduct
+american: कॉन्डैक्ट
+arpabet: K AA1 N D AH0 K T
+
+
+
+
+-- lib.word: complete
+american: कैम्प्लीट
+arpabet: K AH0 M P L IY1 T
+
+
+
+
+-- lib.word: courage
+american: क्रैज
+arpabet: K ER1 AH0 JH
+
+
+
+
+-- lib.word: consider
+american: कैन्सिड्र
+arpabet: K AH0 N S IH1 D ER0
+
+
+
+
+-- lib.word: confidence
+american: कॉन्फैडैन्स
+arpabet: K AA1 N F AH0 D AH0 N S
+
+
+
+
+-- lib.word: concerning
+american: कैन्स्र्निंग
+arpabet: K AH0 N S ER1 N IH0 NG
+
+
+
+
+-- lib.word: conditions
+american: कैन्डिशैन्स
+arpabet: K AH0 N D IH1 SH AH0 N Z
+
+
+
+
+-- lib.word: coast
+american: कोस्ट
+arpabet: K OW1 S T
+
+
+
+
+-- lib.word: comfort
+american: काम्फ्र्ट
+arpabet: K AH1 M F ER0 T
+
+
+
+
+-- lib.word: companion
+american: कैम्पैन्यैन
+arpabet: K AH0 M P AE1 N Y AH0 N
+
+
+
+
+-- lib.word: consequence
+american: कॉन्सैक्वैन्स
+arpabet: K AA1 N S AH0 K W AH0 N S
+
+
+
+
+-- lib.word: contact
+american: कॉन्टैक्ट
+arpabet: K AA1 N T AE2 K T
+
+
+
+
+-- lib.word: collection
+american: कैलेक्शैन
+arpabet: K AH0 L EH1 K SH AH0 N
+
+
+
+
+-- lib.word: countries
+american: कान्ट्रीस
+arpabet: K AH1 N T R IY0 Z
+
+
+
+
+-- lib.word: coat
+american: कोट
+arpabet: K OW1 T
+
+
+
+
+-- lib.word: content
+american: कॉन्टेन्ट
+arpabet: K AA1 N T EH0 N T
+
+
+
+
+-- lib.word: consideration
+american: कैन्सिड्रेऽशैन
+arpabet: K AH0 N S IH2 D ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: contain
+american: कैन्टेऽन
+arpabet: K AH0 N T EY1 N
+
+
+
+
+-- lib.word: countenance
+american: काव्न्टैनैन्स
+arpabet: K AW1 N T AH0 N AH0 N S
+
+
+
+
+-- lib.word: constant
+american: कॉन्स्टैन्ट
+arpabet: K AA1 N S T AH0 N T
+
+
+
+
+-- lib.word: colour
+american: काल्र
+arpabet: K AH1 L ER0
+
+
+
+
+-- lib.word: continue
+american: कैन्टिन्यु
+arpabet: K AH0 N T IH1 N Y UW0
+
+
+
+
+-- lib.word: constantly
+american: कॉन्स्टैन्ट्ली
+arpabet: K AA1 N S T AH0 N T L IY0
+
+
+
+
+-- lib.word: connected
+american: कैनेक्टैड
+arpabet: K AH0 N EH1 K T AH0 D
+
+
+
+
+-- lib.word: committed
+american: कैमिटिड
+arpabet: K AH0 M IH1 T IH0 D
+
+
+
+
+-- lib.word: conscience
+american: कॉन्शैन्स
+arpabet: K AA1 N SH AH0 N S
+
+
+
+
+-- lib.word: commanded
+american: कैमैन्डैड
+arpabet: K AH0 M AE1 N D AH0 D
+
+
+
+
+-- lib.word: color
+american: काल्र
+arpabet: K AH1 L ER0
+
+
+
+
+-- lib.word: comply
+american: कैम्प्लाय
+arpabet: K AH0 M P L AY1
+
+
+
+
+-- lib.word: connection
+american: कैनेक्शैन
+arpabet: K AH0 N EH1 K SH AH0 N
+
+
+
+
+-- lib.word: conscious
+american: कॉन्शैस
+arpabet: K AA1 N SH AH0 S
+
+
+
+
+-- lib.word: composed
+american: कैम्पोस्ड
+arpabet: K AH0 M P OW1 Z D
+
+
+
+
+-- lib.word: cousin
+american: कासैन
+arpabet: K AH1 Z AH0 N
+
+
+
+
+-- lib.word: compelled
+american: कैम्पेल्ड
+arpabet: K AH0 M P EH1 L D
+
+
+
+
+-- lib.word: companions
+american: कैम्पैन्यैन्स
+arpabet: K AH0 M P AE1 N Y AH0 N Z
+
+
+
+
+-- lib.word: consent
+american: कैन्सेन्ट
+arpabet: K AH0 N S EH1 N T
+
+
+
+
+-- lib.word: contained
+american: कैन्टेऽन्ड
+arpabet: K AH0 N T EY1 N D
+
+
+
+
+-- lib.word: conclusion
+american: कैन्क्लूसैन
+arpabet: K AH0 N K L UW1 ZH AH0 N
+
+
+
+
+-- lib.word: computer
+american: कैम्प्यूट्र
+arpabet: K AH0 M P Y UW1 T ER0
+
+
+
+
+-- lib.word: containing
+american: कैन्टेऽनिंग
+arpabet: K AH0 N T EY1 N IH0 NG
+
+
+
+
+-- lib.word: confusion
+american: कैन्फ्यूसैन
+arpabet: K AH0 N F Y UW1 ZH AH0 N
+
+
+
+
+-- lib.word: cook
+american: कूक
+arpabet: K UH1 K
+
+
+
+
+-- lib.word: convinced
+american: कैन्विन्स्ट
+arpabet: K AH0 N V IH1 N S T
+
+
+
+
+-- lib.word: confess
+american: कैन्फेस
+arpabet: K AH0 N F EH1 S
+
+
+
+
+-- lib.word: consciousness
+american: कॉन्शैस्नैस
+arpabet: K AA1 N SH AH0 S N AH0 S
+
+
+
+
+-- lib.word: compliance
+american: कैम्प्लायैन्स
+arpabet: K AH0 M P L AY1 AH0 N S
+
+
+
+
+-- lib.word: comfortable
+american: काम्फ्र्टैबैल
+arpabet: K AH1 M F ER0 T AH0 B AH0 L
+
+
+
+
+-- lib.word: commercial
+american: कैम्र्शैल
+arpabet: K AH0 M ER1 SH AH0 L
+
+
+
+
+-- lib.word: concluded
+american: कैन्क्लूडैड
+arpabet: K AH0 N K L UW1 D AH0 D
+
+
+
+
+-- lib.word: corn
+american: कॉर्न
+arpabet: K AO1 R N
+
+
+
+
+-- lib.word: community
+american: कैम्यूनैटी
+arpabet: K AH0 M Y UW1 N AH0 T IY0
+
+
+
+
+-- lib.word: compared
+american: कैम्पेर्ड
+arpabet: K AH0 M P EH1 R D
+
+
+
+
+-- lib.word: contempt
+american: कैन्टेम्प्ट
+arpabet: K AH0 N T EH1 M P T
+
+
+
+
+-- lib.word: conviction
+american: कैन्विक्शैन
+arpabet: K AH0 N V IH1 K SH AH0 N
+
+
+
+
+-- lib.word: confirmed
+american: कैन्फ्र्म्ड
+arpabet: K AH0 N F ER1 M D
+
+
+
+
+-- lib.word: correct
+american: क्रेक्ट
+arpabet: K ER0 EH1 K T
+
+
+
+
+-- lib.word: counsel
+american: काव्न्सैल
+arpabet: K AW1 N S AH0 L
+
+
+
+
+-- lib.word: constitution
+american: कॉन्स्टैटूशैन
+arpabet: K AA2 N S T AH0 T UW1 SH AH0 N
+
+
+
+
+-- lib.word: contents
+american: कॉन्टेन्ट्स
+arpabet: K AA1 N T EH0 N T S
+
+
+
+
+-- lib.word: collected
+american: कैलेक्टैड
+arpabet: K AH0 L EH1 K T AH0 D
+
+
+
+
+-- lib.word: costs
+american: कॉस्ट्स
+arpabet: K AA1 S T S
+
+
+
+
+-- lib.word: continually
+american: कैन्टिन्युऐली
+arpabet: K AH0 N T IH1 N Y UW0 AH0 L IY0
+
+
+
+
+-- lib.word: copying
+american: कॉपीइंग
+arpabet: K AA1 P IY0 IH0 NG
+
+
+
+
+-- lib.word: cottage
+american: कॉटैज
+arpabet: K AA1 T AH0 JH
+
+
+
+
+-- lib.word: council
+american: काव्न्सैल
+arpabet: K AW1 N S AH0 L
+
+
+
+
+-- lib.word: communication
+american: कैम्युनैकेऽशैन
+arpabet: K AH0 M Y UW2 N AH0 K EY1 SH AH0 N
+
+
+
+
+-- lib.word: concealed
+american: कैन्सील्ड
+arpabet: K AH0 N S IY1 L D
+
+
+
+
+-- lib.word: completed
+american: कैम्प्लीटैड
+arpabet: K AH0 M P L IY1 T AH0 D
+
+
+
+
+-- lib.word: contains
+american: कैन्टेऽन्स
+arpabet: K AH0 N T EY1 N Z
+
+
+
+
+-- lib.word: confined
+american: कैन्फाय्न्ड
+arpabet: K AH0 N F AY1 N D
+
+
+
+
+-- lib.word: consequences
+american: कॉन्सैक्वेन्सैस
+arpabet: K AA1 N S AH0 K W EH2 N S AH0 Z
+
+
+
+
+-- lib.word: commenced
+american: कैमेन्स्ट
+arpabet: K AH0 M EH1 N S T
+
+
+
+
+-- lib.word: county
+american: काव्न्टी
+arpabet: K AW1 N T IY0
+
+
+
+
+-- lib.word: commerce
+american: कॉम्र्स
+arpabet: K AA1 M ER0 S
+
+
+
+
+-- lib.word: consequently
+american: कॉन्सैक्वैन्ट्ली
+arpabet: K AA1 N S AH0 K W AH0 N T L IY0
+
+
+
+
+-- lib.word: conducted
+american: कैन्डाक्टैड
+arpabet: K AH0 N D AH1 K T AH0 D
+
+
+
+
+-- lib.word: concern
+american: कैन्स्र्न
+arpabet: K AH0 N S ER1 N
+
+
+
+
+-- lib.word: commonly
+american: कॉमैन्ली
+arpabet: K AA1 M AH0 N L IY0
+
+
+
+
+-- lib.word: contributions
+american: कॉन्ट्रैब्यूशैन्स
+arpabet: K AA2 N T R AH0 B Y UW1 SH AH0 N Z
+
+
+
+
+-- lib.word: conception
+american: कैन्सेप्शैन
+arpabet: K AH0 N S EH1 P SH AH0 N
+
+
+
+
+-- lib.word: considering
+american: कैन्सिड्रिंग
+arpabet: K AH0 N S IH1 D ER0 IH0 NG
+
+
+
+
+-- lib.word: contrast
+american: कॉन्ट्रैस्ट
+arpabet: K AA1 N T R AE0 S T
+
+
+
+
+-- lib.word: commission
+american: कैमिशैन
+arpabet: K AH0 M IH1 SH AH0 N
+
+
+
+
+-- lib.word: conceived
+american: कैन्सीव्ड
+arpabet: K AH0 N S IY1 V D
+
+
+
+
+-- lib.word: courts
+american: कॉर्ट्स
+arpabet: K AO1 R T S
+
+
+
+
+-- lib.word: condemned
+american: कैन्डेम्ड
+arpabet: K AH0 N D EH1 M D
+
+
+
+
+-- lib.word: corrupt
+american: क्राप्ट
+arpabet: K ER0 AH1 P T
+
+
+
+
+-- lib.word: comparison
+american: कैम्पेरैसैन
+arpabet: K AH0 M P EH1 R AH0 S AH0 N
+
+
+
+
+-- lib.word: composition
+american: कॉम्पैसिशैन
+arpabet: K AA2 M P AH0 Z IH1 SH AH0 N
+
+
+
+
+-- lib.word: consists
+american: कैन्सिस्ट्स
+arpabet: K AH0 N S IH1 S T S
+
+
+
+
+-- lib.word: coach
+american: कोच
+arpabet: K OW1 CH
+
+
+
+
+-- lib.word: conflict
+american: कॉन्फ्लिक्ट
+arpabet: K AA1 N F L IH0 K T
+
+
+
+
+-- lib.word: construction
+american: कैन्स्ट्राक्शैन
+arpabet: K AH0 N S T R AH1 K SH AH0 N
+
+
+
+
+-- lib.word: conceal
+american: कैन्सील
+arpabet: K AH0 N S IY1 L
+
+
+
+
+-- lib.word: converted
+american: कैन्व्र्टिड
+arpabet: K AH0 N V ER1 T IH0 D
+
+
+
+
+-- lib.word: confused
+american: कैन्फ्यूस्ड
+arpabet: K AH0 N F Y UW1 Z D
+
+
+
+
+-- lib.word: covering
+american: काव्रिंग
+arpabet: K AH1 V ER0 IH0 NG
+
+
+
+
+-- lib.word: convey
+american: कैन्वेऽ
+arpabet: K AH0 N V EY1
+
+
+
+
+-- lib.word: combined
+american: कैम्बाय्न्ड
+arpabet: K AH0 M B AY1 N D
+
+
+
+
+-- lib.word: commander
+american: कैमैन्ड्र
+arpabet: K AH0 M AE1 N D ER0
+
+
+
+
+-- lib.word: cotton
+american: कॉटैन
+arpabet: K AA1 T AH0 N
+
+
+
+
+-- lib.word: colored
+american: काल्र्ड
+arpabet: K AH1 L ER0 D
+
+
+
+
+-- lib.word: correspondence
+american: कारैस्पॉन्डैन्स
+arpabet: K AO2 R AH0 S P AA1 N D AH0 N S
+
+
+
+
+-- lib.word: consisted
+american: कैन्सिस्टैड
+arpabet: K AH0 N S IH1 S T AH0 D
+
+
+
+
+-- lib.word: counted
+american: काव्न्टैड
+arpabet: K AW1 N T AH0 D
+
+
+
+
+-- lib.word: comment
+american: कॉमेन्ट
+arpabet: K AA1 M EH0 N T
+
+
+
+
+-- lib.word: colony
+american: कॉलैनी
+arpabet: K AA1 L AH0 N IY0
+
+
+
+
+-- lib.word: conquered
+american: कॉंग्क्र्ड
+arpabet: K AA1 NG K ER0 D
+
+
+
+
+-- lib.word: column
+american: कॉलैम
+arpabet: K AA1 L AH0 M
+
+
+
+
+-- lib.word: conceive
+american: कैन्सीव
+arpabet: K AH0 N S IY1 V
+
+
+
+
+-- lib.word: coarse
+american: कॉर्स
+arpabet: K AO1 R S
+
+
+
+
+-- lib.word: confessed
+american: कैन्फेस्ट
+arpabet: K AH0 N F EH1 S T
+
+
+
+
+-- lib.word: complying
+american: कैम्प्लायिंग
+arpabet: K AH0 M P L AY1 IH0 NG
+
+
+
+
+-- lib.word: copied
+american: कॉपीड
+arpabet: K AA1 P IY0 D
+
+
+
+
+-- lib.word: compressed
+american: कैम्प्रेस्ट
+arpabet: K AH0 M P R EH1 S T
+
+
+
+
+-- lib.word: convenient
+american: कैन्वीन्यैन्ट
+arpabet: K AH0 N V IY1 N Y AH0 N T
+
+
+
+
+-- lib.word: committee
+american: कैमिटी
+arpabet: K AH0 M IH1 T IY0
+
+
+
+
+-- lib.word: comparatively
+american: कैम्पेरैटिव्ली
+arpabet: K AH0 M P EH1 R AH0 T IH0 V L IY0
+
+
+
+
+-- lib.word: confession
+american: कैन्फेशैन
+arpabet: K AH0 N F EH1 SH AH0 N
+
+
+
+
+-- lib.word: coal
+american: कोल
+arpabet: K OW1 L
+
+
+
+
+-- lib.word: commands
+american: कैमैन्ड्स
+arpabet: K AH0 M AE1 N D Z
+
+
+
+
+-- lib.word: comrades
+american: कॉम्रैड्स
+arpabet: K AA1 M R AE2 D Z
+
+
+
+
+-- lib.word: colonel
+american: क्र्नैल
+arpabet: K ER1 N AH0 L
+
+
+
+
+-- lib.word: contest
+american: कॉन्टेस्ट
+arpabet: K AA1 N T EH0 S T
+
+
+
+
+-- lib.word: contract
+american: कॉन्ट्रैक्ट
+arpabet: K AA1 N T R AE2 K T
+
+
+
+
+-- lib.word: combination
+american: कॉम्बैनेऽशैन
+arpabet: K AA2 M B AH0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: contented
+american: कैन्टेन्टैड
+arpabet: K AH0 N T EH1 N T AH0 D
+
+
+
+
+-- lib.word: corps
+american: कॉर
+arpabet: K AO1 R
+
+
+
+
+-- lib.word: columns
+american: कॉलैम्स
+arpabet: K AA1 L AH0 M Z
+
+
+
+
+-- lib.word: commons
+american: कॉमैन्स
+arpabet: K AA1 M AH0 N Z
+
+
+
+
+-- lib.word: commanding
+american: कैमैन्डिंग
+arpabet: K AH0 M AE1 N D IH0 NG
+
+
+
+
+-- lib.word: courtesy
+american: क्र्टैसी
+arpabet: K ER1 T AH0 S IY0
+
+
+
+
+-- lib.word: consisting
+american: कैन्सिस्टिंग
+arpabet: K AH0 N S IH1 S T IH0 NG
+
+
+
+
+-- lib.word: colors
+american: काल्र्स
+arpabet: K AH1 L ER0 Z
+
+
+
+
+-- lib.word: continent
+american: कॉन्टैनैन्ट
+arpabet: K AA1 N T AH0 N AH0 N T
+
+
+
+
+-- lib.word: consented
+american: कैन्सेन्टिड
+arpabet: K AH0 N S EH1 N T IH0 D
+
+
+
+
+-- lib.word: corners
+american: कॉर्न्र्स
+arpabet: K AO1 R N ER0 Z
+
+
+
+
+-- lib.word: commit
+american: कैमिट
+arpabet: K AH0 M IH1 T
+
+
+
+
+-- lib.word: considerably
+american: कैन्सिड्रैब्ली
+arpabet: K AH0 N S IH1 D ER0 AH0 B L IY0
+
+
+
+
+-- lib.word: conveyed
+american: कैन्वेऽड
+arpabet: K AH0 N V EY1 D
+
+
+
+
+-- lib.word: copper
+american: कॉप्र
+arpabet: K AA1 P ER0
+
+
+
+
+-- lib.word: countrymen
+american: कान्ट्रीमिन
+arpabet: K AH1 N T R IY0 M IH0 N
+
+
+
+
+-- lib.word: companies
+american: काम्पैनीस
+arpabet: K AH1 M P AH0 N IY0 Z
+
+
+
+
+-- lib.word: conversion
+american: कैन्व्र्सैन
+arpabet: K AH0 N V ER1 ZH AH0 N
+
+
+
+
+-- lib.word: constructed
+american: कैन्स्ट्राक्टैड
+arpabet: K AH0 N S T R AH1 K T AH0 D
+
+
+
+
+-- lib.word: conspicuous
+american: कैन्स्पिक्युऐस
+arpabet: K AH0 N S P IH1 K Y UW0 AH0 S
+
+
+
+
+-- lib.word: convent
+american: कॉन्वैन्ट
+arpabet: K AA1 N V AH0 N T
+
+
+
+
+-- lib.word: corresponding
+american: कारैस्पॉन्डिंग
+arpabet: K AO2 R AH0 S P AA1 N D IH0 NG
+
+
+
+
+-- lib.word: conclude
+american: कैन्क्लूड
+arpabet: K AH0 N K L UW1 D
+
+
+
+
+-- lib.word: couch
+american: काव्च
+arpabet: K AW1 CH
+
+
+
+
+-- lib.word: complaint
+american: कैम्प्लेऽन्ट
+arpabet: K AH0 M P L EY1 N T
+
+
+
+
+-- lib.word: convention
+american: कैन्वेन्शैन
+arpabet: K AH0 N V EH1 N SH AH0 N
+
+
+
+
+-- lib.word: cow
+american: काव
+arpabet: K AW1
+
+
+
+
+-- lib.word: collar
+american: कॉल्र
+arpabet: K AA1 L ER0
+
+
+
+
+-- lib.word: confident
+american: कॉन्फैडैन्ट
+arpabet: K AA1 N F AH0 D AH0 N T
+
+
+
+
+-- lib.word: codes
+american: कोड्स
+arpabet: K OW1 D Z
+
+
+
+
+-- lib.word: compare
+american: कैम्पेर
+arpabet: K AH0 M P EH1 R
+
+
+
+
+-- lib.word: concept
+american: कॉन्सेप्ट
+arpabet: K AA1 N S EH0 P T
+
+
+
+
+-- lib.word: combat
+american: कॉम्बैट
+arpabet: K AA1 M B AE0 T
+
+
+
+
+-- lib.word: communicated
+american: कैम्यूनैकेऽटिड
+arpabet: K AH0 M Y UW1 N AH0 K EY2 T IH0 D
+
+
+
+
+-- lib.word: consolation
+american: कॉन्सैलेऽशैन
+arpabet: K AA2 N S AH0 L EY1 SH AH0 N
+
+
+
+
+-- lib.word: constitutional
+american: कॉन्स्टैटूशैनैल
+arpabet: K AA2 N S T AH0 T UW1 SH AH0 N AH0 L
+
+
+
+
+-- lib.word: computers
+american: कैम्प्यूट्र्स
+arpabet: K AH0 M P Y UW1 T ER0 Z
+
+
+
+
+-- lib.word: complexion
+american: कैम्प्लेक्शैन
+arpabet: K AH0 M P L EH1 K SH AH0 N
+
+
+
+
+-- lib.word: collect
+american: कैलेक्ट
+arpabet: K AH0 L EH1 K T
+
+
+
+
+-- lib.word: convert
+american: कॉन्व्र्ट
+arpabet: K AA1 N V ER0 T
+
+
+
+
+-- lib.word: comprehend
+american: कॉम्प्रीहेन्ड
+arpabet: K AA2 M P R IY0 HH EH1 N D
+
+
+
+
+-- lib.word: compliment
+american: कॉम्प्लैमेन्ट
+arpabet: K AA1 M P L AH0 M EH0 N T
+
+
+
+
+-- lib.word: compassion
+american: कैम्पैशैन
+arpabet: K AH0 M P AE1 SH AH0 N
+
+
+
+
+-- lib.word: contrived
+american: कैन्ट्राय्व्ड
+arpabet: K AH0 N T R AY1 V D
+
+
+
+
+-- lib.word: costume
+american: कॉस्टूम
+arpabet: K AA0 S T UW1 M
+
+
+
+
+-- lib.word: corpse
+american: कॉर्प्स
+arpabet: K AO1 R P S
+
+
+
+
+-- lib.word: continues
+american: कैन्टिन्युस
+arpabet: K AH0 N T IH1 N Y UW0 Z
+
+
+
+
+-- lib.word: complained
+american: कैम्प्लेऽन्ड
+arpabet: K AH0 M P L EY1 N D
+
+
+
+
+-- lib.word: coin
+american: कॉयन
+arpabet: K OY1 N
+
+
+
+
+-- lib.word: contributed
+american: कैन्ट्रिब्युटिड
+arpabet: K AH0 N T R IH1 B Y UW0 T IH0 D
+
+
+
+
+-- lib.word: coloured
+american: काल्र्ड
+arpabet: K AH1 L ER0 D
+
+
+
+
+-- lib.word: consult
+american: कैन्साल्ट
+arpabet: K AH0 N S AH1 L T
+
+
+
+
+-- lib.word: compass
+american: काम्पैस
+arpabet: K AH1 M P AH0 S
+
+
+
+
+-- lib.word: consulted
+american: कैन्साल्टैड
+arpabet: K AH0 N S AH1 L T AH0 D
+
+
+
+
+-- lib.word: cooking
+american: कूकिंग
+arpabet: K UH1 K IH0 NG
+
+
+
+
+-- lib.word: convince
+american: कैन्विन्स
+arpabet: K AH0 N V IH1 N S
+
+
+
+
+-- lib.word: congregation
+american: कॉंग्ग्रैगेऽशैन
+arpabet: K AA2 NG G R AH0 G EY1 SH AH0 N
+
+
+
+
+-- lib.word: conference
+american: कॉन्फ्रैन्स
+arpabet: K AA1 N F ER0 AH0 N S
+
+
+
+
+-- lib.word: Columbia
+american: कैलाम्बीऐ
+arpabet: K AH0 L AH1 M B IY0 AH0
+
+
+
+
+-- lib.word: communicate
+american: कैम्यूनैकेऽट
+arpabet: K AH0 M Y UW1 N AH0 K EY2 T
+
+
+
+
+-- lib.word: continuous
+american: कैन्टिन्युऐस
+arpabet: K AH0 N T IH1 N Y UW0 AH0 S
+
+
+
+
+-- lib.word: continual
+american: कैन्टिन्युऐल
+arpabet: K AH0 N T IH1 N Y UW0 AH0 L
+
+
+
+
+-- lib.word: confirmation
+american: कॉन्फ्र्मेऽशैन
+arpabet: K AA2 N F ER0 M EY1 SH AH0 N
+
+
+
+
+-- lib.word: considerations
+american: कैन्सिड्रेऽशैन्स
+arpabet: K AH0 N S IH2 D ER0 EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: conservative
+american: कैन्स्र्वैटिव
+arpabet: K AH0 N S ER1 V AH0 T IH0 V
+
+
+
+
+-- lib.word: Connecticut
+american: कैनेटैकैट
+arpabet: K AH0 N EH1 T AH0 K AH0 T
+
+
+
+
+-- lib.word: concerns
+american: कैन्स्र्न्स
+arpabet: K AH0 N S ER1 N Z
+
+
+
+
+-- lib.word: coldly
+american: कोल्ड्ली
+arpabet: K OW1 L D L IY0
+
+
+
+
+-- lib.word: cooked
+american: कूक्ट
+arpabet: K UH1 K T
+
+
+
+
+-- lib.word: corruption
+american: क्राप्शैन
+arpabet: K ER0 AH1 P SH AH0 N
+
+
+
+
+-- lib.word: comrade
+american: कॉम्रैड
+arpabet: K AA1 M R AE2 D
+
+
+
+
+-- lib.word: contemporary
+american: कैन्टेम्प्रेरी
+arpabet: K AH0 N T EH1 M P ER0 EH2 R IY0
+
+
+
+
+-- lib.word: Columbus
+american: कैलाम्बैस
+arpabet: K AH0 L AH1 M B AH0 S
+
+
+
+
+-- lib.word: corporation
+american: कार्प्रेऽशैन
+arpabet: K AO2 R P ER0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: cows
+american: काव्स
+arpabet: K AW1 Z
+
+
+
+
+-- lib.word: comedy
+american: कॉमैडी
+arpabet: K AA1 M AH0 D IY0
+
+
+
+
+-- lib.word: code
+american: कोड
+arpabet: K OW1 D
+
+
+
+
+-- lib.word: concert
+american: कॉन्स्र्ट
+arpabet: K AA1 N S ER0 T
+
+
+
+
+-- lib.word: confounded
+american: कैन्फाव्न्डिड
+arpabet: K AH0 N F AW1 N D IH0 D
+
+
+
+
+-- lib.word: corridor
+american: कॉरैड्र
+arpabet: K AO1 R AH0 D ER0
+
+
+
+
+-- lib.word: constituted
+american: कॉन्स्टैटुटैड
+arpabet: K AA1 N S T AH0 T UW2 T AH0 D
+
+
+
+
+-- lib.word: consist
+american: कैन्सिस्ट
+arpabet: K AH0 N S IH1 S T
+
+
+
+
+-- lib.word: cordial
+american: कॉर्जैल
+arpabet: K AO1 R JH AH0 L
+
+
+
+
+-- lib.word: compact
+american: कॉम्पैक्ट
+arpabet: K AA1 M P AE0 K T
+
+
+
+
+-- lib.word: counter
+american: काव्न्ट्र
+arpabet: K AW1 N T ER0
+
+
+
+
+-- lib.word: competition
+american: कॉम्पैटिशैन
+arpabet: K AA2 M P AH0 T IH1 SH AH0 N
+
+
+
+
+-- lib.word: communion
+american: कैम्यून्यैन
+arpabet: K AH0 M Y UW1 N Y AH0 N
+
+
+
+
+-- lib.word: Constantinople
+american: कॉन्स्टैन्टैनोपैल
+arpabet: K AA2 N S T AE0 N T AH0 N OW1 P AH0 L
+
+
+
+
+-- lib.word: coffin
+american: कॉफिन
+arpabet: K AO1 F IH0 N
+
+
+
+
+-- lib.word: contemplation
+american: कॉन्टैम्प्लेऽशैन
+arpabet: K AA2 N T AH0 M P L EY1 SH AH0 N
+
+
+
+
+-- lib.word: commonplace
+american: कॉमैन्प्लेऽस
+arpabet: K AA1 M AH0 N P L EY2 S
+
+
+
+
+-- lib.word: contracted
+american: कॉन्ट्रैक्टैड
+arpabet: K AA1 N T R AE0 K T AH0 D
+
+
+
+
+-- lib.word: comfortably
+american: काम्फ्र्टैब्ली
+arpabet: K AH1 M F ER0 T AH0 B L IY0
+
+
+
+
+-- lib.word: compliments
+american: कॉम्प्लैमेन्ट्स
+arpabet: K AA1 M P L AH0 M EH0 N T S
+
+
+
+
+-- lib.word: constitute
+american: कॉन्स्टैटुट
+arpabet: K AA1 N S T AH0 T UW2 T
+
+
+
+
+-- lib.word: complex
+american: कॉम्प्लेक्स
+arpabet: K AA1 M P L EH0 K S
+
+
+
+
+-- lib.word: controversy
+american: कॉन्ट्रैव्र्सी
+arpabet: K AA1 N T R AH0 V ER2 S IY0
+
+
+
+
+-- lib.word: commencement
+american: कैमेन्स्मैन्ट
+arpabet: K AH0 M EH1 N S M AH0 N T
+
+
+
+
+-- lib.word: conspiracy
+american: कैन्स्पिरैसी
+arpabet: K AH0 N S P IH1 R AH0 S IY0
+
+
+
+
+-- lib.word: continuing
+american: कैन्टिन्युइंग
+arpabet: K AH0 N T IH1 N Y UW0 IH0 NG
+
+
+
+
+-- lib.word: complicated
+american: कॉम्प्लैकेऽटैड
+arpabet: K AA1 M P L AH0 K EY2 T AH0 D
+
+
+
+
+-- lib.word: converse
+american: कॉन्व्र्स
+arpabet: K AA1 N V ER0 S
+
+
+
+
+-- lib.word: competent
+american: कॉम्पैटिन्ट
+arpabet: K AA1 M P AH0 T IH0 N T
+
+
+
+
+-- lib.word: conventional
+american: कैन्वेन्शैनैल
+arpabet: K AH0 N V EH1 N SH AH0 N AH0 L
+
+
+
+
+-- lib.word: complaints
+american: कैम्प्लेऽन्ट्स
+arpabet: K AH0 M P L EY1 N T S
+
+
+
+
+-- lib.word: cord
+american: कॉर्ड
+arpabet: K AO1 R D
+
+
+
+
+-- lib.word: comparative
+american: कैम्पेरैटिव
+arpabet: K AH0 M P EH1 R AH0 T IH0 V
+
+
+
+
+-- lib.word: conferred
+american: कैन्फ्र्ड
+arpabet: K AH0 N F ER1 D
+
+
+
+
+-- lib.word: concentrated
+american: कॉन्सैन्ट्रेऽटैड
+arpabet: K AA1 N S AH0 N T R EY2 T AH0 D
+
+
+
+
+-- lib.word: covers
+american: काव्र्स
+arpabet: K AH1 V ER0 Z
+
+
+
+
+-- lib.word: compromise
+american: कॉम्प्रैमाय्स
+arpabet: K AA1 M P R AH0 M AY2 Z
+
+
+
+
+-- lib.word: consumption
+american: कैन्साम्प्शैन
+arpabet: K AH0 N S AH1 M P SH AH0 N
+
+
+
+
+-- lib.word: controlled
+american: कैन्ट्रोल्ड
+arpabet: K AH0 N T R OW1 L D
+
+
+
+
+-- lib.word: convenience
+american: कैन्वीन्यैन्स
+arpabet: K AH0 N V IY1 N Y AH0 N S
+
+
+
+
+-- lib.word: courteous
+american: क्र्टीऐस
+arpabet: K ER1 T IY0 AH0 S
+
+
+
+
+-- lib.word: consistent
+american: कैन्सिस्टैन्ट
+arpabet: K AH0 N S IH1 S T AH0 N T
+
+
+
+
+-- lib.word: coolly
+american: कूली
+arpabet: K UW1 L IY0
+
+
+
+
+-- lib.word: contemplated
+american: कॉन्टैम्प्लेऽटिड
+arpabet: K AA1 N T AH0 M P L EY2 T IH0 D
+
+
+
+
+-- lib.word: compensation
+american: कॉम्पैन्सेऽशैन
+arpabet: K AA2 M P AH0 N S EY1 SH AH0 N
+
+
+
+
+-- lib.word: conjecture
+american: कैन्जेक्चर
+arpabet: K AH0 N JH EH1 K CH ER0
+
+
+
+
+-- lib.word: covenant
+american: कावैनैन्ट
+arpabet: K AH1 V AH0 N AH0 N T
+
+
+
+
+-- lib.word: Coleridge
+american: कोल्रिज
+arpabet: K OW1 L R IH0 JH
+
+
+
+
+-- lib.word: courtyard
+american: कॉर्ट्यॉर्ड
+arpabet: K AO1 R T Y AA2 R D
+
+
+
+
+-- lib.word: compel
+american: कैम्पेल
+arpabet: K AH0 M P EH1 L
+
+
+
+
+-- lib.word: compound
+american: कॉम्पाव्न्ड
+arpabet: K AA1 M P AW0 N D
+
+
+
+
+-- lib.word: confidential
+american: कॉन्फैडेन्शैल
+arpabet: K AA2 N F AH0 D EH1 N SH AH0 L
+
+
+
+
+-- lib.word: coats
+american: कोट्स
+arpabet: K OW1 T S
+
+
+
+
+-- lib.word: contribute
+american: कैन्ट्रिब्युट
+arpabet: K AH0 N T R IH1 B Y UW0 T
+
+
+
+
+-- lib.word: counting
+american: काव्न्टिंग
+arpabet: K AW1 N T IH0 NG
+
+
+
+
+-- lib.word: condemn
+american: कैन्डेम
+arpabet: K AH0 N D EH1 M
+
+
+
+
+-- lib.word: collecting
+american: कैलेक्टिंग
+arpabet: K AH0 L EH1 K T IH0 NG
+
+
+
+
+-- lib.word: consul
+american: कॉन्सैल
+arpabet: K AA1 N S AH0 L
+
+
+
+
+-- lib.word: courses
+american: कॉर्सैस
+arpabet: K AO1 R S AH0 Z
+
+
+
+
+-- lib.word: countless
+american: काव्न्ट्लैस
+arpabet: K AW1 N T L AH0 S
+
+
+
+
+-- lib.word: comic
+american: कॉमिक
+arpabet: K AA1 M IH0 K
+
+
+
+
+-- lib.word: communities
+american: कैम्यूनैटीस
+arpabet: K AH0 M Y UW1 N AH0 T IY0 Z
+
+
+
+
+-- lib.word: confronted
+american: कैन्फ्रान्टैड
+arpabet: K AH0 N F R AH1 N T AH0 D
+
+
+
+
+-- lib.word: compilation
+american: कॉम्पैलेऽशैन
+arpabet: K AA2 M P AH0 L EY1 SH AH0 N
+
+
+
+
+-- lib.word: countess
+american: काव्न्टैस
+arpabet: K AW1 N T AH0 S
+
+
+
+
+-- lib.word: communications
+american: कैम्युनैकेऽशैन्स
+arpabet: K AH0 M Y UW2 N AH0 K EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: corrected
+american: क्रेक्टैड
+arpabet: K ER0 EH1 K T AH0 D
+
+
+
+
+-- lib.word: consecrated
+american: कॉन्सैक्रेऽटैड
+arpabet: K AA1 N S AH0 K R EY2 T AH0 D
+
+
+
+
+-- lib.word: composure
+american: कैम्पोस्र
+arpabet: K AH0 M P OW1 ZH ER0
+
+
+
+
+-- lib.word: confided
+american: कैन्फाय्डैड
+arpabet: K AH0 N F AY1 D AH0 D
+
+
+
+
+-- lib.word: companionship
+american: कैम्पैन्यैन्शिप
+arpabet: K AH0 M P AE1 N Y AH0 N SH IH2 P
+
+
+
+
+-- lib.word: commence
+american: कैमेन्स
+arpabet: K AH0 M EH1 N S
+
+
+
+
+-- lib.word: contribution
+american: कॉन्ट्रैब्यूशैन
+arpabet: K AA2 N T R AH0 B Y UW1 SH AH0 N
+
+
+
+
+-- lib.word: confirm
+american: कैन्फ्र्म
+arpabet: K AH0 N F ER1 M
+
+
+
+
+-- lib.word: coolness
+american: कूल्नैस
+arpabet: K UW1 L N AH0 S
+
+
+
+
+-- lib.word: coachman
+american: कोचमैन
+arpabet: K OW1 CH M AH0 N
+
+
+
+
+-- lib.word: conqueror
+american: कॉंग्क्र्र
+arpabet: K AA1 NG K ER0 ER0
+
+
+
+
+-- lib.word: correspondent
+american: कारैस्पॉन्डैन्ट
+arpabet: K AO2 R AH0 S P AA1 N D AH0 N T
+
+
+
+
+-- lib.word: colonists
+american: कॉलैनिस्ट्स
+arpabet: K AA1 L AH0 N IH0 S T S
+
+
+
+
+-- lib.word: correctly
+american: क्रेक्ट्ली
+arpabet: K ER0 EH1 K T L IY0
+
+
+
+
+-- lib.word: confinement
+american: कैन्फाय्न्मैन्ट
+arpabet: K AH0 N F AY1 N M AH0 N T
+
+
+
+
+-- lib.word: colonial
+american: कैलोनीऐल
+arpabet: K AH0 L OW1 N IY0 AH0 L
+
+
+
+
+-- lib.word: contributing
+american: कैन्ट्रिब्युटिंग
+arpabet: K AH0 N T R IH1 B Y UW0 T IH0 NG
+
+
+
+
+-- lib.word: consequential
+american: कॉन्सैक्वेन्शैल
+arpabet: K AA2 N S AH0 K W EH1 N SH AH0 L
+
+
+
+
+-- lib.word: confidently
+american: कॉन्फैडैन्ट्ली
+arpabet: K AA1 N F AH0 D AH0 N T L IY0
+
+
+
+
+-- lib.word: cock
+american: कॉक
+arpabet: K AA1 K
+
+
+
+
+-- lib.word: continuance
+american: कैन्टिन्युऐन्स
+arpabet: K AH0 N T IH1 N Y UW0 AH0 N S
+
+
+
+
+-- lib.word: coral
+american: कॉरैल
+arpabet: K AO1 R AH0 L
+
+
+
+
+-- lib.word: cowardly
+american: काव्र्ड्ली
+arpabet: K AW1 ER0 D L IY0
+
+
+
+
+-- lib.word: commissioners
+american: कैमिशैन्र्स
+arpabet: K AH0 M IH1 SH AH0 N ER0 Z
+
+
+
+
+-- lib.word: cordially
+american: कॉर्जैली
+arpabet: K AO1 R JH AH0 L IY0
+
+
+
+
+-- lib.word: compose
+american: कैम्पोस
+arpabet: K AH0 M P OW1 Z
+
+
+
+
+-- lib.word: contradiction
+american: कॉन्ट्रैडिक्शैन
+arpabet: K AA2 N T R AH0 D IH1 K SH AH0 N
+
+
+
+
+-- lib.word: cong.
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: coasts
+american: कोस्ट्स
+arpabet: K OW1 S T S
+
+
+
+
+-- lib.word: consultation
+american: कॉन्सैल्टेऽशैन
+arpabet: K AA2 N S AH0 L T EY1 SH AH0 N
+
+
+
+
+-- lib.word: consternation
+american: कॉन्स्ट्र्नेऽशैन
+arpabet: K AA2 N S T ER0 N EY1 SH AH0 N
+
+
+
+
+-- lib.word: col.
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: comprehension
+american: कॉम्प्रीहेन्शैन
+arpabet: K AA2 M P R IY0 HH EH1 N SH AH0 N
+
+
+
+
+-- lib.word: con
+american: कॉन
+arpabet: K AA1 N
+
+
+
+
+-- lib.word: comprehensive
+american: कॉम्प्रीहेन्सिव
+arpabet: K AA2 M P R IY0 HH EH1 N S IH0 V
+
+
+
+
+-- lib.word: confine
+american: कैन्फाय्न
+arpabet: K AH0 N F AY1 N
+
+
+
+
+-- lib.word: CO
+american: को
+arpabet: K OW1
+
+
+
+
+-- lib.word: congratulate
+american: कैन्ग्रैचैलेऽट
+arpabet: K AH0 N G R AE1 CH AH0 L EY2 T
+
+
+
+
+-- lib.word: contemplate
+american: कॉन्टैम्प्लेऽट
+arpabet: K AA1 N T AH0 M P L EY2 T
+
+
+
+
+-- lib.word: conductor
+american: कैन्डाक्ट्र
+arpabet: K AH0 N D AH1 K T ER0
+
+
+
+
+-- lib.word: concrete
+american: कैन्क्रीट
+arpabet: K AH0 N K R IY1 T
+
+
+
+
+-- lib.word: combine
+american: कॉम्बाय्न
+arpabet: K AA1 M B AY0 N
+
+
+
+
+-- lib.word: confer
+american: कैन्फ्र
+arpabet: K AH0 N F ER1
+
+
+
+
+-- lib.word: commanders
+american: कैमैन्ड्र्स
+arpabet: K AH0 M AE1 N D ER0 Z
+
+
+
+
+-- lib.word: courtiers
+american: कॉर्टीर्स
+arpabet: K AO1 R T IY0 ER0 Z
+
+
+
+
+-- lib.word: consequent
+american: कॉन्सैक्वैन्ट
+arpabet: K AA1 N S AH0 K W AH0 N T
+
+
+
+
+-- lib.word: constrained
+american: कैन्स्ट्रेऽन्ड
+arpabet: K AH0 N S T R EY1 N D
+
+
+
+
+-- lib.word: counties
+american: काव्न्टीस
+arpabet: K AW1 N T IY0 Z
+
+
+
+
+-- lib.word: coldness
+american: कोल्ड्नैस
+arpabet: K OW1 L D N AH0 S
+
+
+
+
+-- lib.word: concealment
+american: कैन्सील्मैन्ट
+arpabet: K AH0 N S IY1 L M AH0 N T
+
+
+
+
+-- lib.word: connexion
+american: कैनेक्शैन
+arpabet: K AH0 N EH1 K SH AH0 N
+
+
+
+
+-- lib.word: considers
+american: कैन्सिड्र्स
+arpabet: K AH0 N S IH1 D ER0 Z
+
+
+
+
+-- lib.word: condemnation
+american: कॉन्डैम्नेऽशैन
+arpabet: K AA2 N D AH0 M N EY1 SH AH0 N
+
+
+
+
+-- lib.word: corrections
+american: क्रेक्शैन्स
+arpabet: K ER0 EH1 K SH AH0 N Z
+
+
+
+
+-- lib.word: completion
+american: कैम्प्लीशैन
+arpabet: K AH0 M P L IY1 SH AH0 N
+
+
+
+
+-- lib.word: convincing
+american: कैन्विन्सिंग
+arpabet: K AH0 N V IH1 N S IH0 NG
+
+
+
+
+-- lib.word: commented
+american: कॉमेन्टैड
+arpabet: K AA1 M EH0 N T AH0 D
+
+
+
+
+-- lib.word: cowardice
+american: काव्र्डैस
+arpabet: K AW1 ER0 D AH0 S
+
+
+
+
+-- lib.word: conjunction
+american: कैन्जांग्क्शैन
+arpabet: K AH0 N JH AH1 NG K SH AH0 N
+
+
+
+
+-- lib.word: combinations
+american: कॉम्बैनेऽशैन्स
+arpabet: K AA2 M B AH0 N EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: constable
+american: कॉन्स्टैबैल
+arpabet: K AA1 N S T AH0 B AH0 L
+
+
+
+
+-- lib.word: console
+american: कॉन्सोल
+arpabet: K AA1 N S OW0 L
+
+
+
+
+-- lib.word: contemptuous
+american: कैन्टेम्प्चुऐस
+arpabet: K AH0 N T EH1 M P CH UW0 AH0 S
+
+
+
+
+-- lib.word: constitutes
+american: कॉन्स्टैटुट्स
+arpabet: K AA1 N S T AH0 T UW2 T S
+
+
+
+
+-- lib.word: conscientious
+american: कॉन्शीएन्शैस
+arpabet: K AA2 N SH IY0 EH1 N SH AH0 S
+
+
+
+
+-- lib.word: consulting
+american: कैन्साल्टिंग
+arpabet: K AH0 N S AH1 L T IH0 NG
+
+
+
+
+-- lib.word: cough
+american: कॉफ
+arpabet: K AA1 F
+
+
+
+
+-- lib.word: collections
+american: कैलेक्शैन्स
+arpabet: K AH0 L EH1 K SH AH0 N Z
+
+
+
+
+-- lib.word: commonwealth
+american: कॉमैन्वेल्थ
+arpabet: K AA1 M AH0 N W EH2 L TH
+
+
+
+
+-- lib.word: commodities
+american: कैमॉडैटीस
+arpabet: K AH0 M AA1 D AH0 T IY0 Z
+
+
+
+
+-- lib.word: courageous
+american: क्रेऽजैस
+arpabet: K ER0 EY1 JH AH0 S
+
+
+
+
+-- lib.word: concluding
+american: कैन्क्लूडिंग
+arpabet: K AH0 N K L UW1 D IH0 NG
+
+
+
+
+-- lib.word: connecting
+american: कैनेक्टिंग
+arpabet: K AH0 N EH1 K T IH0 NG
+
+
+
+
+-- lib.word: contemptible
+american: कैन्टेम्प्टैबैल
+arpabet: K AH0 N T EH1 M P T AH0 B AH0 L
+
+
+
+
+-- lib.word: conceit
+american: कैन्सीट
+arpabet: K AH0 N S IY1 T
+
+
+
+
+-- lib.word: commend
+american: कैमेन्ड
+arpabet: K AH0 M EH1 N D
+
+
+
+
+-- lib.word: connect
+american: कैनेक्ट
+arpabet: K AH0 N EH1 K T
+
+
+
+
+-- lib.word: complaining
+american: कैम्प्लेऽनिंग
+arpabet: K AH0 M P L EY1 N IH0 NG
+
+
+
+
+-- lib.word: cork
+american: कॉर्क
+arpabet: K AO1 R K
+
+
+
+
+-- lib.word: comments
+american: कॉमेन्ट्स
+arpabet: K AA1 M EH0 N T S
+
+
+
+
+-- lib.word: convicted
+american: कैन्विक्टैड
+arpabet: K AH0 N V IH1 K T AH0 D
+
+
+
+
+-- lib.word: colleagues
+american: कॉलीग्स
+arpabet: K AA1 L IY0 G Z
+
+
+
+
+-- lib.word: concession
+american: कैन्सेशैन
+arpabet: K AH0 N S EH1 SH AH0 N
+
+
+
+
+-- lib.word: correspond
+american: कारैस्पॉन्ड
+arpabet: K AO2 R AH0 S P AA1 N D
+
+
+
+
+-- lib.word: cooper
+american: कूप्र
+arpabet: K UW1 P ER0
+
+
+
+
+-- lib.word: connections
+american: कैनेक्शैन्स
+arpabet: K AH0 N EH1 K SH AH0 N Z
+
+
+
+
+-- lib.word: colossal
+american: कैलॉसैल
+arpabet: K AH0 L AA1 S AH0 L
+
+
+
+
+-- lib.word: colorado
+american: कॉल्रॉडो
+arpabet: K AA2 L ER0 AA1 D OW0
+
+
+
+
+-- lib.word: counts
+american: काव्न्ट्स
+arpabet: K AW1 N T S
+
+
+
+
+-- lib.word: coincidence
+american: कोइन्सिडैन्स
+arpabet: K OW0 IH1 N S IH0 D AH0 N S
+
+
+
+
+-- lib.word: comparing
+american: कैम्पेरिंग
+arpabet: K AH0 M P EH1 R IH0 NG
+
+
+
+
+-- lib.word: colleges
+american: कॉलिजिस
+arpabet: K AA1 L IH0 JH IH0 Z
+
+
+
+
+-- lib.word: conformity
+american: कैन्फॉर्मैटी
+arpabet: K AH0 N F AO1 R M AH0 T IY0
+
+
+
+
+-- lib.word: constantine
+american: कॉन्स्टैन्टीन
+arpabet: K AA1 N S T AH0 N T IY2 N
+
+
+
+
+-- lib.word: conducting
+american: कैन्डाक्टिंग
+arpabet: K AH0 N D AH1 K T IH0 NG
+
+
+
+
+-- lib.word: cords
+american: कॉर्ड्स
+arpabet: K AO1 R D Z
+
+
+
+
+-- lib.word: convict
+american: कॉन्विक्ट
+arpabet: K AA1 N V IH0 K T
+
+
+
+
+-- lib.word: core
+american: कॉर
+arpabet: K AO1 R
+
+
+
+
+-- lib.word: concentration
+american: कॉन्सैन्ट्रेऽशैन
+arpabet: K AA2 N S AH0 N T R EY1 SH AH0 N
+
+
+
+
+-- lib.word: commotion
+american: कैमोशैन
+arpabet: K AH0 M OW1 SH AH0 N
+
+
+
+
+-- lib.word: congenial
+american: कैन्जीन्यैल
+arpabet: K AH0 N JH IY1 N Y AH0 L
+
+
+
+
+-- lib.word: coventry
+american: कावैन्ट्री
+arpabet: K AH1 V AH0 N T R IY0
+
+
+
+
+-- lib.word: courier
+american: क्रीर
+arpabet: K ER1 IY0 ER0
+
+
+
+
+-- lib.word: confide
+american: कैन्फाय्ड
+arpabet: K AH0 N F AY1 D
+
+
+
+
+-- lib.word: contrive
+american: कैन्ट्राय्व
+arpabet: K AH0 N T R AY1 V
+
+
+
+
+-- lib.word: corrupted
+american: क्राप्टिड
+arpabet: K ER0 AH1 P T IH0 D
+
+
+
+
+-- lib.word: constancy
+american: कॉन्स्टैन्सी
+arpabet: K AA1 N S T AH0 N S IY0
+
+
+
+
+-- lib.word: collision
+american: कैलिसैन
+arpabet: K AH0 L IH1 ZH AH0 N
+
+
+
+
+-- lib.word: contradict
+american: कॉन्ट्रैडिक्ट
+arpabet: K AA2 N T R AH0 D IH1 K T
+
+
+
+
+-- lib.word: comely
+american: काम्ली
+arpabet: K AH1 M L IY0
+
+
+
+
+-- lib.word: conceivable
+american: कैन्सीवैबैल
+arpabet: K AH0 N S IY1 V AH0 B AH0 L
+
+
+
+
+-- lib.word: consume
+american: कैन्सूम
+arpabet: K AH0 N S UW1 M
+
+
+
+
+-- lib.word: contentment
+american: कैन्टेन्ट्मैन्ट
+arpabet: K AH0 N T EH1 N T M AH0 N T
+
+
+
+
+-- lib.word: corporal
+american: कॉर्प्रैल
+arpabet: K AO1 R P ER0 AH0 L
+
+
+
+
+-- lib.word: colleague
+american: कॉलीग
+arpabet: K AA1 L IY0 G
+
+
+
+
+-- lib.word: Collins
+american: कॉलिन्स
+arpabet: K AA1 L IH0 N Z
+
+
+
+
+-- lib.word: cor
+american: कॉर
+arpabet: K AO1 R
+
+
+
+
+-- lib.word: correction
+american: क्रेक्शैन
+arpabet: K ER0 EH1 K SH AH0 N
+
+
+
+
+-- lib.word: coil
+american: कॉयल
+arpabet: K OY1 L
+
+
+
+
+-- lib.word: composing
+american: कैम्पोसिंग
+arpabet: K AH0 M P OW1 Z IH0 NG
+
+
+
+
+-- lib.word: controlling
+american: कैन्ट्रोलिंग
+arpabet: K AH0 N T R OW1 L IH0 NG
+
+
+
+
+-- lib.word: contrivance
+american: कैन्ट्राय्वैन्स
+arpabet: K AH0 N T R AY1 V AH0 N S
+
+
+
+
+-- lib.word: collapse
+american: कैलैप्स
+arpabet: K AH0 L AE1 P S
+
+
+
+
+-- lib.word: confound
+american: कॉन्फाव्न्ड
+arpabet: K AA0 N F AW1 N D
+
+
+
+
+-- lib.word: commissioned
+american: कैमिशैन्ड
+arpabet: K AH0 M IH1 SH AH0 N D
+
+
+
+
+-- lib.word: comb
+american: कोम
+arpabet: K OW1 M
+
+
+
+
+-- lib.word: consummate
+american: कॉन्सैमैट
+arpabet: K AA1 N S AH0 M AH0 T
+
+
+
+
+-- lib.word: commodore
+american: कॉमैडार
+arpabet: K AA1 M AH0 D AO2 R
+
+
+
+
+-- lib.word: comforting
+american: काम्फ्र्टिंग
+arpabet: K AH1 M F ER0 T IH0 NG
+
+
+
+
+-- lib.word: conveyance
+american: कैन्वेऽऐन्स
+arpabet: K AH0 N V EY1 AH0 N S
+
+
+
+
+-- lib.word: copious
+american: कोपीऐस
+arpabet: K OW1 P IY0 AH0 S
+
+
+
+
+-- lib.word: conform
+american: कैन्फॉर्म
+arpabet: K AH0 N F AO1 R M
+
+
+
+
+-- lib.word: congratulations
+american: कैन्ग्रैचैलेऽशैन्स
+arpabet: K AH0 N G R AE2 CH AH0 L EY1 SH AH0 N Z
+
+
+
+
+-- lib.word: conclusive
+american: कैन्क्लूसिव
+arpabet: K AH0 N K L UW1 S IH0 V
+
+
+
+
+-- lib.word: consistency
+american: कैन्सिस्टैन्सी
+arpabet: K AH0 N S IH1 S T AH0 N S IY0
+
+
+
+
+-- lib.word: coloring
+american: काल्रिंग
+arpabet: K AH1 L ER0 IH0 NG
+
+
+
+
+-- lib.word: considerate
+american: कैन्सिड्रैट
+arpabet: K AH0 N S IH1 D ER0 AH0 T
+
+
+
+
+-- lib.word: conventions
+american: कैन्वेन्शैन्स
+arpabet: K AH0 N V EH1 N SH AH0 N Z
+
+
+
+
+-- lib.word: conveying
+american: कैन्वेऽइंग
+arpabet: K AH0 N V EY1 IH0 NG
+
+
+
+
+-- lib.word: composer
+american: कैम्पोस्र
+arpabet: K AH0 M P OW1 Z ER0
+
+
+
+
+-- lib.word: continuation
+american: कैन्टिन्युएऽशैन
+arpabet: K AH0 N T IH2 N Y UW0 EY1 SH AH0 N
+
+
+
+
+-- lib.word: compelling
+american: कैम्पेलिंग
+arpabet: K AH0 M P EH1 L IH0 NG
+
+
+
+
+-- lib.word: construct
+american: कैन्स्ट्राक्ट
+arpabet: K AH0 N S T R AH1 K T
+
+
+
+
+-- lib.word: contradictory
+american: कॉन्ट्रैडिक्ट्री
+arpabet: K AA2 N T R AH0 D IH1 K T ER0 IY0
+
+
+
+
+-- lib.word: coveted
+american: कावैटिड
+arpabet: K AH1 V AH0 T IH0 D
+
+
+
+
+-- lib.word: cocked
+american: कॉक्ट
+arpabet: K AA1 K T
+
+
+
+
+-- lib.word: converts
+american: कॉन्व्र्ट्स
+arpabet: K AA1 N V ER0 T S
+
+
+
+
+-- lib.word: cooling
+american: कूलिंग
+arpabet: K UW1 L IH0 NG
+
+
+
+
+-- lib.word: continental
+american: कॉन्टैनेन्टैल
+arpabet: K AA2 N T AH0 N EH1 N T AH0 L
+
+
+
+
+-- lib.word: countryman
+american: कान्ट्रीमैन
+arpabet: K AH1 N T R IY0 M AH0 N
+
+
+
+
+-- lib.word: compartment
+american: कैम्पॉर्ट्मैन्ट
+arpabet: K AH0 M P AA1 R T M AH0 N T
+
+
+
+
+-- lib.word: cot
+american: कॉट
+arpabet: K AA1 T
+
+
+
+
+-- lib.word: commissions
+american: कैमिशैन्स
+arpabet: K AH0 M IH1 SH AH0 N Z
+
+
+
+
+-- lib.word: combining
+american: कैम्बाय्निंग
+arpabet: K AH0 M B AY1 N IH0 NG
+
+
+
+
+-- lib.word: confines
+american: कॉन्फाय्न्स
+arpabet: K AA1 N F AY2 N Z
+
+
+
+
+-- lib.word: Cornwall
+american: कॉर्न्वाल
+arpabet: K AO1 R N W AO0 L
+
+
+
+
+-- lib.word: couples
+american: कापैल्स
+arpabet: K AH1 P AH0 L Z
+
+
+
+
+-- lib.word: conveniently
+american: कैन्वीन्यैन्ट्ली
+arpabet: K AH0 N V IY1 N Y AH0 N T L IY0
+
+
+
+
+-- lib.word: collective
+american: कैलेक्टिव
+arpabet: K AH0 L EH1 K T IH0 V
+
+
+
+
+-- lib.word: cooperation
+american: कोऑप्रेऽशैन
+arpabet: K OW0 AA2 P ER0 EY1 SH AH0 N
+
+
+
+

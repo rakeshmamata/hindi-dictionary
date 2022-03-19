@@ -1,0 +1,555 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: how
+american: हाव
+arpabet: HH AW1
+meaning: कैसे ,किस प्रकार, कितना
+
+
+-- lib.word: home
+american: होम
+arpabet: HH OW1 M
+meaning: घर , मकान ,निवास
+
+
+-- lib.word: house
+american: हाव्स
+arpabet: HH AW1 S
+meaning: घर , मकान ,निवास
+
+
+-- lib.word: hope
+american: होप
+arpabet: HH OW1 P
+meaning: आशा , भरोसा
+
+
+-- lib.word: honey
+american: हानी
+arpabet: HH AH1 N IY0
+meaning: शहद , मधू
+
+
+-- lib.word: hold
+american: होल्ड
+arpabet: HH OW1 L D
+meaning: पकड , अधिकार
+
+
+-- lib.word: hospital
+american: हॉस्पिटैल
+arpabet: HH AA1 S P IH2 T AH0 L
+meaning: चिकित्सालय ,अस्पताल
+
+
+-- lib.word: hours
+american: आव्र्स
+arpabet: AW1 ER0 Z
+meaning: घंटे ,काम का नियत समय
+
+
+-- lib.word: hot
+american: हॉट
+arpabet: HH AA1 T
+meaning: गरम ,तप्त ,उष्ण
+
+
+-- lib.word: how's
+american: हाव्स
+arpabet: HH AW1 Z
+meaning: कैसा है ,प्रकार ,ढंग ,तरह
+
+
+-- lib.word: hour
+american: आव्र
+arpabet: AW1 ER0
+indian: Same /आवर
+meaning: घंटे ,काम का नियत समय
+
+
+-- lib.word: honor
+american: ऑन्र
+arpabet: AA1 N ER0
+indian: आनर
+meaning: सम्मान,आदर,प्रतिष्ठा,मान,पूजा
+
+
+-- lib.word: honest
+american: ऑनैस्ट
+arpabet: AA1 N AH0 S T
+meaning: इमानदार,सच्चा,सत्यवादी
+
+
+-- lib.word: hoping
+american: होपिंग
+arpabet: HH OW1 P IH0 NG
+meaning: उम्मीद करना
+
+
+-- lib.word: hotel
+american: होटेल
+arpabet: HH OW0 T EH1 L
+meaning: होटल, विश्रामालय
+
+
+-- lib.word: holding
+american: होल्डिंग
+arpabet: HH OW1 L D IH0 NG
+meaning: पकड़ना, स्वामित्व, अधिकार, संपत्ति
+
+
+-- lib.word: however
+american: हावेव्र
+arpabet: HH AW2 EH1 V ER0
+
+
+
+
+-- lib.word: horse
+american: हॉर्स
+arpabet: HH AO1 R S
+
+
+
+
+-- lib.word: horses
+american: हॉर्सैस
+arpabet: HH AO1 R S AH0 Z
+
+
+
+
+-- lib.word: honour
+american: ऑन्र
+arpabet: AA1 N ER0
+
+
+
+
+-- lib.word: houses
+american: हाव्सैस
+arpabet: HH AW1 S AH0 Z
+
+
+
+
+-- lib.word: holy
+american: होली
+arpabet: HH OW1 L IY0
+
+
+
+
+-- lib.word: hopes
+american: होप्स
+arpabet: HH OW1 P S
+
+
+
+
+-- lib.word: hoped
+american: होप्ट
+arpabet: HH OW1 P T
+
+
+
+
+-- lib.word: horror
+american: हॉर्र
+arpabet: HH AO1 R ER0
+
+
+
+
+-- lib.word: host
+american: होस्ट
+arpabet: HH OW1 S T
+
+
+
+
+-- lib.word: household
+american: हाव्स्होल्ड
+arpabet: HH AW1 S HH OW2 L D
+
+
+
+
+-- lib.word: hole
+american: होल
+arpabet: HH OW1 L
+
+
+
+
+-- lib.word: horrible
+american: हॉरैबैल
+arpabet: HH AO1 R AH0 B AH0 L
+
+
+
+
+-- lib.word: holder
+american: होल्ड्र
+arpabet: HH OW1 L D ER0
+
+
+
+
+-- lib.word: hollow
+american: हॉलो
+arpabet: HH AA1 L OW0
+
+
+
+
+-- lib.word: holds
+american: होल्ड्स
+arpabet: HH OW1 L D Z
+
+
+
+
+-- lib.word: Holland
+american: हॉलैन्ड
+arpabet: HH AA1 L AH0 N D
+
+
+
+
+-- lib.word: horizon
+american: हराय्सैन
+arpabet: HH ER0 AY1 Z AH0 N
+
+
+
+
+-- lib.word: hostile
+american: हॉस्टैल
+arpabet: HH AA1 S T AH0 L
+
+
+
+
+-- lib.word: homes
+american: होम्स
+arpabet: HH OW1 M Z
+
+
+
+
+-- lib.word: hopeless
+american: होप्लैस
+arpabet: HH OW1 P L AH0 S
+
+
+
+
+-- lib.word: honourable
+american: ऑन्रैबैल
+arpabet: AA1 N ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: holes
+american: होल्स
+arpabet: HH OW1 L Z
+
+
+
+
+-- lib.word: Horace
+american: हॉरैस
+arpabet: HH AO1 R AH0 S
+
+
+
+
+-- lib.word: horrid
+american: हॉरैड
+arpabet: HH AO1 R AH0 D
+
+
+
+
+-- lib.word: hospitality
+american: हॉस्पैटैलैटी
+arpabet: HH AA2 S P AH0 T AE1 L AH0 T IY0
+
+
+
+
+-- lib.word: holiday
+american: हॉलैडेऽ
+arpabet: HH AA1 L AH0 D EY2
+
+
+
+
+-- lib.word: honorable
+american: ऑन्रैबैल
+arpabet: AA1 N ER0 AH0 B AH0 L
+
+
+
+
+-- lib.word: horn
+american: हॉर्न
+arpabet: HH AO1 R N
+
+
+
+
+-- lib.word: horns
+american: हॉर्न्स
+arpabet: HH AO1 R N Z
+
+
+
+
+-- lib.word: Howard
+american: हाव्र्ड
+arpabet: HH AW1 ER0 D
+
+
+
+
+-- lib.word: horseback
+american: हॉर्स्बैक
+arpabet: HH AO1 R S B AE2 K
+
+
+
+
+-- lib.word: honesty
+american: ऑनैस्टी
+arpabet: AA1 N AH0 S T IY0
+
+
+
+
+-- lib.word: honestly
+american: ऑनैस्ट्ली
+arpabet: AA1 N AH0 S T L IY0
+
+
+
+
+-- lib.word: homage
+american: ऑमैज
+arpabet: AA1 M AH0 JH
+
+
+
+
+-- lib.word: homer
+american: होम्र
+arpabet: HH OW1 M ER0
+
+
+
+
+-- lib.word: Holmes
+american: होम्स
+arpabet: HH OW1 M Z
+
+
+
+
+-- lib.word: honoured
+american: ऑन्र्ड
+arpabet: AA1 N ER0 D
+
+
+
+
+-- lib.word: honours
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: horsemen
+american: हॉर्स्मैन
+arpabet: HH AO1 R S M AH0 N
+
+
+
+
+-- lib.word: hostess
+american: होस्टैस
+arpabet: HH OW1 S T AH0 S
+
+
+
+
+-- lib.word: hosts
+american: होस्ट्स
+arpabet: HH OW1 S T S
+
+
+
+
+-- lib.word: hostility
+american: हॉस्टिलैटी
+arpabet: HH AA0 S T IH1 L AH0 T IY0
+
+
+
+
+-- lib.word: hon
+american: हॉन
+arpabet: HH AA1 N
+
+
+
+
+-- lib.word: hoarse
+american: हॉर्स
+arpabet: HH AO1 R S
+
+
+
+
+-- lib.word: honors
+american: ऑन्र्स
+arpabet: AA1 N ER0 Z
+
+
+
+
+-- lib.word: hook
+american: हूक
+arpabet: HH UH1 K
+
+
+
+
+-- lib.word: holiness
+american: होलीनैस
+arpabet: HH OW1 L IY0 N AH0 S
+
+
+
+
+-- lib.word: housekeeper
+american: हाव्स्कीप्र
+arpabet: HH AW1 S K IY2 P ER0
+
+
+
+
+-- lib.word: honored
+american: ऑन्र्ड
+arpabet: AA1 N ER0 D
+
+
+
+
+-- lib.word: hounds
+american: हाव्न्ड्स
+arpabet: HH AW1 N D Z
+
+
+
+
+-- lib.word: homeward
+american: होम्वर्ड
+arpabet: HH OW1 M W ER0 D
+
+
+
+
+-- lib.word: hopeful
+american: होप्फैल
+arpabet: HH OW1 P F AH0 L
+
+
+
+
+-- lib.word: homely
+american: होम्ली
+arpabet: HH OW1 M L IY0
+
+
+
+
+-- lib.word: hospitable
+american: हॉस्पिटैबैल
+arpabet: HH AA1 S P IH1 T AH0 B AH0 L
+
+
+
+
+-- lib.word: ho
+american: हो
+arpabet: HH OW1
+
+
+
+
+-- lib.word: howling
+american: हाव्लिंग
+arpabet: HH AW1 L IH0 NG
+
+
+
+
+-- lib.word: horizontal
+american: हारैसॉन्टैल
+arpabet: HH AO2 R AH0 Z AA1 N T AH0 L
+
+
+
+
+-- lib.word: hopelessly
+american: होप्लैस्ली
+arpabet: HH OW1 P L AH0 S L IY0
+
+
+
+
+-- lib.word: hostilities
+american: हॉस्टिलैटीस
+arpabet: HH AA0 S T IH1 L AH0 T IY0 Z
+
+
+
+
+-- lib.word: hound
+american: हाव्न्ड
+arpabet: HH AW1 N D
+
+
+
+
+-- lib.word: howl
+american: हाव्ल
+arpabet: HH AW1 L
+
+
+
+
+-- lib.word: hood
+american: हूड
+arpabet: HH UH1 D
+
+
+
+
+-- lib.word: Holt
+american: होल्ट
+arpabet: HH OW1 L T
+
+
+
+
+-- lib.word: horseman
+american: हॉर्स्मैन
+arpabet: HH AO1 R S M AH0 N
+
+
+
+

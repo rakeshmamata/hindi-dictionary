@@ -1,0 +1,1129 @@
+-- import: rakeshmamata.github.io/hindi-dictionary/lib
+
+-- lib.word: make
+american: मेऽक
+arpabet: M EY1 K
+meaning: बनाना
+
+
+-- lib.word: maybe
+american: मेऽबी
+arpabet: M EY1 B IY0
+meaning: शायद ,हो सकता है , संभव हैै ,मुमकिन है
+
+
+-- lib.word: man
+american: मैन
+arpabet: M AE1 N
+meaning: आदमी
+
+
+-- lib.word: made
+american: मेऽड
+arpabet: M EY1 D
+meaning: बनाया , निर्मित , कृत
+
+
+-- lib.word: may
+american: मेऽ
+arpabet: M EY1
+meaning: सकना , आज्ञा पाना ,संभव
+
+
+-- lib.word: matter
+american: मैट्र
+arpabet: M AE1 T ER0
+meaning: मामला , पदार्थ ,बात
+
+
+-- lib.word: married
+american: मेरीड
+arpabet: M EH1 R IY0 D
+meaning: विवाहित , शादीशुदा ,वैवाहिक
+
+
+-- lib.word: making
+american: मेऽकिंग
+arpabet: M EY1 K IH0 NG
+meaning: निर्माण , उत्पादन , बनावट
+
+
+-- lib.word: many
+american: मेनी
+arpabet: M EH1 N IY0
+meaning: अनेक , बहुत सा
+
+
+-- lib.word: makes
+american: मेऽक्स
+arpabet: M EY1 K S
+meaning: बनाता है
+
+
+-- lib.word: marriage
+american: मेरिज
+arpabet: M EH1 R IH0 JH
+meaning: शादी,विवाह ,ब्याह
+
+
+-- lib.word: Max
+american: मैक्स
+arpabet: M AE1 K S
+meaning: अधिकतम
+
+
+-- lib.word: marry
+american: मेरी
+arpabet: M EH1 R IY0
+meaning: शादी करना,विवाह करना,ब्याह करना,जोड़ देना
+
+
+-- lib.word: mad
+american: मैड
+arpabet: M AE1 D
+meaning: पागल,विक्षिप्त,भयानक,दीवाना,उन्मुक्त,क्रूर,बेअकअल
+
+
+-- lib.word: manner
+american: मैन्र
+arpabet: M AE1 N ER0
+
+
+
+
+-- lib.word: mark
+american: मॉर्क
+arpabet: M AA1 R K
+
+
+
+
+-- lib.word: master
+american: मैस्ट्र
+arpabet: M AE1 S T ER0
+
+
+
+
+-- lib.word: march
+american: मॉर्च
+arpabet: M AA1 R CH
+
+
+
+
+-- lib.word: Mary
+american: मेरी
+arpabet: M EH1 R IY0
+
+
+
+
+-- lib.word: man's
+american: मैन्स
+arpabet: M AE1 N Z
+
+
+
+
+-- lib.word: matters
+american: मैट्र्स
+arpabet: M AE1 T ER0 Z
+
+
+
+
+-- lib.word: main
+american: मेऽन
+arpabet: M EY1 N
+
+
+
+
+-- lib.word: marked
+american: मॉर्क्ट
+arpabet: M AA1 R K T
+
+
+
+
+-- lib.word: mass
+american: मैस
+arpabet: M AE1 S
+
+
+
+
+-- lib.word: material
+american: मैटिरीऐल
+arpabet: M AH0 T IH1 R IY0 AH0 L
+
+
+
+
+-- lib.word: machine
+american: मैशीन
+arpabet: M AH0 SH IY1 N
+
+
+
+
+-- lib.word: manners
+american: मैन्र्स
+arpabet: M AE1 N ER0 Z
+
+
+
+
+-- lib.word: maid
+american: मेऽड
+arpabet: M EY1 D
+
+
+
+
+-- lib.word: mankind
+american: मैन्काय्न्ड
+arpabet: M AE1 N K AY1 N D
+
+
+
+
+-- lib.word: market
+american: मॉर्कैट
+arpabet: M AA1 R K AH0 T
+
+
+
+
+-- lib.word: Margaret
+american: मॉर्ग्रिट
+arpabet: M AA1 R G ER0 IH0 T
+
+
+
+
+-- lib.word: majority
+american: मैजॉरैटी
+arpabet: M AH0 JH AO1 R AH0 T IY0
+
+
+
+
+-- lib.word: materials
+american: मैटिरीऐल्स
+arpabet: M AH0 T IH1 R IY0 AH0 L Z
+
+
+
+
+-- lib.word: managed
+american: मैनैज्ड
+arpabet: M AE1 N AH0 JH D
+
+
+
+
+-- lib.word: magnificent
+american: मैग्निफैसैन्ट
+arpabet: M AE0 G N IH1 F AH0 S AH0 N T
+
+
+
+
+-- lib.word: masters
+american: मैस्ट्र्स
+arpabet: M AE1 S T ER0 Z
+
+
+
+
+-- lib.word: maintain
+american: मेऽन्टेऽन
+arpabet: M EY0 N T EY1 N
+
+
+
+
+-- lib.word: male
+american: मेऽल
+arpabet: M EY1 L
+
+
+
+
+-- lib.word: match
+american: मैच
+arpabet: M AE1 CH
+
+
+
+
+-- lib.word: Martin
+american: मॉर्टैन
+arpabet: M AA1 R T AH0 N
+
+
+
+
+-- lib.word: maintained
+american: मेऽन्टेऽन्ड
+arpabet: M EY0 N T EY1 N D
+
+
+
+
+-- lib.word: marble
+american: मॉर्बैल
+arpabet: M AA1 R B AH0 L
+
+
+
+
+-- lib.word: marched
+american: मॉर्चट
+arpabet: M AA1 R CH T
+
+
+
+
+-- lib.word: marks
+american: मॉर्क्स
+arpabet: M AA1 R K S
+
+
+
+
+-- lib.word: magic
+american: मैजिक
+arpabet: M AE1 JH IH0 K
+
+
+
+
+-- lib.word: manage
+american: मैनैज
+arpabet: M AE1 N AH0 JH
+
+
+
+
+-- lib.word: maiden
+american: मेऽडैन
+arpabet: M EY1 D AH0 N
+
+
+
+
+-- lib.word: masses
+american: मैसैस
+arpabet: M AE1 S AH0 Z
+
+
+
+
+-- lib.word: Marie
+american: म्री
+arpabet: M ER0 IY1
+
+
+
+
+-- lib.word: Maria
+american: म्रीऐ
+arpabet: M ER0 IY1 AH0
+
+
+
+
+-- lib.word: mail
+american: मेऽल
+arpabet: M EY1 L
+
+
+
+
+-- lib.word: mate
+american: मेऽट
+arpabet: M EY1 T
+
+
+
+
+-- lib.word: manifest
+american: मैनैफेस्ट
+arpabet: M AE1 N AH0 F EH2 S T
+
+
+
+
+-- lib.word: management
+american: मैनैज्मैन्ट
+arpabet: M AE1 N AH0 JH M AH0 N T
+
+
+
+
+-- lib.word: Massachusetts
+american: मैसैचूसैट्स
+arpabet: M AE2 S AH0 CH UW1 S AH0 T S
+
+
+
+
+-- lib.word: madam
+american: मैडैम
+arpabet: M AE1 D AH0 M
+
+
+
+
+-- lib.word: madness
+american: मैड्नैस
+arpabet: M AE1 D N AH0 S
+
+
+
+
+-- lib.word: machinery
+american: मैशीन्री
+arpabet: M AH0 SH IY1 N ER0 IY0
+
+
+
+
+-- lib.word: marquis
+american: मॉर्की
+arpabet: M AA2 R K IY1
+
+
+
+
+-- lib.word: major
+american: मेऽज्र
+arpabet: M EY1 JH ER0
+
+
+
+
+-- lib.word: magazine
+american: मैगैसीन
+arpabet: M AE1 G AH0 Z IY2 N
+
+
+
+
+-- lib.word: Maurice
+american: मारीस
+arpabet: M AO0 R IY1 S
+
+
+
+
+-- lib.word: mainly
+american: मेऽन्ली
+arpabet: M EY1 N L IY0
+
+
+
+
+-- lib.word: maximum
+american: मैक्सैमैम
+arpabet: M AE1 K S AH0 M AH0 M
+
+
+
+
+-- lib.word: ma'am
+american: मैम
+arpabet: M AE1 M
+
+
+
+
+-- lib.word: map
+american: मैप
+arpabet: M AE1 P
+
+
+
+
+-- lib.word: marvellous
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: manuscript
+american: मैन्यैस्क्रिप्ट
+arpabet: M AE1 N Y AH0 S K R IH2 P T
+
+
+
+
+-- lib.word: maintaining
+american: मेऽन्टेऽनिंग
+arpabet: M EY0 N T EY1 N IH0 NG
+
+
+
+
+-- lib.word: majesty's
+american: मैजैस्टीस
+arpabet: M AE1 JH AH0 S T IY0 Z
+
+
+
+
+-- lib.word: marshal
+american: मॉर्शैल
+arpabet: M AA1 R SH AH0 L
+
+
+
+
+-- lib.word: marching
+american: मॉर्चिंग
+arpabet: M AA1 R CH IH0 NG
+
+
+
+
+-- lib.word: madame
+american: मैडैम
+arpabet: M AE1 D AH0 M
+
+
+
+
+-- lib.word: mansion
+american: मैन्शैन
+arpabet: M AE1 N SH AH0 N
+
+
+
+
+-- lib.word: magistrate
+american: मैजैस्ट्रेऽट
+arpabet: M AE1 JH AH0 S T R EY2 T
+
+
+
+
+-- lib.word: manhood
+american: मैन्हूड
+arpabet: M AE1 N HH UH2 D
+
+
+
+
+-- lib.word: manager
+american: मैनैज्र
+arpabet: M AE1 N AH0 JH ER0
+
+
+
+
+-- lib.word: malice
+american: मैलैस
+arpabet: M AE1 L AH0 S
+
+
+
+
+-- lib.word: mask
+american: मैस्क
+arpabet: M AE1 S K
+
+
+
+
+-- lib.word: Maine
+american: मेऽन
+arpabet: M EY1 N
+
+
+
+
+-- lib.word: machines
+american: मैशीन्स
+arpabet: M AH0 SH IY1 N Z
+
+
+
+
+-- lib.word: manifested
+american: मैनैफेस्टैड
+arpabet: M AE1 N AH0 F EH2 S T AH0 D
+
+
+
+
+-- lib.word: Maggie
+american: मैगी
+arpabet: M AE1 G IY0
+
+
+
+
+-- lib.word: marrying
+american: मेरीइंग
+arpabet: M EH1 R IY0 IH0 NG
+
+
+
+
+-- lib.word: massive
+american: मैसिव
+arpabet: M AE1 S IH0 V
+
+
+
+
+-- lib.word: Martha
+american: मॉर्थै
+arpabet: M AA1 R TH AH0
+
+
+
+
+-- lib.word: manufacture
+american: मैन्यैफैक्चर
+arpabet: M AE2 N Y AH0 F AE1 K CH ER0
+
+
+
+
+-- lib.word: Matthew
+american: मैथयु
+arpabet: M AE1 TH Y UW0
+
+
+
+
+-- lib.word: magistrates
+american: मैजिस्ट्रेऽट्स
+arpabet: M AE1 JH IH0 S T R EY2 T S
+
+
+
+
+-- lib.word: mantle
+american: मैन्टैल
+arpabet: M AE1 N T AH0 L
+
+
+
+
+-- lib.word: maids
+american: मेऽड्स
+arpabet: M EY1 D Z
+
+
+
+
+-- lib.word: martial
+american: मॉर्शैल
+arpabet: M AA1 R SH AH0 L
+
+
+
+
+-- lib.word: mare
+american: मेर
+arpabet: M EH1 R
+
+
+
+
+-- lib.word: mason
+american: मेऽसैन
+arpabet: M EY1 S AH0 N
+
+
+
+
+-- lib.word: mars
+american: मॉर्स
+arpabet: M AA1 R Z
+
+
+
+
+-- lib.word: margin
+american: मॉर्जैन
+arpabet: M AA1 R JH AH0 N
+
+
+
+
+-- lib.word: maintenance
+american: मेऽन्टैनैन्स
+arpabet: M EY1 N T AH0 N AH0 N S
+
+
+
+
+-- lib.word: majestic
+american: मैजेस्टिक
+arpabet: M AH0 JH EH1 S T IH0 K
+
+
+
+
+-- lib.word: marvel
+american: मॉर्वैल
+arpabet: M AA1 R V AH0 L
+
+
+
+
+-- lib.word: mac
+american: मैक
+arpabet: M AE1 K
+
+
+
+
+-- lib.word: Matt
+american: मैट
+arpabet: M AE1 T
+
+
+
+
+-- lib.word: magnificence
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: marine
+american: म्रीन
+arpabet: M ER0 IY1 N
+
+
+
+
+-- lib.word: Mabel
+american: मेऽबैल
+arpabet: M EY1 B AH0 L
+
+
+
+
+-- lib.word: Madrid
+american: मैड्रिड
+arpabet: M AH0 D R IH1 D
+
+
+
+
+-- lib.word: Marian
+american: मेरीऐन
+arpabet: M EH1 R IY0 AH0 N
+
+
+
+
+-- lib.word: magnitude
+american: मैग्नैटुड
+arpabet: M AE1 G N AH0 T UW2 D
+
+
+
+
+-- lib.word: manual
+american: मैन्युऐल
+arpabet: M AE1 N Y UW0 AH0 L
+
+
+
+
+-- lib.word: masculine
+american: मैस्क्यैलैन
+arpabet: M AE1 S K Y AH0 L AH0 N
+
+
+
+
+-- lib.word: males
+american: मेऽल्स
+arpabet: M EY1 L Z
+
+
+
+
+-- lib.word: malicious
+american: मैलिशैस
+arpabet: M AH0 L IH1 SH AH0 S
+
+
+
+
+-- lib.word: mature
+american: मैचूर
+arpabet: M AH0 CH UH1 R
+
+
+
+
+-- lib.word: mastery
+american: मैस्ट्री
+arpabet: M AE1 S T ER0 IY0
+
+
+
+
+-- lib.word: mast
+american: मैस्ट
+arpabet: M AE1 S T
+
+
+
+
+-- lib.word: mayor
+american: मेऽर
+arpabet: M EY1 ER0
+
+
+
+
+-- lib.word: maternal
+american: मैट्र्नैल
+arpabet: M AH0 T ER1 N AH0 L
+
+
+
+
+-- lib.word: Maryland
+american: मेरैलैन्ड
+arpabet: M EH1 R AH0 L AH0 N D
+
+
+
+
+-- lib.word: manila
+american: मैनिलै
+arpabet: M AH0 N IH1 L AH0
+
+
+
+
+-- lib.word: massacre
+american: मैसैक्र
+arpabet: M AE1 S AH0 K ER0
+
+
+
+
+-- lib.word: manufacturing
+american: मैन्यैफैक्चरिंग
+arpabet: M AE2 N Y AH0 F AE1 K CH ER0 IH0 NG
+
+
+
+
+-- lib.word: markets
+american: मॉर्कैट्स
+arpabet: M AA1 R K AH0 T S
+
+
+
+
+-- lib.word: Manchester
+american: मैन्चेस्ट्र
+arpabet: M AE1 N CH EH2 S T ER0
+
+
+
+
+-- lib.word: manifestation
+american: मैनैफेस्टेऽशैन
+arpabet: M AE2 N AH0 F EH0 S T EY1 SH AH0 N
+
+
+
+
+-- lib.word: mathematics
+american: मैथैमैटिक्स
+arpabet: M AE2 TH AH0 M AE1 T IH0 K S
+
+
+
+
+-- lib.word: matches
+american: मैचैस
+arpabet: M AE1 CH AH0 Z
+
+
+
+
+-- lib.word: maps
+american: मैप्स
+arpabet: M AE1 P S
+
+
+
+
+-- lib.word: magazines
+american: मैगैसीन्स
+arpabet: M AE1 G AH0 Z IY2 N Z
+
+
+
+
+-- lib.word: macaulay
+american: मैकॉली
+arpabet: M AH0 K AO1 L IY0
+
+
+
+
+-- lib.word: malignant
+american: मैलिग्नैन्ट
+arpabet: M AH0 L IH1 G N AH0 N T
+
+
+
+
+-- lib.word: marius
+american: मॉरीऐस
+arpabet: M AA1 R IY0 AH0 S
+
+
+
+
+-- lib.word: marches
+american: मॉर्चिस
+arpabet: M AA1 R CH IH0 Z
+
+
+
+
+-- lib.word: maxim
+american: मैक्सैम
+arpabet: M AE1 K S AH0 M
+
+
+
+
+-- lib.word: marshall
+american: मॉर्शैल
+arpabet: M AA1 R SH AH0 L
+
+
+
+
+-- lib.word: maritime
+american: मेरैटाय्म
+arpabet: M EH1 R AH0 T AY2 M
+
+
+
+
+-- lib.word: manufactured
+american: मैन्यैफैक्चर्ड
+arpabet: M AE2 N Y AH0 F AE1 K CH ER0 D
+
+
+
+
+-- lib.word: magical
+american: मैजिकैल
+arpabet: M AE1 JH IH0 K AH0 L
+
+
+
+
+-- lib.word: madly
+american: मैड्ली
+arpabet: M AE1 D L IY0
+
+
+
+
+-- lib.word: manifold
+american: मैनैफोल्ड
+arpabet: M AE1 N AH0 F OW2 L D
+
+
+
+
+-- lib.word: magnetic
+american: मैग्नेटिक
+arpabet: M AE0 G N EH1 T IH0 K
+
+
+
+
+-- lib.word: martyr
+american: मॉर्ट्र
+arpabet: M AA1 R T ER0
+
+
+
+
+-- lib.word: maturity
+american: मैचूरैटी
+arpabet: M AH0 CH UH1 R AH0 T IY0
+
+
+
+
+-- lib.word: mathematical
+american: मैथैमैटिकैल
+arpabet: M AE2 TH AH0 M AE1 T IH0 K AH0 L
+
+
+
+
+-- lib.word: marking
+american: मॉर्किंग
+arpabet: M AA1 R K IH0 NG
+
+
+
+
+-- lib.word: manifestly
+american: मैनैफेस्ट्ली
+arpabet: M AE1 N AH0 F EH0 S T L IY0
+
+
+
+
+-- lib.word: Marco
+american: मॉर्को
+arpabet: M AA1 R K OW0
+
+
+
+
+-- lib.word: marsh
+american: मॉर्श
+arpabet: M AA1 R SH
+
+
+
+
+-- lib.word: magician
+american: मैजिशैन
+arpabet: M AH0 JH IH1 SH AH0 N
+
+
+
+
+-- lib.word: martyrdom
+american: मॉर्ट्र्डैम
+arpabet: M AA1 R T ER0 D AH0 M
+
+
+
+
+-- lib.word: mainland
+american: मेऽन्लैन्ड
+arpabet: M EY1 N L AE2 N D
+
+
+
+
+-- lib.word: mat
+american: मैट
+arpabet: M AE1 T
+
+
+
+
+-- lib.word: maketh
+american: unknown
+arpabet: unknown
+
+
+
+
+-- lib.word: masterpiece
+american: मैस्ट्र्पीस
+arpabet: M AE1 S T ER0 P IY2 S
+
+
+
+
+-- lib.word: matron
+american: मेऽट्रैन
+arpabet: M EY1 T R AH0 N
+
+
+
+
+-- lib.word: maker
+american: मेऽक्र
+arpabet: M EY1 K ER0
+
+
+
+
+-- lib.word: mane
+american: मेऽन
+arpabet: M EY1 N
+
+
+
+
+-- lib.word: ma
+american: मॉ
+arpabet: M AA1
+
+
+
+
+-- lib.word: mates
+american: मेऽट्स
+arpabet: M EY1 T S
+
+
+
+
+-- lib.word: Mass.
+american: मैस
+arpabet: M AE1 S
+
+
+
+
+-- lib.word: manure
+american: मैनूर
+arpabet: M AH0 N UH1 R
+
+
+
+
+-- lib.word: Marseilles
+american: मॉर्साय्लैस
+arpabet: M AA0 R S AY1 L AH0 S
+
+
+
+
+-- lib.word: manned
+american: मैन्ड
+arpabet: M AE1 N D
+
+
+
+
+-- lib.word: Maxwell
+american: मैक्स्वेल
+arpabet: M AE1 K S W EH2 L
+
+
+
+
+-- lib.word: manufacturers
+american: मैन्यैफैक्चर्र्स
+arpabet: M AE2 N Y AH0 F AE1 K CH ER0 ER0 Z
+
+
+
+
